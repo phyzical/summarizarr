@@ -8,7 +8,10 @@ run:
 IMAGE_NAME=summarizarr
 
 build:
-	docker build -t ${IMAGE_NAME} .
+	docker build --target production -t ${IMAGE_NAME}:production .
+
+build-test:
+	docker build --target test -t ${IMAGE_NAME}:test .
 
 COMMON=--env-file=.env \
 	-v ${PWD}/cache:/app/cache \
@@ -17,4 +20,10 @@ COMMON=--env-file=.env \
 run-image:
 	@docker run -it --rm \
 	${COMMON} \
-	${IMAGE_NAME} 
+	${IMAGE_NAME}:production 
+
+run-image-test:
+	@docker run -it --rm \
+	${COMMON} \
+	${IMAGE_NAME}:test \
+	bundle exec rspec

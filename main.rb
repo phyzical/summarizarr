@@ -2,16 +2,13 @@
 
 Dir[File.join(__dir__, 'app', '**', '**', '*.rb')].each { |file| require file }
 
-def run
+module Main
+  def self.run
+    pp 'hi'
+  end
 end
 
-begin
-  run
-rescue StandardError => e
-  Logs.log(type: :pp, log: API::QueueService.responses.last, error: true)
-  Logs.log(type: :pp, log: e.backtrace.map { |x| x.gsub('/app', '') }, error: true)
-  raise e
-end
+Main.run if __FILE__ == $PROGRAM_NAME
 
 #  TODOS
 #  - make some loose algo to workout next best type to action when we call a skill
