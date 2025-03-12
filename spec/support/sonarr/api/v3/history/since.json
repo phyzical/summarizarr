@@ -1,0 +1,453 @@
+[
+    {
+        "episodeId": 38451,
+        "seriesId": 552,
+        "sourceTitle": "Comedy.Bang.Bang.S05E05.1080p.WEB-DL.AAC2.0.H.264-BTN",
+        "languages": [
+            {
+                "id": 1,
+                "name": "English"
+            },
+            {
+                "id": 1,
+                "name": "French"
+            }
+        ],
+        "quality": {
+            "quality": {
+                "id": 3,
+                "name": "WEBDL-1080p",
+                "source": "web",
+                "resolution": 1080
+            },
+            "revision": {
+                "version": 1,
+                "real": 0,
+                "isRepack": false
+            }
+        },
+        "customFormats": [
+            {
+                "id": 3,
+                "name": "english"
+            }
+        ],
+        "customFormatScore": 10,
+        "qualityCutoffNotMet": false,
+        "date": "2025-03-12T09:05:02Z",
+        "downloadId": "SABnzbd_nzo_ozx1jpy2",
+        "eventType": "downloadFolderImported",
+        "data": {
+            "fileId": "1498587",
+            "droppedPath": "/downloads/Comedy.Bang.Bang.S05E05.1080p.WEB-DL.AAC2.0.H.264-BTN/Comedy.Bang.Bang.S05E05.1080p.WEB-DL.AAC2.0.H.264-BTN.mkv",
+            "importedPath": "/tv/Tv Shows/Comedy Bang! Bang!/Season 5/Comedy.Bang!.Bang!.S05E05.T-Pain.Wears.Shredded.Jeans.and.a.Printed.Shirt.mkv",
+            "downloadClient": "SABnzbd",
+            "downloadClientName": "sab",
+            "releaseGroup": "BTN",
+            "customFormatScore": "10",
+            "size": "828847601",
+            "indexerFlags": "0",
+            "releaseType": "SingleEpisode"
+        },
+        "episode": {
+            "seriesId": 552,
+            "tvdbId": 5628284,
+            "episodeFileId": 1498587,
+            "seasonNumber": 5,
+            "episodeNumber": 5,
+            "title": "T-Pain Wears Shredded Jeans and a Printed Shirt",
+            "airDate": "2016-06-17",
+            "airDateUtc": "2016-06-18T03:00:00Z",
+            "lastSearchTime": "2020-02-14T15:52:50Z",
+            "runtime": 30,
+            "overview": "T-Pain, Scott and Weird Al collaborate on a song; and Melvin Alberts talks about being abducted by aliens. Later, Scott's scientific breakthrough allows him to get more stuff done; and Weird Al previews his new foodie-TV show.",
+            "hasFile": true,
+            "monitored": true,
+            "unverifiedSceneNumbering": false,
+            "id": 38451
+        },
+        "series": {
+            "title": "Comedy Bang! Bang!",
+            "sortTitle": "comedy bang bang",
+            "status": "ended",
+            "ended": true,
+            "overview": "Based on Scott Aukerman’s popular podcast of the same name, COMEDY BANG! BANG! cleverly riffs on the well-known format of the late night talk show, infusing celebrity appearances and comedy sketches with a tinge of the surreal.",
+            "network": "IFC",
+            "airTime": "23:00",
+            "images": [
+                {
+                    "coverType": "banner",
+                    "remoteUrl": "https://artworks.thetvdb.com/banners/graphical/258310-g.jpg"
+                },
+                {
+                    "coverType": "poster",
+                    "remoteUrl": "https://artworks.thetvdb.com/banners/posters/258310-4.jpg"
+                },
+                {
+                    "coverType": "fanart",
+                    "remoteUrl": "https://artworks.thetvdb.com/banners/fanart/original/258310-6.jpg"
+                },
+                {
+                    "coverType": "clearlogo",
+                    "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/258310/clearlogo/611bf04052f86.png"
+                }
+            ],
+            "originalLanguage": {
+                "id": 1,
+                "name": "English"
+            },
+            "seasons": [
+                {
+                    "seasonNumber": 0,
+                    "monitored": false
+                },
+                {
+                    "seasonNumber": 1,
+                    "monitored": true
+                },
+                {
+                    "seasonNumber": 2,
+                    "monitored": true
+                },
+                {
+                    "seasonNumber": 3,
+                    "monitored": true
+                },
+                {
+                    "seasonNumber": 4,
+                    "monitored": true
+                },
+                {
+                    "seasonNumber": 5,
+                    "monitored": true
+                }
+            ],
+            "year": 2012,
+            "path": "/tv/Tv Shows/Comedy Bang! Bang!",
+            "qualityProfileId": 1,
+            "seasonFolder": true,
+            "monitored": true,
+            "monitorNewItems": "all",
+            "useSceneNumbering": false,
+            "runtime": 30,
+            "tvdbId": 258310,
+            "tvRageId": 31483,
+            "tvMazeId": 753,
+            "tmdbId": 43323,
+            "firstAired": "2012-06-08T00:00:00Z",
+            "lastAired": "2016-12-02T00:00:00Z",
+            "seriesType": "standard",
+            "cleanTitle": "comedybangbang",
+            "imdbId": "tt2176287",
+            "titleSlug": "comedy-bang-bang",
+            "certification": "TV-14",
+            "genres": [
+                "Comedy",
+                "Talk Show"
+            ],
+            "tags": [],
+            "added": "2020-02-09T08:36:38Z",
+            "ratings": {
+                "votes": 4714,
+                "value": 7.6
+            },
+            "languageProfileId": 1,
+            "id": 552
+        },
+        "id": 355334
+    },
+    {
+        "episodeId": 38451,
+        "seriesId": 552,
+        "sourceTitle": "/tv/Tv Shows/Comedy Bang! Bang!/Season 5/Comedy.Bang!.Bang!.s05e05.mkv",
+        "languages": [
+            {
+                "id": 1,
+                "name": "English"
+            }
+        ],
+        "quality": {
+            "quality": {
+                "id": 4,
+                "name": "HDTV-720p",
+                "source": "television",
+                "resolution": 720
+            },
+            "revision": {
+                "version": 1,
+                "real": 0,
+                "isRepack": false
+            }
+        },
+        "customFormats": [
+            {
+                "id": 3,
+                "name": "english"
+            }
+        ],
+        "customFormatScore": 10,
+        "qualityCutoffNotMet": true,
+        "date": "2025-03-12T09:05:01Z",
+        "eventType": "episodeFileDeleted",
+        "data": {
+            "reason": "Upgrade",
+            "releaseGroup": null,
+            "size": "447121629",
+            "indexerFlags": "0",
+            "releaseType": "Unknown"
+        },
+        "episode": {
+            "seriesId": 552,
+            "tvdbId": 5628284,
+            "episodeFileId": 1498587,
+            "seasonNumber": 5,
+            "episodeNumber": 5,
+            "title": "T-Pain Wears Shredded Jeans and a Printed Shirt",
+            "airDate": "2016-06-17",
+            "airDateUtc": "2016-06-18T03:00:00Z",
+            "lastSearchTime": "2020-02-14T15:52:50Z",
+            "runtime": 30,
+            "overview": "T-Pain, Scott and Weird Al collaborate on a song; and Melvin Alberts talks about being abducted by aliens. Later, Scott's scientific breakthrough allows him to get more stuff done; and Weird Al previews his new foodie-TV show.",
+            "hasFile": true,
+            "monitored": true,
+            "unverifiedSceneNumbering": false,
+            "id": 38451
+        },
+        "series": {
+            "title": "Comedy Bang! Bang!",
+            "sortTitle": "comedy bang bang",
+            "status": "ended",
+            "ended": true,
+            "overview": "Based on Scott Aukerman’s popular podcast of the same name, COMEDY BANG! BANG! cleverly riffs on the well-known format of the late night talk show, infusing celebrity appearances and comedy sketches with a tinge of the surreal.",
+            "network": "IFC",
+            "airTime": "23:00",
+            "images": [
+                {
+                    "coverType": "banner",
+                    "remoteUrl": "https://artworks.thetvdb.com/banners/graphical/258310-g.jpg"
+                },
+                {
+                    "coverType": "poster",
+                    "remoteUrl": "https://artworks.thetvdb.com/banners/posters/258310-4.jpg"
+                },
+                {
+                    "coverType": "fanart",
+                    "remoteUrl": "https://artworks.thetvdb.com/banners/fanart/original/258310-6.jpg"
+                },
+                {
+                    "coverType": "clearlogo",
+                    "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/258310/clearlogo/611bf04052f86.png"
+                }
+            ],
+            "originalLanguage": {
+                "id": 1,
+                "name": "English"
+            },
+            "seasons": [
+                {
+                    "seasonNumber": 0,
+                    "monitored": false
+                },
+                {
+                    "seasonNumber": 1,
+                    "monitored": true
+                },
+                {
+                    "seasonNumber": 2,
+                    "monitored": true
+                },
+                {
+                    "seasonNumber": 3,
+                    "monitored": true
+                },
+                {
+                    "seasonNumber": 4,
+                    "monitored": true
+                },
+                {
+                    "seasonNumber": 5,
+                    "monitored": true
+                }
+            ],
+            "year": 2012,
+            "path": "/tv/Tv Shows/Comedy Bang! Bang!",
+            "qualityProfileId": 1,
+            "seasonFolder": true,
+            "monitored": true,
+            "monitorNewItems": "all",
+            "useSceneNumbering": false,
+            "runtime": 30,
+            "tvdbId": 258310,
+            "tvRageId": 31483,
+            "tvMazeId": 753,
+            "tmdbId": 43323,
+            "firstAired": "2012-06-08T00:00:00Z",
+            "lastAired": "2016-12-02T00:00:00Z",
+            "seriesType": "standard",
+            "cleanTitle": "comedybangbang",
+            "imdbId": "tt2176287",
+            "titleSlug": "comedy-bang-bang",
+            "certification": "TV-14",
+            "genres": [
+                "Comedy",
+                "Talk Show"
+            ],
+            "tags": [],
+            "added": "2020-02-09T08:36:38Z",
+            "ratings": {
+                "votes": 4714,
+                "value": 7.6
+            },
+            "languageProfileId": 1,
+            "id": 552
+        },
+        "id": 355333
+    },
+    {
+        "episodeId": 38451,
+        "seriesId": 552,
+        "sourceTitle": "/tv/Tv Shows/Comedy Bang! Bang!/Season 5/Comedy.Bang!.Bang!.s05e05.mkv",
+        "languages": [
+            {
+                "id": 1,
+                "name": "English"
+            }
+        ],
+        "quality": {
+            "quality": {
+                "id": 4,
+                "name": "HDTV-720p",
+                "source": "television",
+                "resolution": 720
+            },
+            "revision": {
+                "version": 1,
+                "real": 0,
+                "isRepack": false
+            }
+        },
+        "customFormats": [
+            {
+                "id": 3,
+                "name": "english"
+            }
+        ],
+        "customFormatScore": 10,
+        "qualityCutoffNotMet": true,
+        "date": "2025-03-12T09:05:01Z",
+        "eventType": "episodeFileDeleted",
+        "data": {
+            "reason": "asddsa",
+            "releaseGroup": null,
+            "size": "447121629",
+            "indexerFlags": "0",
+            "releaseType": "Unknown"
+        },
+        "episode": {
+            "seriesId": 552,
+            "tvdbId": 5628284,
+            "episodeFileId": 1498587,
+            "seasonNumber": 5,
+            "episodeNumber": 5,
+            "title": "T-Pain Wears Shredded Jeans and a Printed Shirt",
+            "airDate": "2016-06-17",
+            "airDateUtc": "2016-06-18T03:00:00Z",
+            "lastSearchTime": "2020-02-14T15:52:50Z",
+            "runtime": 30,
+            "overview": "T-Pain, Scott and Weird Al collaborate on a song; and Melvin Alberts talks about being abducted by aliens. Later, Scott's scientific breakthrough allows him to get more stuff done; and Weird Al previews his new foodie-TV show.",
+            "hasFile": true,
+            "monitored": true,
+            "unverifiedSceneNumbering": false,
+            "id": 38451
+        },
+        "series": {
+            "title": "Comedy Bang! Bang!",
+            "sortTitle": "comedy bang bang",
+            "status": "ended",
+            "ended": true,
+            "overview": "Based on Scott Aukerman’s popular podcast of the same name, COMEDY BANG! BANG! cleverly riffs on the well-known format of the late night talk show, infusing celebrity appearances and comedy sketches with a tinge of the surreal.",
+            "network": "IFC",
+            "airTime": "23:00",
+            "images": [
+                {
+                    "coverType": "banner",
+                    "remoteUrl": "https://artworks.thetvdb.com/banners/graphical/258310-g.jpg"
+                },
+                {
+                    "coverType": "poster",
+                    "remoteUrl": "https://artworks.thetvdb.com/banners/posters/258310-4.jpg"
+                },
+                {
+                    "coverType": "fanart",
+                    "remoteUrl": "https://artworks.thetvdb.com/banners/fanart/original/258310-6.jpg"
+                },
+                {
+                    "coverType": "clearlogo",
+                    "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/258310/clearlogo/611bf04052f86.png"
+                }
+            ],
+            "originalLanguage": {
+                "id": 1,
+                "name": "English"
+            },
+            "seasons": [
+                {
+                    "seasonNumber": 0,
+                    "monitored": false
+                },
+                {
+                    "seasonNumber": 1,
+                    "monitored": true
+                },
+                {
+                    "seasonNumber": 2,
+                    "monitored": true
+                },
+                {
+                    "seasonNumber": 3,
+                    "monitored": true
+                },
+                {
+                    "seasonNumber": 4,
+                    "monitored": true
+                },
+                {
+                    "seasonNumber": 5,
+                    "monitored": true
+                }
+            ],
+            "year": 2012,
+            "path": "/tv/Tv Shows/Comedy Bang! Bang!",
+            "qualityProfileId": 1,
+            "seasonFolder": true,
+            "monitored": true,
+            "monitorNewItems": "all",
+            "useSceneNumbering": false,
+            "runtime": 30,
+            "tvdbId": 258310,
+            "tvRageId": 31483,
+            "tvMazeId": 753,
+            "tmdbId": 43323,
+            "firstAired": "2012-06-08T00:00:00Z",
+            "lastAired": "2016-12-02T00:00:00Z",
+            "seriesType": "standard",
+            "cleanTitle": "comedybangbang",
+            "imdbId": "tt2176287",
+            "titleSlug": "comedy-bang-bang",
+            "certification": "TV-14",
+            "genres": [
+                "Comedy",
+                "Talk Show"
+            ],
+            "tags": [],
+            "added": "2020-02-09T08:36:38Z",
+            "ratings": {
+                "votes": 4714,
+                "value": 7.6
+            },
+            "languageProfileId": 1,
+            "id": 552
+        },
+        "id": 355333
+    }
+]

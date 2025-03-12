@@ -1,0 +1,393 @@
+[
+    {
+        "movieId": 419,
+        "sourceTitle": "/movies/Movies/Avengers Infinity War (2018)/Avengers Infinity War (2018) WEBDL-1080p.mkv",
+        "languages": [
+            {
+                "id": 1,
+                "name": "English"
+            }
+        ],
+        "quality": {
+            "quality": {
+                "id": 3,
+                "name": "WEBDL-1080p",
+                "source": "webdl",
+                "resolution": 1080,
+                "modifier": "none"
+            },
+            "revision": {
+                "version": 1,
+                "real": 0,
+                "isRepack": false
+            }
+        },
+        "customFormats": [
+            {
+                "id": 5,
+                "name": "English"
+            }
+        ],
+        "customFormatScore": 10,
+        "qualityCutoffNotMet": false,
+        "date": "2025-03-11T12:14:22Z",
+        "eventType": "movieFileDeleted",
+        "data": {
+            "reason": "Manual",
+            "releaseGroup": null,
+            "size": "3093591319",
+            "indexerFlags": "0"
+        },
+        "movie": {
+            "title": "Avengers: Infinity War",
+            "originalTitle": "Avengers: Infinity War",
+            "originalLanguage": {
+                "id": 1,
+                "name": "English"
+            },
+            "alternateTitles": [],
+            "secondaryYearSourceId": 0,
+            "sortTitle": "avengers infinity war",
+            "status": "released",
+            "overview": "As the Avengers and their allies have continued to protect the world from threats too large for any one hero to handle, a new danger has emerged from the cosmic shadows: Thanos. A despot of intergalactic infamy, his goal is to collect all six Infinity Stones, artifacts of unimaginable power, and use them to inflict his twisted will on all of reality. Everything the Avengers have fought for has led up to this moment - the fate of Earth and existence itself has never been more uncertain.",
+            "inCinemas": "2018-04-25T00:00:00Z",
+            "physicalRelease": "2018-08-14T00:00:00Z",
+            "digitalRelease": "2018-07-31T00:00:00Z",
+            "releaseDate": "2018-04-25T00:00:00Z",
+            "images": [
+                {
+                    "coverType": "poster",
+                    "remoteUrl": "https://image.tmdb.org/t/p/original/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg"
+                },
+                {
+                    "coverType": "fanart",
+                    "remoteUrl": "https://image.tmdb.org/t/p/original/mDfJG3LC3Dqb67AZ52x3Z0jU0uB.jpg"
+                }
+            ],
+            "website": "https://www.marvel.com/movies/avengers-infinity-war",
+            "year": 2018,
+            "youTubeTrailerId": "QwievZ1Tx-8",
+            "studio": "Marvel Studios",
+            "path": "/movies/Movies/Avengers Infinity War (2018)",
+            "qualityProfileId": 1,
+            "movieFileId": 50112,
+            "monitored": true,
+            "minimumAvailability": "inCinemas",
+            "isAvailable": true,
+            "folderName": "/movies/Movies/Avengers Infinity War (2018)",
+            "runtime": 149,
+            "cleanTitle": "avengersinfinitywar",
+            "imdbId": "tt4154756",
+            "tmdbId": 299536,
+            "titleSlug": "299536",
+            "certification": "PG-13",
+            "genres": [
+                "Adventure",
+                "Action",
+                "Science Fiction"
+            ],
+            "tags": [],
+            "added": "2020-02-08T02:07:10Z",
+            "ratings": {
+                "imdb": {
+                    "votes": 1270910,
+                    "value": 8.4,
+                    "type": "user"
+                },
+                "tmdb": {
+                    "votes": 30270,
+                    "value": 8.2,
+                    "type": "user"
+                },
+                "metacritic": {
+                    "votes": 0,
+                    "value": 68,
+                    "type": "user"
+                },
+                "rottenTomatoes": {
+                    "votes": 0,
+                    "value": 85,
+                    "type": "user"
+                }
+            },
+            "collection": {
+                "title": "The Avengers Collection",
+                "tmdbId": 86311
+            },
+            "popularity": 64.75,
+            "lastSearchTime": "2025-03-11T12:14:36Z",
+            "id": 419
+        },
+        "id": 394565
+    },
+    {
+        "movieId": 419,
+        "sourceTitle": "Avengers.Infinity.War.2018.2160p.BluRay.HEVC.TrueHD.7.1.Atmos-FG",
+        "languages": [
+            {
+                "id": 1,
+                "name": "English"
+            }
+        ],
+        "quality": {
+            "quality": {
+                "id": 22,
+                "name": "BR-DISK",
+                "source": "bluray",
+                "resolution": 1080,
+                "modifier": "brdisk"
+            },
+            "revision": {
+                "version": 1,
+                "real": 0,
+                "isRepack": false
+            }
+        },
+        "customFormats": [
+            {
+                "id": 5,
+                "name": "English"
+            },
+            {
+                "id": 1,
+                "name": "English 265"
+            }
+        ],
+        "customFormatScore": 30,
+        "qualityCutoffNotMet": false,
+        "date": "2025-03-11T12:16:05Z",
+        "downloadId": "B92F3E76AB9E3E42C9B5EF6A22AE99209CEEE1DC",
+        "eventType": "grabbed",
+        "data": {
+            "indexer": "The Pirate Bay (Prowlarr)",
+            "nzbInfoUrl": "https://thepiratebay.org/description.php?id=24001636",
+            "releaseGroup": "FG",
+            "age": "2407",
+            "ageHours": "57790.06415326944",
+            "ageMinutes": "3467403.8491963",
+            "publishedDate": "2018-08-07T14:12:15Z",
+            "downloadClient": "qBittorrent",
+            "downloadClientName": "qBittorrent",
+            "size": "65930424320",
+            "downloadUrl": "http://prowlarr:9696/14/download?apikey=5f771c1869f94fec821832369384a70c&link=SVZLNzREUjdwYmRWc0JyNmZCYXpya2NLYnhLQUFSb2ZEWTdZeGNKN21HYWRZVFVkWEZybm1UcGtJZjcvK3FiU2x5Nm1hc0NyMm5nbmlEV2RGY0lyVkZnNGVld2tmQUIvM0ZyVmRsZWUvSTE5NUk3OTY3ZTVJU21SZjgxTE5wTGxJeVRCV2J1TW1vUGFjUkpLNUxqSjVjK2pXaVFYYjVvdk0rd3Mzc04xMFcvSHVLUEt3Y2x1aFlySEhHOHEyOXc0TW5iUHNZNG9SbDFCdzFZRDFjS2JnWkNsWm5aUkxoZ3lKcHBWQnhyOFhuTk45Smt6V01PK3p5MHZPRG1mWHBHTjN5WmRhaXllZFpONHdxcDl2WDFPMmpUN2dpQzU5MWR6N1VHR0l4TDlOajBkbDFlb2MvK3NHOXU4QWhqL3ZLT3dCSlFhMElTbmZKc1ZUQS9jMFhRN0JORE5xV2V5UHY0Y09Xbng2cGdwRndyeWtmMWluUms3U0VyeDFZc0lZMkZ5Vmt4K00wOUhaM2x1QWZVSFhHbHJYSFJOM293bGJZZHZmT1JzcFJXdkVFNHo4Vm8yNU91T0RlcThPWCtaK0M5cTFLMWVnMzgwOU52aEtab0hrd0JzcG5GQlNKd296eTRjUUdpdDNqRXNyRmZsWjlDUzVsTytqYk1hSGgwMVZwZGlZTjRSU1JvbURLU2hFSmZzRjhaWlkxRnQrTmUxMGVNa0trcUUxVHBrWmF4ZnVXR1pvc1VSTiszYUFETmlNY3BGcWo4VUUyUVZLOXJ6b2Q1YmEzcE41NmlYYXJ4V08xSVNVbUpSb24yeFZVNFI2c01BUGl3S2V4MzAwZUs0dS9kWDZHUURGVVJrRlkxNUJsVmJOdWt6NGRPeXVzTmpBaFErUHRwU3IxSTk5b1Z6S1IyNXcyemZWd2ZqMDhZeFc2T2szbGlrcDFqVkcvYk1LdDkySjJ5NmpqZndnUUlzVzQzQ3lhTktUclZTOG5IdE9uRGJ2SzB3U2xiZ01VNVU4TXJ2ZWwrQnRydzB3RmlMemJVTmVJL3dmZHVlMnFTMGJwcTZ3MUQya0l6OGdBcDE1dmV2dUk5b2JVcXk2U2JIWnA2a1FNRmx0VUQvMVBqbFYwbGpJTkhSK3JuOUIrVnRXUXdqTGV5SmoxclVOOEV1S3JHa3BUeXhGVi9sME1MS2N0R3hxNEZHdkxGd0RuLzBldCs2d2syUDdMSVhyenJMeU1EZkxTWWpsVm1hbWRsVmI3MWp6YTdSaTd3VGxYODlnOTVTNDJXTUJCcnVadlJNekF3bWpEb0xtZFc1VytGVisvTHN3ZFpLamtqUkRsVm45VHV3SUwxdjlXaWk0RTFJMXFlSHlRREg0UERpT2hYeHRQYzlHTVY2THF0NytIS09Gc29Fbm01a3NMdHN0b1lUaktGN3dXZzJmQWhXK1hjbzNHY1hiRWpUaUd4RjJxaFFQRXNHNWU5MnRhZzNTL3ZzVXBMTlVoSXVFeTE0TmtYeGUxc21FdWJveUM0VlRZc1J0SisvU0tXTmxWTzBqTzhlTi9qUGQ2VTZHd010TWJrTnR1RHA0N25HWHU2N1IrS04rODFCLzVPR0RuR2QwZmpNZmQzOXcvYUNLOTduVU5uVUNsRm80aUt1NTU2cEVCQmFzRlVna3VuNGpiajhyVEg3ZmRNUndONlVFM1RmNlgzTUQ2aGFyQWluanZpeUJaSUFNWVJ5TG9FUWRDYTNIeVR3SW02bDNTTjE5RlVPdW9zdEF0MnBsRFlJbm1Gcit2WlhRSTJUOG5yQU5tOHFOdERzQ0p0NWx1UkhNK3JLcUptMEd4dHRNbExxMG4xdGRDSUN2V2JhMmQ0Z204djBEYkRmVHRDTXpnN0RRZCt1ZHNMMVdYMkgyV3VlY0dyNWZEYVJ0NkRENUNJVVRkYVM3MzljTk5oUjlsS1lZSHFQL05HTDFnanBFY1duZGtnZkJrOElRaFhNS3hNcndEcmJxM3VBc29lLzNvQVhxbDBHVGd5bGRCWmVsOHZ6RitVbkNvblFVVnN3SU0wRnF0N2xXbTRPMEI5Zml3dzdsZHJlUmpDMmtsVU9XRS82ZUhyVnJzUS9RNG1uKyswbUNEREpnZDdHYTA2ckNjOEQxZ2hkVEswbkNHbGFrZ0xLaWc9PQ&file=Avengers.Infinity.War.2018.2160p.BluRay.HEVC.TrueHD.7.1.Atmos-FG",
+            "guid": "magnet:?xt=urn:btih:B92F3E76AB9E3E42C9B5EF6A22AE99209CEEE1DC&dn=Avengers.Infinity.War.2018.2160p.BluRay.HEVC.TrueHD.7.1.Atmos-FG&tr=http%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.auctor.tv%3a6969%2fannounce&tr=udp%3a%2f%2fopentracker.i2p.rocks%3a6969%2fannounce&tr=https%3a%2f%2fopentracker.i2p.rocks%3a443%2fannounce&tr=udp%3a%2f%2fopen.demonii.com%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a6969%2fannounce&tr=http%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2fopen.stealth.si%3a80%2fannounce&tr=udp%3a%2f%2ftracker.torrent.eu.org%3a451%2fannounce&tr=udp%3a%2f%2ftracker.moeking.me%3a6969%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=udp%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=udp%3a%2f%2fuploads.gamecoast.net%3a6969%2fannounce&tr=udp%3a%2f%2ftracker1.bt.moack.co.kr%3a80%2fannounce&tr=udp%3a%2f%2ftracker.tiny-vps.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.theoks.net%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.skyts.net%3a6969%2fannounce&tr=udp%3a%2f%2ftracker-udp.gbitt.info%3a80%2fannounce&tr=udp%3a%2f%2fopen.tracker.ink%3a6969%2fannounce&tr=udp%3a%2f%2fmovies.zsw.ca%3a6969%2fannounce",
+            "tmdbId": "0",
+            "imdbId": "4154756",
+            "protocol": "2",
+            "customFormatScore": "30",
+            "movieMatchType": "Id",
+            "releaseSource": "InteractiveSearch",
+            "indexerFlags": "G_Freeleech",
+            "indexerId": "23",
+            "torrentInfoHash": "B92F3E76AB9E3E42C9B5EF6A22AE99209CEEE1DC"
+        },
+        "movie": {
+            "title": "Avengers: Infinity War",
+            "originalTitle": "Avengers: Infinity War",
+            "originalLanguage": {
+                "id": 1,
+                "name": "English"
+            },
+            "alternateTitles": [],
+            "secondaryYearSourceId": 0,
+            "sortTitle": "avengers infinity war",
+            "status": "released",
+            "overview": "As the Avengers and their allies have continued to protect the world from threats too large for any one hero to handle, a new danger has emerged from the cosmic shadows: Thanos. A despot of intergalactic infamy, his goal is to collect all six Infinity Stones, artifacts of unimaginable power, and use them to inflict his twisted will on all of reality. Everything the Avengers have fought for has led up to this moment - the fate of Earth and existence itself has never been more uncertain.",
+            "inCinemas": "2018-04-25T00:00:00Z",
+            "physicalRelease": "2018-08-14T00:00:00Z",
+            "digitalRelease": "2018-07-31T00:00:00Z",
+            "releaseDate": "2018-04-25T00:00:00Z",
+            "images": [
+                {
+                    "coverType": "poster",
+                    "remoteUrl": "https://image.tmdb.org/t/p/original/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg"
+                },
+                {
+                    "coverType": "fanart",
+                    "remoteUrl": "https://image.tmdb.org/t/p/original/mDfJG3LC3Dqb67AZ52x3Z0jU0uB.jpg"
+                }
+            ],
+            "website": "https://www.marvel.com/movies/avengers-infinity-war",
+            "year": 2018,
+            "youTubeTrailerId": "QwievZ1Tx-8",
+            "studio": "Marvel Studios",
+            "path": "/movies/Movies/Avengers Infinity War (2018)",
+            "qualityProfileId": 1,
+            "movieFileId": 50112,
+            "monitored": true,
+            "minimumAvailability": "inCinemas",
+            "isAvailable": true,
+            "folderName": "/movies/Movies/Avengers Infinity War (2018)",
+            "runtime": 149,
+            "cleanTitle": "avengersinfinitywar",
+            "imdbId": "tt4154756",
+            "tmdbId": 299536,
+            "titleSlug": "299536",
+            "certification": "PG-13",
+            "genres": [
+                "Adventure",
+                "Action",
+                "Science Fiction"
+            ],
+            "tags": [],
+            "added": "2020-02-08T02:07:10Z",
+            "ratings": {
+                "imdb": {
+                    "votes": 1270910,
+                    "value": 8.4,
+                    "type": "user"
+                },
+                "tmdb": {
+                    "votes": 30270,
+                    "value": 8.2,
+                    "type": "user"
+                },
+                "metacritic": {
+                    "votes": 0,
+                    "value": 68,
+                    "type": "user"
+                },
+                "rottenTomatoes": {
+                    "votes": 0,
+                    "value": 85,
+                    "type": "user"
+                }
+            },
+            "collection": {
+                "title": "The Avengers Collection",
+                "tmdbId": 86311
+            },
+            "popularity": 64.75,
+            "lastSearchTime": "2025-03-11T12:14:36Z",
+            "id": 419
+        },
+        "id": 394566
+    },
+    {
+        "movieId": 419,
+        "sourceTitle": "00042",
+        "languages": [
+            {
+                "id": 1,
+                "name": "English"
+            }
+        ],
+        "quality": {
+            "quality": {
+                "id": 0,
+                "name": "Unknown",
+                "source": "unknown",
+                "resolution": 0,
+                "modifier": "none"
+            },
+            "revision": {
+                "version": 1,
+                "real": 0,
+                "isRepack": false
+            }
+        },
+        "customFormats": [
+            {
+                "id": 5,
+                "name": "English"
+            }
+        ],
+        "customFormatScore": 10,
+        "qualityCutoffNotMet": true,
+        "date": "2025-03-11T13:40:48Z",
+        "downloadId": "B92F3E76AB9E3E42C9B5EF6A22AE99209CEEE1DC",
+        "eventType": "downloadFolderImported",
+        "data": {
+            "fileId": "50112",
+            "droppedPath": "/torrents/Avengers.Infinity.War.2018.2160p.BluRay.HEVC.TrueHD.7.1.Atmos-FGT/BDMV/STREAM/00042.m2ts",
+            "importedPath": "/movies/Movies/Avengers Infinity War (2018)/Avengers Infinity War (2018) Unknown.m2ts",
+            "downloadClient": "qBittorrent",
+            "downloadClientName": "qBittorrent",
+            "releaseGroup": "FG",
+            "customFormatScore": "10",
+            "size": "65239984128",
+            "indexerFlags": "G_Freeleech"
+        },
+        "movie": {
+            "title": "Avengers: Infinity War",
+            "originalTitle": "Avengers: Infinity War",
+            "originalLanguage": {
+                "id": 1,
+                "name": "English"
+            },
+            "alternateTitles": [],
+            "secondaryYearSourceId": 0,
+            "sortTitle": "avengers infinity war",
+            "status": "released",
+            "overview": "As the Avengers and their allies have continued to protect the world from threats too large for any one hero to handle, a new danger has emerged from the cosmic shadows: Thanos. A despot of intergalactic infamy, his goal is to collect all six Infinity Stones, artifacts of unimaginable power, and use them to inflict his twisted will on all of reality. Everything the Avengers have fought for has led up to this moment - the fate of Earth and existence itself has never been more uncertain.",
+            "inCinemas": "2018-04-25T00:00:00Z",
+            "physicalRelease": "2018-08-14T00:00:00Z",
+            "digitalRelease": "2018-07-31T00:00:00Z",
+            "releaseDate": "2018-04-25T00:00:00Z",
+            "images": [
+                {
+                    "coverType": "poster",
+                    "remoteUrl": "https://image.tmdb.org/t/p/original/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg"
+                },
+                {
+                    "coverType": "fanart",
+                    "remoteUrl": "https://image.tmdb.org/t/p/original/mDfJG3LC3Dqb67AZ52x3Z0jU0uB.jpg"
+                }
+            ],
+            "website": "https://www.marvel.com/movies/avengers-infinity-war",
+            "year": 2018,
+            "youTubeTrailerId": "QwievZ1Tx-8",
+            "studio": "Marvel Studios",
+            "path": "/movies/Movies/Avengers Infinity War (2018)",
+            "qualityProfileId": 1,
+            "movieFileId": 50112,
+            "monitored": true,
+            "minimumAvailability": "inCinemas",
+            "isAvailable": true,
+            "folderName": "/movies/Movies/Avengers Infinity War (2018)",
+            "runtime": 149,
+            "cleanTitle": "avengersinfinitywar",
+            "imdbId": "tt4154756",
+            "tmdbId": 299536,
+            "titleSlug": "299536",
+            "certification": "PG-13",
+            "genres": [
+                "Adventure",
+                "Action",
+                "Science Fiction"
+            ],
+            "tags": [],
+            "added": "2020-02-08T02:07:10Z",
+            "ratings": {
+                "imdb": {
+                    "votes": 1270910,
+                    "value": 8.4,
+                    "type": "user"
+                },
+                "tmdb": {
+                    "votes": 30270,
+                    "value": 8.2,
+                    "type": "user"
+                },
+                "metacritic": {
+                    "votes": 0,
+                    "value": 68,
+                    "type": "user"
+                },
+                "rottenTomatoes": {
+                    "votes": 0,
+                    "value": 85,
+                    "type": "user"
+                }
+            },
+            "collection": {
+                "title": "The Avengers Collection",
+                "tmdbId": 86311
+            },
+            "popularity": 64.75,
+            "lastSearchTime": "2025-03-11T12:14:36Z",
+            "id": 419
+        },
+        "id": 394567
+    }
+]

@@ -14,8 +14,10 @@ build-test:
 	docker build --target test -t ${IMAGE_NAME}:test .
 
 COMMON=--env-file=.env \
+	-v ${PWD}/app:/app/app \
 	-v ${PWD}/cache:/app/cache \
-	-v ${PWD}/main.rb:/app/main.rb
+	-v ${PWD}/main.rb:/app/main.rb \
+	-v ${PWD}/spec:/app/spec 
 
 run-image:
 	@docker run -it --rm \
