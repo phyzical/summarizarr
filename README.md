@@ -1,5 +1,8 @@
 # summarizarr
 
+<img src="./badges/badge-branches.svg" alt="Alt text" >
+<img src="./badges/badge-lines.svg" alt="Alt text"  >
+
 TODO:
 
 * support sonarr
@@ -14,6 +17,7 @@ TODO:
 * And an env for interval i.e last day
 
 for generic arrs we should be able to:
+
 * pull the history given the interval, memoize and group by seriesId
 * pull all the keys after that for series info, this should be cachable as we will only use for pics and maybe title
 * maybe also group by episodeId

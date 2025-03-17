@@ -1,4 +1,6 @@
 .env
 .vscode
 .DS_Store
-cache/*save*.json
+cache/*
+coverage
+node_modules
