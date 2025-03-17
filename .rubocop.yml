@@ -1,11 +1,6 @@
 AllCops:
-  Exclude:
-    - .idea/**/*
-    - .vscode/**/*
-    - log/**/*
-    - tmp/**/*
-    - public/**/*
-    - .bundle/**/*
+  Include:
+    - '**/*.rb'
   NewCops: enable
 Layout/EmptyLineAfterMagicComment:
   Enabled: true
@@ -65,7 +60,36 @@ Style/StringLiterals:
   EnforcedStyle: single_quotes
 Style/StringLiteralsInInterpolation:
   EnforcedStyle: single_quotes
+RSpec/DescribeClass:
+  Exclude:
+    - spec/lib/tasks/**/*
+    - spec/routing/verifid_routes_spec.rb
+    - spec/system/**/*
+RSpec/ExampleLength:
+  Max: 60
+RSpec/MultipleDescribes:
+  Exclude:
+    - spec/lib/tasks/**/*
+# Much more convenient for testing things such as access control scenarios if we allow many assertions.
+# Also helps performance of tests with complex setup, like integration and controller tests.
+RSpec/MultipleExpectations:
+  Max: 35
+RSpec/MultipleMemoizedHelpers:
+  Max: 15
+RSpec/NestedGroups:
+  Max: 6
+RSpec/NoExpectationExample:
+  Enabled: false
+# Don't allow pending RSpecs. Pending is a fancy RSpec way of expressing to-dos. We don't usually want to-dos committed
+# to the codebase. Usually these only appear because we forgot to clean up a spec from a rails generator.
+RSpec/Pending:
+  Enabled: true
+# Since pending is disabled altogether, this cop is pointless.
+RSpec/PendingWithoutReason:
+  Enabled: false
 inherit_gem:
   syntax_tree: config/rubocop.yml
-require:
+plugins:
   - rubocop-performance
+  - rubocop-rake
+  - rubocop-rspec
