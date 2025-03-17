@@ -3,7 +3,7 @@
 require 'spec_helper'
 
 RSpec.describe Sonarr::Episode do
-  context '#from_json' do
+  describe '#from_json' do
     subject(:from_json) { described_class.from_json(json:) }
 
     let(:full_json) do
@@ -24,7 +24,9 @@ RSpec.describe Sonarr::Episode do
             series: 'Comedy Bang! Bang!',
             title: 'T-Pain Wears Shredded Jeans and a Printed Shirt',
             overview:
-              'T-Pain, Scott and Weird Al collaborate on a song; and Melvin Alberts talks about being abducted by aliens. Later, Scott\'s scientific breakthrough allows him to get more stuff done; and Weird Al previews his new foodie-TV show.',
+              'T-Pain, Scott and Weird Al collaborate on a song; and Melvin Alberts talks about being abducted ' \
+                'by aliens. Later, Scott\'s scientific breakthrough allows him to get more stuff done; ' \
+                'and Weird Al previews his new foodie-TV show.',
             series_image: 'https://artworks.thetvdb.com/banners/graphical/258310-g.jpg',
             upgrade?: false,
             quality: 'WEBDL-1080p'
@@ -43,7 +45,9 @@ RSpec.describe Sonarr::Episode do
           series: 'Comedy Bang! Bang!',
           title: 'T-Pain Wears Shredded Jeans and a Printed Shirt',
           overview:
-            'T-Pain, Scott and Weird Al collaborate on a song; and Melvin Alberts talks about being abducted by aliens. Later, Scott\'s scientific breakthrough allows him to get more stuff done; and Weird Al previews his new foodie-TV show.',
+            'T-Pain, Scott and Weird Al collaborate on a song; and Melvin Alberts talks about being abducted by ' \
+              'aliens. Later, Scott\'s scientific breakthrough allows him to get more stuff done; ' \
+              'and Weird Al previews his new foodie-TV show.',
           series_image: 'https://artworks.thetvdb.com/banners/graphical/258310-g.jpg',
           upgrade?: true,
           quality: 'HDTV-720p'

@@ -1,7 +1,7 @@
 # frozen_string_literal: true
 
 module Sonarr
-  # curl -X 'GET' 'http://192.168.69.111:8989/api/v3/history/since?date=2025-03-10&page=1&pageSize=10&includeEpisode=true&includeSeries=true&apikey=asd'   -H 'accept: application/json'
+  # curl -X 'GET' 'http://192.168.69.111:8989/api/v3/history/since?date=2025-03-10&page=1&pageSize=10&includeEpisode=true&includeSeries=true&apikey=asd'   -H 'accept: application/json' # rubocop:disable Layout/LineLength
 
   # if both of these assume upgrade i  "eventType": "episodeFileDeleted", and "eventType": "downloadFolderImported",
   #  if only downloadFolderImported then must be new

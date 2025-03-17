@@ -11,11 +11,11 @@ module CoverageBadges
 
     def convert_coverage
       converted_result = { total: { lines: {}, statements: {}, functions: {}, branches: {} } }
-      JSON.parse(coverage_file_contents, symbolize_names: true)[:result].each do |key, val|
-        converted_result[:total][key] = { pct: val }
-      end
-      converted_result[:total][:statements][:pct] = converted_result[:total][:line][:pct]
-      converted_result[:total][:functions][:pct] = converted_result[:total][:line][:pct]
+      coverage = JSON.parse(coverage_file_contents, symbolize_names: true)[:result]
+      converted_result[:total][:statements][:pct] = 'N/A'
+      converted_result[:total][:functions][:pct] = 'N/A'
+      converted_result[:total][:lines][:pct] = coverage[:line]
+      converted_result[:total][:branches][:pct] = coverage[:branch]
       File.write('coverage/coverage-summary.json', converted_result.to_json)
     end
 

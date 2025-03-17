@@ -3,7 +3,7 @@
 require 'spec_helper'
 
 RSpec.describe Radarr::Episode do
-  context '#from_json' do
+  describe '#from_json' do
     subject(:from_json) { described_class.from_json(json:) }
 
     let(:full_json) do
@@ -23,7 +23,12 @@ RSpec.describe Radarr::Episode do
             languages: 'English',
             title: 'Avengers: Infinity War',
             overview:
-              'As the Avengers and their allies have continued to protect the world from threats too large for any one hero to handle, a new danger has emerged from the cosmic shadows: Thanos. A despot of intergalactic infamy, his goal is to collect all six Infinity Stones, artifacts of unimaginable power, and use them to inflict his twisted will on all of reality. Everything the Avengers have fought for has led up to this moment - the fate of Earth and existence itself has never been more uncertain.',
+              'As the Avengers and their allies have continued to protect the world from threats too large for' \
+                ' any one hero to handle, a new danger has emerged from the cosmic shadows: Thanos. A despot of ' \
+                'intergalactic infamy, his goal is to collect all six Infinity Stones, artifacts of unimaginable ' \
+                'power, and use them to inflict his twisted will on all of reality. Everything the Avengers have ' \
+                'fought for has led up to this moment - the fate of Earth and existence itself ' \
+                'has never been more uncertain.',
             image: 'https://image.tmdb.org/t/p/original/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg',
             upgrade?: false,
             quality: 'Unknown'
@@ -42,7 +47,12 @@ RSpec.describe Radarr::Episode do
             languages: 'English',
             title: 'Avengers: Infinity War',
             overview:
-              'As the Avengers and their allies have continued to protect the world from threats too large for any one hero to handle, a new danger has emerged from the cosmic shadows: Thanos. A despot of intergalactic infamy, his goal is to collect all six Infinity Stones, artifacts of unimaginable power, and use them to inflict his twisted will on all of reality. Everything the Avengers have fought for has led up to this moment - the fate of Earth and existence itself has never been more uncertain.',
+              'As the Avengers and their allies have continued to protect the world from threats too large for ' \
+                'any one hero to handle, a new danger has emerged from the cosmic shadows: Thanos. A despot of ' \
+                'intergalactic infamy, his goal is to collect all six Infinity Stones, artifacts of unimaginable ' \
+                'power, and use them to inflict his twisted will on all of reality. Everything the Avengers have ' \
+                'fought for has led up to this moment - the fate of Earth and existence itself has never ' \
+                'been more uncertain.',
             image: 'https://image.tmdb.org/t/p/original/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg',
             upgrade?: false,
             quality: 'WEBDL-1080p'

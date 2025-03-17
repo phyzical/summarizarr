@@ -2,3 +2,5 @@
 
 require_relative '../main'
 require 'rspec'
+require 'simplecov'
+require 'rubocop-rspec'
