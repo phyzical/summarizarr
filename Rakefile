@@ -20,4 +20,5 @@ RSpec::Core::RakeTask.new(:spec)
 
 task lint_fix: %i[stree:write rubocop:autocorrect_all]
 task lint: %i[stree:check rubocop]
-task default: %i[lint spec coverage_badges]
+task default: %i[ci coverage_badges]
+task ci: %i[lint spec]
