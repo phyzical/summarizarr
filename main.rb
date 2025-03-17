@@ -8,7 +8,9 @@ module Main
   end
 end
 
+# :nocov:
 Main.run if __FILE__ == $PROGRAM_NAME
+# :nocov:
 
 #  TODOS
 #  - make some loose algo to workout next best type to action when we call a skill

@@ -15,6 +15,9 @@ task :coverage_badges do
   CoverageBadges.generate
 end
 
+require 'rspec/core/rake_task'
+RSpec::Core::RakeTask.new(:spec)
+
 task lint_fix: %i[stree:write rubocop:autocorrect_all]
 task lint: %i[stree:check rubocop]
 task default: %i[lint spec coverage_badges]
