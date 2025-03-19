@@ -23,4 +23,5 @@ group :test do
   gem 'simplecov-console', require: false
   gem 'simplecov-html', require: false
   gem 'simplecov-lcov', require: false
+  gem 'webmock', require: false
 end

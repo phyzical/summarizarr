@@ -17,15 +17,25 @@ COMMON=--env-file=.env \
 	-v ${PWD}/app:/app/app \
 	-v ${PWD}/cache:/app/cache \
 	-v ${PWD}/main.rb:/app/main.rb \
-	-v ${PWD}/spec:/app/spec 
+	-v ${PWD}/Gemfile:/app/Gemfile \
+	-v ${PWD}/Gemfile.lock:/app/Gemfile.lock \
+	-e RAILS_ENV=development
 
 run-image:
 	@docker run -it --rm \
 	${COMMON} \
 	${IMAGE_NAME}:production 
 
+TEST_COMMON=-v ${PWD}/app:/app/app \
+	-v ${PWD}/cache:/app/cache \
+	-v ${PWD}/main.rb:/app/main.rb \
+	-v ${PWD}/spec:/app/spec  \
+	-v ${PWD}/Gemfile:/app/Gemfile \
+	-v ${PWD}/Gemfile.lock:/app/Gemfile.lock \
+	-e RAILS_ENV=test
+
 run-image-test:
 	@docker run -it --rm \
-	${COMMON} \
+	${TEST_COMMON} \
 	${IMAGE_NAME}:test \
 	bundle exec rspec

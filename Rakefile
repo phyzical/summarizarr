@@ -9,7 +9,7 @@ end
 require 'rubocop/rake_task'
 RuboCop::RakeTask.new
 
-task :coverage_badges do
+task :coverage_badges do # rubocop:disable Rake/Desc
   require_relative 'spec/support/coverage_badges'
 
   CoverageBadges.generate
