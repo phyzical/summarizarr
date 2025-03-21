@@ -1,6 +1,6 @@
 # frozen_string_literal: true
 
-Dir[File.join(__dir__, 'app', '**', '**', '*.rb')].each { |file| require file }
+Dir[File.join(__dir__, 'app', '**', '**', '*.rb')].each { |file| require_relative file }
 
 module Main
   def self.run

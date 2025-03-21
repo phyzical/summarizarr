@@ -6,30 +6,20 @@ module Request
   end
 
   Thing =
-    Struct.new(:url, :api_key, :headers, :get_vars) do
+    Struct.new(:url, :api_key, :headers, :get_vars, :body) do
       def perform
-        items = []
-        page = 1
-        loop do
-          page += 1
-          response = http.request(http_request(page:))
-          json = JSON.parse(response.body, symbolize_names: true)
-          page += 1
-          items << json[:items]
-          break if json[:items] < get_vars[:pageSize]
-        end
+        response = http.request(http_request)
+        JSON.parse(response.body, symbolize_names: true)
       end
 
-      def http_request(page:)
-        uris = URI.encode_www_form(**get_vars, page:)
-        url = URI("#{perform}?#{uris}")
-        request = type.new(url)
-        request.merge(headers)
-        request['Content-Type'] = 'application/json'
-        request['Accept'] = 'application/json'
-        request['Authorization'] = "Bearer #{api_key}"
-        request.body = JSON.generate(body)
-        request
+      def http_request
+        return @http_request if @http_request
+        uris = URI.encode_www_form(**get_vars)
+        @http_request = Net::HTTP::Get.new(URI("#{url}?#{uris}"), **headers)
+        @http_request['Content-Type'] = 'application/json'
+        @http_request['Accept'] = 'application/json'
+        @http_request['Authorization'] = "Bearer #{api_key}"
+        @http_request
       end
 
       def http
