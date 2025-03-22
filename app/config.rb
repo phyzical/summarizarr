@@ -24,8 +24,8 @@ module Config
       def radarr
         @radarr ||=
           AppConfig.new(
-            base_url: ENV.fetch('SONARR_URL', 'http://radarr:7878'),
-            api_key: ENV.fetch('SONARR_API_KEY', '12345')
+            base_url: ENV.fetch('RADARR_URL', 'http://radarr:7878'),
+            api_key: ENV.fetch('RADARR_API_KEY', '12345')
           )
       end
     end
