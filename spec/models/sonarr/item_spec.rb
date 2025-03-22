@@ -8,7 +8,7 @@ RSpec.describe Sonarr::Item do
 
     let(:full_json) do
       JSON.parse(
-        File.read('spec/support/sonarr/api/v3/history/since.json', encoding: 'bom|utf-8'),
+        File.read('spec/support/requests/sonarr/api/v3/history/since.json', encoding: 'bom|utf-8'),
         symbolize_names: true
       )
     end

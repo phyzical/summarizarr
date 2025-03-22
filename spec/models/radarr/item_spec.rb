@@ -8,7 +8,7 @@ RSpec.describe Radarr::Item do
 
     let(:full_json) do
       JSON.parse(
-        File.read('spec/support/radarr/api/v3/history/since.json', encoding: 'bom|utf-8'),
+        File.read('spec/support/requests/radarr/api/v3/history/since.json', encoding: 'bom|utf-8'),
         symbolize_names: true
       )
     end
