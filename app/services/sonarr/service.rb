@@ -5,7 +5,7 @@ module Sonarr
     def initialize
       items
     end
-
+    # curl -X 'GET' 'http://192.168.69.111:8989/api/v3/history/since?date=2025-03-10&includeEpisode=true&includeSeries=true&apikey=asd'   -H 'accept: application/json' # rubocop:disable Layout/LineLength
     SINCE_ENDPOINT = '/api/v3/history/since'
 
     def items
@@ -20,7 +20,10 @@ module Sonarr
               includeSeries: true
             }
           )
-          .map { |json| Episode.from_json(json:) }
+          .map { |json| Item.from_json(json:) }
+          .filter { |item| Item::EVENT_TYPES.value?(item.event_type) }
+          .group_by(&:title)
+          .map { |title, items| Summary.new(title:, items:) }
     end
 
     private

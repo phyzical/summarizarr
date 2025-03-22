@@ -10,8 +10,8 @@ RSpec.describe Radarr::Service do
 
   before { stub_endpoint('http://radarr:7878/api/v3/history/since') }
 
-  it 'returns history only containing expected types' do
-    expect(items.count).to be(3)
-    expect(items).to all(be_a(Radarr::Episode::Thing))
+  it 'returns history only containing expected types and groups by title' do
+    expect(items.count).to be(2)
+    expect(items).to all(be_a(Summary::Thing))
   end
 end

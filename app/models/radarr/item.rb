@@ -3,7 +3,9 @@
 module Radarr
   # if both of these assume upgrade i  "eventType": "episodeFileDeleted", and "eventType": "downloadFolderImported",
   #  if only downloadFolderImported then must be new
-  module Episode
+  module Item
+    EVENT_TYPES = { download_folder_imported: 'downloadFolderImported', movie_file_deleted: 'movieFileDeleted' }.freeze
+
     ATTRIBUTES = {
       eventType: :event_type,
       languages: :languages,

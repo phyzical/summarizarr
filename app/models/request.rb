@@ -9,7 +9,7 @@ module Request
     Struct.new(:url, :api_key, :headers, :get_vars, :body) do
       def perform
         response = http.request(http_request)
-        JSON.parse(response.body, symbolize_names: true)
+        JSON.parse(response.body.force_encoding('UTF-8'), symbolize_names: true)
       end
 
       def http_request
