@@ -23,7 +23,7 @@ module Sonarr
           .map { |json| Item.from_json(json:) }
           .filter { |item| Item::EVENT_TYPES.value?(item.event_type) }
           .group_by(&:title)
-          .map { |title, items| Summary.new(title:, items:) }
+          .map { |title, items| Summary::Item.new(title:, items:) }
     end
 
     def summary

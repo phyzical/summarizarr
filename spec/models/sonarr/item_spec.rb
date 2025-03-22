@@ -28,7 +28,7 @@ RSpec.describe Sonarr::Item do
                 'spelling bee quickly escalates to murder. ' \
                 'Shawn and Gus must investigate the mysterious death of the ' \
                 '"Spellmaster" at the regional Spelling Bee.',
-            series_image: 'https://artworks.thetvdb.com/banners/graphical/79335-g4.jpg',
+            image: 'https://artworks.thetvdb.com/banners/graphical/79335-g4.jpg',
             deletion?: false,
             quality: 'Bluray-1080p'
           }
@@ -50,7 +50,7 @@ RSpec.describe Sonarr::Item do
               'spelling bee quickly escalates to murder. ' \
               'Shawn and Gus must investigate the mysterious death of the ' \
               '"Spellmaster" at the regional Spelling Bee.',
-          series_image: 'https://artworks.thetvdb.com/banners/graphical/79335-g4.jpg',
+          image: 'https://artworks.thetvdb.com/banners/graphical/79335-g4.jpg',
           deletion?: true,
           quality: 'SDTV'
         )

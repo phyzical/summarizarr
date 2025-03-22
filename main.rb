@@ -4,7 +4,9 @@ Dir[File.join(__dir__, 'app', '**', '**', '*.rb')].each { |file| require_relativ
 
 module Main
   def self.run
-    pp Summary::Service.generate
+    summary = Summary::Service.generate
+    pp summary
+    summary
   end
 end
 

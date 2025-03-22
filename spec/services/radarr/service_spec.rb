@@ -8,10 +8,10 @@ RSpec.describe Radarr::Service do
 
   let(:service) { described_class.new }
 
-  before { stub_endpoint('http://radarr:7878/api/v3/history/since') }
+  before { stub_radarr }
 
   it 'returns history only containing expected types and groups by title' do
     expect(items.count).to be(2)
-    expect(items).to all(be_a(Summary::Thing))
+    expect(items).to all(be_a(Summary::Item::Thing))
   end
 end

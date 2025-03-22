@@ -8,10 +8,10 @@ RSpec.describe Sonarr::Service do
 
   let(:service) { described_class.new }
 
-  before { stub_endpoint('http://sonarr:8989/api/v3/history/since') }
+  before { stub_sonarr }
 
   it 'returns history only containing expected types and groups by title' do
     expect(items.count).to be(222)
-    expect(items).to all(be_a(Summary::Thing))
+    expect(items).to all(be_a(Summary::Item::Thing))
   end
 end
