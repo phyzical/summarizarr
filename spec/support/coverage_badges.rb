@@ -24,6 +24,7 @@ module CoverageBadges
     end
 
     def generate_badges
+      puts 'generating badges'
       `npm run badges`
     end
   end

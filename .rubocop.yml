@@ -93,3 +93,4 @@ plugins:
   - rubocop-performance
   - rubocop-rake
   - rubocop-rspec
+  - rubocop-factory_bot

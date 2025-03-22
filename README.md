@@ -3,31 +3,48 @@
 <img src="./badges/badge-branches.svg" alt="Alt text" >
 <img src="./badges/badge-lines.svg" alt="Alt text"  >
 
+* supports sonarr
+* supports radarr
+
 TODO:
 
-* support sonarr
-* support radarr
 * support bazarr
 * support lidarr
 * support readarr
 * support mymar
 * support tdarr
 
-* make all of the above possible to be toggled via env
-* And an env for interval i.e last day
+## Envs
 
-for generic arrs we should be able to:
+copy the `.env.dist` to `.env` and fill out
 
-* pull the history given the interval, memoize and group by seriesId
-* pull all the keys after that for series info, this should be cachable as we will only use for pics and maybe title
-* maybe also group by episodeId
-* Given the eventType's we should be able to determine upgraded vs new ect.
+NOTE: if you using the env file you need to quote your variables, if your providing the env file to docker directly you don't
 
-For bazarr
-TODO:
+| Env            | Required?                         | Default                | Description                      |
+| -------------- | --------------------------------- | ---------------------- | -------------------------------- |
+| RADARR_URL     | only if you want radarr summaries | '<http://radarr:7878>' | Url to your radarr instance      |
+|                |                                   |                        |                                  |
+| RADARR_API_KEY | only if you want radarr summaries | '12345'                | api key for your radarr instance |
+|                |                                   |                        |                                  |
+| SONARR_URL     | only if you want sonarr summaries | '<http://sonarr:8989>' | Url to your sonarr instance      |
+|                |                                   |                        |                                  |
+| RADARR_API_KEY | only if you want sonarr summaries | '12345'                | api key for your sonarr instance |
+|                |                                   |                        |                                  |
+| SUMMARY_DAYS   | no                                | '7'                    | The amount of days to summarise  |
+|                |                                   |                        |                                  |
 
-for mymar
-TODO:
+## Running
 
-for tdarr
-TODO:
+### Docker
+
+* `make build`
+* `make run-image`
+
+OR
+
+`docker run ghcr.io/phyzical/summarizarr -t summarizarr`
+
+## Local
+
+* `bundle`
+* `make run`

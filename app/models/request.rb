@@ -14,7 +14,7 @@ module Request
 
       def http_request
         return @http_request if @http_request
-        uris = URI.encode_www_form(**get_vars)
+        uris = URI.encode_www_form(**get_vars) if get_vars.any?
         @http_request = Net::HTTP::Get.new(URI("#{url}?#{uris}"), **headers)
         @http_request['Content-Type'] = 'application/json'
         @http_request['Accept'] = 'application/json'
