@@ -26,7 +26,7 @@ RSpec.describe Radarr::Item do
               'Greg Davies, the star of BAFTA-winning TV series and hit film "The Inbetweeners," ' \
                 'presents his own solo show: "Firing Cheeseballs at a Dog."',
             image: 'https://image.tmdb.org/t/p/original/2FoKVOPJ8OoHQUc2nGeJ2X9V0h6.jpg',
-            upgrade?: false,
+            deletion?: false,
             quality: 'WEBDL-1080p'
           }
         )
@@ -46,7 +46,7 @@ RSpec.describe Radarr::Item do
               'Greg Davies, the star of BAFTA-winning TV series and hit film "The Inbetweeners," ' \
                 'presents his own solo show: "Firing Cheeseballs at a Dog."',
             image: 'https://image.tmdb.org/t/p/original/2FoKVOPJ8OoHQUc2nGeJ2X9V0h6.jpg',
-            upgrade?: true,
+            deletion?: true,
             quality: 'DVD'
           }
         )
