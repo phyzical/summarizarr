@@ -19,6 +19,10 @@ module Radarr
           .map { |title, items| Summary.new(title:, items:) }
     end
 
+    def summary
+      "Radarr Summary:\n#{items.map(&:summary).join("\n")}"
+    end
+
     private
 
     delegate :from_date, to: :config

@@ -26,6 +26,10 @@ module Sonarr
           .map { |title, items| Summary.new(title:, items:) }
     end
 
+    def summary
+      "Sonarr Summary:\n#{items.map(&:summary).join("\n")}"
+    end
+
     private
 
     delegate :from_date, to: :config
