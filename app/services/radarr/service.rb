@@ -27,10 +27,8 @@ module Radarr
       config.radarr
     end
 
-    def verify
-      super
-      found_app_name = Request.perform(url: "#{base_url}#{STATUS_ENDPOINT}", api_key:)[:appName]
-      raise "Error this is not an instance of #{app_name} found (#{found_app_name})" if found_app_name != app_name
+    def pull_app_name
+      Request.perform(url: "#{base_url}#{STATUS_ENDPOINT}", api_key:)[:appName]
     end
   end
 end

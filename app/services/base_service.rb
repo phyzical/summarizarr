@@ -46,8 +46,21 @@ class BaseService
   end
   # :nocov:
 
+  # :nocov:
+  def pull_app_name
+    raise 'Please implement!'
+  end
+  # :nocov:
+
   def verify
     raise "#{app_name} URL is not set, will be skipped" if base_url.blank?
     raise "#{app_name} API Key is not set, will be skipped" if api_key.blank?
+    begin
+      found_app_name = pull_app_name
+    rescue StandardError => _e
+      found_app_name = 'N/A'
+    end
+    return if found_app_name == app_name
+    raise "Error this is not an instance of #{app_name} found (#{found_app_name}) Skipping"
   end
 end

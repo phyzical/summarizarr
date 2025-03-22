@@ -37,5 +37,15 @@ RSpec.describe Radarr::Service do
         expect { items }.to output(/Radarr URL is not set, will be skipped/).to_stdout
       end
     end
+
+    context 'when the wrong / invalid app is found given config' do
+      before { stub_fakeserver }
+
+      let(:base_url) { 'http://fakeserver' }
+
+      it 'alerts and skips' do
+        expect { items }.to output(/Error this is not an instance of Radarr/).to_stdout
+      end
+    end
   end
 end
