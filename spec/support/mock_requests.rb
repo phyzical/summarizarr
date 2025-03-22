@@ -7,11 +7,15 @@ module MockRequests
   end
 
   def stub_sonarr
-    stub_endpoint('http://sonarr:8989/api/v3/history/since')
+    api_url = 'http://sonarr:8989/api/v3'
+    stub_endpoint("#{api_url}/history/since")
+    stub_endpoint("#{api_url}/system/status")
   end
 
   def stub_radarr
-    stub_endpoint('http://radarr:7878/api/v3/history/since')
+    api_url = 'http://radarr:7878/api/v3'
+    stub_endpoint("#{api_url}/history/since")
+    stub_endpoint("#{api_url}/system/status")
   end
 
   def stub_all
