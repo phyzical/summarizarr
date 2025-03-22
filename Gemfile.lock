@@ -100,6 +100,9 @@ GEM
       unicode-display_width (>= 2.4.0, < 4.0)
     rubocop-ast (1.38.0)
       parser (>= 3.3.1.0)
+    rubocop-factory_bot (2.27.1)
+      lint_roller (~> 1.1)
+      rubocop (~> 1.72, >= 1.72.1)
     rubocop-performance (1.24.0)
       lint_roller (~> 1.1)
       rubocop (>= 1.72.1, < 2.0)
@@ -158,6 +161,7 @@ DEPENDENCIES
   rake
   rspec
   rubocop
+  rubocop-factory_bot
   rubocop-performance
   rubocop-rake
   rubocop-rspec

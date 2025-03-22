@@ -9,6 +9,7 @@ require 'factory_bot'
 require 'faker'
 require 'webmock/rspec'
 require 'rubocop-rspec'
+require 'rubocop-factory_bot'
 
 Dir[File.join(__dir__, 'support', '**', '*.rb')].each { |file| require_relative file }
 

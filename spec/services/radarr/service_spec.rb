@@ -14,4 +14,28 @@ RSpec.describe Radarr::Service do
     expect(items.count).to be(2)
     expect(items).to all(be_a(Summary::Item::Thing))
   end
+
+  context 'when apps required config is missing' do
+    before { allow(Config.get).to receive(:radarr).and_return(Config::AppConfig.new(**config)) }
+
+    let(:config) { { api_key:, base_url: } }
+    let(:base_url) { Faker::Internet.url }
+    let(:api_key) { Faker::Internet.password }
+
+    context 'when api_key missing' do
+      let(:api_key) { '' }
+
+      it 'alerts and skips' do
+        expect { items }.to output(/Radarr API Key is not set, will be skipped/).to_stdout
+      end
+    end
+
+    context 'when base_url missing' do
+      let(:base_url) { '' }
+
+      it 'alerts and skips' do
+        expect { items }.to output(/Radarr URL is not set, will be skipped/).to_stdout
+      end
+    end
+  end
 end

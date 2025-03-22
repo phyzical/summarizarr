@@ -20,6 +20,7 @@ group :test do
   gem 'factory_bot', require: false
   gem 'faker', require: false
   gem 'rspec', require: false
+  gem 'rubocop-factory_bot', require: false
   gem 'rubocop-rspec', require: false
   gem 'simplecov', require: false
   gem 'simplecov-console', require: false

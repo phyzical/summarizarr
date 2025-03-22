@@ -2,7 +2,13 @@
 
 class BaseService
   def initialize
-    verify
+    begin
+      verify
+    rescue StandardError => e
+      @items = []
+      puts e
+      return
+    end
     items
   end
 
@@ -16,6 +22,10 @@ class BaseService
   delegate :from_date, to: :config
   delegate :base_url, :api_key, to: :app_config
 
+  def items
+    raise 'Not implemented'
+  end
+
   private
 
   def config
@@ -26,8 +36,12 @@ class BaseService
     raise 'Not implemented'
   end
 
+  def app_config
+    raise 'Not implemented'
+  end
+
   def verify
-    warn "#{app_name} URL is not set" if base_url.blank?
-    warn "#{app_name} API Key is not set" if api_key.blank?
+    raise "#{app_name} URL is not set, will be skipped" if base_url.blank?
+    raise "#{app_name} API Key is not set, will be skipped" if api_key.blank?
   end
 end
