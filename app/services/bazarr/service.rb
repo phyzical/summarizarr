@@ -14,12 +14,11 @@ module Bazarr
     ITEM_MAX = 5000
 
     def items
-      return @items if @items.present?
-
-      (
-        Request.perform(url: "#{base_url}#{EPISODE_HISTORY_ENDPOINT}", get_vars:, headers:)[:data] +
-          Request.perform(url: "#{base_url}#{MOVIE_HISTORY_ENDPOINT}", get_vars:, headers:)[:data]
-      ).map { |json| Item.from_json(json:) }.reject { |item| item.parsed_timestamp >= from_date }
+      @items ||=
+        (
+          Request.perform(url: "#{base_url}#{EPISODE_HISTORY_ENDPOINT}", get_vars:, headers:)[:data] +
+            Request.perform(url: "#{base_url}#{MOVIE_HISTORY_ENDPOINT}", get_vars:, headers:)[:data]
+        ).map { |json| Item.from_json(json:) }.filter { |item| item.date >= from_date }
     end
 
     private
@@ -37,11 +36,11 @@ module Bazarr
     end
 
     def app_config
-      config.sonarr
+      config.bazarr
     end
 
     def pull_app_name
-      if Request.perform(url: "#{base_url}#{STATUS_ENDPOINT}", api_key:)[:data][:bazarr_version].present?
+      if Request.perform(url: "#{base_url}#{STATUS_ENDPOINT}", headers:)[:data].try(:bazarr_version).present?
         app_name
       else
         'N/A'
