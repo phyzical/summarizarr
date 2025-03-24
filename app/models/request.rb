@@ -10,7 +10,8 @@ module Request
       def perform
         puts "Requesting #{http_request.uri}"
         response = http.request(http_request)
-        JSON.parse(response.body.force_encoding('UTF-8'), symbolize_names: true)
+        return JSON.parse(response.body.force_encoding('UTF-8'), symbolize_names: true) if response.code == '200'
+        {}
       end
 
       def http_request
