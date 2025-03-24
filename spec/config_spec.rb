@@ -24,7 +24,7 @@ RSpec.describe Config do
     subject(:from_date) { config.from_date }
 
     it 'has a default config' do
-      expect(from_date).to be_within(0.1).of(7.days.ago)
+      expect(from_date).to match(7.days.ago.to_date)
     end
   end
 end

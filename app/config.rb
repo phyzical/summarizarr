@@ -10,7 +10,7 @@ module Config
   Thing =
     Struct.new do
       def from_date
-        @from_date ||= ENV.fetch('SUMMARY_DAYS', '7').to_i.days.ago
+        @from_date ||= ENV.fetch('SUMMARY_DAYS', '7').to_i.days.ago.to_date
       end
 
       def sonarr
