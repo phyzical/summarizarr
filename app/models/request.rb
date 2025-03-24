@@ -8,9 +8,11 @@ module Request
   Thing =
     Struct.new(:url, :headers, :get_vars, :body) do
       def perform
+        puts "Requesting #{http_request.uri}"
         response = http.request(http_request)
         json = JSON.parse(response.body.force_encoding('UTF-8'), symbolize_names: true)
-        json[:data] if json[:data].present?
+        return json if json.is_a?(Array)
+        return json[:data] if json[:data].present?
         json
       end
 
