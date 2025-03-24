@@ -30,7 +30,8 @@ RSpec.describe Sonarr::Item do
                 '"Spellmaster" at the regional Spelling Bee.',
             image: 'https://artworks.thetvdb.com/banners/graphical/79335-g4.jpg',
             deletion?: false,
-            quality: 'Bluray-1080p'
+            quality: 'Bluray-1080p',
+            old_quality: nil
           }
         )
       end
@@ -52,8 +53,29 @@ RSpec.describe Sonarr::Item do
               '"Spellmaster" at the regional Spelling Bee.',
           image: 'https://artworks.thetvdb.com/banners/graphical/79335-g4.jpg',
           deletion?: true,
-          quality: 'SDTV'
+          quality: 'SDTV',
+          old_quality: nil
         )
+      end
+    end
+  end
+
+  describe '#summary' do
+    subject(:summary) { item.summary }
+
+    let(:item) { build(:sonarr_item, old_quality:) }
+
+    let(:old_quality) { nil }
+
+    it 'when no old_quality' do
+      expect(summary).to eq("#{item.title} has downloaded at #{item.quality}")
+    end
+
+    context 'when old_quality is present' do
+      let(:old_quality) { 'DVD' }
+
+      it 'runs' do
+        expect(summary).to eq("#{item.title} has upgraded from #{item.old_quality} to #{item.quality}")
       end
     end
   end
