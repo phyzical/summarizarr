@@ -40,7 +40,7 @@ module Bazarr
     end
 
     def pull_app_name
-      if Request.perform(url: "#{base_url}#{STATUS_ENDPOINT}", headers:)[:data].try(:bazarr_version).present?
+      if Request.perform(url: "#{base_url}#{STATUS_ENDPOINT}", headers:)[:data]&.dig(:bazarr_version).present?
         app_name
       else
         'N/A'
