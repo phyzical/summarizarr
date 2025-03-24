@@ -10,10 +10,7 @@ module Request
       def perform
         puts "Requesting #{http_request.uri}"
         response = http.request(http_request)
-        json = JSON.parse(response.body.force_encoding('UTF-8'), symbolize_names: true)
-        return json if json.is_a?(Array)
-        return json[:data] if json[:data].present?
-        json
+        JSON.parse(response.body.force_encoding('UTF-8'), symbolize_names: true)
       end
 
       def http_request

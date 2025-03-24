@@ -41,7 +41,11 @@ module Bazarr
     end
 
     def pull_app_name
-      Request.perform(url: "#{base_url}#{STATUS_ENDPOINT}", api_key:)[:bazarr_version].present? ? app_name : 'N/A'
+      if Request.perform(url: "#{base_url}#{STATUS_ENDPOINT}", api_key:)[:data][:bazarr_version].present?
+        app_name
+      else
+        'N/A'
+      end
     end
   end
 end
