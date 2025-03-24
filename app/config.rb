@@ -28,5 +28,13 @@ module Config
             api_key: ENV.fetch('RADARR_API_KEY', '12345')
           )
       end
+
+      def bazarr
+        @bazarr ||=
+          AppConfig.new(
+            base_url: ENV.fetch('BAZARR_URL', 'http://bazarr:6767'),
+            api_key: ENV.fetch('BAZARR_API_KEY', '12345')
+          )
+      end
     end
 end
