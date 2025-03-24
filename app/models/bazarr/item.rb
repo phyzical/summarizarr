@@ -15,7 +15,7 @@ module Bazarr
     def self.from_json(json:)
       json[:language] = json[:language][:name]
       json[:title] = json[:episodeTitle] || json[:title]
-      json[:date] = DateTime.strptime(json[:parsed_timestamp], '%m/%d/%y %H:%M:%S').strftime('%d/%m/%Y')
+      json[:date] = DateTime.strptime(json[:parsed_timestamp], '%m/%d/%y %H:%M:%S').to_date
       Thing.new(**json.slice(*ATTRIBUTES.keys).transform_keys { |k| ATTRIBUTES[k] })
     end
 

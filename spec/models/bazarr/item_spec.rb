@@ -26,7 +26,7 @@ RSpec.describe Bazarr::Item do
             episode_number: '2x5',
             title: 'Only Gunshots to Guide Us',
             description: 'English subtitles downloaded from whisperai with a score of 66.94%.',
-            date: '23/03/2025',
+            date: Date.strptime('23/03/2025', '%d/%m/%Y'),
             score: '66.94%'
           }
         )
@@ -51,7 +51,7 @@ RSpec.describe Bazarr::Item do
             episode_number: nil,
             title: 'Snow White',
             description: 'English subtitles downloaded from supersubtitles with a score of 75.83%.',
-            date: '23/03/2025',
+            date: Date.strptime('23/03/2025', '%d/%m/%Y'),
             score: '75.83%'
           }
         )
