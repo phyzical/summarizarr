@@ -2,49 +2,43 @@
 
 require 'spec_helper'
 
-RSpec.describe Radarr::Service do
-  include MockRequests
-  subject(:items) { service.items }
+module Radarr
+  RSpec.describe Service do
+    include MockRequests
+    subject(:items) { service.items }
 
-  let(:service) { described_class.new }
+    let(:service) { described_class.new }
 
-  before { stub_radarr }
+    before { stub_radarr }
 
-  it 'returns history only containing expected types and groups by title' do
-    expect(items.count).to be(2)
-    expect(items).to all(be_a(Summary::Item::Thing))
-  end
-
-  context 'when apps required config is missing' do
-    before { allow(Config.get).to receive(:radarr).and_return(Config::AppConfig.new(**config)) }
-
-    let(:config) { { api_key:, base_url: } }
-    let(:base_url) { Faker::Internet.url }
-    let(:api_key) { Faker::Internet.password }
-
-    context 'when api_key missing' do
-      let(:api_key) { '' }
-
-      it 'alerts and skips' do
-        expect { items }.to output(/Radarr API Key is not set, will be skipped/).to_stdout
-      end
+    it 'returns history only containing expected types and groups by title' do
+      expect(items.count).to be(2)
+      expect(items).to all(be_a(Item::Thing))
     end
 
-    context 'when base_url missing' do
-      let(:base_url) { '' }
+    context 'when apps required config is missing' do
+      before { allow(Config.get).to receive(:radarr).and_return(Config::AppConfig.new(**config)) }
 
-      it 'alerts and skips' do
-        expect { items }.to output(/Radarr URL is not set, will be skipped/).to_stdout
+      let(:config) { { api_key:, base_url: } }
+      let(:base_url) { Faker::Internet.url }
+      let(:api_key) { Faker::Internet.password }
+
+      context 'when base_url missing' do
+        let(:base_url) { '' }
+
+        it 'alerts and skips' do
+          expect { items }.to output(/Radarr URL is not set, will be skipped/).to_stdout
+        end
       end
-    end
 
-    context 'when the wrong / invalid app is found given config' do
-      before { stub_fakeserver }
+      context 'when the wrong / invalid app is found given config' do
+        before { stub_fakeserver }
 
-      let(:base_url) { 'http://fakeserver' }
+        let(:base_url) { 'http://fakeserver' }
 
-      it 'alerts and skips' do
-        expect { items }.to output(/Error this is not an instance of Radarr/).to_stdout
+        it 'alerts and skips' do
+          expect { items }.to output(/Error this is not an instance of Radarr/).to_stdout
+        end
       end
     end
   end

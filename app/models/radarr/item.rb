@@ -11,7 +11,8 @@ module Radarr
       image: :image,
       overview: :overview,
       deletion?: :deletion?,
-      quality: :quality
+      quality: :quality,
+      old_quality: :old_quality
     }.freeze
 
     def self.from_json(json:)
@@ -24,6 +25,15 @@ module Radarr
       Thing.new(**json.slice(*ATTRIBUTES.keys).transform_keys { |k| ATTRIBUTES[k] })
     end
 
-    Thing = Struct.new(*ATTRIBUTES.values)
+    Thing =
+      Struct.new(*ATTRIBUTES.values) do
+        def summary
+          if old_quality.present?
+            "#{title} has upgraded from #{old_quality} to #{quality}"
+          else
+            "#{title} has downloaded at #{quality}"
+          end
+        end
+      end
   end
 end

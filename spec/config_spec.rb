@@ -20,11 +20,19 @@ RSpec.describe Config do
     end
   end
 
+  describe '#bazarr' do
+    subject(:bazarr) { config.bazarr }
+
+    it 'has a default config' do
+      expect(bazarr.to_h).to eq(base_url: 'http://bazarr:6767', api_key: '12345')
+    end
+  end
+
   describe '#from_date' do
     subject(:from_date) { config.from_date }
 
     it 'has a default config' do
-      expect(from_date).to be_within(0.1).of(7.days.ago)
+      expect(from_date).to match(7.days.ago.to_date)
     end
   end
 end

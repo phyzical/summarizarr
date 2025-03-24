@@ -1,15 +1,17 @@
 # frozen_string_literal: true
 
 module Request
-  def self.perform(url:, api_key:, get_vars: {}, headers: {})
-    Thing.new(url:, api_key:, headers:, get_vars:).perform
+  def self.perform(url:, get_vars: {}, headers: {})
+    Thing.new(url:, headers:, get_vars:).perform
   end
 
   Thing =
-    Struct.new(:url, :api_key, :headers, :get_vars, :body) do
+    Struct.new(:url, :headers, :get_vars, :body) do
       def perform
+        puts "Requesting #{http_request.uri}"
         response = http.request(http_request)
-        JSON.parse(response.body.force_encoding('UTF-8'), symbolize_names: true)
+        return JSON.parse(response.body.force_encoding('UTF-8'), symbolize_names: true) if response.code == '200'
+        {}
       end
 
       def http_request
@@ -18,7 +20,6 @@ module Request
         @http_request = Net::HTTP::Get.new(URI("#{url}?#{uris}"), **headers)
         @http_request['Content-Type'] = 'application/json'
         @http_request['Accept'] = 'application/json'
-        @http_request['Authorization'] = "Bearer #{api_key}"
         @http_request
       end
 

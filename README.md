@@ -28,7 +28,11 @@ NOTE: if you using the env file you need to quote your variables, if your provid
 |                |                                   |                        |                                  |
 | SONARR_URL     | only if you want sonarr summaries | '<http://sonarr:8989>' | Url to your sonarr instance      |
 |                |                                   |                        |                                  |
-| RADARR_API_KEY | only if you want sonarr summaries | '12345'                | api key for your sonarr instance |
+| SONARR_API_KEY | only if you want sonarr summaries | '12345'                | api key for your sonarr instance |
+|                |                                   |                        |                                  |
+| BAZARR_URL     | only if you want bazarr summaries | '<http://bazarr:8989>' | Url to your bazarr instance      |
+|                |                                   |                        |                                  |
+| BAZARR_API_KEY | only if you want bazarr summaries | '12345'                | api key for your bazarr instance |
 |                |                                   |                        |                                  |
 | SUMMARY_DAYS   | no                                | '7'                    | The amount of days to summarise  |
 |                |                                   |                        |                                  |

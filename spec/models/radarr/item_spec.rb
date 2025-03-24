@@ -27,7 +27,8 @@ RSpec.describe Radarr::Item do
                 'presents his own solo show: "Firing Cheeseballs at a Dog."',
             image: 'https://image.tmdb.org/t/p/original/2FoKVOPJ8OoHQUc2nGeJ2X9V0h6.jpg',
             deletion?: false,
-            quality: 'WEBDL-1080p'
+            quality: 'WEBDL-1080p',
+            old_quality: nil
           }
         )
       end
@@ -47,9 +48,30 @@ RSpec.describe Radarr::Item do
                 'presents his own solo show: "Firing Cheeseballs at a Dog."',
             image: 'https://image.tmdb.org/t/p/original/2FoKVOPJ8OoHQUc2nGeJ2X9V0h6.jpg',
             deletion?: true,
-            quality: 'DVD'
+            quality: 'DVD',
+            old_quality: nil
           }
         )
+      end
+    end
+  end
+
+  describe '#summary' do
+    subject(:summary) { item.summary }
+
+    let(:item) { build(:radarr_item, old_quality:) }
+
+    let(:old_quality) { nil }
+
+    it 'when no old_quality' do
+      expect(summary).to eq("#{item.title} has downloaded at #{item.quality}")
+    end
+
+    context 'when old_quality is present' do
+      let(:old_quality) { 'DVD' }
+
+      it 'runs' do
+        expect(summary).to eq("#{item.title} has upgraded from #{item.old_quality} to #{item.quality}")
       end
     end
   end

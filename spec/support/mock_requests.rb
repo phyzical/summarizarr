@@ -14,20 +14,31 @@ module MockRequests
   end
 
   def stub_sonarr
-    api_url = 'http://sonarr:8989/api/v3'
-    stub_endpoint("#{api_url}/history/since")
-    stub_endpoint("#{api_url}/system/status")
+    stub_endpoint("#{load_config.sonarr.base_url}#{Sonarr::Service::SINCE_ENDPOINT}")
+    stub_endpoint("#{load_config.sonarr.base_url}#{Sonarr::Service::STATUS_ENDPOINT}")
   end
 
   def stub_radarr
-    api_url = 'http://radarr:7878/api/v3'
-    stub_endpoint("#{api_url}/history/since")
-    stub_endpoint("#{api_url}/system/status")
+    stub_endpoint("#{load_config.radarr.base_url}#{Radarr::Service::SINCE_ENDPOINT}")
+    stub_endpoint("#{load_config.radarr.base_url}#{Radarr::Service::STATUS_ENDPOINT}")
+  end
+
+  def stub_bazarr
+    stub_endpoint("#{load_config.bazarr.base_url}#{Bazarr::Service::EPISODE_HISTORY_ENDPOINT}")
+    stub_endpoint("#{load_config.bazarr.base_url}#{Bazarr::Service::MOVIE_HISTORY_ENDPOINT}")
+    stub_endpoint("#{load_config.bazarr.base_url}#{Bazarr::Service::STATUS_ENDPOINT}")
   end
 
   def stub_all
+    stub_bazarr
     stub_sonarr
     stub_radarr
     stub_fakeserver
+  end
+
+  private
+
+  def load_config
+    @load_config ||= Config.get
   end
 end

@@ -38,4 +38,7 @@ run-image-test:
 	@docker run -it --rm \
 	${TEST_COMMON} \
 	${IMAGE_NAME}:test \
-	bundle exec rspec
+	bundle exec rspec -fd ${TARGET}
+
+lint:
+	bundle exec rake lint_fix
