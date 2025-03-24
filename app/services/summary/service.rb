@@ -2,9 +2,10 @@
 
 module Summary
   module Service
+    SERVICES = [Radarr::Service, Sonarr::Service, Bazarr::Service].freeze
     class << self
       def generate
-        [Radarr::Service.new, Sonarr::Service.new].map(&:summary).join("\n")
+        SERVICES.map { |x| x.new.summary }.join("\n")
       end
     end
   end
