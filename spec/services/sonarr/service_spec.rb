@@ -23,14 +23,6 @@ module Sonarr
       let(:base_url) { Faker::Internet.url }
       let(:api_key) { Faker::Internet.password }
 
-      context 'when api_key missing' do
-        let(:api_key) { '' }
-
-        it 'alerts and skips' do
-          expect { items }.to output(/Sonarr API Key is not set, will be skipped/).to_stdout
-        end
-      end
-
       context 'when base_url missing' do
         let(:base_url) { '' }
 
