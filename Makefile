@@ -39,3 +39,6 @@ run-image-test:
 	${TEST_COMMON} \
 	${IMAGE_NAME}:test \
 	bundle exec rspec -fd ${TARGET}
+
+lint:
+	bundle exec rake lint_fix
