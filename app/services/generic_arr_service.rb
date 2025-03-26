@@ -29,13 +29,17 @@ class GenericArrService < BaseService
     Request.perform(url: "#{base_url}#{self.class.since_endpoint}", headers:, get_vars:)
   end
 
+  # :nocov:
   def filter(*)
     raise 'Please implement in subclass'
   end
+  # :nocov:
 
+  # :nocov:
   def map(*)
     raise 'Please implement in subclass'
   end
+  # :nocov:
 
   def combine(combinable:)
     combinable
@@ -49,9 +53,11 @@ class GenericArrService < BaseService
       end
   end
 
+  # :nocov:
   def get_vars # rubocop:disable Naming/AccessorMethodName
     { date: from_date }
   end
+  # :nocov:
 
   def headers
     { Authorization: "Bearer #{api_key}" }

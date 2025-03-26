@@ -23,7 +23,7 @@ module Lidarr
       json[:album] = json[:album]&.dig(:title)
       json[:title] = json[:track] || json[:album]
       if json[:artist]
-        json[:image] = json[:artist][:images].pluck(:url)&.first
+        json[:image] = json[:artist][:images].pluck(:url).first
         json[:artist] = json[:artist][:artistName]
       end
       json[:deletion?] = json[:data][:reason] == 'Upgrade'
