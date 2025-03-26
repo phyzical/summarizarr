@@ -2,26 +2,46 @@
 
 module Bazarr
   class Service < BaseService
-    API_PREFIX = '/api'
-
-    # curl -X 'GET' 'https://bazarr/api/episodes/history?length=-1' -H 'accept: application/json' -H 'X-API-KEY: 12345'
-    EPISODE_HISTORY_ENDPOINT = "#{API_PREFIX}/episodes/history".freeze
-    # curl -X 'GET' 'https://bazarr/api/movies/history?length=-1' -H 'accept: application/json' -H 'X-API-KEY: 12345'
-    MOVIE_HISTORY_ENDPOINT = "#{API_PREFIX}/movies/history".freeze
-    # curl -X 'GET' 'http://bazarr/api/system/status?apikey=asd'   -H 'accept: application/json'
-    STATUS_ENDPOINT = "#{API_PREFIX}/system/status".freeze
     # We set this as pagination breaks the ordering
     ITEM_MAX = 5000
 
-    def items
-      @items ||=
-        (
-          Request.perform(url: "#{base_url}#{EPISODE_HISTORY_ENDPOINT}", get_vars:, headers:)[:data] +
-            Request.perform(url: "#{base_url}#{MOVIE_HISTORY_ENDPOINT}", get_vars:, headers:)[:data]
-        ).map { |json| Item.from_json(json:) }.filter { |item| item.date >= from_date }
+    private
+
+    class << self
+      def api_prefix
+        '/api'
+      end
+
+      # curl -X 'GET' 'https://bazarr/api/episodes/history?length=-1' -H 'accept: application/json' -H 'X-API-KEY: 12345' # rubocop:disable Layout/LineLength
+      def episode_history_endpoint
+        "#{api_prefix}/episodes/history"
+      end
+      # curl -X 'GET' 'https://bazarr/api/movies/history?length=-1' -H 'accept: application/json' -H 'X-API-KEY: 12345'
+
+      def movie_history_endpoint
+        "#{api_prefix}/movies/history"
+      end
+      # curl -X 'GET' 'http://bazarr/api/system/status?apikey=asd'   -H 'accept: application/json'
+
+      def status_endpoint
+        "#{api_prefix}/system/status"
+      end
     end
 
-    private
+    def pull
+      (
+        Request.perform(url: "#{base_url}#{episode_history_endpoint}", get_vars:, headers:)[:data] +
+          Request.perform(url: "#{base_url}#{movie_history_endpoint}", get_vars:, headers:)[:data]
+      )
+    end
+
+    def map(json:)
+      Item.from_json(json:)
+    end
+
+    def filter(item:)
+      item.date >= from_date
+    end
 
     def get_vars # rubocop:disable Naming/AccessorMethodName
       { length: ITEM_MAX, page: 0 }
@@ -40,7 +60,7 @@ module Bazarr
     end
 
     def pull_app_name
-      if Request.perform(url: "#{base_url}#{STATUS_ENDPOINT}", headers:)[:data]&.dig(:bazarr_version).present?
+      if Request.perform(url: "#{base_url}#{status_endpoint}", headers:)[:data]&.dig(:bazarr_version).present?
         app_name
       else
         'N/A'
