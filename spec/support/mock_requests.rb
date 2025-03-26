@@ -28,7 +28,7 @@ module MockRequests
   def stub_radarr
     base_url = load_config.radarr.base_url
     stub_endpoint("#{base_url}#{Radarr::Service.since_endpoint}")
-    stub_endpoint("#{load_cbase_url}#{Radarr::Service.status_endpoint}")
+    stub_endpoint("#{base_url}#{Radarr::Service.status_endpoint}")
   end
 
   def stub_bazarr

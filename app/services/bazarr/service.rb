@@ -30,8 +30,8 @@ module Bazarr
 
     def pull
       (
-        Request.perform(url: "#{base_url}#{episode_history_endpoint}", get_vars:, headers:)[:data] +
-          Request.perform(url: "#{base_url}#{movie_history_endpoint}", get_vars:, headers:)[:data]
+        Request.perform(url: "#{base_url}#{self.class.episode_history_endpoint}", get_vars:, headers:)[:data] +
+          Request.perform(url: "#{base_url}#{self.class.movie_history_endpoint}", get_vars:, headers:)[:data]
       )
     end
 
@@ -60,7 +60,9 @@ module Bazarr
     end
 
     def pull_app_name
-      if Request.perform(url: "#{base_url}#{status_endpoint}", headers:)[:data]&.dig(:bazarr_version).present?
+      if Request.perform(url: "#{base_url}#{self.class.status_endpoint}", headers:)[:data]&.dig(
+           :bazarr_version
+         ).present?
         app_name
       else
         'N/A'

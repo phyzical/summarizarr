@@ -12,12 +12,12 @@ module Lidarr
     before { stub_lidarr }
 
     it 'returns history only containing expected types and groups by title' do
-      expect(items.count).to be(52)
+      expect(items.count).to be(32)
       expect(items).to all(be_a(Item::Thing))
     end
 
     context 'when apps required config is missing' do
-      before { allow(Config.get).to receive(:radarr).and_return(Config::AppConfig.new(**config)) }
+      before { allow(Config.get).to receive(:lidarr).and_return(Config::AppConfig.new(**config)) }
 
       let(:config) { { api_key:, base_url: } }
       let(:base_url) { Faker::Internet.url }
@@ -27,7 +27,7 @@ module Lidarr
         let(:base_url) { '' }
 
         it 'alerts and skips' do
-          expect { items }.to output(/Radarr URL is not set, will be skipped/).to_stdout
+          expect { items }.to output(/Lidarr URL is not set, will be skipped/).to_stdout
         end
       end
 
@@ -37,7 +37,7 @@ module Lidarr
         let(:base_url) { 'http://fakeserver' }
 
         it 'alerts and skips' do
-          expect { items }.to output(/Error this is not an instance of Radarr/).to_stdout
+          expect { items }.to output(/Error this is not an instance of Lidarr/).to_stdout
         end
       end
     end
