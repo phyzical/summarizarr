@@ -29,6 +29,14 @@ module Config
           )
       end
 
+      def lidarr
+        @lidarr ||=
+          AppConfig.new(
+            base_url: ENV.fetch('LIDARR_URL', 'http://lidarr:8686'),
+            api_key: ENV.fetch('LIDARR_API_KEY', '12345')
+          )
+      end
+
       def bazarr
         @bazarr ||=
           AppConfig.new(
