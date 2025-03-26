@@ -54,7 +54,7 @@ module Lidarr
                 'http://assets.fanart.tv/fanart/music/e6de1f3b-6484-491c-88dd-6d619f142abc/artistbackground/zimmer-hans-52241079c6a60.jpg',
               deletion?: true,
               quality: 'MP3-280',
-              old_quality: 'MP3-320'
+              old_quality: nil
             }
           )
         end

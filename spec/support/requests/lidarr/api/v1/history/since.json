@@ -17159,7 +17159,8 @@
       "downloadClient": "sab",
       "releaseGroup": "ENRiCH",
       "size": "16568687",
-      "indexerFlags": "0"
+      "indexerFlags": "0",
+      "reason": "Upgrade"
     },
     "album": {
       "title": "The World of Hans Zimmer - Part II: A New Dimension",
