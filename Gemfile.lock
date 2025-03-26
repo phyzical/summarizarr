@@ -131,6 +131,7 @@ GEM
       prettier_print (>= 1.2.0)
     terminal-table (4.0.0)
       unicode-display_width (>= 1.1.1, < 4)
+    timecop (0.9.10)
     tzinfo (2.0.6)
       concurrent-ruby (~> 1.0)
     unicode-display_width (3.1.4)
@@ -170,6 +171,7 @@ DEPENDENCIES
   simplecov-html
   simplecov-lcov
   syntax_tree
+  timecop
   uri
   w_syntax_tree-erb
   webmock

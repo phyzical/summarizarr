@@ -28,6 +28,14 @@ RSpec.describe Config do
     end
   end
 
+  describe '#lidarr' do
+    subject(:lidarr) { config.lidarr }
+
+    it 'has a default config' do
+      expect(lidarr.to_h).to eq(base_url: 'http://lidarr:8686', api_key: '12345')
+    end
+  end
+
   describe '#from_date' do
     subject(:from_date) { config.from_date }
 

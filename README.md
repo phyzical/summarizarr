@@ -5,14 +5,15 @@
 
 * supports sonarr
 * supports radarr
+* supports bazarr
+* supports lidarr
 
 TODO:
 
-* support bazarr
-* support lidarr
 * support readarr
 * support mymar
 * support tdarr
+* improve the notification contents
 
 ## Envs
 
@@ -33,6 +34,10 @@ NOTE: if you using the env file you need to quote your variables, if your provid
 | BAZARR_URL     | only if you want bazarr summaries | '<http://bazarr:8989>' | Url to your bazarr instance      |
 |                |                                   |                        |                                  |
 | BAZARR_API_KEY | only if you want bazarr summaries | '12345'                | api key for your bazarr instance |
+|                |                                   |                        |                                  |
+| LIDARR_URL     | only if you want lidarr summaries | '<http://lidarr:8686>' | Url to your lidarr instance      |
+|                |                                   |                        |                                  |
+| LIDARR_API_KEY | only if you want lidarr summaries | '12345'                | api key for your lidarr instance |
 |                |                                   |                        |                                  |
 | SUMMARY_DAYS   | no                                | '7'                    | The amount of days to summarise  |
 |                |                                   |                        |                                  |

@@ -14,22 +14,32 @@ module MockRequests
   end
 
   def stub_sonarr
-    stub_endpoint("#{load_config.sonarr.base_url}#{Sonarr::Service::SINCE_ENDPOINT}")
-    stub_endpoint("#{load_config.sonarr.base_url}#{Sonarr::Service::STATUS_ENDPOINT}")
+    base_url = load_config.sonarr.base_url
+    stub_endpoint("#{base_url}#{Sonarr::Service.since_endpoint}")
+    stub_endpoint("#{base_url}#{Sonarr::Service.status_endpoint}")
+  end
+
+  def stub_lidarr
+    base_url = load_config.lidarr.base_url
+    stub_endpoint("#{base_url}#{Lidarr::Service.since_endpoint}")
+    stub_endpoint("#{base_url}#{Lidarr::Service.status_endpoint}")
   end
 
   def stub_radarr
-    stub_endpoint("#{load_config.radarr.base_url}#{Radarr::Service::SINCE_ENDPOINT}")
-    stub_endpoint("#{load_config.radarr.base_url}#{Radarr::Service::STATUS_ENDPOINT}")
+    base_url = load_config.radarr.base_url
+    stub_endpoint("#{base_url}#{Radarr::Service.since_endpoint}")
+    stub_endpoint("#{base_url}#{Radarr::Service.status_endpoint}")
   end
 
   def stub_bazarr
-    stub_endpoint("#{load_config.bazarr.base_url}#{Bazarr::Service::EPISODE_HISTORY_ENDPOINT}")
-    stub_endpoint("#{load_config.bazarr.base_url}#{Bazarr::Service::MOVIE_HISTORY_ENDPOINT}")
-    stub_endpoint("#{load_config.bazarr.base_url}#{Bazarr::Service::STATUS_ENDPOINT}")
+    base_url = load_config.bazarr.base_url
+    stub_endpoint("#{base_url}#{Bazarr::Service.episode_history_endpoint}")
+    stub_endpoint("#{base_url}#{Bazarr::Service.movie_history_endpoint}")
+    stub_endpoint("#{base_url}#{Bazarr::Service.status_endpoint}")
   end
 
   def stub_all
+    stub_lidarr
     stub_bazarr
     stub_sonarr
     stub_radarr

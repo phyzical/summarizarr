@@ -8,6 +8,6 @@ FactoryBot.define do
     title { Faker::Theater.play }
     image { Faker::Internet.url }
     deletion? { Faker::Boolean.boolean }
-    quality { Faker::Quality.name }
+    quality { Faker::Quality.tv }
   end
 end
