@@ -22,13 +22,33 @@ class BaseService
   delegate :from_date, to: :config
   delegate :base_url, :api_key, to: :app_config
 
-  # :nocov:
   def items
+    @items ||= process
+  end
+
+  private
+
+  def process
+    pull.map { |json| map(json:) }.filter { |item| filter(item:) }
+  end
+
+  # :nocov:
+  def pull
     raise 'Please implement!'
   end
   # :nocov:
 
-  private
+  # :nocov:
+  def map
+    raise 'Please implement!'
+  end
+  # :nocov:
+
+  # :nocov:
+  def filter
+    raise 'Please implement!'
+  end
+  # :nocov:
 
   def config
     @config ||= Config.get
