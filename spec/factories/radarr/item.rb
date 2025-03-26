@@ -7,6 +7,6 @@ FactoryBot.define do
     title { Faker::Movie.title }
     image { Faker::Internet.url }
     deletion? { Faker::Boolean.boolean }
-    quality { Faker::Quality.name }
+    quality { Faker::Quality.tv }
   end
 end
