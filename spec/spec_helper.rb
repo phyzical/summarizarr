@@ -10,12 +10,16 @@ require 'faker'
 require 'webmock/rspec'
 require 'rubocop-rspec'
 require 'rubocop-factory_bot'
+require 'timecop'
 
 Dir[File.join(__dir__, 'support', '**', '*.rb')].each { |file| require_relative file }
 
 RSpec.configure do |config|
   config.include FactoryBot::Syntax::Methods
-  config.before(:suite) { FactoryBot.find_definitions }
+  config.before(:suite) do
+    FactoryBot.find_definitions
+    Timecop.freeze(Date.new(2025, 3, 24))
+  end
   config.expect_with :rspec do |expectations|
     expectations.include_chain_clauses_in_custom_matcher_descriptions = true
   end
