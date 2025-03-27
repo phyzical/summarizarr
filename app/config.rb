@@ -37,6 +37,14 @@ module Config
           )
       end
 
+      def readarr
+        @readarr ||=
+          AppConfig.new(
+            base_url: ENV.fetch('READARR_URL', 'http://readarr:8787'),
+            api_key: ENV.fetch('READARR_API_KEY', '12345')
+          )
+      end
+
       def bazarr
         @bazarr ||=
           AppConfig.new(
