@@ -21,16 +21,12 @@ module Readarr
           expect(from_json.to_h).to match(
             {
               event_type: described_class::EVENT_TYPES[:book_file_imported],
-              album: 'The World of Hans Zimmer - Part II: A New Dimension',
-              artist: 'Hans Zimmer',
-              track:
-                '01-hans_zimmer_lucy_landymore_luis_ribeiro_odessa_orchestra_and_friends_gavin_greenaway-man_of_steel_what_are_you_g-520a3c53', # rubocop:disable Layout/LineLength
-              title:
-                '01-hans_zimmer_lucy_landymore_luis_ribeiro_odessa_orchestra_and_friends_gavin_greenaway-man_of_steel_what_are_you_g-520a3c53', # rubocop:disable Layout/LineLength
+              author: 'Brandon Sanderson',
+              title: 'Brandon Sanderson - Cosmere - Tress of the Emerald Sea (retail) (epub)',
               image:
-                'http://assets.fanart.tv/fanart/music/e6de1f3b-6484-491c-88dd-6d619f142abc/artistbackground/zimmer-hans-52241079c6a60.jpg',
+                'https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/authors/1394044556i/38550.jpg',
               deletion?: false,
-              quality: 'MP3-320',
+              quality: 'EPUB',
               old_quality: nil
             }
           )
@@ -44,16 +40,12 @@ module Readarr
           expect(from_json.to_h).to eq(
             {
               event_type: described_class::EVENT_TYPES[:book_file_deleted],
-              album: 'The World of Hans Zimmer - Part II: A New Dimension',
-              artist: 'Hans Zimmer',
-              track:
-                '20-hans_zimmer_lisa_gerrard_gan-ya_ben-gur_akselrod_odessa_orchestra_and_friends_gavin_greenaway-gladiator_suite__p-da4e66c6', # rubocop:disable Layout/LineLength
-              title:
-                '20-hans_zimmer_lisa_gerrard_gan-ya_ben-gur_akselrod_odessa_orchestra_and_friends_gavin_greenaway-gladiator_suite__p-da4e66c6', # rubocop:disable Layout/LineLength
+              author: 'Brandon Sanderson',
+              title: 'asdasdasdasdad Sanderson - Cosmere - Tress of the Emerald Sea (retail) (epub)',
               image:
-                'http://assets.fanart.tv/fanart/music/e6de1f3b-6484-491c-88dd-6d619f142abc/artistbackground/zimmer-hans-52241079c6a60.jpg',
+                'https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/authors/1394044556i/38550.jpg',
               deletion?: true,
-              quality: 'MP3-280',
+              quality: 'EPUB',
               old_quality: nil
             }
           )

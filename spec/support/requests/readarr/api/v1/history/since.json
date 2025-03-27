@@ -2,7 +2,7 @@
   {
     "bookId": 439,
     "authorId": 2,
-    "sourceTitle": "Brandon Sanderson - Cosmere - Tress of the Emerald Sea (retail) (epub)",
+    "sourceTitle": "asdasdasdasdad Sanderson - Cosmere - Tress of the Emerald Sea (retail) (epub)",
     "quality": {
       "quality": {
         "id": 3,
@@ -19,8 +19,9 @@
     "qualityCutoffNotMet": false,
     "date": "2025-03-26T19:22:53Z",
     "downloadId": "SABnzbd_nzo_hawh8a4u",
-    "eventType": "grabbed",
+    "eventType": "bookFileDeleted",
     "data": {
+      "reason": "Upgrade",
       "indexer": "NzbPlanet (Prowlarr)",
       "nzbInfoUrl": "https://nzbplanet.org/details/59b090f7e11773e3f5098acf39f19cd6",
       "releaseGroup": null,
