@@ -18,7 +18,7 @@ module Lidarr
 
     def self.from_json(json:) # rubocop:disable Metrics/AbcSize
       json[:track] = json[:sourceTitle]
-      # TODO: raise bug in Lidarr
+      # TODO: https://github.com/Lidarr/Lidarr/issues/5421
       # json[:track] = json[:track]&.dig(:title)
       json[:album] = json[:album]&.dig(:title)
       json[:title] = json[:track] || json[:album]
