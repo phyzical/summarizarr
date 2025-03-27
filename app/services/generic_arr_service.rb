@@ -45,7 +45,7 @@ class GenericArrService < BaseService
     combinable
       .group_by(&:title)
       .values
-      .map do |items|
+      .filter_map do |items|
         old = items.find(&:deletion?)
         new = items.reject(&:deletion?).first
         next if new.nil?

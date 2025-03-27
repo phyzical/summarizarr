@@ -12,7 +12,7 @@ module Readarr
     before { stub_readarr }
 
     it 'returns history only containing expected types and groups by title' do
-      expect(items.count).to be(2)
+      expect(items.count).to be(1)
       expect(items).to all(be_a(Item::Thing))
     end
 
