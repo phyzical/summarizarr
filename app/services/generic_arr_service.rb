@@ -48,6 +48,7 @@ class GenericArrService < BaseService
       .map do |items|
         old = items.find(&:deletion?)
         new = items.reject(&:deletion?).first
+        next if new.nil?
         new.old_quality = old.quality if old
         new
       end
