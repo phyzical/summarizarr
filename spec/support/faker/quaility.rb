@@ -4,6 +4,7 @@ module Faker
   class Quality < Base
     TV_QUALITIES = %w[CAM TS SD HD WEB-DL WEBRip HDRip BluRay DVD DVDRip HDTV 480p 720p 1080p 1440p 4K 8K].freeze
     MUSIC_QUALITIES = %w[MP3 AAC FLAC WAV ALAC OGG WMA AIFF DSD 128kbps 192kbps 256kbps 320kbps Lossless Hi-Res].freeze
+    BOOK_QUALITIES = %w[PDF EPUB MOBI AZW3 LIT LRF OEB PDB PML RB RTF SNB TCR TXT DOC DOCX].freeze
 
     class << self
       def tv
@@ -12,6 +13,10 @@ module Faker
 
       def music
         sample(MUSIC_QUALITIES)
+      end
+
+      def book
+        sample(BOOK_QUALITIES)
       end
     end
   end
