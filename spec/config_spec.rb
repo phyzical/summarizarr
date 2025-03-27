@@ -36,6 +36,14 @@ RSpec.describe Config do
     end
   end
 
+  describe '#readarr' do
+    subject(:readarr) { config.readarr }
+
+    it 'has a default config' do
+      expect(readarr.to_h).to eq(base_url: 'http://readarr:8787', api_key: '12345')
+    end
+  end
+
   describe '#from_date' do
     subject(:from_date) { config.from_date }
 

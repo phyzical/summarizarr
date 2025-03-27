@@ -25,6 +25,12 @@ module MockRequests
     stub_endpoint("#{base_url}#{Lidarr::Service.status_endpoint}")
   end
 
+  def stub_readarr
+    base_url = load_config.readarr.base_url
+    stub_endpoint("#{base_url}#{Readarr::Service.since_endpoint}")
+    stub_endpoint("#{base_url}#{Readarr::Service.status_endpoint}")
+  end
+
   def stub_radarr
     base_url = load_config.radarr.base_url
     stub_endpoint("#{base_url}#{Radarr::Service.since_endpoint}")
@@ -39,6 +45,7 @@ module MockRequests
   end
 
   def stub_all
+    stub_readarr
     stub_lidarr
     stub_bazarr
     stub_sonarr

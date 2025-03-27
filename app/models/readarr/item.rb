@@ -1,30 +1,26 @@
 # frozen_string_literal: true
 
-module Lidarr
+module Readarr
   module Item
-    EVENT_TYPES = { track_file_imported: 'trackFileImported', track_file_deleted: 'trackFileDeleted' }.freeze
+    EVENT_TYPES = { book_file_imported: 'bookFileImported', book_file_deleted: 'bookFileDeleted' }.freeze
 
     ATTRIBUTES = {
       eventType: :event_type,
       image: :image,
-      album: :album,
-      track: :track,
-      artist: :artist,
+      author: :author,
       deletion?: :deletion?,
       quality: :quality,
       old_quality: :old_quality,
       title: :title
     }.freeze
 
-    def self.from_json(json:) # rubocop:disable Metrics/AbcSize
-      json[:track] = json[:sourceTitle]
-      # TODO: https://github.com/Lidarr/Lidarr/issues/5421
+    def self.from_json(json:)
+      json[:title] = json[:sourceTitle]
+      # TODO: add an issue on readarr about includeBook having no effect
       # json[:track] = json[:track]&.dig(:title)
-      json[:album] = json[:album]&.dig(:title)
-      json[:title] = json[:track] || json[:album]
-      if json[:artist]
-        json[:image] = json[:artist][:images].pluck(:url).first
-        json[:artist] = json[:artist][:artistName]
+      if json[:author]
+        json[:image] = json[:author][:images].pluck(:url).first
+        json[:author] = json[:author][:authorName]
       end
       json[:deletion?] = json[:data][:reason] == 'Upgrade'
       json[:quality] = json[:quality][:quality][:name]

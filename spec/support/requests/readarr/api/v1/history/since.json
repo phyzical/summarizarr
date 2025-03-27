@@ -1,0 +1,207 @@
+[
+  {
+    "bookId": 439,
+    "authorId": 2,
+    "sourceTitle": "asdasdasdasdad Sanderson - Cosmere - Tress of the Emerald Sea (retail) (epub)",
+    "quality": {
+      "quality": {
+        "id": 3,
+        "name": "EPUB"
+      },
+      "revision": {
+        "version": 1,
+        "real": 0,
+        "isRepack": false
+      }
+    },
+    "customFormats": [],
+    "customFormatScore": 0,
+    "qualityCutoffNotMet": false,
+    "date": "2025-03-26T19:22:53Z",
+    "downloadId": "SABnzbd_nzo_hawh8a4u",
+    "eventType": "bookFileDeleted",
+    "data": {
+      "reason": "Upgrade",
+      "indexer": "NzbPlanet (Prowlarr)",
+      "nzbInfoUrl": "https://nzbplanet.org/details/59b090f7e11773e3f5098acf39f19cd6",
+      "releaseGroup": null,
+      "age": "0",
+      "ageHours": "0.28289569005555554",
+      "ageMinutes": "16.97374155",
+      "publishedDate": "2025-03-26T19:05:55Z",
+      "downloadClient": "SABnzbd",
+      "downloadClientName": "sab",
+      "size": "10821523",
+      "downloadUrl": "http://prowlarr:9696/7/download?apikey=5f771c1869f94fec821832369384a70c&link=RUozQzM0dVpzbTYxSUlkOFQ3blBCS0UwUHFHOGNTc0RKMjJwYVpnYjBFd2JlWm5xVXZ2U2I2TWxvemFWdHBXaWhEdkIxRVgwNmppdVJMaXRhVUllQ0R3eU5iQlJubUVqZTBhb2dDUHVJZlZKOUdDWUtFMGpiMC8yajY4Qm1ISVFWWStjYnBDTVVBN3l5Vmh2M0tsR1F5ODk4QkZsNFRaZUF2N1NkSGhMRURFPQ&file=Brandon+Sanderson+-+Cosmere+-+Tress+of+the+Emerald+Sea+(retail)+(epub)",
+      "guid": "https://nzbplanet.org/details/59b090f7e11773e3f5098acf39f19cd6",
+      "protocol": "1",
+      "downloadForced": "False",
+      "customFormatScore": "0",
+      "releaseSource": "Rss",
+      "indexerFlags": "0"
+    },
+    "author": {
+      "authorMetadataId": 2,
+      "status": "continuing",
+      "ended": false,
+      "authorName": "Brandon Sanderson",
+      "authorNameLastFirst": "Sanderson, Brandon",
+      "foreignAuthorId": "38550",
+      "titleSlug": "38550",
+      "overview": "I’m Brandon Sanderson, and I write stories of the fantastic: fantasy, science fiction, and thrillers.\r\n\r\nDefiant, the fourth and final volume of the series that started with Skyward in 2018, comes out in November 2023, capping an already book-filled year that will see the releases of all four Secret Projects: Tress of the Emerald Sea, The Frugal Wizard’s Handbook for Surviving Medieval England, Yumi and the Nightmare Painter, and Secret Project Four (with its official title reveal coming October 2023). These four books were all initially offered to backers of the #1 Kickstarter campaign of all time.\r\n\r\nNovember 2022 saw the release of The Lost Metal, the seventh volume in the Mistborn saga, and the final volume of the Mistborn Era Two featuring Wax & Wayne. The third era of Mistborn is slated to be written after the first arc of the Stormlight Archive wraps up.\r\n\r\nIn November 2020 we saw the release of Rhythm of War—the fourth massive book in the New York Times #1 bestselling Stormlight Archive series that began with The Way of Kings—and Dawnshard (book 3.5), a novella set in the same world that bridges the gaps between the main releases. This series is my love letter to the epic fantasy genre, and it’s the type of story I always dreamed epic fantasy could be. The fifth volume, Wind and Truth, is set for release in fall 2024.\r\n\r\nMost readers have noticed that my adult fantasy novels are in a connected universe called the Cosmere. This includes The Stormlight Archive, both Mistborn series, Elantris, Warbreaker, and various novellas available on Amazon, including The Emperor’s Soul, which won a Hugo Award in 2013. In November 2016 all of the existing Cosmere short fiction was released in one volume called Arcanum Unbounded. If you’ve read all of my adult fantasy novels and want to see some behind-the-scenes information, that collection is a must-read.\r\n\r\nI also have three YA series: The Rithmatist (currently at one book), The Reckoners (a trilogy beginning with Steelheart), and Skyward. For young readers I also have my humorous series Alcatraz vs. the Evil Librarians, which had its final book, Bastille vs. the Evil Librarians, come out in 2022. Many of my adult readers enjoy all of those books as well, and many of my YA readers enjoy my adult books, usually starting with Mistborn.\r\n\r\nAdditionally, I have a few other novellas that are more on the thriller/sci-fi side. These include the Legion series, as well as Perfect State and Snapshot. There’s a lot of material to go around!\r\n\r\nGood starting places are Mistborn (a.k.a. The Final Empire), Skyward, Steelheart,The Emperor’s Soul, and Alcatraz vs. the Evil Librarians. If you’re already a fan of big fat fantasies, you can jump right into The Way of Kings.\r\n\r\nI was also honored to be able to complete the final three volumes of The Wheel of Time, beginning with The Gathering Storm, using Robert Jordan’s notes.\r\n\r\nSample chapters from all of my books are available at brandonsanderson.com—and check out the rest of my site for chapter-by-chapter annotations, deleted scenes, and more.",
+      "links": [
+        {
+          "url": "http://www.goodreads.com/author/show/38550.Brandon_Sanderson",
+          "name": "Goodreads"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/authors/1394044556i/38550.jpg",
+          "coverType": "poster",
+          "extension": ".jpg"
+        }
+      ],
+      "path": "/media/Brandon Sanderson",
+      "qualityProfileId": 1,
+      "metadataProfileId": 1,
+      "monitored": true,
+      "monitorNewItems": "all",
+      "genres": [],
+      "cleanName": "brandonsanderson",
+      "sortName": "brandon sanderson",
+      "sortNameLastFirst": "sanderson, brandon",
+      "tags": [],
+      "added": "2025-03-05T12:25:17Z",
+      "ratings": {
+        "votes": 5998442,
+        "value": 4.41,
+        "popularity": 26453129.220000003
+      },
+      "statistics": {
+        "bookFileCount": 0,
+        "bookCount": 0,
+        "availableBookCount": 0,
+        "totalBookCount": 0,
+        "sizeOnDisk": 0,
+        "percentOfBooks": 0
+      },
+      "id": 2
+    },
+    "id": 3
+  },
+  {
+    "bookId": 439,
+    "authorId": 2,
+    "sourceTitle": "Brandon Sanderson - Cosmere - Tress of the Emerald Sea (retail) (epub)",
+    "quality": {
+      "quality": {
+        "id": 3,
+        "name": "EPUB"
+      },
+      "revision": {
+        "version": 1,
+        "real": 0,
+        "isRepack": false
+      }
+    },
+    "customFormats": [],
+    "customFormatScore": 0,
+    "qualityCutoffNotMet": false,
+    "date": "2025-03-26T19:24:12Z",
+    "downloadId": "SABnzbd_nzo_hawh8a4u",
+    "eventType": "bookFileImported",
+    "data": {
+      "fileId": "62",
+      "droppedPath": "/downloads/Brandon Sanderson - Cosmere - Tress of the Emerald Sea (retail) (epub)/Brandon Sanderson - Cosmere - Tress of the Emerald Sea (retail) (epub).epub",
+      "importedPath": "/media/Brandon Sanderson/Brandon Sanderson - Cosmere - Tress of the Emerald Sea (retail) (epub).epub",
+      "downloadClient": "SABnzbd",
+      "downloadClientName": "sab",
+      "releaseGroup": null,
+      "size": "10427834",
+      "indexerFlags": "0"
+    },
+    "author": {
+      "authorMetadataId": 2,
+      "status": "continuing",
+      "ended": false,
+      "authorName": "Brandon Sanderson",
+      "authorNameLastFirst": "Sanderson, Brandon",
+      "foreignAuthorId": "38550",
+      "titleSlug": "38550",
+      "overview": "I’m Brandon Sanderson, and I write stories of the fantastic: fantasy, science fiction, and thrillers.\r\n\r\nDefiant, the fourth and final volume of the series that started with Skyward in 2018, comes out in November 2023, capping an already book-filled year that will see the releases of all four Secret Projects: Tress of the Emerald Sea, The Frugal Wizard’s Handbook for Surviving Medieval England, Yumi and the Nightmare Painter, and Secret Project Four (with its official title reveal coming October 2023). These four books were all initially offered to backers of the #1 Kickstarter campaign of all time.\r\n\r\nNovember 2022 saw the release of The Lost Metal, the seventh volume in the Mistborn saga, and the final volume of the Mistborn Era Two featuring Wax & Wayne. The third era of Mistborn is slated to be written after the first arc of the Stormlight Archive wraps up.\r\n\r\nIn November 2020 we saw the release of Rhythm of War—the fourth massive book in the New York Times #1 bestselling Stormlight Archive series that began with The Way of Kings—and Dawnshard (book 3.5), a novella set in the same world that bridges the gaps between the main releases. This series is my love letter to the epic fantasy genre, and it’s the type of story I always dreamed epic fantasy could be. The fifth volume, Wind and Truth, is set for release in fall 2024.\r\n\r\nMost readers have noticed that my adult fantasy novels are in a connected universe called the Cosmere. This includes The Stormlight Archive, both Mistborn series, Elantris, Warbreaker, and various novellas available on Amazon, including The Emperor’s Soul, which won a Hugo Award in 2013. In November 2016 all of the existing Cosmere short fiction was released in one volume called Arcanum Unbounded. If you’ve read all of my adult fantasy novels and want to see some behind-the-scenes information, that collection is a must-read.\r\n\r\nI also have three YA series: The Rithmatist (currently at one book), The Reckoners (a trilogy beginning with Steelheart), and Skyward. For young readers I also have my humorous series Alcatraz vs. the Evil Librarians, which had its final book, Bastille vs. the Evil Librarians, come out in 2022. Many of my adult readers enjoy all of those books as well, and many of my YA readers enjoy my adult books, usually starting with Mistborn.\r\n\r\nAdditionally, I have a few other novellas that are more on the thriller/sci-fi side. These include the Legion series, as well as Perfect State and Snapshot. There’s a lot of material to go around!\r\n\r\nGood starting places are Mistborn (a.k.a. The Final Empire), Skyward, Steelheart,The Emperor’s Soul, and Alcatraz vs. the Evil Librarians. If you’re already a fan of big fat fantasies, you can jump right into The Way of Kings.\r\n\r\nI was also honored to be able to complete the final three volumes of The Wheel of Time, beginning with The Gathering Storm, using Robert Jordan’s notes.\r\n\r\nSample chapters from all of my books are available at brandonsanderson.com—and check out the rest of my site for chapter-by-chapter annotations, deleted scenes, and more.",
+      "links": [
+        {
+          "url": "http://www.goodreads.com/author/show/38550.Brandon_Sanderson",
+          "name": "Goodreads"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/authors/1394044556i/38550.jpg",
+          "coverType": "poster",
+          "extension": ".jpg"
+        }
+      ],
+      "path": "/media/Brandon Sanderson",
+      "qualityProfileId": 1,
+      "metadataProfileId": 1,
+      "monitored": true,
+      "monitorNewItems": "all",
+      "genres": [],
+      "cleanName": "brandonsanderson",
+      "sortName": "brandon sanderson",
+      "sortNameLastFirst": "sanderson, brandon",
+      "tags": [],
+      "added": "2025-03-05T12:25:17Z",
+      "ratings": {
+        "votes": 5998442,
+        "value": 4.41,
+        "popularity": 26453129.220000003
+      },
+      "statistics": {
+        "bookFileCount": 0,
+        "bookCount": 0,
+        "availableBookCount": 0,
+        "totalBookCount": 0,
+        "sizeOnDisk": 0,
+        "percentOfBooks": 0
+      },
+      "id": 2
+    },
+    "id": 4
+  },
+  {
+    "bookId": 439,
+    "authorId": 2,
+    "sourceTitle": "Brandon Sanderson - Cosmere - Tress of the Emerald Sea (retail) (epub)",
+    "quality": {
+      "quality": {
+        "id": 3,
+        "name": "EPUB"
+      },
+      "revision": {
+        "version": 1,
+        "real": 0,
+        "isRepack": false
+      }
+    },
+    "customFormats": [],
+    "customFormatScore": 0,
+    "qualityCutoffNotMet": false,
+    "date": "2025-03-26T19:24:12Z",
+    "downloadId": "SABnzbd_nzo_hawh8a4u",
+    "eventType": "bookFileImported",
+    "data": {
+      "fileId": "62",
+      "droppedPath": "/downloads/Brandon Sanderson - Cosmere - Tress of the Emerald Sea (retail) (epub)/Brandon Sanderson - Cosmere - Tress of the Emerald Sea (retail) (epub).epub",
+      "importedPath": "/media/Brandon Sanderson/Brandon Sanderson - Cosmere - Tress of the Emerald Sea (retail) (epub).epub",
+      "downloadClient": "SABnzbd",
+      "downloadClientName": "sab",
+      "releaseGroup": null,
+      "size": "10427834",
+      "indexerFlags": "0"
+    },
+    "id": 4
+  }
+]
