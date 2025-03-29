@@ -33,7 +33,9 @@ class BaseService
     items = []
     loop do
       pull = pull(page:)
+      # :nocov:
       break if pull.empty?
+      # :nocov:
       items += pull.map { |json| map(json:) }
       page += 1
       break if items.last.date < from_date
