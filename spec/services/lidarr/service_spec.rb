@@ -12,7 +12,7 @@ module Lidarr
     before { stub_lidarr }
 
     it 'returns history only containing expected types and groups by title' do
-      expect(items.count).to be(32)
+      expect(items.count).to be(35)
       expect(items).to all(be_a(Item::Thing))
     end
 

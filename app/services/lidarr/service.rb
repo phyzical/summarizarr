@@ -21,8 +21,8 @@ module Lidarr
       Item.from_json(json:)
     end
 
-    def get_vars # rubocop:disable Naming/AccessorMethodName
-      { date: from_date, includeAlbum: true, includeArtist: true, includeTrack: true }
+    def get_vars(page: 1)
+      super.merge({ includeAlbum: true, includeArtist: true, includeTrack: true })
     end
 
     def app_name

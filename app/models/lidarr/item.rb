@@ -8,26 +8,22 @@ module Lidarr
       eventType: :event_type,
       image: :image,
       album: :album,
-      track: :track,
       artist: :artist,
       deletion?: :deletion?,
       quality: :quality,
       old_quality: :old_quality,
-      title: :title
+      title: :title,
+      date: :date
     }.freeze
 
     def self.from_json(json:) # rubocop:disable Metrics/AbcSize
-      json[:track] = json[:sourceTitle]
-      # TODO: https://github.com/Lidarr/Lidarr/issues/5421
-      # json[:track] = json[:track]&.dig(:title)
-      json[:album] = json[:album]&.dig(:title)
-      json[:title] = json[:track] || json[:album]
-      if json[:artist]
-        json[:image] = json[:artist][:images].pluck(:url).first
-        json[:artist] = json[:artist][:artistName]
-      end
+      json[:title] = json[:track]&.dig(:title)
+      json[:album] = json[:album][:title]
+      json[:image] = json[:artist][:images].pluck(:url).first
+      json[:artist] = json[:artist][:artistName]
       json[:deletion?] = json[:data][:reason] == 'Upgrade'
       json[:quality] = json[:quality][:quality][:name]
+      json[:date] = DateTime.parse(json[:date]).to_date
       Thing.new(**json.slice(*ATTRIBUTES.keys).transform_keys { |k| ATTRIBUTES[k] })
     end
 
