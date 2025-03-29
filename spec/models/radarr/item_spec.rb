@@ -44,15 +44,16 @@ module Radarr
           expect(from_json.to_h).to eq(
             {
               event_type: described_class::EVENT_TYPES[:movie_file_deleted],
-              languages: 'Spanish',
-              title: 'Back in Action',
-              date: Date.parse('29/03/2025'),
+              languages: 'English',
+              title: "Peter Pan's Neverland Nightmare",
+              date: Date.parse('28/03/2025'),
               overview:
-                'Fifteen years after vanishing from the CIA to start a family, elite ' \
-                  'spies Matt and Emily jump back into the world of espionage when their cover is blown.',
-              image: 'https://image.tmdb.org/t/p/original/3L3l6LsiLGHkTG4RFB2aBA6BttB.jpg',
-              deletion?: false,
-              quality: 'WEBDL-1080p',
+                'Wendy Darling strikes out in an attempt to rescue her brother Michael from the clutches ' \
+                  'of the evil Peter Pan who intends to send him to Neverland. Along the way she meets a ' \
+                  'twisted Tinkerbell, who is hooked on what she thinks is fairy dust.',
+              image: 'https://image.tmdb.org/t/p/original/mOR1Ks0EcXocwMV4EPv4letz0F5.jpg',
+              deletion?: true,
+              quality: 'WEBRip-1080p',
               old_quality: nil
             }
           )

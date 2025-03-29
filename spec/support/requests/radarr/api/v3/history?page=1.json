@@ -6,6 +6,130 @@
   "totalRecords": 394570,
   "records": [
     {
+      "movieId": 2624,
+      "sourceTitle": "/movies/Movies/Peter Pan's Neverland Nightmare (2025)/Peter Pan's Neverland Nightmare (2025) WEBRip-1080p.mp4",
+      "languages": [
+        {
+          "id": 1,
+          "name": "English"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 15,
+          "name": "WEBRip-1080p",
+          "source": "webrip",
+          "resolution": 1080,
+          "modifier": "none"
+        },
+        "revision": {
+          "version": 1,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "customFormats": [
+        {
+          "id": 5,
+          "name": "English"
+        }
+      ],
+      "customFormatScore": 10,
+      "qualityCutoffNotMet": false,
+      "date": "2025-03-28T11:58:24Z",
+      "eventType": "movieFileDeleted",
+      "data": {
+        "reason": "Upgrade",
+        "releaseGroup": "LAMA",
+        "size": "1770499509",
+        "indexerFlags": "0"
+      },
+      "movie": {
+        "title": "Peter Pan's Neverland Nightmare",
+        "originalTitle": "Peter Pan's Neverland Nightmare",
+        "originalLanguage": {
+          "id": 1,
+          "name": "English"
+        },
+        "alternateTitles": [],
+        "secondaryYearSourceId": 0,
+        "sortTitle": "peter pan s neverland nightmare",
+        "status": "released",
+        "overview": "Wendy Darling strikes out in an attempt to rescue her brother Michael from the clutches of the evil Peter Pan who intends to send him to Neverland. Along the way she meets a twisted Tinkerbell, who is hooked on what she thinks is fairy dust.",
+        "inCinemas": "2025-02-05T00:00:00Z",
+        "physicalRelease": "2025-04-28T00:00:00Z",
+        "digitalRelease": "2025-03-18T00:00:00Z",
+        "releaseDate": "2025-02-05T00:00:00Z",
+        "images": [
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://image.tmdb.org/t/p/original/mOR1Ks0EcXocwMV4EPv4letz0F5.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://image.tmdb.org/t/p/original/nhx0ttmAS2w8e6hyIcKoNvgHoix.jpg"
+          }
+        ],
+        "website": "https://www.itnfilms.net/catalog/peter-pan's-neverland-nightmare",
+        "year": 2025,
+        "youTubeTrailerId": "5Yg9i759Zg4",
+        "studio": "Jagged Edge Productions",
+        "path": "/movies/Movies/Peter Pan's Neverland Nightmare (2025)",
+        "qualityProfileId": 1,
+        "movieFileId": 50148,
+        "monitored": true,
+        "minimumAvailability": "announced",
+        "isAvailable": true,
+        "folderName": "/movies/Movies/Peter Pan's Neverland Nightmare (2025)",
+        "runtime": 89,
+        "cleanTitle": "peterpansneverlandnightmare",
+        "imdbId": "tt21955520",
+        "tmdbId": 1020414,
+        "titleSlug": "1020414",
+        "certification": "NR",
+        "genres": [
+          "Horror",
+          "Thriller",
+          "Fantasy"
+        ],
+        "tags": [
+          3
+        ],
+        "added": "2024-11-27T03:59:17Z",
+        "ratings": {
+          "imdb": {
+            "votes": 1188,
+            "value": 5.9,
+            "type": "user"
+          },
+          "tmdb": {
+            "votes": 18,
+            "value": 5.5,
+            "type": "user"
+          },
+          "metacritic": {
+            "votes": 0,
+            "value": 50,
+            "type": "user"
+          },
+          "rottenTomatoes": {
+            "votes": 0,
+            "value": 48,
+            "type": "user"
+          },
+          "trakt": {
+            "votes": 30,
+            "value": 6.16667,
+            "type": "user"
+          }
+        },
+        "popularity": 12.17,
+        "lastSearchTime": "2025-03-27T21:52:50Z",
+        "id": 2624
+      },
+      "id": 394617
+    },
+    {
       "movieId": 2729,
       "sourceTitle": "Back.In.Action.2025.PROPER.SPANISH.1080p.WEB.H264-MIERDA-xpost",
       "languages": [
@@ -765,130 +889,6 @@
       "id": 394618
     },
     {
-      "movieId": 2624,
-      "sourceTitle": "/movies/Movies/Peter Pan's Neverland Nightmare (2025)/Peter Pan's Neverland Nightmare (2025) WEBRip-1080p.mp4",
-      "languages": [
-        {
-          "id": 1,
-          "name": "English"
-        }
-      ],
-      "quality": {
-        "quality": {
-          "id": 15,
-          "name": "WEBRip-1080p",
-          "source": "webrip",
-          "resolution": 1080,
-          "modifier": "none"
-        },
-        "revision": {
-          "version": 1,
-          "real": 0,
-          "isRepack": false
-        }
-      },
-      "customFormats": [
-        {
-          "id": 5,
-          "name": "English"
-        }
-      ],
-      "customFormatScore": 10,
-      "qualityCutoffNotMet": false,
-      "date": "2025-03-28T11:58:24Z",
-      "eventType": "movieFileDeleted",
-      "data": {
-        "reason": "MissingFromDisk",
-        "releaseGroup": "LAMA",
-        "size": "1770499509",
-        "indexerFlags": "0"
-      },
-      "movie": {
-        "title": "Peter Pan's Neverland Nightmare",
-        "originalTitle": "Peter Pan's Neverland Nightmare",
-        "originalLanguage": {
-          "id": 1,
-          "name": "English"
-        },
-        "alternateTitles": [],
-        "secondaryYearSourceId": 0,
-        "sortTitle": "peter pan s neverland nightmare",
-        "status": "released",
-        "overview": "Wendy Darling strikes out in an attempt to rescue her brother Michael from the clutches of the evil Peter Pan who intends to send him to Neverland. Along the way she meets a twisted Tinkerbell, who is hooked on what she thinks is fairy dust.",
-        "inCinemas": "2025-02-05T00:00:00Z",
-        "physicalRelease": "2025-04-28T00:00:00Z",
-        "digitalRelease": "2025-03-18T00:00:00Z",
-        "releaseDate": "2025-02-05T00:00:00Z",
-        "images": [
-          {
-            "coverType": "poster",
-            "remoteUrl": "https://image.tmdb.org/t/p/original/mOR1Ks0EcXocwMV4EPv4letz0F5.jpg"
-          },
-          {
-            "coverType": "fanart",
-            "remoteUrl": "https://image.tmdb.org/t/p/original/nhx0ttmAS2w8e6hyIcKoNvgHoix.jpg"
-          }
-        ],
-        "website": "https://www.itnfilms.net/catalog/peter-pan's-neverland-nightmare",
-        "year": 2025,
-        "youTubeTrailerId": "5Yg9i759Zg4",
-        "studio": "Jagged Edge Productions",
-        "path": "/movies/Movies/Peter Pan's Neverland Nightmare (2025)",
-        "qualityProfileId": 1,
-        "movieFileId": 50148,
-        "monitored": true,
-        "minimumAvailability": "announced",
-        "isAvailable": true,
-        "folderName": "/movies/Movies/Peter Pan's Neverland Nightmare (2025)",
-        "runtime": 89,
-        "cleanTitle": "peterpansneverlandnightmare",
-        "imdbId": "tt21955520",
-        "tmdbId": 1020414,
-        "titleSlug": "1020414",
-        "certification": "NR",
-        "genres": [
-          "Horror",
-          "Thriller",
-          "Fantasy"
-        ],
-        "tags": [
-          3
-        ],
-        "added": "2024-11-27T03:59:17Z",
-        "ratings": {
-          "imdb": {
-            "votes": 1188,
-            "value": 5.9,
-            "type": "user"
-          },
-          "tmdb": {
-            "votes": 18,
-            "value": 5.5,
-            "type": "user"
-          },
-          "metacritic": {
-            "votes": 0,
-            "value": 50,
-            "type": "user"
-          },
-          "rottenTomatoes": {
-            "votes": 0,
-            "value": 48,
-            "type": "user"
-          },
-          "trakt": {
-            "votes": 30,
-            "value": 6.16667,
-            "type": "user"
-          }
-        },
-        "popularity": 12.17,
-        "lastSearchTime": "2025-03-27T21:52:50Z",
-        "id": 2624
-      },
-      "id": 394617
-    },
-    {
       "movieId": 2706,
       "sourceTitle": "The.Life.List.2025.1080p.WEB.H264-AccomplishedYak",
       "languages": [
@@ -1110,798 +1110,6 @@
         "id": 2706
       },
       "id": 394615
-    },
-    {
-      "movieId": 2624,
-      "sourceTitle": "Peter.Pans.Neverland.Nightmare.2025.1080p.WEBRip.5.1-LAMA",
-      "languages": [
-        {
-          "id": 1,
-          "name": "English"
-        }
-      ],
-      "quality": {
-        "quality": {
-          "id": 15,
-          "name": "WEBRip-1080p",
-          "source": "webrip",
-          "resolution": 1080,
-          "modifier": "none"
-        },
-        "revision": {
-          "version": 1,
-          "real": 0,
-          "isRepack": false
-        }
-      },
-      "customFormats": [
-        {
-          "id": 5,
-          "name": "English"
-        }
-      ],
-      "customFormatScore": 10,
-      "qualityCutoffNotMet": false,
-      "date": "2025-03-27T22:20:01Z",
-      "downloadId": "SABnzbd_nzo_rw5_n2te",
-      "eventType": "downloadFolderImported",
-      "data": {
-        "fileId": "50146",
-        "droppedPath": "/downloads/Peter.Pans.Neverland.Nightmare.2025.1080p.WEBRip.5.1-LAMA/JAxJnAGzoCABTppvg15u8pL8xKWelSRD.mp4",
-        "importedPath": "/movies/Movies/Peter Pan's Neverland Nightmare (2025)/Peter Pan's Neverland Nightmare (2025) WEBRip-1080p.mp4",
-        "downloadClient": "SABnzbd",
-        "downloadClientName": "sab",
-        "releaseGroup": "LAMA",
-        "customFormatScore": "10",
-        "size": "1770499509",
-        "indexerFlags": "0"
-      },
-      "movie": {
-        "title": "Peter Pan's Neverland Nightmare",
-        "originalTitle": "Peter Pan's Neverland Nightmare",
-        "originalLanguage": {
-          "id": 1,
-          "name": "English"
-        },
-        "alternateTitles": [],
-        "secondaryYearSourceId": 0,
-        "sortTitle": "peter pan s neverland nightmare",
-        "status": "released",
-        "overview": "Wendy Darling strikes out in an attempt to rescue her brother Michael from the clutches of the evil Peter Pan who intends to send him to Neverland. Along the way she meets a twisted Tinkerbell, who is hooked on what she thinks is fairy dust.",
-        "inCinemas": "2025-02-05T00:00:00Z",
-        "physicalRelease": "2025-04-28T00:00:00Z",
-        "digitalRelease": "2025-03-18T00:00:00Z",
-        "releaseDate": "2025-02-05T00:00:00Z",
-        "images": [
-          {
-            "coverType": "poster",
-            "remoteUrl": "https://image.tmdb.org/t/p/original/mOR1Ks0EcXocwMV4EPv4letz0F5.jpg"
-          },
-          {
-            "coverType": "fanart",
-            "remoteUrl": "https://image.tmdb.org/t/p/original/nhx0ttmAS2w8e6hyIcKoNvgHoix.jpg"
-          }
-        ],
-        "website": "https://www.itnfilms.net/catalog/peter-pan's-neverland-nightmare",
-        "year": 2025,
-        "youTubeTrailerId": "5Yg9i759Zg4",
-        "studio": "Jagged Edge Productions",
-        "path": "/movies/Movies/Peter Pan's Neverland Nightmare (2025)",
-        "qualityProfileId": 1,
-        "movieFileId": 50148,
-        "monitored": true,
-        "minimumAvailability": "announced",
-        "isAvailable": true,
-        "folderName": "/movies/Movies/Peter Pan's Neverland Nightmare (2025)",
-        "runtime": 89,
-        "cleanTitle": "peterpansneverlandnightmare",
-        "imdbId": "tt21955520",
-        "tmdbId": 1020414,
-        "titleSlug": "1020414",
-        "certification": "NR",
-        "genres": [
-          "Horror",
-          "Thriller",
-          "Fantasy"
-        ],
-        "tags": [
-          3
-        ],
-        "added": "2024-11-27T03:59:17Z",
-        "ratings": {
-          "imdb": {
-            "votes": 1188,
-            "value": 5.9,
-            "type": "user"
-          },
-          "tmdb": {
-            "votes": 18,
-            "value": 5.5,
-            "type": "user"
-          },
-          "metacritic": {
-            "votes": 0,
-            "value": 50,
-            "type": "user"
-          },
-          "rottenTomatoes": {
-            "votes": 0,
-            "value": 48,
-            "type": "user"
-          },
-          "trakt": {
-            "votes": 30,
-            "value": 6.16667,
-            "type": "user"
-          }
-        },
-        "popularity": 12.17,
-        "lastSearchTime": "2025-03-27T21:52:50Z",
-        "id": 2624
-      },
-      "id": 394614
-    },
-    {
-      "movieId": 2624,
-      "sourceTitle": "/movies/Movies/Peter Pan's Neverland Nightmare (2025)/Peter Pan's Neverland Nightmare (2025) WEBRip-720p.mp4",
-      "languages": [
-        {
-          "id": 1,
-          "name": "English"
-        }
-      ],
-      "quality": {
-        "quality": {
-          "id": 14,
-          "name": "WEBRip-720p",
-          "source": "webrip",
-          "resolution": 720,
-          "modifier": "none"
-        },
-        "revision": {
-          "version": 1,
-          "real": 0,
-          "isRepack": false
-        }
-      },
-      "customFormats": [
-        {
-          "id": 5,
-          "name": "English"
-        }
-      ],
-      "customFormatScore": 10,
-      "qualityCutoffNotMet": true,
-      "date": "2025-03-27T22:20:00Z",
-      "eventType": "movieFileDeleted",
-      "data": {
-        "reason": "Upgrade",
-        "releaseGroup": "LAMA",
-        "size": "861978772",
-        "indexerFlags": "0"
-      },
-      "movie": {
-        "title": "Peter Pan's Neverland Nightmare",
-        "originalTitle": "Peter Pan's Neverland Nightmare",
-        "originalLanguage": {
-          "id": 1,
-          "name": "English"
-        },
-        "alternateTitles": [],
-        "secondaryYearSourceId": 0,
-        "sortTitle": "peter pan s neverland nightmare",
-        "status": "released",
-        "overview": "Wendy Darling strikes out in an attempt to rescue her brother Michael from the clutches of the evil Peter Pan who intends to send him to Neverland. Along the way she meets a twisted Tinkerbell, who is hooked on what she thinks is fairy dust.",
-        "inCinemas": "2025-02-05T00:00:00Z",
-        "physicalRelease": "2025-04-28T00:00:00Z",
-        "digitalRelease": "2025-03-18T00:00:00Z",
-        "releaseDate": "2025-02-05T00:00:00Z",
-        "images": [
-          {
-            "coverType": "poster",
-            "remoteUrl": "https://image.tmdb.org/t/p/original/mOR1Ks0EcXocwMV4EPv4letz0F5.jpg"
-          },
-          {
-            "coverType": "fanart",
-            "remoteUrl": "https://image.tmdb.org/t/p/original/nhx0ttmAS2w8e6hyIcKoNvgHoix.jpg"
-          }
-        ],
-        "website": "https://www.itnfilms.net/catalog/peter-pan's-neverland-nightmare",
-        "year": 2025,
-        "youTubeTrailerId": "5Yg9i759Zg4",
-        "studio": "Jagged Edge Productions",
-        "path": "/movies/Movies/Peter Pan's Neverland Nightmare (2025)",
-        "qualityProfileId": 1,
-        "movieFileId": 50148,
-        "monitored": true,
-        "minimumAvailability": "announced",
-        "isAvailable": true,
-        "folderName": "/movies/Movies/Peter Pan's Neverland Nightmare (2025)",
-        "runtime": 89,
-        "cleanTitle": "peterpansneverlandnightmare",
-        "imdbId": "tt21955520",
-        "tmdbId": 1020414,
-        "titleSlug": "1020414",
-        "certification": "NR",
-        "genres": [
-          "Horror",
-          "Thriller",
-          "Fantasy"
-        ],
-        "tags": [
-          3
-        ],
-        "added": "2024-11-27T03:59:17Z",
-        "ratings": {
-          "imdb": {
-            "votes": 1188,
-            "value": 5.9,
-            "type": "user"
-          },
-          "tmdb": {
-            "votes": 18,
-            "value": 5.5,
-            "type": "user"
-          },
-          "metacritic": {
-            "votes": 0,
-            "value": 50,
-            "type": "user"
-          },
-          "rottenTomatoes": {
-            "votes": 0,
-            "value": 48,
-            "type": "user"
-          },
-          "trakt": {
-            "votes": 30,
-            "value": 6.16667,
-            "type": "user"
-          }
-        },
-        "popularity": 12.17,
-        "lastSearchTime": "2025-03-27T21:52:50Z",
-        "id": 2624
-      },
-      "id": 394613
-    },
-    {
-      "movieId": 2624,
-      "sourceTitle": "Peter.Pans.Neverland.Nightmare.2025.1080p.WEBRip.5.1-LAMA",
-      "languages": [
-        {
-          "id": 1,
-          "name": "English"
-        }
-      ],
-      "quality": {
-        "quality": {
-          "id": 15,
-          "name": "WEBRip-1080p",
-          "source": "webrip",
-          "resolution": 1080,
-          "modifier": "none"
-        },
-        "revision": {
-          "version": 1,
-          "real": 0,
-          "isRepack": false
-        }
-      },
-      "customFormats": [
-        {
-          "id": 5,
-          "name": "English"
-        }
-      ],
-      "customFormatScore": 10,
-      "qualityCutoffNotMet": false,
-      "date": "2025-03-27T22:18:18Z",
-      "downloadId": "SABnzbd_nzo_rw5_n2te",
-      "eventType": "grabbed",
-      "data": {
-        "indexer": "NZBgeek (Prowlarr)",
-        "nzbInfoUrl": "https://nzbgeek.info/geekseek.php?guid=5251f8844a8f0edb161f158a4c929f74",
-        "releaseGroup": "LAMA",
-        "age": "0",
-        "ageHours": "0.08637582586111112",
-        "ageMinutes": "5.182549591666667",
-        "publishedDate": "2025-03-27T22:13:08Z",
-        "downloadClient": "SABnzbd",
-        "downloadClientName": "sab",
-        "size": "1864164000",
-        "downloadUrl": "http://prowlarr:9696/5/download?apikey=5f771c1869f94fec821832369384a70c&link=MmZPby9Fd1VLZ3JSOTBWY2dZMTRwMXd3MEcxWU5GYlR2MllwakRnblV2WEZDakQ1Z3lGM1JtdmROV005ZTB0cW1nQnB6ZEllTnpFMGV3bmtxOFd2dUgwMVNpdTdKOXZEbVdTUTlxUEdJb2xFM2VaSDM3bm4zbkY0OUlnYzJYbHUxOEV0eHhrSkZHRXhhNnpSRnlQczc5YzRQdFp3Ty9kTXJWdzZ6TERPV2V3PQ&file=Peter.Pans.Neverland.Nightmare.2025.1080p.WEBRip.5.1-LAMA",
-        "guid": "https://nzbgeek.info/geekseek.php?guid=5251f8844a8f0edb161f158a4c929f74",
-        "tmdbId": "0",
-        "imdbId": "21955520",
-        "protocol": "1",
-        "customFormatScore": "10",
-        "movieMatchType": "Id",
-        "releaseSource": "Rss",
-        "indexerFlags": "0",
-        "indexerId": "17"
-      },
-      "movie": {
-        "title": "Peter Pan's Neverland Nightmare",
-        "originalTitle": "Peter Pan's Neverland Nightmare",
-        "originalLanguage": {
-          "id": 1,
-          "name": "English"
-        },
-        "alternateTitles": [],
-        "secondaryYearSourceId": 0,
-        "sortTitle": "peter pan s neverland nightmare",
-        "status": "released",
-        "overview": "Wendy Darling strikes out in an attempt to rescue her brother Michael from the clutches of the evil Peter Pan who intends to send him to Neverland. Along the way she meets a twisted Tinkerbell, who is hooked on what she thinks is fairy dust.",
-        "inCinemas": "2025-02-05T00:00:00Z",
-        "physicalRelease": "2025-04-28T00:00:00Z",
-        "digitalRelease": "2025-03-18T00:00:00Z",
-        "releaseDate": "2025-02-05T00:00:00Z",
-        "images": [
-          {
-            "coverType": "poster",
-            "remoteUrl": "https://image.tmdb.org/t/p/original/mOR1Ks0EcXocwMV4EPv4letz0F5.jpg"
-          },
-          {
-            "coverType": "fanart",
-            "remoteUrl": "https://image.tmdb.org/t/p/original/nhx0ttmAS2w8e6hyIcKoNvgHoix.jpg"
-          }
-        ],
-        "website": "https://www.itnfilms.net/catalog/peter-pan's-neverland-nightmare",
-        "year": 2025,
-        "youTubeTrailerId": "5Yg9i759Zg4",
-        "studio": "Jagged Edge Productions",
-        "path": "/movies/Movies/Peter Pan's Neverland Nightmare (2025)",
-        "qualityProfileId": 1,
-        "movieFileId": 50148,
-        "monitored": true,
-        "minimumAvailability": "announced",
-        "isAvailable": true,
-        "folderName": "/movies/Movies/Peter Pan's Neverland Nightmare (2025)",
-        "runtime": 89,
-        "cleanTitle": "peterpansneverlandnightmare",
-        "imdbId": "tt21955520",
-        "tmdbId": 1020414,
-        "titleSlug": "1020414",
-        "certification": "NR",
-        "genres": [
-          "Horror",
-          "Thriller",
-          "Fantasy"
-        ],
-        "tags": [
-          3
-        ],
-        "added": "2024-11-27T03:59:17Z",
-        "ratings": {
-          "imdb": {
-            "votes": 1188,
-            "value": 5.9,
-            "type": "user"
-          },
-          "tmdb": {
-            "votes": 18,
-            "value": 5.5,
-            "type": "user"
-          },
-          "metacritic": {
-            "votes": 0,
-            "value": 50,
-            "type": "user"
-          },
-          "rottenTomatoes": {
-            "votes": 0,
-            "value": 48,
-            "type": "user"
-          },
-          "trakt": {
-            "votes": 30,
-            "value": 6.16667,
-            "type": "user"
-          }
-        },
-        "popularity": 12.17,
-        "lastSearchTime": "2025-03-27T21:52:50Z",
-        "id": 2624
-      },
-      "id": 394612
-    },
-    {
-      "movieId": 2624,
-      "sourceTitle": "Peter.Pans.Neverland.Nightmare.2025.WEB-DL.1080p.H264-WRS",
-      "languages": [
-        {
-          "id": 1,
-          "name": "English"
-        }
-      ],
-      "quality": {
-        "quality": {
-          "id": 3,
-          "name": "WEBDL-1080p",
-          "source": "webdl",
-          "resolution": 1080,
-          "modifier": "none"
-        },
-        "revision": {
-          "version": 1,
-          "real": 0,
-          "isRepack": false
-        }
-      },
-      "customFormats": [
-        {
-          "id": 5,
-          "name": "English"
-        }
-      ],
-      "customFormatScore": 10,
-      "qualityCutoffNotMet": false,
-      "date": "2025-03-27T21:52:47Z",
-      "downloadId": "SABnzbd_nzo_wsa2dld2",
-      "eventType": "downloadFailed",
-      "data": {
-        "downloadClient": "SABnzbd",
-        "downloadClientName": "sab",
-        "message": "Manually marked as failed",
-        "releaseGroup": "WRS",
-        "size": "827910150"
-      },
-      "movie": {
-        "title": "Peter Pan's Neverland Nightmare",
-        "originalTitle": "Peter Pan's Neverland Nightmare",
-        "originalLanguage": {
-          "id": 1,
-          "name": "English"
-        },
-        "alternateTitles": [],
-        "secondaryYearSourceId": 0,
-        "sortTitle": "peter pan s neverland nightmare",
-        "status": "released",
-        "overview": "Wendy Darling strikes out in an attempt to rescue her brother Michael from the clutches of the evil Peter Pan who intends to send him to Neverland. Along the way she meets a twisted Tinkerbell, who is hooked on what she thinks is fairy dust.",
-        "inCinemas": "2025-02-05T00:00:00Z",
-        "physicalRelease": "2025-04-28T00:00:00Z",
-        "digitalRelease": "2025-03-18T00:00:00Z",
-        "releaseDate": "2025-02-05T00:00:00Z",
-        "images": [
-          {
-            "coverType": "poster",
-            "remoteUrl": "https://image.tmdb.org/t/p/original/mOR1Ks0EcXocwMV4EPv4letz0F5.jpg"
-          },
-          {
-            "coverType": "fanart",
-            "remoteUrl": "https://image.tmdb.org/t/p/original/nhx0ttmAS2w8e6hyIcKoNvgHoix.jpg"
-          }
-        ],
-        "website": "https://www.itnfilms.net/catalog/peter-pan's-neverland-nightmare",
-        "year": 2025,
-        "youTubeTrailerId": "5Yg9i759Zg4",
-        "studio": "Jagged Edge Productions",
-        "path": "/movies/Movies/Peter Pan's Neverland Nightmare (2025)",
-        "qualityProfileId": 1,
-        "movieFileId": 50148,
-        "monitored": true,
-        "minimumAvailability": "announced",
-        "isAvailable": true,
-        "folderName": "/movies/Movies/Peter Pan's Neverland Nightmare (2025)",
-        "runtime": 89,
-        "cleanTitle": "peterpansneverlandnightmare",
-        "imdbId": "tt21955520",
-        "tmdbId": 1020414,
-        "titleSlug": "1020414",
-        "certification": "NR",
-        "genres": [
-          "Horror",
-          "Thriller",
-          "Fantasy"
-        ],
-        "tags": [
-          3
-        ],
-        "added": "2024-11-27T03:59:17Z",
-        "ratings": {
-          "imdb": {
-            "votes": 1188,
-            "value": 5.9,
-            "type": "user"
-          },
-          "tmdb": {
-            "votes": 18,
-            "value": 5.5,
-            "type": "user"
-          },
-          "metacritic": {
-            "votes": 0,
-            "value": 50,
-            "type": "user"
-          },
-          "rottenTomatoes": {
-            "votes": 0,
-            "value": 48,
-            "type": "user"
-          },
-          "trakt": {
-            "votes": 30,
-            "value": 6.16667,
-            "type": "user"
-          }
-        },
-        "popularity": 12.17,
-        "lastSearchTime": "2025-03-27T21:52:50Z",
-        "id": 2624
-      },
-      "id": 394611
-    },
-    {
-      "movieId": 2624,
-      "sourceTitle": "Peter.Pans.Neverland.Nightmare.2025.WEB-DL.1080p.H264-WRS",
-      "languages": [
-        {
-          "id": 1,
-          "name": "English"
-        }
-      ],
-      "quality": {
-        "quality": {
-          "id": 3,
-          "name": "WEBDL-1080p",
-          "source": "webdl",
-          "resolution": 1080,
-          "modifier": "none"
-        },
-        "revision": {
-          "version": 1,
-          "real": 0,
-          "isRepack": false
-        }
-      },
-      "customFormats": [
-        {
-          "id": 5,
-          "name": "English"
-        }
-      ],
-      "customFormatScore": 10,
-      "qualityCutoffNotMet": false,
-      "date": "2025-03-27T21:47:49Z",
-      "downloadId": "SABnzbd_nzo_wsa2dld2",
-      "eventType": "grabbed",
-      "data": {
-        "indexer": "NZBgeek (Prowlarr)",
-        "nzbInfoUrl": "https://nzbgeek.info/geekseek.php?guid=e3f01d5fbef037148976b444a63fe0de",
-        "releaseGroup": "WRS",
-        "age": "0",
-        "ageHours": "2.1677097058055557",
-        "ageMinutes": "130.06258239",
-        "publishedDate": "2025-03-27T19:37:46Z",
-        "downloadClient": "SABnzbd",
-        "downloadClientName": "sab",
-        "size": "841025000",
-        "downloadUrl": "http://prowlarr:9696/5/download?apikey=5f771c1869f94fec821832369384a70c&link=anBWSm1UanZSR0FCaHhUU2Uwb2tDQ0ZLZkNDQlZNRUNQaDlMcFcrcS9TTE9PZXB2UVk2T0NBNGhaTnp4ZzFTTHo1K2dZdnhEek1lWm0wY1d1MENwVm9POFdOSkkwaFkzMmh1RlNrNkxLYWRSOE50dExCdWZYOWRFTTduY0NkdGx0RTI0Yks1RFp3dWNXWFJpbTZyZHQ5dmplU0l5UzJyRjNtbG1GMGVvclZFPQ&file=Peter.Pans.Neverland.Nightmare.2025.WEB-DL.1080p.H264-WRS",
-        "guid": "https://nzbgeek.info/geekseek.php?guid=e3f01d5fbef037148976b444a63fe0de",
-        "tmdbId": "0",
-        "imdbId": "21955520",
-        "protocol": "1",
-        "customFormatScore": "10",
-        "movieMatchType": "Id",
-        "releaseSource": "Rss",
-        "indexerFlags": "0",
-        "indexerId": "17"
-      },
-      "movie": {
-        "title": "Peter Pan's Neverland Nightmare",
-        "originalTitle": "Peter Pan's Neverland Nightmare",
-        "originalLanguage": {
-          "id": 1,
-          "name": "English"
-        },
-        "alternateTitles": [],
-        "secondaryYearSourceId": 0,
-        "sortTitle": "peter pan s neverland nightmare",
-        "status": "released",
-        "overview": "Wendy Darling strikes out in an attempt to rescue her brother Michael from the clutches of the evil Peter Pan who intends to send him to Neverland. Along the way she meets a twisted Tinkerbell, who is hooked on what she thinks is fairy dust.",
-        "inCinemas": "2025-02-05T00:00:00Z",
-        "physicalRelease": "2025-04-28T00:00:00Z",
-        "digitalRelease": "2025-03-18T00:00:00Z",
-        "releaseDate": "2025-02-05T00:00:00Z",
-        "images": [
-          {
-            "coverType": "poster",
-            "remoteUrl": "https://image.tmdb.org/t/p/original/mOR1Ks0EcXocwMV4EPv4letz0F5.jpg"
-          },
-          {
-            "coverType": "fanart",
-            "remoteUrl": "https://image.tmdb.org/t/p/original/nhx0ttmAS2w8e6hyIcKoNvgHoix.jpg"
-          }
-        ],
-        "website": "https://www.itnfilms.net/catalog/peter-pan's-neverland-nightmare",
-        "year": 2025,
-        "youTubeTrailerId": "5Yg9i759Zg4",
-        "studio": "Jagged Edge Productions",
-        "path": "/movies/Movies/Peter Pan's Neverland Nightmare (2025)",
-        "qualityProfileId": 1,
-        "movieFileId": 50148,
-        "monitored": true,
-        "minimumAvailability": "announced",
-        "isAvailable": true,
-        "folderName": "/movies/Movies/Peter Pan's Neverland Nightmare (2025)",
-        "runtime": 89,
-        "cleanTitle": "peterpansneverlandnightmare",
-        "imdbId": "tt21955520",
-        "tmdbId": 1020414,
-        "titleSlug": "1020414",
-        "certification": "NR",
-        "genres": [
-          "Horror",
-          "Thriller",
-          "Fantasy"
-        ],
-        "tags": [
-          3
-        ],
-        "added": "2024-11-27T03:59:17Z",
-        "ratings": {
-          "imdb": {
-            "votes": 1188,
-            "value": 5.9,
-            "type": "user"
-          },
-          "tmdb": {
-            "votes": 18,
-            "value": 5.5,
-            "type": "user"
-          },
-          "metacritic": {
-            "votes": 0,
-            "value": 50,
-            "type": "user"
-          },
-          "rottenTomatoes": {
-            "votes": 0,
-            "value": 48,
-            "type": "user"
-          },
-          "trakt": {
-            "votes": 30,
-            "value": 6.16667,
-            "type": "user"
-          }
-        },
-        "popularity": 12.17,
-        "lastSearchTime": "2025-03-27T21:52:50Z",
-        "id": 2624
-      },
-      "id": 394610
-    },
-    {
-      "movieId": 2624,
-      "sourceTitle": "Peter.Pans.Neverland.Nightmare.2025.720p.WEBRip.x264.AAC-LAMA",
-      "languages": [
-        {
-          "id": 1,
-          "name": "English"
-        }
-      ],
-      "quality": {
-        "quality": {
-          "id": 14,
-          "name": "WEBRip-720p",
-          "source": "webrip",
-          "resolution": 720,
-          "modifier": "none"
-        },
-        "revision": {
-          "version": 1,
-          "real": 0,
-          "isRepack": false
-        }
-      },
-      "customFormats": [
-        {
-          "id": 5,
-          "name": "English"
-        }
-      ],
-      "customFormatScore": 10,
-      "qualityCutoffNotMet": true,
-      "date": "2025-03-27T21:19:00Z",
-      "downloadId": "SABnzbd_nzo_m2m8nwfw",
-      "eventType": "downloadFolderImported",
-      "data": {
-        "fileId": "50145",
-        "droppedPath": "/downloads/Peter.Pans.Neverland.Nightmare.2025.720p.WEBRip.x264.AAC-LAMA/f81ce6d169c24353ab36455d1e926b5f.mp4",
-        "importedPath": "/movies/Movies/Peter Pan's Neverland Nightmare (2025)/Peter Pan's Neverland Nightmare (2025) WEBRip-720p.mp4",
-        "downloadClient": "SABnzbd",
-        "downloadClientName": "sab",
-        "releaseGroup": "LAMA",
-        "customFormatScore": "10",
-        "size": "861978772",
-        "indexerFlags": "0"
-      },
-      "movie": {
-        "title": "Peter Pan's Neverland Nightmare",
-        "originalTitle": "Peter Pan's Neverland Nightmare",
-        "originalLanguage": {
-          "id": 1,
-          "name": "English"
-        },
-        "alternateTitles": [],
-        "secondaryYearSourceId": 0,
-        "sortTitle": "peter pan s neverland nightmare",
-        "status": "released",
-        "overview": "Wendy Darling strikes out in an attempt to rescue her brother Michael from the clutches of the evil Peter Pan who intends to send him to Neverland. Along the way she meets a twisted Tinkerbell, who is hooked on what she thinks is fairy dust.",
-        "inCinemas": "2025-02-05T00:00:00Z",
-        "physicalRelease": "2025-04-28T00:00:00Z",
-        "digitalRelease": "2025-03-18T00:00:00Z",
-        "releaseDate": "2025-02-05T00:00:00Z",
-        "images": [
-          {
-            "coverType": "poster",
-            "remoteUrl": "https://image.tmdb.org/t/p/original/mOR1Ks0EcXocwMV4EPv4letz0F5.jpg"
-          },
-          {
-            "coverType": "fanart",
-            "remoteUrl": "https://image.tmdb.org/t/p/original/nhx0ttmAS2w8e6hyIcKoNvgHoix.jpg"
-          }
-        ],
-        "website": "https://www.itnfilms.net/catalog/peter-pan's-neverland-nightmare",
-        "year": 2025,
-        "youTubeTrailerId": "5Yg9i759Zg4",
-        "studio": "Jagged Edge Productions",
-        "path": "/movies/Movies/Peter Pan's Neverland Nightmare (2025)",
-        "qualityProfileId": 1,
-        "movieFileId": 50148,
-        "monitored": true,
-        "minimumAvailability": "announced",
-        "isAvailable": true,
-        "folderName": "/movies/Movies/Peter Pan's Neverland Nightmare (2025)",
-        "runtime": 89,
-        "cleanTitle": "peterpansneverlandnightmare",
-        "imdbId": "tt21955520",
-        "tmdbId": 1020414,
-        "titleSlug": "1020414",
-        "certification": "NR",
-        "genres": [
-          "Horror",
-          "Thriller",
-          "Fantasy"
-        ],
-        "tags": [
-          3
-        ],
-        "added": "2024-11-27T03:59:17Z",
-        "ratings": {
-          "imdb": {
-            "votes": 1188,
-            "value": 5.9,
-            "type": "user"
-          },
-          "tmdb": {
-            "votes": 18,
-            "value": 5.5,
-            "type": "user"
-          },
-          "metacritic": {
-            "votes": 0,
-            "value": 50,
-            "type": "user"
-          },
-          "rottenTomatoes": {
-            "votes": 0,
-            "value": 48,
-            "type": "user"
-          },
-          "trakt": {
-            "votes": 30,
-            "value": 6.16667,
-            "type": "user"
-          }
-        },
-        "popularity": 12.17,
-        "lastSearchTime": "2025-03-27T21:52:50Z",
-        "id": 2624
-      },
-      "id": 394609
     }
   ]
 }
