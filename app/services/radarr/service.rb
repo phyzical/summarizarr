@@ -3,7 +3,7 @@
 module Radarr
   class Service < GenericArrService
     API_VERSION = 'v3'
-    # curl -X 'GET' 'http://radarr:7878/api/v3/history/since?date=2025-03-10&includeMovie=true&apikey=asd'   -H 'accept: application/json' # rubocop:disable Layout/LineLength
+    # curl -X 'GET' 'http://radarr:7878/api/v3/history?page=1&pageSize=15&includeMovie=true&apikey=asd'   -H 'accept: application/json' # rubocop:disable Layout/LineLength
     # curl -X 'GET' 'http://radarr:7878/api/v3/system/status?apikey=asd'   -H 'accept: application/json'
 
     private

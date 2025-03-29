@@ -37,3 +37,11 @@ for i in $(seq 1 $times); do
     curl -X 'GET' "${READARR_URL}${file}&pageSize=15&includeAuthor=true&includeBook=true&apikey=${READARR_API_KEY}" \
         -H 'accept: application/json' >"./spec/support/requests/readarr${file}.json"
 done
+
+echo "updating bazarr"
+file="/api/episodes/history"
+curl -X 'GET' "${BAZARR_URL}${file}?length=5000" \
+    -H "X-API-KEY: ${BAZARR_API_KEY}" -H 'accept: application/json' >"./spec/support/requests/bazarr${file}.json"
+file="/api/movies/history"
+curl -X 'GET' "${BAZARR_URL}${file}?length=5000" \
+    -H "X-API-KEY: ${BAZARR_API_KEY}" -H 'accept: application/json' >"./spec/support/requests/bazarr${file}.json"

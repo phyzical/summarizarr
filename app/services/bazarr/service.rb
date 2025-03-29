@@ -17,7 +17,7 @@ module Bazarr
       def episode_history_endpoint
         "#{api_prefix}/episodes/history"
       end
-      # curl -X 'GET' 'https://bazarr/api/movies/history?length=5000' -H 'accept: application/json' -H 'X-API-KEY: 12345'
+      # curl -X 'GET' 'https://bazarr/api/movies/history?length=5000' -H 'accept: application/json' -H 'X-API-KEY: 12345' # rubocop:disable Layout/LineLength
 
       def movie_history_endpoint
         "#{api_prefix}/movies/history"
@@ -29,7 +29,7 @@ module Bazarr
       end
     end
 
-    def pull
+    def pull(*)
       (
         Request.perform(url: "#{base_url}#{self.class.episode_history_endpoint}", get_vars:, headers:)[:data] +
           Request.perform(url: "#{base_url}#{self.class.movie_history_endpoint}", get_vars:, headers:)[:data]

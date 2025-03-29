@@ -53,7 +53,7 @@ class BaseService
   end
   # :nocov:
 
-  def filter
+  def filter(*)
     true
   end
 

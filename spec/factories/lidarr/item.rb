@@ -5,7 +5,6 @@ FactoryBot.define do
     event_type { Lidarr::Item::EVENT_TYPES.values.sample }
     album { Faker::Music.album }
     title { Faker::Music::RockBand.song }
-    track { Faker::Music::RockBand.song }
     artist { Faker::Music.band }
     image { Faker::Internet.url }
     deletion? { Faker::Boolean.boolean }
