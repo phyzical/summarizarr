@@ -8,9 +8,11 @@ module Radarr
 
       let(:full_json) do
         JSON.parse(
-          File.read("spec/support/requests/radarr#{Service.since_endpoint}.json", encoding: 'bom|utf-8'),
+          File.read("spec/support/requests/radarr#{Service.history_endpoint}?page=1.json", encoding: 'bom|utf-8'),
           symbolize_names: true
-        )
+        )[
+          :records
+        ]
       end
 
       context 'when item is downloadFolderImported' do
@@ -20,12 +22,13 @@ module Radarr
           expect(from_json.to_h).to match(
             {
               event_type: described_class::EVENT_TYPES[:download_folder_imported],
-              languages: 'English',
-              title: 'Greg Davies: Firing Cheeseballs at a Dog',
+              languages: 'Spanish',
+              title: 'Back in Action',
+              date: Date.parse('29/03/2025'),
               overview:
-                'Greg Davies, the star of BAFTA-winning TV series and hit film "The Inbetweeners," ' \
-                  'presents his own solo show: "Firing Cheeseballs at a Dog."',
-              image: 'https://image.tmdb.org/t/p/original/2FoKVOPJ8OoHQUc2nGeJ2X9V0h6.jpg',
+                'Fifteen years after vanishing from the CIA to start a family, elite ' \
+                  'spies Matt and Emily jump back into the world of espionage when their cover is blown.',
+              image: 'https://image.tmdb.org/t/p/original/3L3l6LsiLGHkTG4RFB2aBA6BttB.jpg',
               deletion?: false,
               quality: 'WEBDL-1080p',
               old_quality: nil
@@ -41,14 +44,15 @@ module Radarr
           expect(from_json.to_h).to eq(
             {
               event_type: described_class::EVENT_TYPES[:movie_file_deleted],
-              languages: 'English',
-              title: 'Greg Davies: Firing Cheeseballs at a Dog',
+              languages: 'Spanish',
+              title: 'Back in Action',
+              date: Date.parse('29/03/2025'),
               overview:
-                'Greg Davies, the star of BAFTA-winning TV series and hit film "The Inbetweeners," ' \
-                  'presents his own solo show: "Firing Cheeseballs at a Dog."',
-              image: 'https://image.tmdb.org/t/p/original/2FoKVOPJ8OoHQUc2nGeJ2X9V0h6.jpg',
-              deletion?: true,
-              quality: 'DVD',
+                'Fifteen years after vanishing from the CIA to start a family, elite ' \
+                  'spies Matt and Emily jump back into the world of espionage when their cover is blown.',
+              image: 'https://image.tmdb.org/t/p/original/3L3l6LsiLGHkTG4RFB2aBA6BttB.jpg',
+              deletion?: false,
+              quality: 'WEBDL-1080p',
               old_quality: nil
             }
           )

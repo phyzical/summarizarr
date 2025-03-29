@@ -9,9 +9,11 @@ module Sonarr
 
       let(:full_json) do
         JSON.parse(
-          File.read("spec/support/requests/sonarr/#{Service.since_endpoint}.json", encoding: 'bom|utf-8'),
+          File.read("spec/support/requests/sonarr/#{Service.history_endpoint}?page=1.json", encoding: 'bom|utf-8'),
           symbolize_names: true
-        )
+        )[
+          :records
+        ]
       end
 
       context 'when item is downloadFolderImported' do
@@ -22,16 +24,15 @@ module Sonarr
             {
               event_type: described_class::EVENT_TYPES[:download_folder_imported],
               languages: 'English',
-              series: 'Psych',
-              title: 'The Spellingg Bee',
+              date: Date.parse('29/03/2025'),
+              series: 'Penn & Teller: Fool Us',
+              title: 'Gotcha!',
               overview:
-                'When what begins as a little competitive sabotage in a regional ' \
-                  'spelling bee quickly escalates to murder. ' \
-                  'Shawn and Gus must investigate the mysterious death of the ' \
-                  '"Spellmaster" at the regional Spelling Bee.',
-              image: 'https://artworks.thetvdb.com/banners/graphical/79335-g4.jpg',
+                'Magicians Vitaly Beckman, AnnaRose Einarsen, Goncalo Gil, and Ren X ' \
+                  'try to fool the veteran duo with their illusions.',
+              image: 'https://artworks.thetvdb.com/banners/graphical/239851-g.jpg',
               deletion?: false,
-              quality: 'Bluray-1080p',
+              quality: 'WEBDL-1080p',
               old_quality: nil
             }
           )
@@ -45,16 +46,15 @@ module Sonarr
           expect(from_json.to_h).to eq(
             event_type: described_class::EVENT_TYPES[:episode_file_deleted],
             languages: 'English',
-            series: 'Psych',
-            title: 'The Spellingg Bee',
+            series: 'Dateline: Secrets Uncovered',
+            date: Date.parse('28/03/2025'),
+            title: 'The Road Trip',
             overview:
-              'When what begins as a little competitive sabotage in a regional ' \
-                'spelling bee quickly escalates to murder. ' \
-                'Shawn and Gus must investigate the mysterious death of the ' \
-                '"Spellmaster" at the regional Spelling Bee.',
-            image: 'https://artworks.thetvdb.com/banners/graphical/79335-g4.jpg',
-            deletion?: true,
-            quality: 'SDTV',
+              'When Dr. Teresa Sievers is found murdered in her kitchen, detectives struggle to find any ' \
+                'leads until an unexpected tip changes everything; the woman who helped investigators speaks out.',
+            image: 'https://artworks.thetvdb.com/banners/v4/series/332213/banners/673648afe76e9.jpg',
+            deletion?: false,
+            quality: 'WEBDL-480p',
             old_quality: nil
           )
         end

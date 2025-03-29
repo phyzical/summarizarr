@@ -19,7 +19,7 @@ module MockRequests
 
   def stub_sonarr
     base_url = load_config.sonarr.base_url
-    1.times.each { |i| stub_endpoint("#{base_url}#{Sonarr::Service.history_endpoint}?page=#{i + 1}") }
+    45.times.each { |i| stub_endpoint("#{base_url}#{Sonarr::Service.history_endpoint}?page=#{i + 1}") }
     stub_endpoint("#{base_url}#{Sonarr::Service.status_endpoint}")
   end
 
@@ -31,13 +31,13 @@ module MockRequests
 
   def stub_readarr
     base_url = load_config.readarr.base_url
-    1.times.each { |i| stub_endpoint("#{base_url}#{Readarr::Service.history_endpoint}?page=#{i + 1}") }
+    2.times.each { |i| stub_endpoint("#{base_url}#{Readarr::Service.history_endpoint}?page=#{i + 1}") }
     stub_endpoint("#{base_url}#{Readarr::Service.status_endpoint}")
   end
 
   def stub_radarr
     base_url = load_config.radarr.base_url
-    1.times.each { |i| stub_endpoint("#{base_url}#{Radarr::Service.history_endpoint}?page=#{i + 1}") }
+    3.times.each { |i| stub_endpoint("#{base_url}#{Radarr::Service.history_endpoint}?page=#{i + 1}") }
     stub_endpoint("#{base_url}#{Radarr::Service.status_endpoint}")
   end
 

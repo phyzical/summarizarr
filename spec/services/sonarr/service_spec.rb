@@ -12,7 +12,7 @@ module Sonarr
     before { stub_sonarr }
 
     it 'returns history only containing expected types and groups by title' do
-      expect(items.count).to be(222)
+      expect(items.count).to be(196)
       expect(items).to all(be_a(Item::Thing))
     end
 
