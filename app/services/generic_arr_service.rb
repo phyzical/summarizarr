@@ -16,8 +16,8 @@ class GenericArrService < BaseService
       "/api/#{api_version}"
     end
 
-    def since_endpoint
-      "#{api_prefix}/history/since"
+    def history_endpoint
+      "#{api_prefix}/history"
     end
 
     def status_endpoint
@@ -25,8 +25,8 @@ class GenericArrService < BaseService
     end
   end
 
-  def pull
-    Request.perform(url: "#{base_url}#{self.class.since_endpoint}", headers:, get_vars:)
+  def pull(page: 1)
+    Request.perform(url: "#{base_url}#{self.class.history_endpoint}", headers:, get_vars: get_vars(page:))[:records]
   end
 
   # :nocov:
@@ -54,11 +54,9 @@ class GenericArrService < BaseService
       end
   end
 
-  # :nocov:
-  def get_vars # rubocop:disable Naming/AccessorMethodName
-    { date: from_date }
+  def get_vars(page: 1)
+    { page:, pageSize: 15, sortDirection: 'descending', sortKey: 'date' }
   end
-  # :nocov:
 
   def headers
     { Authorization: "Bearer #{api_key}" }
