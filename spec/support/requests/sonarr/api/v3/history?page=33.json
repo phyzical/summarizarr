@@ -1,0 +1,2363 @@
+{
+  "page": 33,
+  "pageSize": 15,
+  "sortKey": "date",
+  "sortDirection": "descending",
+  "totalRecords": 344511,
+  "records": [
+    {
+      "episodeId": 158084,
+      "seriesId": 400,
+      "sourceTitle": "SpongeBob.SquarePants.S15E20.My.Father.the.Boat.720p.AMZN.WEB-DL.DDP2.0.H.264-NTb",
+      "languages": [
+        {
+          "id": 1,
+          "name": "English"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 5,
+          "name": "WEBDL-720p",
+          "source": "web",
+          "resolution": 720
+        },
+        "revision": {
+          "version": 1,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "customFormats": [
+        {
+          "id": 3,
+          "name": "english"
+        }
+      ],
+      "customFormatScore": 10,
+      "qualityCutoffNotMet": false,
+      "date": "2025-03-24T15:38:00Z",
+      "downloadId": "SABnzbd_nzo_wv8b76wa",
+      "eventType": "downloadFolderImported",
+      "data": {
+        "fileId": "1504002",
+        "droppedPath": "/downloads/SpongeBob.SquarePants.S15E20.My.Father.the.Boat.720p.AMZN.WEB-DL.DDP2.0.H.264-NTb/SpongeBob.SquarePants.S15E20.My.Father.the.Boat.720p.AMZN.WEB-DL.DDP2.0.H.264-NTb.mkv",
+        "importedPath": "/tv/Kids/SpongeBob SquarePants/Season 15/SpongeBob.SquarePants.S15E20.My.Father.the.Boat.mkv",
+        "downloadClient": "SABnzbd",
+        "downloadClientName": "sab",
+        "releaseGroup": "NTb",
+        "customFormatScore": "10",
+        "size": "305858310",
+        "indexerFlags": "0",
+        "releaseType": "SingleEpisode"
+      },
+      "episode": {
+        "seriesId": 400,
+        "tvdbId": 10622794,
+        "episodeFileId": 1504002,
+        "seasonNumber": 15,
+        "episodeNumber": 20,
+        "title": "My Father the Boat",
+        "runtime": 10,
+        "overview": "Mr. Krabs decides to cheapen out again by creating Pearl's new boat himself. But when he and SpongeBob get trapped inside of it, they must pretend to be its engine to avoid being caught.",
+        "hasFile": true,
+        "monitored": true,
+        "unverifiedSceneNumbering": false,
+        "id": 158084
+      },
+      "series": {
+        "title": "SpongeBob SquarePants",
+        "sortTitle": "spongebob squarepants",
+        "status": "continuing",
+        "ended": false,
+        "overview": "The misadventures of a talking sea sponge who works at a fast food restaurant, attends a boating school, and lives in an underwater pineapple.",
+        "network": "Nickelodeon",
+        "airTime": "19:00",
+        "images": [
+          {
+            "coverType": "banner",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/graphical/75886-g5.jpg"
+          },
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/posters/75886-7.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/fanart/original/75886-11.jpg"
+          },
+          {
+            "coverType": "clearlogo",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/75886/clearlogo/611b69f1bf910.png"
+          }
+        ],
+        "originalLanguage": {
+          "id": 1,
+          "name": "English"
+        },
+        "seasons": [
+          {
+            "seasonNumber": 0,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 1,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 2,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 3,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 4,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 5,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 6,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 7,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 8,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 9,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 10,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 11,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 12,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 13,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 14,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 15,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 16,
+            "monitored": true
+          }
+        ],
+        "year": 1999,
+        "path": "/tv/Kids/SpongeBob SquarePants",
+        "qualityProfileId": 3,
+        "seasonFolder": true,
+        "monitored": true,
+        "monitorNewItems": "all",
+        "useSceneNumbering": false,
+        "runtime": 10,
+        "tvdbId": 75886,
+        "tvRageId": 5304,
+        "tvMazeId": 713,
+        "tmdbId": 387,
+        "firstAired": "1999-05-01T00:00:00Z",
+        "lastAired": "2025-03-14T00:00:00Z",
+        "seriesType": "standard",
+        "cleanTitle": "spongebobsquarepants",
+        "imdbId": "tt0206512",
+        "titleSlug": "spongebob-squarepants",
+        "certification": "TV-Y7",
+        "genres": [
+          "Animation",
+          "Children",
+          "Comedy",
+          "Family",
+          "Fantasy"
+        ],
+        "tags": [],
+        "added": "2020-02-09T03:18:20Z",
+        "ratings": {
+          "votes": 117921,
+          "value": 8.2
+        },
+        "languageProfileId": 1,
+        "id": 400
+      },
+      "id": 356568
+    },
+    {
+      "episodeId": 158084,
+      "seriesId": 400,
+      "sourceTitle": "SpongeBob.SquarePants.S15E20.My.Father.the.Boat.720p.AMZN.WEB-DL.DDP2.0.H.264-NTb",
+      "languages": [
+        {
+          "id": 1,
+          "name": "English"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 5,
+          "name": "WEBDL-720p",
+          "source": "web",
+          "resolution": 720
+        },
+        "revision": {
+          "version": 1,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "customFormats": [
+        {
+          "id": 3,
+          "name": "english"
+        }
+      ],
+      "customFormatScore": 10,
+      "qualityCutoffNotMet": false,
+      "date": "2025-03-24T15:37:39Z",
+      "downloadId": "SABnzbd_nzo_wv8b76wa",
+      "eventType": "grabbed",
+      "data": {
+        "indexer": "NZBFinder (yearly) (Prowlarr)",
+        "nzbInfoUrl": "https://nzbfinder.ws/details/d5ba651b-2978-40d9-85cd-38a4d864a876",
+        "releaseGroup": "NTb",
+        "age": "0",
+        "ageHours": "0.25201693247222223",
+        "ageMinutes": "15.121015985",
+        "publishedDate": "2025-03-24T15:22:32Z",
+        "downloadClient": "SABnzbd",
+        "downloadClientName": "sab",
+        "size": "348051101",
+        "downloadUrl": "http://prowlarr:9696/3/download?apikey=5f771c1869f94fec821832369384a70c&link=MWp6UnU1MkRSdyt5dzFJZ2pobjFCYWljbXZ1RkpmMk10NHJaVGhwZi9MeWo0M1ExNTcyVXdQWlBld0J1eG9qODFMOGdHUFFKZWlxQkZCeEdyT2RCbVYxUVNkTU9TT0NPSlZVUmF3SHRkT2dQRGNCNnAwcms1UFQ5VU9jNWFMVzdUdUNoYUFTSXpkQmRyL0UxUWZiSmErRkRGcGFaYUg0Sk9nMitBa3RURkFndGxYVnI1aExWUjNYUVg0ZHhOWllV&file=SpongeBob.SquarePants.S15E20.My.Father.the.Boat.720p.AMZN.WEB-DL.DDP2.0.H.264-NTb",
+        "guid": "https://nzbfinder.ws/details/d5ba651b-2978-40d9-85cd-38a4d864a876",
+        "tvdbId": "75886",
+        "tvRageId": "5304",
+        "imdbId": "tt0206512",
+        "protocol": "1",
+        "customFormatScore": "10",
+        "seriesMatchType": "Title",
+        "releaseSource": "Rss",
+        "indexerFlags": "0",
+        "releaseType": "SingleEpisode"
+      },
+      "episode": {
+        "seriesId": 400,
+        "tvdbId": 10622794,
+        "episodeFileId": 1504002,
+        "seasonNumber": 15,
+        "episodeNumber": 20,
+        "title": "My Father the Boat",
+        "runtime": 10,
+        "overview": "Mr. Krabs decides to cheapen out again by creating Pearl's new boat himself. But when he and SpongeBob get trapped inside of it, they must pretend to be its engine to avoid being caught.",
+        "hasFile": true,
+        "monitored": true,
+        "unverifiedSceneNumbering": false,
+        "id": 158084
+      },
+      "series": {
+        "title": "SpongeBob SquarePants",
+        "sortTitle": "spongebob squarepants",
+        "status": "continuing",
+        "ended": false,
+        "overview": "The misadventures of a talking sea sponge who works at a fast food restaurant, attends a boating school, and lives in an underwater pineapple.",
+        "network": "Nickelodeon",
+        "airTime": "19:00",
+        "images": [
+          {
+            "coverType": "banner",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/graphical/75886-g5.jpg"
+          },
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/posters/75886-7.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/fanart/original/75886-11.jpg"
+          },
+          {
+            "coverType": "clearlogo",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/75886/clearlogo/611b69f1bf910.png"
+          }
+        ],
+        "originalLanguage": {
+          "id": 1,
+          "name": "English"
+        },
+        "seasons": [
+          {
+            "seasonNumber": 0,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 1,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 2,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 3,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 4,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 5,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 6,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 7,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 8,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 9,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 10,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 11,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 12,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 13,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 14,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 15,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 16,
+            "monitored": true
+          }
+        ],
+        "year": 1999,
+        "path": "/tv/Kids/SpongeBob SquarePants",
+        "qualityProfileId": 3,
+        "seasonFolder": true,
+        "monitored": true,
+        "monitorNewItems": "all",
+        "useSceneNumbering": false,
+        "runtime": 10,
+        "tvdbId": 75886,
+        "tvRageId": 5304,
+        "tvMazeId": 713,
+        "tmdbId": 387,
+        "firstAired": "1999-05-01T00:00:00Z",
+        "lastAired": "2025-03-14T00:00:00Z",
+        "seriesType": "standard",
+        "cleanTitle": "spongebobsquarepants",
+        "imdbId": "tt0206512",
+        "titleSlug": "spongebob-squarepants",
+        "certification": "TV-Y7",
+        "genres": [
+          "Animation",
+          "Children",
+          "Comedy",
+          "Family",
+          "Fantasy"
+        ],
+        "tags": [],
+        "added": "2020-02-09T03:18:20Z",
+        "ratings": {
+          "votes": 117921,
+          "value": 8.2
+        },
+        "languageProfileId": 1,
+        "id": 400
+      },
+      "id": 356567
+    },
+    {
+      "episodeId": 158083,
+      "seriesId": 400,
+      "sourceTitle": "SpongeBob.SquarePants.S15E19.Delivery.of.Doom.720p.AMZN.WEB-DL.DDP2.0.H.264-NTb",
+      "languages": [
+        {
+          "id": 1,
+          "name": "English"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 5,
+          "name": "WEBDL-720p",
+          "source": "web",
+          "resolution": 720
+        },
+        "revision": {
+          "version": 1,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "customFormats": [
+        {
+          "id": 3,
+          "name": "english"
+        }
+      ],
+      "customFormatScore": 10,
+      "qualityCutoffNotMet": false,
+      "date": "2025-03-24T15:37:37Z",
+      "downloadId": "SABnzbd_nzo_u6qcs5pj",
+      "eventType": "grabbed",
+      "data": {
+        "indexer": "NzbPlanet (Prowlarr)",
+        "nzbInfoUrl": "https://nzbplanet.org/details/9010ffa24f40ae1c3f304427749e6a62",
+        "releaseGroup": "NTb",
+        "age": "0",
+        "ageHours": "0.25514487594444446",
+        "ageMinutes": "15.308692593333333",
+        "publishedDate": "2025-03-24T15:22:19Z",
+        "downloadClient": "SABnzbd",
+        "downloadClientName": "sab",
+        "size": "264210038",
+        "downloadUrl": "http://prowlarr:9696/7/download?apikey=5f771c1869f94fec821832369384a70c&link=ZC84enQ3K2RlZTMyNktRYVFnTklwcGNlQ0dWY2F4bktDN2pCSHY4YkFLNG1EekFzcERzQVhWZld0REwrdXQ1aVhhTzZXYW14eDBHMUNvNW82ckdQN3RadjJmRkJRbEZsSU13ZzdXN1VmQzhsa1pnWWk2WE42TTRqRmJtMDNscFRpcUtrK3ljY1hJd1RsWGdVSG93ZmV6VUk2QkR3NVZITEozWkxmdnZqaTIwPQ&file=SpongeBob.SquarePants.S15E19.Delivery.of.Doom.720p.AMZN.WEB-DL.DDP2.0.H.264-NTb",
+        "guid": "https://nzbplanet.org/details/9010ffa24f40ae1c3f304427749e6a62",
+        "tvdbId": "0",
+        "tvRageId": "0",
+        "imdbId": null,
+        "protocol": "1",
+        "customFormatScore": "10",
+        "seriesMatchType": "Title",
+        "releaseSource": "Rss",
+        "indexerFlags": "0",
+        "releaseType": "SingleEpisode"
+      },
+      "episode": {
+        "seriesId": 400,
+        "tvdbId": 10622792,
+        "episodeFileId": 1504003,
+        "seasonNumber": 15,
+        "episodeNumber": 19,
+        "title": "Delivery of Doom",
+        "runtime": 10,
+        "overview": "SpongeBob is challenged by E.V.I.L. to make a delivery to their secret lair in 10 minutes or less.",
+        "hasFile": true,
+        "monitored": true,
+        "unverifiedSceneNumbering": false,
+        "id": 158083
+      },
+      "series": {
+        "title": "SpongeBob SquarePants",
+        "sortTitle": "spongebob squarepants",
+        "status": "continuing",
+        "ended": false,
+        "overview": "The misadventures of a talking sea sponge who works at a fast food restaurant, attends a boating school, and lives in an underwater pineapple.",
+        "network": "Nickelodeon",
+        "airTime": "19:00",
+        "images": [
+          {
+            "coverType": "banner",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/graphical/75886-g5.jpg"
+          },
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/posters/75886-7.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/fanart/original/75886-11.jpg"
+          },
+          {
+            "coverType": "clearlogo",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/75886/clearlogo/611b69f1bf910.png"
+          }
+        ],
+        "originalLanguage": {
+          "id": 1,
+          "name": "English"
+        },
+        "seasons": [
+          {
+            "seasonNumber": 0,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 1,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 2,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 3,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 4,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 5,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 6,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 7,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 8,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 9,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 10,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 11,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 12,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 13,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 14,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 15,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 16,
+            "monitored": true
+          }
+        ],
+        "year": 1999,
+        "path": "/tv/Kids/SpongeBob SquarePants",
+        "qualityProfileId": 3,
+        "seasonFolder": true,
+        "monitored": true,
+        "monitorNewItems": "all",
+        "useSceneNumbering": false,
+        "runtime": 10,
+        "tvdbId": 75886,
+        "tvRageId": 5304,
+        "tvMazeId": 713,
+        "tmdbId": 387,
+        "firstAired": "1999-05-01T00:00:00Z",
+        "lastAired": "2025-03-14T00:00:00Z",
+        "seriesType": "standard",
+        "cleanTitle": "spongebobsquarepants",
+        "imdbId": "tt0206512",
+        "titleSlug": "spongebob-squarepants",
+        "certification": "TV-Y7",
+        "genres": [
+          "Animation",
+          "Children",
+          "Comedy",
+          "Family",
+          "Fantasy"
+        ],
+        "tags": [],
+        "added": "2020-02-09T03:18:20Z",
+        "ratings": {
+          "votes": 117921,
+          "value": 8.2
+        },
+        "languageProfileId": 1,
+        "id": 400
+      },
+      "id": 356566
+    },
+    {
+      "episodeId": 73670,
+      "seriesId": 1069,
+      "sourceTitle": "Undone.S01E07.REPACK.SPANiSH.1080p.WEB.h264-4FiRE-xpost",
+      "languages": [
+        {
+          "id": 3,
+          "name": "Spanish"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 3,
+          "name": "WEBDL-1080p",
+          "source": "web",
+          "resolution": 1080
+        },
+        "revision": {
+          "version": 2,
+          "real": 0,
+          "isRepack": true
+        }
+      },
+      "customFormats": [],
+      "customFormatScore": 0,
+      "qualityCutoffNotMet": false,
+      "date": "2025-03-24T10:11:01Z",
+      "downloadId": "SABnzbd_nzo_xlco83j1",
+      "eventType": "downloadFolderImported",
+      "data": {
+        "fileId": "1504001",
+        "droppedPath": "/downloads/Undone.S01E07.REPACK.SPANiSH.1080p.WEB.h264-4FiRE-xpost/Undone.S01E07.REPACK.SPANiSH.1080p.WEB.h264-4FiRE.mkv",
+        "importedPath": "/tv/Tv Shows/Undone/Season 1/Undone.S01E07.The.Wedding.mkv",
+        "downloadClient": "SABnzbd",
+        "downloadClientName": "sab",
+        "releaseGroup": "4FiRE",
+        "customFormatScore": "0",
+        "size": "1484462213",
+        "indexerFlags": "0",
+        "releaseType": "SingleEpisode"
+      },
+      "episode": {
+        "seriesId": 1069,
+        "tvdbId": 7350642,
+        "episodeFileId": 1504001,
+        "seasonNumber": 1,
+        "episodeNumber": 7,
+        "title": "The Wedding",
+        "airDate": "2019-09-13",
+        "airDateUtc": "2019-09-13T04:00:00Z",
+        "lastSearchTime": "2025-03-24T10:10:04Z",
+        "runtime": 25,
+        "overview": "Alma attends Becca and Reed’s wedding while continuing to investigate her father's murder. Meanwhile, Jacob encourages Alma to stop investigating in the present and find her way back to the past to save him.",
+        "hasFile": true,
+        "monitored": true,
+        "absoluteEpisodeNumber": 7,
+        "unverifiedSceneNumbering": false,
+        "id": 73670
+      },
+      "series": {
+        "title": "Undone",
+        "sortTitle": "undone",
+        "status": "ended",
+        "ended": true,
+        "overview": "Alma, a 28-year-old living in San Antonio, Texas, finds that she has a new relationship to time after nearly dying in a car accident. As Alma develops new abilities, she pursues answers about her father’s death.",
+        "network": "Prime Video",
+        "airTime": "00:00",
+        "images": [
+          {
+            "coverType": "banner",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/graphical/5daf63290930d.jpg"
+          },
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/357756/posters/6287264c13a46.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/fanart/original/5d80ae8e7b0b2.jpg"
+          },
+          {
+            "coverType": "clearlogo",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/357756/clearlogo/611d881ab735c.png"
+          }
+        ],
+        "originalLanguage": {
+          "id": 1,
+          "name": "English"
+        },
+        "seasons": [
+          {
+            "seasonNumber": 0,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 1,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 2,
+            "monitored": true
+          }
+        ],
+        "year": 2019,
+        "path": "/tv/Tv Shows/Undone",
+        "qualityProfileId": 1,
+        "seasonFolder": true,
+        "monitored": true,
+        "monitorNewItems": "all",
+        "useSceneNumbering": false,
+        "runtime": 24,
+        "tvdbId": 357756,
+        "tvRageId": 0,
+        "tvMazeId": 35236,
+        "tmdbId": 86340,
+        "firstAired": "2019-09-13T00:00:00Z",
+        "lastAired": "2022-04-29T00:00:00Z",
+        "seriesType": "standard",
+        "cleanTitle": "undone",
+        "imdbId": "tt8101850",
+        "titleSlug": "undone",
+        "certification": "TV-MA",
+        "genres": [
+          "Animation",
+          "Comedy",
+          "Drama",
+          "Fantasy",
+          "Science Fiction"
+        ],
+        "tags": [],
+        "added": "2020-02-09T10:51:55Z",
+        "ratings": {
+          "votes": 24858,
+          "value": 8.2
+        },
+        "languageProfileId": 1,
+        "id": 1069
+      },
+      "id": 356565
+    },
+    {
+      "episodeId": 73670,
+      "seriesId": 1069,
+      "sourceTitle": "/tv/Tv Shows/Undone/Season 1/Undone.s01e07.mkv",
+      "languages": [
+        {
+          "id": 1,
+          "name": "English"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 4,
+          "name": "HDTV-720p",
+          "source": "television",
+          "resolution": 720
+        },
+        "revision": {
+          "version": 1,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "customFormats": [
+        {
+          "id": 3,
+          "name": "english"
+        }
+      ],
+      "customFormatScore": 10,
+      "qualityCutoffNotMet": true,
+      "date": "2025-03-24T10:11:00Z",
+      "eventType": "episodeFileDeleted",
+      "data": {
+        "reason": "Upgrade",
+        "releaseGroup": null,
+        "size": "173636188",
+        "indexerFlags": "0",
+        "releaseType": "Unknown"
+      },
+      "episode": {
+        "seriesId": 1069,
+        "tvdbId": 7350642,
+        "episodeFileId": 1504001,
+        "seasonNumber": 1,
+        "episodeNumber": 7,
+        "title": "The Wedding",
+        "airDate": "2019-09-13",
+        "airDateUtc": "2019-09-13T04:00:00Z",
+        "lastSearchTime": "2025-03-24T10:10:04Z",
+        "runtime": 25,
+        "overview": "Alma attends Becca and Reed’s wedding while continuing to investigate her father's murder. Meanwhile, Jacob encourages Alma to stop investigating in the present and find her way back to the past to save him.",
+        "hasFile": true,
+        "monitored": true,
+        "absoluteEpisodeNumber": 7,
+        "unverifiedSceneNumbering": false,
+        "id": 73670
+      },
+      "series": {
+        "title": "Undone",
+        "sortTitle": "undone",
+        "status": "ended",
+        "ended": true,
+        "overview": "Alma, a 28-year-old living in San Antonio, Texas, finds that she has a new relationship to time after nearly dying in a car accident. As Alma develops new abilities, she pursues answers about her father’s death.",
+        "network": "Prime Video",
+        "airTime": "00:00",
+        "images": [
+          {
+            "coverType": "banner",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/graphical/5daf63290930d.jpg"
+          },
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/357756/posters/6287264c13a46.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/fanart/original/5d80ae8e7b0b2.jpg"
+          },
+          {
+            "coverType": "clearlogo",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/357756/clearlogo/611d881ab735c.png"
+          }
+        ],
+        "originalLanguage": {
+          "id": 1,
+          "name": "English"
+        },
+        "seasons": [
+          {
+            "seasonNumber": 0,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 1,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 2,
+            "monitored": true
+          }
+        ],
+        "year": 2019,
+        "path": "/tv/Tv Shows/Undone",
+        "qualityProfileId": 1,
+        "seasonFolder": true,
+        "monitored": true,
+        "monitorNewItems": "all",
+        "useSceneNumbering": false,
+        "runtime": 24,
+        "tvdbId": 357756,
+        "tvRageId": 0,
+        "tvMazeId": 35236,
+        "tmdbId": 86340,
+        "firstAired": "2019-09-13T00:00:00Z",
+        "lastAired": "2022-04-29T00:00:00Z",
+        "seriesType": "standard",
+        "cleanTitle": "undone",
+        "imdbId": "tt8101850",
+        "titleSlug": "undone",
+        "certification": "TV-MA",
+        "genres": [
+          "Animation",
+          "Comedy",
+          "Drama",
+          "Fantasy",
+          "Science Fiction"
+        ],
+        "tags": [],
+        "added": "2020-02-09T10:51:55Z",
+        "ratings": {
+          "votes": 24858,
+          "value": 8.2
+        },
+        "languageProfileId": 1,
+        "id": 1069
+      },
+      "id": 356564
+    },
+    {
+      "episodeId": 73670,
+      "seriesId": 1069,
+      "sourceTitle": "Undone.S01E07.REPACK.SPANiSH.1080p.WEB.h264-4FiRE-xpost",
+      "languages": [
+        {
+          "id": 3,
+          "name": "Spanish"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 3,
+          "name": "WEBDL-1080p",
+          "source": "web",
+          "resolution": 1080
+        },
+        "revision": {
+          "version": 2,
+          "real": 0,
+          "isRepack": true
+        }
+      },
+      "customFormats": [],
+      "customFormatScore": 0,
+      "qualityCutoffNotMet": false,
+      "date": "2025-03-24T10:10:16Z",
+      "downloadId": "SABnzbd_nzo_xlco83j1",
+      "eventType": "grabbed",
+      "data": {
+        "indexer": "Nzb.su (yearly) (Prowlarr)",
+        "nzbInfoUrl": "https://api.nzb.su/details/88091ed2e88f80db06f3b85ee69d763a",
+        "releaseGroup": "4FiRE",
+        "age": "2017",
+        "ageHours": "48431.959264170335",
+        "ageMinutes": "2905917.55585026",
+        "publishedDate": "2019-09-14T10:12:43Z",
+        "downloadClient": "SABnzbd",
+        "downloadClientName": "sab",
+        "size": "1588065386",
+        "downloadUrl": "http://prowlarr:9696/4/download?apikey=5f771c1869f94fec821832369384a70c&link=dWt5ajgwMUpyZGlHNEFHbmQ5Y2FWWGR2TzQwSXhTQkE5enRzeGNqanFOMzFHbEFhODhzRTVGNXhlU1lIS0NjczgyQXV0ZlhKYkVibHgrQm9oMzgvbzFuZ1BvK3dSKzNSTDJYK3JQSVFKUk43NDdGNGlBTFhWdWFQa0xJZFVDMEwvZlB6WFhUQVYzb2tCRFgzUzlUU0lXdG5mZ0VmNlJhdnJROVRnRzVEdDdZPQ&file=Undone.S01E07.REPACK.SPANiSH.1080p.WEB.h264-4FiRE-xpost",
+        "guid": "https://api.nzb.su/details/88091ed2e88f80db06f3b85ee69d763a",
+        "tvdbId": "0",
+        "tvRageId": "0",
+        "imdbId": null,
+        "protocol": "1",
+        "customFormatScore": "0",
+        "seriesMatchType": "Title",
+        "releaseSource": "Search",
+        "indexerFlags": "0",
+        "releaseType": "SingleEpisode"
+      },
+      "episode": {
+        "seriesId": 1069,
+        "tvdbId": 7350642,
+        "episodeFileId": 1504001,
+        "seasonNumber": 1,
+        "episodeNumber": 7,
+        "title": "The Wedding",
+        "airDate": "2019-09-13",
+        "airDateUtc": "2019-09-13T04:00:00Z",
+        "lastSearchTime": "2025-03-24T10:10:04Z",
+        "runtime": 25,
+        "overview": "Alma attends Becca and Reed’s wedding while continuing to investigate her father's murder. Meanwhile, Jacob encourages Alma to stop investigating in the present and find her way back to the past to save him.",
+        "hasFile": true,
+        "monitored": true,
+        "absoluteEpisodeNumber": 7,
+        "unverifiedSceneNumbering": false,
+        "id": 73670
+      },
+      "series": {
+        "title": "Undone",
+        "sortTitle": "undone",
+        "status": "ended",
+        "ended": true,
+        "overview": "Alma, a 28-year-old living in San Antonio, Texas, finds that she has a new relationship to time after nearly dying in a car accident. As Alma develops new abilities, she pursues answers about her father’s death.",
+        "network": "Prime Video",
+        "airTime": "00:00",
+        "images": [
+          {
+            "coverType": "banner",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/graphical/5daf63290930d.jpg"
+          },
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/357756/posters/6287264c13a46.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/fanart/original/5d80ae8e7b0b2.jpg"
+          },
+          {
+            "coverType": "clearlogo",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/357756/clearlogo/611d881ab735c.png"
+          }
+        ],
+        "originalLanguage": {
+          "id": 1,
+          "name": "English"
+        },
+        "seasons": [
+          {
+            "seasonNumber": 0,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 1,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 2,
+            "monitored": true
+          }
+        ],
+        "year": 2019,
+        "path": "/tv/Tv Shows/Undone",
+        "qualityProfileId": 1,
+        "seasonFolder": true,
+        "monitored": true,
+        "monitorNewItems": "all",
+        "useSceneNumbering": false,
+        "runtime": 24,
+        "tvdbId": 357756,
+        "tvRageId": 0,
+        "tvMazeId": 35236,
+        "tmdbId": 86340,
+        "firstAired": "2019-09-13T00:00:00Z",
+        "lastAired": "2022-04-29T00:00:00Z",
+        "seriesType": "standard",
+        "cleanTitle": "undone",
+        "imdbId": "tt8101850",
+        "titleSlug": "undone",
+        "certification": "TV-MA",
+        "genres": [
+          "Animation",
+          "Comedy",
+          "Drama",
+          "Fantasy",
+          "Science Fiction"
+        ],
+        "tags": [],
+        "added": "2020-02-09T10:51:55Z",
+        "ratings": {
+          "votes": 24858,
+          "value": 8.2
+        },
+        "languageProfileId": 1,
+        "id": 1069
+      },
+      "id": 356563
+    },
+    {
+      "episodeId": 73670,
+      "seriesId": 1069,
+      "sourceTitle": "Undone.S01E07.GERMAN.DL.720P.WEB.H264-WAYNE{{ZHW5jvTdcmx1pRaJM4lXfO}}-xpost",
+      "languages": [
+        {
+          "id": 4,
+          "name": "German"
+        },
+        {
+          "id": 1,
+          "name": "English"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 5,
+          "name": "WEBDL-720p",
+          "source": "web",
+          "resolution": 720
+        },
+        "revision": {
+          "version": 1,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "customFormats": [
+        {
+          "id": 3,
+          "name": "english"
+        }
+      ],
+      "customFormatScore": 10,
+      "qualityCutoffNotMet": true,
+      "date": "2025-03-24T10:10:00Z",
+      "downloadId": "SABnzbd_nzo__fnp1kd_",
+      "eventType": "downloadFailed",
+      "data": {
+        "downloadClient": "SABnzbd",
+        "downloadClientName": "sab",
+        "message": "Repair failed, not enough repair blocks (240 short)",
+        "releaseGroup": "WAYNE",
+        "size": "745127775"
+      },
+      "episode": {
+        "seriesId": 1069,
+        "tvdbId": 7350642,
+        "episodeFileId": 1504001,
+        "seasonNumber": 1,
+        "episodeNumber": 7,
+        "title": "The Wedding",
+        "airDate": "2019-09-13",
+        "airDateUtc": "2019-09-13T04:00:00Z",
+        "lastSearchTime": "2025-03-24T10:10:04Z",
+        "runtime": 25,
+        "overview": "Alma attends Becca and Reed’s wedding while continuing to investigate her father's murder. Meanwhile, Jacob encourages Alma to stop investigating in the present and find her way back to the past to save him.",
+        "hasFile": true,
+        "monitored": true,
+        "absoluteEpisodeNumber": 7,
+        "unverifiedSceneNumbering": false,
+        "id": 73670
+      },
+      "series": {
+        "title": "Undone",
+        "sortTitle": "undone",
+        "status": "ended",
+        "ended": true,
+        "overview": "Alma, a 28-year-old living in San Antonio, Texas, finds that she has a new relationship to time after nearly dying in a car accident. As Alma develops new abilities, she pursues answers about her father’s death.",
+        "network": "Prime Video",
+        "airTime": "00:00",
+        "images": [
+          {
+            "coverType": "banner",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/graphical/5daf63290930d.jpg"
+          },
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/357756/posters/6287264c13a46.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/fanart/original/5d80ae8e7b0b2.jpg"
+          },
+          {
+            "coverType": "clearlogo",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/357756/clearlogo/611d881ab735c.png"
+          }
+        ],
+        "originalLanguage": {
+          "id": 1,
+          "name": "English"
+        },
+        "seasons": [
+          {
+            "seasonNumber": 0,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 1,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 2,
+            "monitored": true
+          }
+        ],
+        "year": 2019,
+        "path": "/tv/Tv Shows/Undone",
+        "qualityProfileId": 1,
+        "seasonFolder": true,
+        "monitored": true,
+        "monitorNewItems": "all",
+        "useSceneNumbering": false,
+        "runtime": 24,
+        "tvdbId": 357756,
+        "tvRageId": 0,
+        "tvMazeId": 35236,
+        "tmdbId": 86340,
+        "firstAired": "2019-09-13T00:00:00Z",
+        "lastAired": "2022-04-29T00:00:00Z",
+        "seriesType": "standard",
+        "cleanTitle": "undone",
+        "imdbId": "tt8101850",
+        "titleSlug": "undone",
+        "certification": "TV-MA",
+        "genres": [
+          "Animation",
+          "Comedy",
+          "Drama",
+          "Fantasy",
+          "Science Fiction"
+        ],
+        "tags": [],
+        "added": "2020-02-09T10:51:55Z",
+        "ratings": {
+          "votes": 24858,
+          "value": 8.2
+        },
+        "languageProfileId": 1,
+        "id": 1069
+      },
+      "id": 356562
+    },
+    {
+      "episodeId": 73670,
+      "seriesId": 1069,
+      "sourceTitle": "Undone.S01E07.GERMAN.DL.720P.WEB.H264-WAYNE{{ZHW5jvTdcmx1pRaJM4lXfO}}-xpost",
+      "languages": [
+        {
+          "id": 4,
+          "name": "German"
+        },
+        {
+          "id": 1,
+          "name": "English"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 5,
+          "name": "WEBDL-720p",
+          "source": "web",
+          "resolution": 720
+        },
+        "revision": {
+          "version": 1,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "customFormats": [
+        {
+          "id": 3,
+          "name": "english"
+        }
+      ],
+      "customFormatScore": 10,
+      "qualityCutoffNotMet": true,
+      "date": "2025-03-24T10:08:59Z",
+      "downloadId": "SABnzbd_nzo__fnp1kd_",
+      "eventType": "grabbed",
+      "data": {
+        "indexer": "Nzb.su (yearly) (Prowlarr)",
+        "nzbInfoUrl": "https://api.nzb.su/details/f357fc57fdddf5072409c6aa01f96580",
+        "releaseGroup": "WAYNE",
+        "age": "0",
+        "ageHours": "1.0485054918055556",
+        "ageMinutes": "62.91032954666667",
+        "publishedDate": "2025-03-24T09:06:05Z",
+        "downloadClient": "SABnzbd",
+        "downloadClientName": "sab",
+        "size": "780253867",
+        "downloadUrl": "http://prowlarr:9696/4/download?apikey=5f771c1869f94fec821832369384a70c&link=SkI0VTRjTVJDYjJTMzNyY2NhU0ZGaTU0OUp1eDNLelBaUTQ2NDRXaWZQR2RFU0RxU2UvMUZibDlIaHM0U1c1RkNNMys4R2hNeFh4UjlPYmt2MjdEWmUrL1pic2lUS1BzQUt0MDcwMTJqOVh2NlFacjRuKzFXVHpFS1BlTHhqS010YVA4TFN2ZGt0eldmZ0ljbHRuY0tsdXFRS0dJcko3RnJEMk9LSjRyWGJNPQ&file=Undone.S01E07.GERMAN.DL.720P.WEB.H264-WAYNE%7B%7BZHW5jvTdcmx1pRaJM4lXfO%7D%7D-xpost",
+        "guid": "https://api.nzb.su/details/f357fc57fdddf5072409c6aa01f96580",
+        "tvdbId": "0",
+        "tvRageId": "0",
+        "imdbId": null,
+        "protocol": "1",
+        "customFormatScore": "10",
+        "seriesMatchType": "Title",
+        "releaseSource": "Rss",
+        "indexerFlags": "0",
+        "releaseType": "SingleEpisode"
+      },
+      "episode": {
+        "seriesId": 1069,
+        "tvdbId": 7350642,
+        "episodeFileId": 1504001,
+        "seasonNumber": 1,
+        "episodeNumber": 7,
+        "title": "The Wedding",
+        "airDate": "2019-09-13",
+        "airDateUtc": "2019-09-13T04:00:00Z",
+        "lastSearchTime": "2025-03-24T10:10:04Z",
+        "runtime": 25,
+        "overview": "Alma attends Becca and Reed’s wedding while continuing to investigate her father's murder. Meanwhile, Jacob encourages Alma to stop investigating in the present and find her way back to the past to save him.",
+        "hasFile": true,
+        "monitored": true,
+        "absoluteEpisodeNumber": 7,
+        "unverifiedSceneNumbering": false,
+        "id": 73670
+      },
+      "series": {
+        "title": "Undone",
+        "sortTitle": "undone",
+        "status": "ended",
+        "ended": true,
+        "overview": "Alma, a 28-year-old living in San Antonio, Texas, finds that she has a new relationship to time after nearly dying in a car accident. As Alma develops new abilities, she pursues answers about her father’s death.",
+        "network": "Prime Video",
+        "airTime": "00:00",
+        "images": [
+          {
+            "coverType": "banner",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/graphical/5daf63290930d.jpg"
+          },
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/357756/posters/6287264c13a46.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/fanart/original/5d80ae8e7b0b2.jpg"
+          },
+          {
+            "coverType": "clearlogo",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/357756/clearlogo/611d881ab735c.png"
+          }
+        ],
+        "originalLanguage": {
+          "id": 1,
+          "name": "English"
+        },
+        "seasons": [
+          {
+            "seasonNumber": 0,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 1,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 2,
+            "monitored": true
+          }
+        ],
+        "year": 2019,
+        "path": "/tv/Tv Shows/Undone",
+        "qualityProfileId": 1,
+        "seasonFolder": true,
+        "monitored": true,
+        "monitorNewItems": "all",
+        "useSceneNumbering": false,
+        "runtime": 24,
+        "tvdbId": 357756,
+        "tvRageId": 0,
+        "tvMazeId": 35236,
+        "tmdbId": 86340,
+        "firstAired": "2019-09-13T00:00:00Z",
+        "lastAired": "2022-04-29T00:00:00Z",
+        "seriesType": "standard",
+        "cleanTitle": "undone",
+        "imdbId": "tt8101850",
+        "titleSlug": "undone",
+        "certification": "TV-MA",
+        "genres": [
+          "Animation",
+          "Comedy",
+          "Drama",
+          "Fantasy",
+          "Science Fiction"
+        ],
+        "tags": [],
+        "added": "2020-02-09T10:51:55Z",
+        "ratings": {
+          "votes": 24858,
+          "value": 8.2
+        },
+        "languageProfileId": 1,
+        "id": 1069
+      },
+      "id": 356561
+    },
+    {
+      "episodeId": 163166,
+      "seriesId": 1808,
+      "sourceTitle": "The.Equalizer.2021.S05E13.1080p.WEB.h264-ETHEL",
+      "languages": [
+        {
+          "id": 1,
+          "name": "English"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 3,
+          "name": "WEBDL-1080p",
+          "source": "web",
+          "resolution": 1080
+        },
+        "revision": {
+          "version": 1,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "customFormats": [
+        {
+          "id": 3,
+          "name": "english"
+        }
+      ],
+      "customFormatScore": 10,
+      "qualityCutoffNotMet": false,
+      "date": "2025-03-24T06:18:02Z",
+      "downloadId": "SABnzbd_nzo_egoy_cqk",
+      "eventType": "downloadFolderImported",
+      "data": {
+        "fileId": "1503793",
+        "droppedPath": "/downloads/The.Equalizer.2021.S05E13.1080p.WEB.h264-ETHEL/The.Equalizer.2021.S05E13.1080p.WEB.h264-ETHEL.mkv",
+        "importedPath": "/tv/Tv Shows/The Equalizer (2021)/Season 5/The.Equalizer.(2021).S05E13.A.Few.Good.Women.mkv",
+        "downloadClient": "SABnzbd",
+        "downloadClientName": "sab",
+        "releaseGroup": "ETHEL",
+        "customFormatScore": "10",
+        "size": "3198147348",
+        "indexerFlags": "0",
+        "releaseType": "SingleEpisode"
+      },
+      "episode": {
+        "seriesId": 1808,
+        "tvdbId": 10976937,
+        "episodeFileId": 1503793,
+        "seasonNumber": 5,
+        "episodeNumber": 13,
+        "title": "A Few Good Women",
+        "airDate": "2025-03-23",
+        "airDateUtc": "2025-03-24T02:00:00Z",
+        "runtime": 0,
+        "overview": "After a soldier suddenly goes AWOL while planning to expose an alleged secret military project, McCall and the team learn that her life is in danger. Meanwhile, Dante makes a career move to be closer to McCall and his family.",
+        "hasFile": true,
+        "monitored": true,
+        "unverifiedSceneNumbering": false,
+        "id": 163166
+      },
+      "series": {
+        "title": "The Equalizer (2021)",
+        "sortTitle": "equalizer 2021",
+        "status": "continuing",
+        "ended": false,
+        "overview": "Robyn McCall, an enigmatic woman with a mysterious background, uses her extensive skills to help those with nowhere else to turn. McCall comes across to most as an average single mom who is quietly raising her teenage daughter. But to a trusted few, she is 'The Equalizer'—an anonymous guardian angel and defender of the downtrodden, who's also dogged in her pursuit of personal redemption.",
+        "network": "CBS",
+        "airTime": "22:00",
+        "images": [
+          {
+            "coverType": "banner",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/series/382327/banners/6011c2168ff84.jpg"
+          },
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/382327/posters/65cfef377b2e2.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/382327/backgrounds/606a5b1e4f234.jpg"
+          },
+          {
+            "coverType": "clearlogo",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/382327/clearlogo/611c5ac0c48d7.png"
+          }
+        ],
+        "originalLanguage": {
+          "id": 1,
+          "name": "English"
+        },
+        "seasons": [
+          {
+            "seasonNumber": 1,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 2,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 3,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 4,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 5,
+            "monitored": true
+          }
+        ],
+        "year": 2021,
+        "path": "/tv/Tv Shows/The Equalizer (2021)",
+        "qualityProfileId": 1,
+        "seasonFolder": true,
+        "monitored": true,
+        "monitorNewItems": "all",
+        "useSceneNumbering": false,
+        "runtime": 43,
+        "tvdbId": 382327,
+        "tvRageId": 0,
+        "tvMazeId": 47929,
+        "tmdbId": 95205,
+        "firstAired": "2021-02-07T00:00:00Z",
+        "lastAired": "2025-05-04T00:00:00Z",
+        "seriesType": "standard",
+        "cleanTitle": "theequalizer2021",
+        "imdbId": "tt11242246",
+        "titleSlug": "the-equalizer-2021",
+        "certification": "TV-14",
+        "genres": [
+          "Action",
+          "Crime",
+          "Drama",
+          "Mystery",
+          "Thriller"
+        ],
+        "tags": [],
+        "added": "2025-01-20T03:56:55Z",
+        "ratings": {
+          "votes": 19050,
+          "value": 5.6
+        },
+        "languageProfileId": 1,
+        "id": 1808
+      },
+      "id": 356560
+    },
+    {
+      "episodeId": 163166,
+      "seriesId": 1808,
+      "sourceTitle": "/tv/Tv Shows/The Equalizer (2021)/Season 5/The.Equalizer.(2021).S05E13.A.Few.Good.Women.mkv",
+      "languages": [
+        {
+          "id": 1,
+          "name": "English"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 4,
+          "name": "HDTV-720p",
+          "source": "television",
+          "resolution": 720
+        },
+        "revision": {
+          "version": 1,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "customFormats": [
+        {
+          "id": 3,
+          "name": "english"
+        }
+      ],
+      "customFormatScore": 10,
+      "qualityCutoffNotMet": true,
+      "date": "2025-03-24T06:18:00Z",
+      "eventType": "episodeFileDeleted",
+      "data": {
+        "reason": "Upgrade",
+        "releaseGroup": "SYNCOPY",
+        "size": "838801782",
+        "indexerFlags": "0",
+        "releaseType": "SingleEpisode"
+      },
+      "episode": {
+        "seriesId": 1808,
+        "tvdbId": 10976937,
+        "episodeFileId": 1503793,
+        "seasonNumber": 5,
+        "episodeNumber": 13,
+        "title": "A Few Good Women",
+        "airDate": "2025-03-23",
+        "airDateUtc": "2025-03-24T02:00:00Z",
+        "runtime": 0,
+        "overview": "After a soldier suddenly goes AWOL while planning to expose an alleged secret military project, McCall and the team learn that her life is in danger. Meanwhile, Dante makes a career move to be closer to McCall and his family.",
+        "hasFile": true,
+        "monitored": true,
+        "unverifiedSceneNumbering": false,
+        "id": 163166
+      },
+      "series": {
+        "title": "The Equalizer (2021)",
+        "sortTitle": "equalizer 2021",
+        "status": "continuing",
+        "ended": false,
+        "overview": "Robyn McCall, an enigmatic woman with a mysterious background, uses her extensive skills to help those with nowhere else to turn. McCall comes across to most as an average single mom who is quietly raising her teenage daughter. But to a trusted few, she is 'The Equalizer'—an anonymous guardian angel and defender of the downtrodden, who's also dogged in her pursuit of personal redemption.",
+        "network": "CBS",
+        "airTime": "22:00",
+        "images": [
+          {
+            "coverType": "banner",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/series/382327/banners/6011c2168ff84.jpg"
+          },
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/382327/posters/65cfef377b2e2.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/382327/backgrounds/606a5b1e4f234.jpg"
+          },
+          {
+            "coverType": "clearlogo",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/382327/clearlogo/611c5ac0c48d7.png"
+          }
+        ],
+        "originalLanguage": {
+          "id": 1,
+          "name": "English"
+        },
+        "seasons": [
+          {
+            "seasonNumber": 1,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 2,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 3,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 4,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 5,
+            "monitored": true
+          }
+        ],
+        "year": 2021,
+        "path": "/tv/Tv Shows/The Equalizer (2021)",
+        "qualityProfileId": 1,
+        "seasonFolder": true,
+        "monitored": true,
+        "monitorNewItems": "all",
+        "useSceneNumbering": false,
+        "runtime": 43,
+        "tvdbId": 382327,
+        "tvRageId": 0,
+        "tvMazeId": 47929,
+        "tmdbId": 95205,
+        "firstAired": "2021-02-07T00:00:00Z",
+        "lastAired": "2025-05-04T00:00:00Z",
+        "seriesType": "standard",
+        "cleanTitle": "theequalizer2021",
+        "imdbId": "tt11242246",
+        "titleSlug": "the-equalizer-2021",
+        "certification": "TV-14",
+        "genres": [
+          "Action",
+          "Crime",
+          "Drama",
+          "Mystery",
+          "Thriller"
+        ],
+        "tags": [],
+        "added": "2025-01-20T03:56:55Z",
+        "ratings": {
+          "votes": 19050,
+          "value": 5.6
+        },
+        "languageProfileId": 1,
+        "id": 1808
+      },
+      "id": 356559
+    },
+    {
+      "episodeId": 163166,
+      "seriesId": 1808,
+      "sourceTitle": "The.Equalizer.2021.S05E13.1080p.WEB.h264-ETHEL",
+      "languages": [
+        {
+          "id": 1,
+          "name": "English"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 3,
+          "name": "WEBDL-1080p",
+          "source": "web",
+          "resolution": 1080
+        },
+        "revision": {
+          "version": 1,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "customFormats": [
+        {
+          "id": 3,
+          "name": "english"
+        }
+      ],
+      "customFormatScore": 10,
+      "qualityCutoffNotMet": false,
+      "date": "2025-03-24T06:16:29Z",
+      "downloadId": "SABnzbd_nzo_egoy_cqk",
+      "eventType": "grabbed",
+      "data": {
+        "indexer": "altHUB (Prowlarr)",
+        "nzbInfoUrl": "https://api.althub.co.za/details/c4aed5bbec3d2f182feda07145bc2525",
+        "releaseGroup": "ETHEL",
+        "age": "0",
+        "ageHours": "0.2217400790277778",
+        "ageMinutes": "13.304404785",
+        "publishedDate": "2025-03-24T06:03:11Z",
+        "downloadClient": "SABnzbd",
+        "downloadClientName": "sab",
+        "size": "3479673653",
+        "downloadUrl": "http://prowlarr:9696/1/download?apikey=5f771c1869f94fec821832369384a70c&link=a2xaMjVGaXZQZjkyaW41VSt0NUZZV003ZVc3aTk4Qy92UmFsN3NOZHUwSHZrdHJoWk1wZmtqQXJuclFnOVVXdXRXODFXUGhKWVlaV3RoSjVzZFdvaWxGNTFQYlM5N1Y5NWxReEVpcGVNRGJhN1BYM2piM0pXOWx1Z3RhVm9ueHQrdmFzU0tiY1NXbUJmalI3QmZaKzlYZlpUME4vL3RWOSszRWdhSVdCcFhzPQ&file=The.Equalizer.2021.S05E13.1080p.WEB.h264-ETHEL",
+        "guid": "https://api.althub.co.za/details/c4aed5bbec3d2f182feda07145bc2525",
+        "tvdbId": "0",
+        "tvRageId": "0",
+        "imdbId": null,
+        "protocol": "1",
+        "customFormatScore": "10",
+        "seriesMatchType": "Title",
+        "releaseSource": "Rss",
+        "indexerFlags": "0",
+        "releaseType": "SingleEpisode"
+      },
+      "episode": {
+        "seriesId": 1808,
+        "tvdbId": 10976937,
+        "episodeFileId": 1503793,
+        "seasonNumber": 5,
+        "episodeNumber": 13,
+        "title": "A Few Good Women",
+        "airDate": "2025-03-23",
+        "airDateUtc": "2025-03-24T02:00:00Z",
+        "runtime": 0,
+        "overview": "After a soldier suddenly goes AWOL while planning to expose an alleged secret military project, McCall and the team learn that her life is in danger. Meanwhile, Dante makes a career move to be closer to McCall and his family.",
+        "hasFile": true,
+        "monitored": true,
+        "unverifiedSceneNumbering": false,
+        "id": 163166
+      },
+      "series": {
+        "title": "The Equalizer (2021)",
+        "sortTitle": "equalizer 2021",
+        "status": "continuing",
+        "ended": false,
+        "overview": "Robyn McCall, an enigmatic woman with a mysterious background, uses her extensive skills to help those with nowhere else to turn. McCall comes across to most as an average single mom who is quietly raising her teenage daughter. But to a trusted few, she is 'The Equalizer'—an anonymous guardian angel and defender of the downtrodden, who's also dogged in her pursuit of personal redemption.",
+        "network": "CBS",
+        "airTime": "22:00",
+        "images": [
+          {
+            "coverType": "banner",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/series/382327/banners/6011c2168ff84.jpg"
+          },
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/382327/posters/65cfef377b2e2.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/382327/backgrounds/606a5b1e4f234.jpg"
+          },
+          {
+            "coverType": "clearlogo",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/382327/clearlogo/611c5ac0c48d7.png"
+          }
+        ],
+        "originalLanguage": {
+          "id": 1,
+          "name": "English"
+        },
+        "seasons": [
+          {
+            "seasonNumber": 1,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 2,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 3,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 4,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 5,
+            "monitored": true
+          }
+        ],
+        "year": 2021,
+        "path": "/tv/Tv Shows/The Equalizer (2021)",
+        "qualityProfileId": 1,
+        "seasonFolder": true,
+        "monitored": true,
+        "monitorNewItems": "all",
+        "useSceneNumbering": false,
+        "runtime": 43,
+        "tvdbId": 382327,
+        "tvRageId": 0,
+        "tvMazeId": 47929,
+        "tmdbId": 95205,
+        "firstAired": "2021-02-07T00:00:00Z",
+        "lastAired": "2025-05-04T00:00:00Z",
+        "seriesType": "standard",
+        "cleanTitle": "theequalizer2021",
+        "imdbId": "tt11242246",
+        "titleSlug": "the-equalizer-2021",
+        "certification": "TV-14",
+        "genres": [
+          "Action",
+          "Crime",
+          "Drama",
+          "Mystery",
+          "Thriller"
+        ],
+        "tags": [],
+        "added": "2025-01-20T03:56:55Z",
+        "ratings": {
+          "votes": 19050,
+          "value": 5.6
+        },
+        "languageProfileId": 1,
+        "id": 1808
+      },
+      "id": 356558
+    },
+    {
+      "episodeId": 164191,
+      "seriesId": 1854,
+      "sourceTitle": "Watson.S01E07.1080p.WEB.H264-SuccessfulCrab",
+      "languages": [
+        {
+          "id": 1,
+          "name": "English"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 3,
+          "name": "WEBDL-1080p",
+          "source": "web",
+          "resolution": 1080
+        },
+        "revision": {
+          "version": 1,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "customFormats": [
+        {
+          "id": 3,
+          "name": "english"
+        }
+      ],
+      "customFormatScore": 10,
+      "qualityCutoffNotMet": false,
+      "date": "2025-03-24T05:16:02Z",
+      "downloadId": "SABnzbd_nzo_tf66w_5c",
+      "eventType": "downloadFolderImported",
+      "data": {
+        "fileId": "1503792",
+        "droppedPath": "/downloads/Watson.S01E07.1080p.WEB.H264-SuccessfulCrab/watson.s01e07.1080p.web.h264-successfulcrab.mkv",
+        "importedPath": "/tv/Tv Shows/Watson/Season 1/Watson.S01E07.Teeth.Marks.mkv",
+        "downloadClient": "SABnzbd",
+        "downloadClientName": "sab",
+        "releaseGroup": "SuccessfulCrab",
+        "customFormatScore": "10",
+        "size": "3357752590",
+        "indexerFlags": "0",
+        "releaseType": "SingleEpisode"
+      },
+      "episode": {
+        "seriesId": 1854,
+        "tvdbId": 10922159,
+        "episodeFileId": 1503792,
+        "seasonNumber": 1,
+        "episodeNumber": 7,
+        "title": "Teeth Marks",
+        "airDate": "2025-03-23",
+        "airDateUtc": "2025-03-24T01:00:00Z",
+        "runtime": 43,
+        "overview": "While Watson and the team help a woman whose memory resets every three minutes, Watson struggles with auditory hallucinations and questions whether someone is behind his current decline. Meanwhile, Moriarty plans his next move.",
+        "hasFile": true,
+        "monitored": true,
+        "unverifiedSceneNumbering": false,
+        "id": 164191
+      },
+      "series": {
+        "title": "Watson",
+        "sortTitle": "watson",
+        "status": "continuing",
+        "ended": false,
+        "overview": "Six months after the death of his friend and partner Sherlock Holmes at the hands of Moriarty, Dr. John Watson resumes his medical career as the head of a clinic dedicated to treating rare disorders. Watson’s old life isn’t done with him, though — Moriarty and Watson are set to write their own chapter of a story that has fascinated audiences for more than a century.",
+        "network": "CBS",
+        "airTime": "21:00",
+        "images": [
+          {
+            "coverType": "banner",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/444195/banners/6797666a92e26.jpg"
+          },
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/444195/posters/677c535a7a44d.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/444195/backgrounds/67b2310da8ff8.jpg"
+          },
+          {
+            "coverType": "clearlogo",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/444195/clearlogo/679766bf30dab.png"
+          }
+        ],
+        "originalLanguage": {
+          "id": 1,
+          "name": "English"
+        },
+        "seasons": [
+          {
+            "seasonNumber": 1,
+            "monitored": true
+          }
+        ],
+        "year": 2025,
+        "path": "/tv/Tv Shows/Watson",
+        "qualityProfileId": 1,
+        "seasonFolder": true,
+        "monitored": true,
+        "monitorNewItems": "all",
+        "useSceneNumbering": false,
+        "runtime": 43,
+        "tvdbId": 444195,
+        "tvRageId": 0,
+        "tvMazeId": 64507,
+        "tmdbId": 242867,
+        "firstAired": "2025-01-26T00:00:00Z",
+        "lastAired": "2025-05-11T00:00:00Z",
+        "seriesType": "standard",
+        "cleanTitle": "watson",
+        "imdbId": "tt22475008",
+        "titleSlug": "watson",
+        "certification": "TV-14",
+        "genres": [
+          "Crime",
+          "Drama",
+          "Mystery"
+        ],
+        "tags": [],
+        "added": "2025-03-19T05:52:50Z",
+        "ratings": {
+          "votes": 2875,
+          "value": 5.0
+        },
+        "languageProfileId": 1,
+        "id": 1854
+      },
+      "id": 356557
+    },
+    {
+      "episodeId": 164191,
+      "seriesId": 1854,
+      "sourceTitle": "/tv/Tv Shows/Watson/Season 1/Watson.S01E07.Teeth.Marks.mkv",
+      "languages": [
+        {
+          "id": 1,
+          "name": "English"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 4,
+          "name": "HDTV-720p",
+          "source": "television",
+          "resolution": 720
+        },
+        "revision": {
+          "version": 1,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "customFormats": [
+        {
+          "id": 3,
+          "name": "english"
+        }
+      ],
+      "customFormatScore": 10,
+      "qualityCutoffNotMet": true,
+      "date": "2025-03-24T05:16:00Z",
+      "eventType": "episodeFileDeleted",
+      "data": {
+        "reason": "Upgrade",
+        "releaseGroup": "SYNCOPY",
+        "size": "1007635664",
+        "indexerFlags": "0",
+        "releaseType": "SingleEpisode"
+      },
+      "episode": {
+        "seriesId": 1854,
+        "tvdbId": 10922159,
+        "episodeFileId": 1503792,
+        "seasonNumber": 1,
+        "episodeNumber": 7,
+        "title": "Teeth Marks",
+        "airDate": "2025-03-23",
+        "airDateUtc": "2025-03-24T01:00:00Z",
+        "runtime": 43,
+        "overview": "While Watson and the team help a woman whose memory resets every three minutes, Watson struggles with auditory hallucinations and questions whether someone is behind his current decline. Meanwhile, Moriarty plans his next move.",
+        "hasFile": true,
+        "monitored": true,
+        "unverifiedSceneNumbering": false,
+        "id": 164191
+      },
+      "series": {
+        "title": "Watson",
+        "sortTitle": "watson",
+        "status": "continuing",
+        "ended": false,
+        "overview": "Six months after the death of his friend and partner Sherlock Holmes at the hands of Moriarty, Dr. John Watson resumes his medical career as the head of a clinic dedicated to treating rare disorders. Watson’s old life isn’t done with him, though — Moriarty and Watson are set to write their own chapter of a story that has fascinated audiences for more than a century.",
+        "network": "CBS",
+        "airTime": "21:00",
+        "images": [
+          {
+            "coverType": "banner",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/444195/banners/6797666a92e26.jpg"
+          },
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/444195/posters/677c535a7a44d.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/444195/backgrounds/67b2310da8ff8.jpg"
+          },
+          {
+            "coverType": "clearlogo",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/444195/clearlogo/679766bf30dab.png"
+          }
+        ],
+        "originalLanguage": {
+          "id": 1,
+          "name": "English"
+        },
+        "seasons": [
+          {
+            "seasonNumber": 1,
+            "monitored": true
+          }
+        ],
+        "year": 2025,
+        "path": "/tv/Tv Shows/Watson",
+        "qualityProfileId": 1,
+        "seasonFolder": true,
+        "monitored": true,
+        "monitorNewItems": "all",
+        "useSceneNumbering": false,
+        "runtime": 43,
+        "tvdbId": 444195,
+        "tvRageId": 0,
+        "tvMazeId": 64507,
+        "tmdbId": 242867,
+        "firstAired": "2025-01-26T00:00:00Z",
+        "lastAired": "2025-05-11T00:00:00Z",
+        "seriesType": "standard",
+        "cleanTitle": "watson",
+        "imdbId": "tt22475008",
+        "titleSlug": "watson",
+        "certification": "TV-14",
+        "genres": [
+          "Crime",
+          "Drama",
+          "Mystery"
+        ],
+        "tags": [],
+        "added": "2025-03-19T05:52:50Z",
+        "ratings": {
+          "votes": 2875,
+          "value": 5.0
+        },
+        "languageProfileId": 1,
+        "id": 1854
+      },
+      "id": 356556
+    },
+    {
+      "episodeId": 164191,
+      "seriesId": 1854,
+      "sourceTitle": "Watson.S01E07.1080p.WEB.H264-SuccessfulCrab",
+      "languages": [
+        {
+          "id": 1,
+          "name": "English"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 3,
+          "name": "WEBDL-1080p",
+          "source": "web",
+          "resolution": 1080
+        },
+        "revision": {
+          "version": 1,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "customFormats": [
+        {
+          "id": 3,
+          "name": "english"
+        }
+      ],
+      "customFormatScore": 10,
+      "qualityCutoffNotMet": false,
+      "date": "2025-03-24T05:14:28Z",
+      "downloadId": "SABnzbd_nzo_tf66w_5c",
+      "eventType": "grabbed",
+      "data": {
+        "indexer": "altHUB (Prowlarr)",
+        "nzbInfoUrl": "https://api.althub.co.za/details/5f5bee46f4a51058ddf78e386a46a1c0",
+        "releaseGroup": "SuccessfulCrab",
+        "age": "0",
+        "ageHours": "0.16646188422222222",
+        "ageMinutes": "9.987713086666666",
+        "publishedDate": "2025-03-24T05:04:29Z",
+        "downloadClient": "SABnzbd",
+        "downloadClientName": "sab",
+        "size": "3665299048",
+        "downloadUrl": "http://prowlarr:9696/1/download?apikey=5f771c1869f94fec821832369384a70c&link=T0R6YmE1Zjd4bGJsYS9PN1o0akxMZmJXWS9BU2Z3cFV2b3lsQXVWQnRhYUZtaW1zVU9OaWx3dC9EMFF1OEVyQVZramxYMHRtbEJsZ3BJZHVJZ2M0TzZpUnNkVTZIUXIxNmdpUkt6cXVabDhhdDNFaGlUUkpueDZ4Y0l3RytUNndhVnBsK1JOaCsvcy9LcThiT0RGVEtMSnRidDdyd2IyL1JkaGxxZFZ0UjRRPQ&file=Watson.S01E07.1080p.WEB.H264-SuccessfulCrab",
+        "guid": "https://api.althub.co.za/details/5f5bee46f4a51058ddf78e386a46a1c0",
+        "tvdbId": "0",
+        "tvRageId": "0",
+        "imdbId": null,
+        "protocol": "1",
+        "customFormatScore": "10",
+        "seriesMatchType": "Title",
+        "releaseSource": "Rss",
+        "indexerFlags": "0",
+        "releaseType": "SingleEpisode"
+      },
+      "episode": {
+        "seriesId": 1854,
+        "tvdbId": 10922159,
+        "episodeFileId": 1503792,
+        "seasonNumber": 1,
+        "episodeNumber": 7,
+        "title": "Teeth Marks",
+        "airDate": "2025-03-23",
+        "airDateUtc": "2025-03-24T01:00:00Z",
+        "runtime": 43,
+        "overview": "While Watson and the team help a woman whose memory resets every three minutes, Watson struggles with auditory hallucinations and questions whether someone is behind his current decline. Meanwhile, Moriarty plans his next move.",
+        "hasFile": true,
+        "monitored": true,
+        "unverifiedSceneNumbering": false,
+        "id": 164191
+      },
+      "series": {
+        "title": "Watson",
+        "sortTitle": "watson",
+        "status": "continuing",
+        "ended": false,
+        "overview": "Six months after the death of his friend and partner Sherlock Holmes at the hands of Moriarty, Dr. John Watson resumes his medical career as the head of a clinic dedicated to treating rare disorders. Watson’s old life isn’t done with him, though — Moriarty and Watson are set to write their own chapter of a story that has fascinated audiences for more than a century.",
+        "network": "CBS",
+        "airTime": "21:00",
+        "images": [
+          {
+            "coverType": "banner",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/444195/banners/6797666a92e26.jpg"
+          },
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/444195/posters/677c535a7a44d.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/444195/backgrounds/67b2310da8ff8.jpg"
+          },
+          {
+            "coverType": "clearlogo",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/444195/clearlogo/679766bf30dab.png"
+          }
+        ],
+        "originalLanguage": {
+          "id": 1,
+          "name": "English"
+        },
+        "seasons": [
+          {
+            "seasonNumber": 1,
+            "monitored": true
+          }
+        ],
+        "year": 2025,
+        "path": "/tv/Tv Shows/Watson",
+        "qualityProfileId": 1,
+        "seasonFolder": true,
+        "monitored": true,
+        "monitorNewItems": "all",
+        "useSceneNumbering": false,
+        "runtime": 43,
+        "tvdbId": 444195,
+        "tvRageId": 0,
+        "tvMazeId": 64507,
+        "tmdbId": 242867,
+        "firstAired": "2025-01-26T00:00:00Z",
+        "lastAired": "2025-05-11T00:00:00Z",
+        "seriesType": "standard",
+        "cleanTitle": "watson",
+        "imdbId": "tt22475008",
+        "titleSlug": "watson",
+        "certification": "TV-14",
+        "genres": [
+          "Crime",
+          "Drama",
+          "Mystery"
+        ],
+        "tags": [],
+        "added": "2025-03-19T05:52:50Z",
+        "ratings": {
+          "votes": 2875,
+          "value": 5.0
+        },
+        "languageProfileId": 1,
+        "id": 1854
+      },
+      "id": 356555
+    },
+    {
+      "episodeId": 73664,
+      "seriesId": 1069,
+      "sourceTitle": "Undone.S01E01.REPACK.1080p.WEB.h264-CONVOY",
+      "languages": [
+        {
+          "id": 1,
+          "name": "English"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 3,
+          "name": "WEBDL-1080p",
+          "source": "web",
+          "resolution": 1080
+        },
+        "revision": {
+          "version": 2,
+          "real": 0,
+          "isRepack": true
+        }
+      },
+      "customFormats": [
+        {
+          "id": 3,
+          "name": "english"
+        }
+      ],
+      "customFormatScore": 10,
+      "qualityCutoffNotMet": false,
+      "date": "2025-03-24T04:46:01Z",
+      "downloadId": "SABnzbd_nzo_s5469qhm",
+      "eventType": "downloadFolderImported",
+      "data": {
+        "fileId": "1503791",
+        "droppedPath": "/downloads/Undone.S01E01.REPACK.1080p.WEB.h264-CONVOY/34e0804048114a3883d850564ef4471c.mkv",
+        "importedPath": "/tv/Tv Shows/Undone/Season 1/Undone.S01E01.The.Crash.mkv",
+        "downloadClient": "SABnzbd",
+        "downloadClientName": "sab",
+        "releaseGroup": "CONVOY",
+        "customFormatScore": "10",
+        "size": "1349061091",
+        "indexerFlags": "0",
+        "releaseType": "SingleEpisode"
+      },
+      "episode": {
+        "seriesId": 1069,
+        "tvdbId": 6979071,
+        "episodeFileId": 1503791,
+        "seasonNumber": 1,
+        "episodeNumber": 1,
+        "title": "The Crash",
+        "airDate": "2019-09-13",
+        "airDateUtc": "2019-09-13T04:00:00Z",
+        "lastSearchTime": "2025-03-24T04:45:03Z",
+        "runtime": 25,
+        "overview": "After a fight with her sister Becca, Alma gets in a car accident and sees something mysterious.",
+        "hasFile": true,
+        "monitored": true,
+        "absoluteEpisodeNumber": 1,
+        "unverifiedSceneNumbering": false,
+        "id": 73664
+      },
+      "series": {
+        "title": "Undone",
+        "sortTitle": "undone",
+        "status": "ended",
+        "ended": true,
+        "overview": "Alma, a 28-year-old living in San Antonio, Texas, finds that she has a new relationship to time after nearly dying in a car accident. As Alma develops new abilities, she pursues answers about her father’s death.",
+        "network": "Prime Video",
+        "airTime": "00:00",
+        "images": [
+          {
+            "coverType": "banner",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/graphical/5daf63290930d.jpg"
+          },
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/357756/posters/6287264c13a46.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/fanart/original/5d80ae8e7b0b2.jpg"
+          },
+          {
+            "coverType": "clearlogo",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/357756/clearlogo/611d881ab735c.png"
+          }
+        ],
+        "originalLanguage": {
+          "id": 1,
+          "name": "English"
+        },
+        "seasons": [
+          {
+            "seasonNumber": 0,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 1,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 2,
+            "monitored": true
+          }
+        ],
+        "year": 2019,
+        "path": "/tv/Tv Shows/Undone",
+        "qualityProfileId": 1,
+        "seasonFolder": true,
+        "monitored": true,
+        "monitorNewItems": "all",
+        "useSceneNumbering": false,
+        "runtime": 24,
+        "tvdbId": 357756,
+        "tvRageId": 0,
+        "tvMazeId": 35236,
+        "tmdbId": 86340,
+        "firstAired": "2019-09-13T00:00:00Z",
+        "lastAired": "2022-04-29T00:00:00Z",
+        "seriesType": "standard",
+        "cleanTitle": "undone",
+        "imdbId": "tt8101850",
+        "titleSlug": "undone",
+        "certification": "TV-MA",
+        "genres": [
+          "Animation",
+          "Comedy",
+          "Drama",
+          "Fantasy",
+          "Science Fiction"
+        ],
+        "tags": [],
+        "added": "2020-02-09T10:51:55Z",
+        "ratings": {
+          "votes": 24858,
+          "value": 8.2
+        },
+        "languageProfileId": 1,
+        "id": 1069
+      },
+      "id": 356554
+    }
+  ]
+}

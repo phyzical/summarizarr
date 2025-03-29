@@ -2,7 +2,7 @@
 
 module Readarr
   class Service < GenericArrService
-    # curl -X 'GET' 'http://readarr:8787/api/v1/history/since?date=2025-03-10&includeBook=true&includeAuthor=true&apikey=asd'   -H 'accept: application/json' # rubocop:disable Layout/LineLength
+    # curl -X 'GET' 'http://readarr:8787/api/v1/history?page=1&pageSize=15&includeBook=true&includeAuthor=true&apikey=asd'   -H 'accept: application/json' # rubocop:disable Layout/LineLength
     # curl -X 'GET' 'http://readarr:8787/api/v1/system/status?apikey=asd'   -H 'accept: application/json'
 
     private
@@ -21,8 +21,8 @@ module Readarr
       Item.from_json(json:)
     end
 
-    def get_vars # rubocop:disable Naming/AccessorMethodName
-      { date: from_date, includeBook: true, includeAuthor: true }
+    def get_vars(page: 1)
+      super.merge({ includeBook: true, includeAuthor: true })
     end
 
     def app_name

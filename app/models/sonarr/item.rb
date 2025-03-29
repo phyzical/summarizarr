@@ -16,7 +16,8 @@ module Sonarr
       image: :image,
       deletion?: :deletion?,
       quality: :quality,
-      old_quality: :old_quality
+      old_quality: :old_quality,
+      date: :date
     }.freeze
 
     def self.from_json(json:) # rubocop:disable Metrics/AbcSize
@@ -25,8 +26,9 @@ module Sonarr
       json[:title] = json[:episode][:title]
       json[:overview] = json[:episode][:overview]
       json[:languages] = json[:languages].pluck(:name).join(', ')
-      json[:deletion?] = json[:data][:reason] == 'Upgrade'
+      json[:deletion?] = %w[Upgrade Manual].include?(json[:data][:reason])
       json[:quality] = json[:quality][:quality][:name]
+      json[:date] = DateTime.parse(json[:date]).to_date
       Thing.new(**json.slice(*ATTRIBUTES.keys).transform_keys { |k| ATTRIBUTES[k] })
     end
 

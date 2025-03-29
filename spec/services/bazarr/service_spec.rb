@@ -12,7 +12,7 @@ module Bazarr
     before { stub_bazarr }
 
     it 'returns history only containing expected types and groups by title' do
-      expect(items.count).to be(154)
+      expect(items.count).to be(232)
       expect(items).to all(be_a(Item::Thing))
     end
 

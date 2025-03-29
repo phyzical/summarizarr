@@ -9,9 +9,11 @@ module Readarr
 
       let(:full_json) do
         JSON.parse(
-          File.read("spec/support/requests/readarr#{Service.since_endpoint}.json", encoding: 'bom|utf-8'),
+          File.read("spec/support/requests/readarr#{Service.history_endpoint}?page=1.json", encoding: 'bom|utf-8'),
           symbolize_names: true
-        )
+        )[
+          :records
+        ]
       end
 
       context 'when item is downloadImported' do
@@ -22,8 +24,11 @@ module Readarr
             {
               event_type: described_class::EVENT_TYPES[:book_file_imported],
               author: 'Brandon Sanderson',
-              title: 'Brandon Sanderson - Cosmere - Tress of the Emerald Sea (retail) (epub)',
+              title: 'Legion',
+              date: Date.parse('28/03/2025'),
               image:
+                'https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1347359306i/16002459.jpg',
+              author_image:
                 'https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/authors/1394044556i/38550.jpg',
               deletion?: false,
               quality: 'EPUB',
@@ -41,10 +46,13 @@ module Readarr
             {
               event_type: described_class::EVENT_TYPES[:book_file_deleted],
               author: 'Brandon Sanderson',
-              title: 'asdasdasdasdad Sanderson - Cosmere - Tress of the Emerald Sea (retail) (epub)',
+              title: 'Legion',
+              date: Date.parse('28/03/2025'),
               image:
+                'https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1347359306i/16002459.jpg',
+              author_image:
                 'https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/authors/1394044556i/38550.jpg',
-              deletion?: true,
+              deletion?: false,
               quality: 'EPUB',
               old_quality: nil
             }

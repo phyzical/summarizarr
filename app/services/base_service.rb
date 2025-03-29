@@ -29,11 +29,22 @@ class BaseService
   private
 
   def process
-    pull.map { |json| map(json:) }.filter { |item| filter(item:) }
+    page = 1
+    items = []
+    loop do
+      pull = pull(page:)
+      # :nocov:
+      break if pull.empty?
+      # :nocov:
+      items += pull.map { |json| map(json:) }
+      page += 1
+      break if items.last.date < from_date
+    end
+    items.filter { |item| item.date >= from_date && filter(item:) }
   end
 
   # :nocov:
-  def pull
+  def pull(page: 1) # rubocop:disable Lint/UnusedMethodArgument
     raise 'Please implement!'
   end
   # :nocov:
@@ -44,11 +55,9 @@ class BaseService
   end
   # :nocov:
 
-  # :nocov:
-  def filter
-    raise 'Please implement!'
+  def filter(*)
+    true
   end
-  # :nocov:
 
   def config
     @config ||= Config.get

@@ -12,16 +12,18 @@ module Radarr
       overview: :overview,
       deletion?: :deletion?,
       quality: :quality,
-      old_quality: :old_quality
+      old_quality: :old_quality,
+      date: :date
     }.freeze
 
-    def self.from_json(json:)
+    def self.from_json(json:) # rubocop:disable Metrics/AbcSize
       json[:title] = json[:movie][:title]
       json[:image] = json[:movie][:images].pluck(:remoteUrl).first
       json[:overview] = json[:movie][:overview]
       json[:languages] = json[:languages].pluck(:name).join(', ')
-      json[:deletion?] = json[:data][:reason] == 'Upgrade'
+      json[:deletion?] = %w[Upgrade Manual].include?(json[:data][:reason])
       json[:quality] = json[:quality][:quality][:name]
+      json[:date] = DateTime.parse(json[:date]).to_date
       Thing.new(**json.slice(*ATTRIBUTES.keys).transform_keys { |k| ATTRIBUTES[k] })
     end
 

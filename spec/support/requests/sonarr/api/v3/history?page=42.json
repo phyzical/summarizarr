@@ -1,0 +1,2147 @@
+{
+  "page": 42,
+  "pageSize": 15,
+  "sortKey": "date",
+  "sortDirection": "descending",
+  "totalRecords": 344511,
+  "records": [
+    {
+      "episodeId": 161694,
+      "seriesId": 1798,
+      "sourceTitle": "Playgrounds.of.the.Rich.and.Famous.S01E05.St.Moritz.1080p.HDTV.H264-DARKFLiX",
+      "languages": [
+        {
+          "id": 1,
+          "name": "English"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 9,
+          "name": "HDTV-1080p",
+          "source": "television",
+          "resolution": 1080
+        },
+        "revision": {
+          "version": 1,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "customFormats": [
+        {
+          "id": 3,
+          "name": "english"
+        }
+      ],
+      "customFormatScore": 10,
+      "qualityCutoffNotMet": false,
+      "date": "2025-03-23T16:10:22Z",
+      "downloadId": "SABnzbd_nzo_crmpt7th",
+      "eventType": "grabbed",
+      "data": {
+        "indexer": "altHUB (Prowlarr)",
+        "nzbInfoUrl": "https://api.althub.co.za/details/a2f9818116e54b0dd820fa04c6180110",
+        "releaseGroup": "DARKFLiX",
+        "age": "0",
+        "ageHours": "0.12904630305555556",
+        "ageMinutes": "7.7427782333333335",
+        "publishedDate": "2025-03-23T16:02:38Z",
+        "downloadClient": "SABnzbd",
+        "downloadClientName": "sab",
+        "size": "3091014650",
+        "downloadUrl": "http://prowlarr:9696/1/download?apikey=5f771c1869f94fec821832369384a70c&link=TG9zZ2tEMmNCVGtUZlVsdFZaV3dwZmhyRVJTVTcwNUdvRFhSYzFZVGRxT0RJNjJ2UCtVZmpIZ0VKT29NeGhDSUswenAzY3hvYng5TTFqUHlmMEd1cDVzMmJGS2JIakpIUC93NVpOWEhuTUNxSHV0d0tyNkxwNmtHMlNSQXVkSnRXQ3MzMHl3TlJHWUErSmExRnh1NlBFSStCaG9vT0dIKzVhemVJTlRudzNJPQ&file=Playgrounds.of.the.Rich.and.Famous.S01E05.St.Moritz.1080p.HDTV.H264-DARKFLiX",
+        "guid": "https://api.althub.co.za/details/a2f9818116e54b0dd820fa04c6180110",
+        "tvdbId": "0",
+        "tvRageId": "0",
+        "imdbId": null,
+        "protocol": "1",
+        "customFormatScore": "10",
+        "seriesMatchType": "Title",
+        "releaseSource": "Rss",
+        "indexerFlags": "0",
+        "releaseType": "SingleEpisode"
+      },
+      "episode": {
+        "seriesId": 1798,
+        "tvdbId": 11046532,
+        "episodeFileId": 1503548,
+        "seasonNumber": 1,
+        "episodeNumber": 5,
+        "title": "St. Moritz",
+        "airDate": "2025-03-23",
+        "airDateUtc": "2025-03-23T20:00:00Z",
+        "lastSearchTime": "2024-12-25T10:08:51Z",
+        "runtime": 43,
+        "overview": "A revealing look at one of the world's most opulent destinations: the Alpine resort where royalty and movie stars flock to a chocolate box Swiss town to indulge in skiing, lavish banquets, and fast cars.",
+        "hasFile": true,
+        "monitored": true,
+        "unverifiedSceneNumbering": false,
+        "id": 161694
+      },
+      "series": {
+        "title": "Playgrounds of the Rich and Famous",
+        "sortTitle": "playgrounds of the rich and famous",
+        "status": "continuing",
+        "ended": false,
+        "overview": "Behind the scenes of the luxurious hotspots where the super rich spend their holidays.",
+        "network": "Channel 5",
+        "airTime": "20:00",
+        "images": [
+          {
+            "coverType": "banner",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/409579/banners/62938183695d1.jpg"
+          },
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/409579/posters/6135ef622653a.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/409579/backgrounds/6135efac99ba3.jpg"
+          }
+        ],
+        "originalLanguage": {
+          "id": 1,
+          "name": "English"
+        },
+        "seasons": [
+          {
+            "seasonNumber": 1,
+            "monitored": true
+          }
+        ],
+        "year": 2021,
+        "path": "/tv/Documentaires/tv shows/Playgrounds of the Rich and Famous",
+        "qualityProfileId": 1,
+        "seasonFolder": true,
+        "monitored": true,
+        "monitorNewItems": "all",
+        "useSceneNumbering": false,
+        "runtime": 44,
+        "tvdbId": 409579,
+        "tvRageId": 0,
+        "tvMazeId": 57180,
+        "tmdbId": 132866,
+        "firstAired": "2021-09-04T00:00:00Z",
+        "lastAired": "2025-03-23T00:00:00Z",
+        "seriesType": "standard",
+        "cleanTitle": "playgroundsrichfamous",
+        "imdbId": "tt15163782",
+        "titleSlug": "playgrounds-of-the-rich-and-famous",
+        "genres": [
+          "Documentary",
+          "Travel"
+        ],
+        "tags": [],
+        "added": "2024-12-25T10:08:47Z",
+        "ratings": {
+          "votes": 14,
+          "value": 7.5
+        },
+        "languageProfileId": 1,
+        "id": 1798
+      },
+      "id": 356433
+    },
+    {
+      "episodeId": 66980,
+      "seriesId": 960,
+      "sourceTitle": "The.Catch.2016.S02E01.WEB.x264-TORRENTGALAXY[TGx]-xpost",
+      "languages": [
+        {
+          "id": 1,
+          "name": "English"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 8,
+          "name": "WEBDL-480p",
+          "source": "web",
+          "resolution": 480
+        },
+        "revision": {
+          "version": 1,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "customFormats": [
+        {
+          "id": 3,
+          "name": "english"
+        }
+      ],
+      "customFormatScore": 10,
+      "qualityCutoffNotMet": true,
+      "date": "2025-03-23T14:23:01Z",
+      "downloadId": "SABnzbd_nzo_nq5ng9i5",
+      "eventType": "downloadFolderImported",
+      "data": {
+        "fileId": "1503547",
+        "droppedPath": "/downloads/The.Catch.2016.S02E01.WEB.x264-TORRENTGALAXY[TGx]-xpost/The.Catch.2016.S02E01.WEB.x264-TORRENTGALAXY.mkv",
+        "importedPath": "/tv/Tv Shows/The Catch (2016)/Season 2/The.Catch.S02E01.The.New.Deal.mkv",
+        "downloadClient": "SABnzbd",
+        "downloadClientName": "sab",
+        "releaseGroup": "TORRENTGALAXY",
+        "customFormatScore": "10",
+        "size": "324130919",
+        "indexerFlags": "0",
+        "releaseType": "SingleEpisode"
+      },
+      "episode": {
+        "seriesId": 960,
+        "tvdbId": 5854708,
+        "episodeFileId": 1503547,
+        "seasonNumber": 2,
+        "episodeNumber": 1,
+        "title": "The New Deal",
+        "airDate": "2017-03-09",
+        "airDateUtc": "2017-03-10T03:00:00Z",
+        "runtime": 45,
+        "overview": "FBI Special Agent Justine Diaz has a deal for Ben, which gets him out of prison right away in exchange for staging cons and tipping off the FBI so they can arrest criminals. His work on Ben's case gets Jules Dao promoted, but it comes with moving to D.C. Rhys stages a prison break to get Ben out, thus ruining the latter's deal with the FBI. In exchange for help from within the prison, Rhys promised Ben's help on a snatch and grab con with a surprising twist. This leads to the FBI being able to arrest a criminal, meaning the deal with Ben's back on the table. Meanwhile, Alice's brother Tommy comes to town for his sister's help when he discovers someone created a bank account in his name with three million dollars in it. Valerie focuses on getting AVI up and running again after the FBI investigation into the firm caused them to lose all their clients.",
+        "hasFile": true,
+        "monitored": true,
+        "absoluteEpisodeNumber": 11,
+        "unverifiedSceneNumbering": false,
+        "id": 66980
+      },
+      "series": {
+        "title": "The Catch",
+        "sortTitle": "catch",
+        "status": "ended",
+        "ended": true,
+        "overview": "The Catch follows Alice Vaughan, a private investigator from Los Angeles, California, who is the victim of fraud by her fiancé. She is determined to find him - between working on other cases - before it ruins her career.",
+        "network": "ABC (US)",
+        "airTime": "22:00",
+        "images": [
+          {
+            "coverType": "banner",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/graphical/295696-g.jpg"
+          },
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/posters/295696-1.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/fanart/original/295696-4.jpg"
+          },
+          {
+            "coverType": "clearlogo",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/295696/clearlogo/611bf58d6978c.png"
+          }
+        ],
+        "originalLanguage": {
+          "id": 1,
+          "name": "English"
+        },
+        "seasons": [
+          {
+            "seasonNumber": 1,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 2,
+            "monitored": true
+          }
+        ],
+        "year": 2016,
+        "path": "/tv/Tv Shows/The Catch (2016)",
+        "qualityProfileId": 1,
+        "seasonFolder": true,
+        "monitored": true,
+        "monitorNewItems": "all",
+        "useSceneNumbering": false,
+        "runtime": 45,
+        "tvdbId": 295696,
+        "tvRageId": 47531,
+        "tvMazeId": 3072,
+        "tmdbId": 65579,
+        "firstAired": "2016-03-24T00:00:00Z",
+        "lastAired": "2017-05-11T00:00:00Z",
+        "seriesType": "standard",
+        "cleanTitle": "thecatch",
+        "imdbId": "tt4396862",
+        "titleSlug": "the-catch",
+        "certification": "TV-14",
+        "genres": [
+          "Crime",
+          "Drama",
+          "Romance",
+          "Thriller"
+        ],
+        "tags": [],
+        "added": "2020-02-09T10:37:11Z",
+        "ratings": {
+          "votes": 12834,
+          "value": 7.1
+        },
+        "languageProfileId": 1,
+        "id": 960
+      },
+      "id": 356432
+    },
+    {
+      "episodeId": 66980,
+      "seriesId": 960,
+      "sourceTitle": "/tv/Tv Shows/The Catch (2016)/Season 2/The.Catch.s02e01.mkv",
+      "languages": [
+        {
+          "id": 1,
+          "name": "English"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 1,
+          "name": "SDTV",
+          "source": "television",
+          "resolution": 480
+        },
+        "revision": {
+          "version": 1,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "customFormats": [
+        {
+          "id": 3,
+          "name": "english"
+        }
+      ],
+      "customFormatScore": 10,
+      "qualityCutoffNotMet": true,
+      "date": "2025-03-23T14:23:01Z",
+      "eventType": "episodeFileDeleted",
+      "data": {
+        "reason": "Upgrade",
+        "releaseGroup": null,
+        "size": "203923405",
+        "indexerFlags": "0",
+        "releaseType": "Unknown"
+      },
+      "episode": {
+        "seriesId": 960,
+        "tvdbId": 5854708,
+        "episodeFileId": 1503547,
+        "seasonNumber": 2,
+        "episodeNumber": 1,
+        "title": "The New Deal",
+        "airDate": "2017-03-09",
+        "airDateUtc": "2017-03-10T03:00:00Z",
+        "runtime": 45,
+        "overview": "FBI Special Agent Justine Diaz has a deal for Ben, which gets him out of prison right away in exchange for staging cons and tipping off the FBI so they can arrest criminals. His work on Ben's case gets Jules Dao promoted, but it comes with moving to D.C. Rhys stages a prison break to get Ben out, thus ruining the latter's deal with the FBI. In exchange for help from within the prison, Rhys promised Ben's help on a snatch and grab con with a surprising twist. This leads to the FBI being able to arrest a criminal, meaning the deal with Ben's back on the table. Meanwhile, Alice's brother Tommy comes to town for his sister's help when he discovers someone created a bank account in his name with three million dollars in it. Valerie focuses on getting AVI up and running again after the FBI investigation into the firm caused them to lose all their clients.",
+        "hasFile": true,
+        "monitored": true,
+        "absoluteEpisodeNumber": 11,
+        "unverifiedSceneNumbering": false,
+        "id": 66980
+      },
+      "series": {
+        "title": "The Catch",
+        "sortTitle": "catch",
+        "status": "ended",
+        "ended": true,
+        "overview": "The Catch follows Alice Vaughan, a private investigator from Los Angeles, California, who is the victim of fraud by her fiancé. She is determined to find him - between working on other cases - before it ruins her career.",
+        "network": "ABC (US)",
+        "airTime": "22:00",
+        "images": [
+          {
+            "coverType": "banner",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/graphical/295696-g.jpg"
+          },
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/posters/295696-1.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/fanart/original/295696-4.jpg"
+          },
+          {
+            "coverType": "clearlogo",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/295696/clearlogo/611bf58d6978c.png"
+          }
+        ],
+        "originalLanguage": {
+          "id": 1,
+          "name": "English"
+        },
+        "seasons": [
+          {
+            "seasonNumber": 1,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 2,
+            "monitored": true
+          }
+        ],
+        "year": 2016,
+        "path": "/tv/Tv Shows/The Catch (2016)",
+        "qualityProfileId": 1,
+        "seasonFolder": true,
+        "monitored": true,
+        "monitorNewItems": "all",
+        "useSceneNumbering": false,
+        "runtime": 45,
+        "tvdbId": 295696,
+        "tvRageId": 47531,
+        "tvMazeId": 3072,
+        "tmdbId": 65579,
+        "firstAired": "2016-03-24T00:00:00Z",
+        "lastAired": "2017-05-11T00:00:00Z",
+        "seriesType": "standard",
+        "cleanTitle": "thecatch",
+        "imdbId": "tt4396862",
+        "titleSlug": "the-catch",
+        "certification": "TV-14",
+        "genres": [
+          "Crime",
+          "Drama",
+          "Romance",
+          "Thriller"
+        ],
+        "tags": [],
+        "added": "2020-02-09T10:37:11Z",
+        "ratings": {
+          "votes": 12834,
+          "value": 7.1
+        },
+        "languageProfileId": 1,
+        "id": 960
+      },
+      "id": 356431
+    },
+    {
+      "episodeId": 66971,
+      "seriesId": 960,
+      "sourceTitle": "The.Catch.2016.S01E02.WEB.x264-TORRENTGALAXY[TGx]-xpost",
+      "languages": [
+        {
+          "id": 1,
+          "name": "English"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 8,
+          "name": "WEBDL-480p",
+          "source": "web",
+          "resolution": 480
+        },
+        "revision": {
+          "version": 1,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "customFormats": [
+        {
+          "id": 3,
+          "name": "english"
+        }
+      ],
+      "customFormatScore": 10,
+      "qualityCutoffNotMet": true,
+      "date": "2025-03-23T14:23:01Z",
+      "downloadId": "SABnzbd_nzo_feisin99",
+      "eventType": "downloadFolderImported",
+      "data": {
+        "fileId": "1503546",
+        "droppedPath": "/downloads/The.Catch.2016.S01E02.WEB.x264-TORRENTGALAXY[TGx]-xpost/The.Catch.2016.S01E02.WEB.x264-TORRENTGALAXY.mkv",
+        "importedPath": "/tv/Tv Shows/The Catch (2016)/Season 1/The.Catch.S01E02.The.Real.Killer.mkv",
+        "downloadClient": "SABnzbd",
+        "downloadClientName": "sab",
+        "releaseGroup": "TORRENTGALAXY",
+        "customFormatScore": "10",
+        "size": "304191970",
+        "indexerFlags": "0",
+        "releaseType": "SingleEpisode"
+      },
+      "episode": {
+        "seriesId": 960,
+        "tvdbId": 5518918,
+        "episodeFileId": 1503546,
+        "seasonNumber": 1,
+        "episodeNumber": 2,
+        "title": "The Real Killer",
+        "airDate": "2016-03-31",
+        "airDateUtc": "2016-04-01T02:00:00Z",
+        "runtime": 45,
+        "overview": "Alice and the team take on a very public client, a husband who was wrongly imprisoned for murdering his wife. Alice, however, is distracted with a mission of her own: track down Ben and figure out his next move. Meanwhile, Ben, Margot and Reggie are in desperate need of cash since Alice foiled their last plan, and the three con artists set their sights on a new target.",
+        "hasFile": true,
+        "monitored": true,
+        "unverifiedSceneNumbering": false,
+        "id": 66971
+      },
+      "series": {
+        "title": "The Catch",
+        "sortTitle": "catch",
+        "status": "ended",
+        "ended": true,
+        "overview": "The Catch follows Alice Vaughan, a private investigator from Los Angeles, California, who is the victim of fraud by her fiancé. She is determined to find him - between working on other cases - before it ruins her career.",
+        "network": "ABC (US)",
+        "airTime": "22:00",
+        "images": [
+          {
+            "coverType": "banner",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/graphical/295696-g.jpg"
+          },
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/posters/295696-1.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/fanart/original/295696-4.jpg"
+          },
+          {
+            "coverType": "clearlogo",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/295696/clearlogo/611bf58d6978c.png"
+          }
+        ],
+        "originalLanguage": {
+          "id": 1,
+          "name": "English"
+        },
+        "seasons": [
+          {
+            "seasonNumber": 1,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 2,
+            "monitored": true
+          }
+        ],
+        "year": 2016,
+        "path": "/tv/Tv Shows/The Catch (2016)",
+        "qualityProfileId": 1,
+        "seasonFolder": true,
+        "monitored": true,
+        "monitorNewItems": "all",
+        "useSceneNumbering": false,
+        "runtime": 45,
+        "tvdbId": 295696,
+        "tvRageId": 47531,
+        "tvMazeId": 3072,
+        "tmdbId": 65579,
+        "firstAired": "2016-03-24T00:00:00Z",
+        "lastAired": "2017-05-11T00:00:00Z",
+        "seriesType": "standard",
+        "cleanTitle": "thecatch",
+        "imdbId": "tt4396862",
+        "titleSlug": "the-catch",
+        "certification": "TV-14",
+        "genres": [
+          "Crime",
+          "Drama",
+          "Romance",
+          "Thriller"
+        ],
+        "tags": [],
+        "added": "2020-02-09T10:37:11Z",
+        "ratings": {
+          "votes": 12834,
+          "value": 7.1
+        },
+        "languageProfileId": 1,
+        "id": 960
+      },
+      "id": 356430
+    },
+    {
+      "episodeId": 66971,
+      "seriesId": 960,
+      "sourceTitle": "/tv/Tv Shows/The Catch (2016)/Season 1/The.Catch.s01e02.mkv",
+      "languages": [
+        {
+          "id": 1,
+          "name": "English"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 1,
+          "name": "SDTV",
+          "source": "television",
+          "resolution": 480
+        },
+        "revision": {
+          "version": 1,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "customFormats": [
+        {
+          "id": 3,
+          "name": "english"
+        }
+      ],
+      "customFormatScore": 10,
+      "qualityCutoffNotMet": true,
+      "date": "2025-03-23T14:23:00Z",
+      "eventType": "episodeFileDeleted",
+      "data": {
+        "reason": "Upgrade",
+        "releaseGroup": null,
+        "size": "229353158",
+        "indexerFlags": "0",
+        "releaseType": "Unknown"
+      },
+      "episode": {
+        "seriesId": 960,
+        "tvdbId": 5518918,
+        "episodeFileId": 1503546,
+        "seasonNumber": 1,
+        "episodeNumber": 2,
+        "title": "The Real Killer",
+        "airDate": "2016-03-31",
+        "airDateUtc": "2016-04-01T02:00:00Z",
+        "runtime": 45,
+        "overview": "Alice and the team take on a very public client, a husband who was wrongly imprisoned for murdering his wife. Alice, however, is distracted with a mission of her own: track down Ben and figure out his next move. Meanwhile, Ben, Margot and Reggie are in desperate need of cash since Alice foiled their last plan, and the three con artists set their sights on a new target.",
+        "hasFile": true,
+        "monitored": true,
+        "unverifiedSceneNumbering": false,
+        "id": 66971
+      },
+      "series": {
+        "title": "The Catch",
+        "sortTitle": "catch",
+        "status": "ended",
+        "ended": true,
+        "overview": "The Catch follows Alice Vaughan, a private investigator from Los Angeles, California, who is the victim of fraud by her fiancé. She is determined to find him - between working on other cases - before it ruins her career.",
+        "network": "ABC (US)",
+        "airTime": "22:00",
+        "images": [
+          {
+            "coverType": "banner",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/graphical/295696-g.jpg"
+          },
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/posters/295696-1.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/fanart/original/295696-4.jpg"
+          },
+          {
+            "coverType": "clearlogo",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/295696/clearlogo/611bf58d6978c.png"
+          }
+        ],
+        "originalLanguage": {
+          "id": 1,
+          "name": "English"
+        },
+        "seasons": [
+          {
+            "seasonNumber": 1,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 2,
+            "monitored": true
+          }
+        ],
+        "year": 2016,
+        "path": "/tv/Tv Shows/The Catch (2016)",
+        "qualityProfileId": 1,
+        "seasonFolder": true,
+        "monitored": true,
+        "monitorNewItems": "all",
+        "useSceneNumbering": false,
+        "runtime": 45,
+        "tvdbId": 295696,
+        "tvRageId": 47531,
+        "tvMazeId": 3072,
+        "tmdbId": 65579,
+        "firstAired": "2016-03-24T00:00:00Z",
+        "lastAired": "2017-05-11T00:00:00Z",
+        "seriesType": "standard",
+        "cleanTitle": "thecatch",
+        "imdbId": "tt4396862",
+        "titleSlug": "the-catch",
+        "certification": "TV-14",
+        "genres": [
+          "Crime",
+          "Drama",
+          "Romance",
+          "Thriller"
+        ],
+        "tags": [],
+        "added": "2020-02-09T10:37:11Z",
+        "ratings": {
+          "votes": 12834,
+          "value": 7.1
+        },
+        "languageProfileId": 1,
+        "id": 960
+      },
+      "id": 356429
+    },
+    {
+      "episodeId": 66985,
+      "seriesId": 960,
+      "sourceTitle": "The.Catch.2016.S02E06.WEB.x264-TORRENTGALAXY[TGx]-xpost",
+      "languages": [
+        {
+          "id": 1,
+          "name": "English"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 8,
+          "name": "WEBDL-480p",
+          "source": "web",
+          "resolution": 480
+        },
+        "revision": {
+          "version": 1,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "customFormats": [
+        {
+          "id": 3,
+          "name": "english"
+        }
+      ],
+      "customFormatScore": 10,
+      "qualityCutoffNotMet": true,
+      "date": "2025-03-23T14:23:00Z",
+      "downloadId": "SABnzbd_nzo_zhufo97f",
+      "eventType": "downloadFolderImported",
+      "data": {
+        "fileId": "1503545",
+        "droppedPath": "/downloads/The.Catch.2016.S02E06.WEB.x264-TORRENTGALAXY[TGx]-xpost/The.Catch.2016.S02E06.WEB.x264-TORRENTGALAXY.mkv",
+        "importedPath": "/tv/Tv Shows/The Catch (2016)/Season 2/The.Catch.S02E06.The.Hard.Drive.mkv",
+        "downloadClient": "SABnzbd",
+        "downloadClientName": "sab",
+        "releaseGroup": "TORRENTGALAXY",
+        "customFormatScore": "10",
+        "size": "305619762",
+        "indexerFlags": "0",
+        "releaseType": "SingleEpisode"
+      },
+      "episode": {
+        "seriesId": 960,
+        "tvdbId": 5854710,
+        "episodeFileId": 1503545,
+        "seasonNumber": 2,
+        "episodeNumber": 6,
+        "title": "The Hard Drive",
+        "airDate": "2017-04-13",
+        "airDateUtc": "2017-04-14T02:00:00Z",
+        "runtime": 45,
+        "overview": "Alice and Val reexamine the cold case that brought them together as partners, and Ben and Rhys are faced with a major threat when they are told that their undercover status may have been compromised.",
+        "hasFile": true,
+        "monitored": true,
+        "absoluteEpisodeNumber": 16,
+        "unverifiedSceneNumbering": false,
+        "id": 66985
+      },
+      "series": {
+        "title": "The Catch",
+        "sortTitle": "catch",
+        "status": "ended",
+        "ended": true,
+        "overview": "The Catch follows Alice Vaughan, a private investigator from Los Angeles, California, who is the victim of fraud by her fiancé. She is determined to find him - between working on other cases - before it ruins her career.",
+        "network": "ABC (US)",
+        "airTime": "22:00",
+        "images": [
+          {
+            "coverType": "banner",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/graphical/295696-g.jpg"
+          },
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/posters/295696-1.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/fanart/original/295696-4.jpg"
+          },
+          {
+            "coverType": "clearlogo",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/295696/clearlogo/611bf58d6978c.png"
+          }
+        ],
+        "originalLanguage": {
+          "id": 1,
+          "name": "English"
+        },
+        "seasons": [
+          {
+            "seasonNumber": 1,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 2,
+            "monitored": true
+          }
+        ],
+        "year": 2016,
+        "path": "/tv/Tv Shows/The Catch (2016)",
+        "qualityProfileId": 1,
+        "seasonFolder": true,
+        "monitored": true,
+        "monitorNewItems": "all",
+        "useSceneNumbering": false,
+        "runtime": 45,
+        "tvdbId": 295696,
+        "tvRageId": 47531,
+        "tvMazeId": 3072,
+        "tmdbId": 65579,
+        "firstAired": "2016-03-24T00:00:00Z",
+        "lastAired": "2017-05-11T00:00:00Z",
+        "seriesType": "standard",
+        "cleanTitle": "thecatch",
+        "imdbId": "tt4396862",
+        "titleSlug": "the-catch",
+        "certification": "TV-14",
+        "genres": [
+          "Crime",
+          "Drama",
+          "Romance",
+          "Thriller"
+        ],
+        "tags": [],
+        "added": "2020-02-09T10:37:11Z",
+        "ratings": {
+          "votes": 12834,
+          "value": 7.1
+        },
+        "languageProfileId": 1,
+        "id": 960
+      },
+      "id": 356428
+    },
+    {
+      "episodeId": 66985,
+      "seriesId": 960,
+      "sourceTitle": "/tv/Tv Shows/The Catch (2016)/Season 2/The.Catch.s02e06.mkv",
+      "languages": [
+        {
+          "id": 1,
+          "name": "English"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 1,
+          "name": "SDTV",
+          "source": "television",
+          "resolution": 480
+        },
+        "revision": {
+          "version": 1,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "customFormats": [
+        {
+          "id": 3,
+          "name": "english"
+        }
+      ],
+      "customFormatScore": 10,
+      "qualityCutoffNotMet": true,
+      "date": "2025-03-23T14:23:00Z",
+      "eventType": "episodeFileDeleted",
+      "data": {
+        "reason": "Upgrade",
+        "releaseGroup": null,
+        "size": "185060708",
+        "indexerFlags": "0",
+        "releaseType": "Unknown"
+      },
+      "episode": {
+        "seriesId": 960,
+        "tvdbId": 5854710,
+        "episodeFileId": 1503545,
+        "seasonNumber": 2,
+        "episodeNumber": 6,
+        "title": "The Hard Drive",
+        "airDate": "2017-04-13",
+        "airDateUtc": "2017-04-14T02:00:00Z",
+        "runtime": 45,
+        "overview": "Alice and Val reexamine the cold case that brought them together as partners, and Ben and Rhys are faced with a major threat when they are told that their undercover status may have been compromised.",
+        "hasFile": true,
+        "monitored": true,
+        "absoluteEpisodeNumber": 16,
+        "unverifiedSceneNumbering": false,
+        "id": 66985
+      },
+      "series": {
+        "title": "The Catch",
+        "sortTitle": "catch",
+        "status": "ended",
+        "ended": true,
+        "overview": "The Catch follows Alice Vaughan, a private investigator from Los Angeles, California, who is the victim of fraud by her fiancé. She is determined to find him - between working on other cases - before it ruins her career.",
+        "network": "ABC (US)",
+        "airTime": "22:00",
+        "images": [
+          {
+            "coverType": "banner",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/graphical/295696-g.jpg"
+          },
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/posters/295696-1.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/fanart/original/295696-4.jpg"
+          },
+          {
+            "coverType": "clearlogo",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/295696/clearlogo/611bf58d6978c.png"
+          }
+        ],
+        "originalLanguage": {
+          "id": 1,
+          "name": "English"
+        },
+        "seasons": [
+          {
+            "seasonNumber": 1,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 2,
+            "monitored": true
+          }
+        ],
+        "year": 2016,
+        "path": "/tv/Tv Shows/The Catch (2016)",
+        "qualityProfileId": 1,
+        "seasonFolder": true,
+        "monitored": true,
+        "monitorNewItems": "all",
+        "useSceneNumbering": false,
+        "runtime": 45,
+        "tvdbId": 295696,
+        "tvRageId": 47531,
+        "tvMazeId": 3072,
+        "tmdbId": 65579,
+        "firstAired": "2016-03-24T00:00:00Z",
+        "lastAired": "2017-05-11T00:00:00Z",
+        "seriesType": "standard",
+        "cleanTitle": "thecatch",
+        "imdbId": "tt4396862",
+        "titleSlug": "the-catch",
+        "certification": "TV-14",
+        "genres": [
+          "Crime",
+          "Drama",
+          "Romance",
+          "Thriller"
+        ],
+        "tags": [],
+        "added": "2020-02-09T10:37:11Z",
+        "ratings": {
+          "votes": 12834,
+          "value": 7.1
+        },
+        "languageProfileId": 1,
+        "id": 960
+      },
+      "id": 356427
+    },
+    {
+      "episodeId": 66985,
+      "seriesId": 960,
+      "sourceTitle": "The.Catch.2016.S02E06.WEB.x264-TORRENTGALAXY[TGx]-xpost",
+      "languages": [
+        {
+          "id": 1,
+          "name": "English"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 8,
+          "name": "WEBDL-480p",
+          "source": "web",
+          "resolution": 480
+        },
+        "revision": {
+          "version": 1,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "customFormats": [
+        {
+          "id": 3,
+          "name": "english"
+        }
+      ],
+      "customFormatScore": 10,
+      "qualityCutoffNotMet": true,
+      "date": "2025-03-23T14:21:56Z",
+      "downloadId": "SABnzbd_nzo_zhufo97f",
+      "eventType": "grabbed",
+      "data": {
+        "indexer": "Nzb.su (yearly) (Prowlarr)",
+        "nzbInfoUrl": "https://api.nzb.su/details/c6ffb86cd24ad0084a5ac15854ac1191",
+        "releaseGroup": "TORRENTGALAXY",
+        "age": "0",
+        "ageHours": "0.8781457994722223",
+        "ageMinutes": "52.68874801",
+        "publishedDate": "2025-03-23T13:29:15Z",
+        "downloadClient": "SABnzbd",
+        "downloadClientName": "sab",
+        "size": "315546643",
+        "downloadUrl": "http://prowlarr:9696/4/download?apikey=5f771c1869f94fec821832369384a70c&link=LzRqRmhzb0YwbFVETEJPVVR4Rm01NjJYOUtJeHN6WGJWN3hMeWplVGZzcHFXaUgyRVJidGVZOFZ4NDViTmsyVXZjTG1kdnVlUlRtVGV0MGhnN1BlNGFjSC9FS0cwNzhEcWQ1NVN4SmpqQm5uRVk1Vm83N3FmRjhEMk9nOWFtakRHYy9IUHRyaG5QbGMwcFRieitITG04VnNzZE9OUGNqaUNqWVAxak1vcU5BPQ&file=The.Catch.2016.S02E06.WEB.x264-TORRENTGALAXY%5BTGx%5D-xpost",
+        "guid": "https://api.nzb.su/details/c6ffb86cd24ad0084a5ac15854ac1191",
+        "tvdbId": "0",
+        "tvRageId": "0",
+        "imdbId": null,
+        "protocol": "1",
+        "customFormatScore": "10",
+        "seriesMatchType": "Title",
+        "releaseSource": "Rss",
+        "indexerFlags": "0",
+        "releaseType": "SingleEpisode"
+      },
+      "episode": {
+        "seriesId": 960,
+        "tvdbId": 5854710,
+        "episodeFileId": 1503545,
+        "seasonNumber": 2,
+        "episodeNumber": 6,
+        "title": "The Hard Drive",
+        "airDate": "2017-04-13",
+        "airDateUtc": "2017-04-14T02:00:00Z",
+        "runtime": 45,
+        "overview": "Alice and Val reexamine the cold case that brought them together as partners, and Ben and Rhys are faced with a major threat when they are told that their undercover status may have been compromised.",
+        "hasFile": true,
+        "monitored": true,
+        "absoluteEpisodeNumber": 16,
+        "unverifiedSceneNumbering": false,
+        "id": 66985
+      },
+      "series": {
+        "title": "The Catch",
+        "sortTitle": "catch",
+        "status": "ended",
+        "ended": true,
+        "overview": "The Catch follows Alice Vaughan, a private investigator from Los Angeles, California, who is the victim of fraud by her fiancé. She is determined to find him - between working on other cases - before it ruins her career.",
+        "network": "ABC (US)",
+        "airTime": "22:00",
+        "images": [
+          {
+            "coverType": "banner",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/graphical/295696-g.jpg"
+          },
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/posters/295696-1.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/fanart/original/295696-4.jpg"
+          },
+          {
+            "coverType": "clearlogo",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/295696/clearlogo/611bf58d6978c.png"
+          }
+        ],
+        "originalLanguage": {
+          "id": 1,
+          "name": "English"
+        },
+        "seasons": [
+          {
+            "seasonNumber": 1,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 2,
+            "monitored": true
+          }
+        ],
+        "year": 2016,
+        "path": "/tv/Tv Shows/The Catch (2016)",
+        "qualityProfileId": 1,
+        "seasonFolder": true,
+        "monitored": true,
+        "monitorNewItems": "all",
+        "useSceneNumbering": false,
+        "runtime": 45,
+        "tvdbId": 295696,
+        "tvRageId": 47531,
+        "tvMazeId": 3072,
+        "tmdbId": 65579,
+        "firstAired": "2016-03-24T00:00:00Z",
+        "lastAired": "2017-05-11T00:00:00Z",
+        "seriesType": "standard",
+        "cleanTitle": "thecatch",
+        "imdbId": "tt4396862",
+        "titleSlug": "the-catch",
+        "certification": "TV-14",
+        "genres": [
+          "Crime",
+          "Drama",
+          "Romance",
+          "Thriller"
+        ],
+        "tags": [],
+        "added": "2020-02-09T10:37:11Z",
+        "ratings": {
+          "votes": 12834,
+          "value": 7.1
+        },
+        "languageProfileId": 1,
+        "id": 960
+      },
+      "id": 356426
+    },
+    {
+      "episodeId": 66971,
+      "seriesId": 960,
+      "sourceTitle": "The.Catch.2016.S01E02.WEB.x264-TORRENTGALAXY[TGx]-xpost",
+      "languages": [
+        {
+          "id": 1,
+          "name": "English"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 8,
+          "name": "WEBDL-480p",
+          "source": "web",
+          "resolution": 480
+        },
+        "revision": {
+          "version": 1,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "customFormats": [
+        {
+          "id": 3,
+          "name": "english"
+        }
+      ],
+      "customFormatScore": 10,
+      "qualityCutoffNotMet": true,
+      "date": "2025-03-23T14:21:54Z",
+      "downloadId": "SABnzbd_nzo_feisin99",
+      "eventType": "grabbed",
+      "data": {
+        "indexer": "Nzb.su (yearly) (Prowlarr)",
+        "nzbInfoUrl": "https://api.nzb.su/details/2e9758467e2e13f435e1a8c02939b297",
+        "releaseGroup": "TORRENTGALAXY",
+        "age": "0",
+        "ageHours": "0.9014989068611111",
+        "ageMinutes": "54.089934453333335",
+        "publishedDate": "2025-03-23T13:27:49Z",
+        "downloadClient": "SABnzbd",
+        "downloadClientName": "sab",
+        "size": "314080717",
+        "downloadUrl": "http://prowlarr:9696/4/download?apikey=5f771c1869f94fec821832369384a70c&link=M0lncXNzZWVFWXp0M1hQbktjRkpCVnltSElaeU9tYTFWa3l0U3I0emRVdUs1VWdRYWFDWmdvT1h6K3hrSi9KT2xSVThZTkZuZWI2L1BOY2VWMG5ML3JqRWQzbEJ3d1IwL0YvRDk5RkpLaS90ell2QlFRUzlFWlMrVk1RRW9Wc1BXaHQ3MlJZaHRXcHJscmhiTnhEQ2tMOFV6eExlSTF0Kysya2liQ25UU3dvPQ&file=The.Catch.2016.S01E02.WEB.x264-TORRENTGALAXY%5BTGx%5D-xpost",
+        "guid": "https://api.nzb.su/details/2e9758467e2e13f435e1a8c02939b297",
+        "tvdbId": "0",
+        "tvRageId": "0",
+        "imdbId": null,
+        "protocol": "1",
+        "customFormatScore": "10",
+        "seriesMatchType": "Title",
+        "releaseSource": "Rss",
+        "indexerFlags": "0",
+        "releaseType": "SingleEpisode"
+      },
+      "episode": {
+        "seriesId": 960,
+        "tvdbId": 5518918,
+        "episodeFileId": 1503546,
+        "seasonNumber": 1,
+        "episodeNumber": 2,
+        "title": "The Real Killer",
+        "airDate": "2016-03-31",
+        "airDateUtc": "2016-04-01T02:00:00Z",
+        "runtime": 45,
+        "overview": "Alice and the team take on a very public client, a husband who was wrongly imprisoned for murdering his wife. Alice, however, is distracted with a mission of her own: track down Ben and figure out his next move. Meanwhile, Ben, Margot and Reggie are in desperate need of cash since Alice foiled their last plan, and the three con artists set their sights on a new target.",
+        "hasFile": true,
+        "monitored": true,
+        "unverifiedSceneNumbering": false,
+        "id": 66971
+      },
+      "series": {
+        "title": "The Catch",
+        "sortTitle": "catch",
+        "status": "ended",
+        "ended": true,
+        "overview": "The Catch follows Alice Vaughan, a private investigator from Los Angeles, California, who is the victim of fraud by her fiancé. She is determined to find him - between working on other cases - before it ruins her career.",
+        "network": "ABC (US)",
+        "airTime": "22:00",
+        "images": [
+          {
+            "coverType": "banner",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/graphical/295696-g.jpg"
+          },
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/posters/295696-1.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/fanart/original/295696-4.jpg"
+          },
+          {
+            "coverType": "clearlogo",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/295696/clearlogo/611bf58d6978c.png"
+          }
+        ],
+        "originalLanguage": {
+          "id": 1,
+          "name": "English"
+        },
+        "seasons": [
+          {
+            "seasonNumber": 1,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 2,
+            "monitored": true
+          }
+        ],
+        "year": 2016,
+        "path": "/tv/Tv Shows/The Catch (2016)",
+        "qualityProfileId": 1,
+        "seasonFolder": true,
+        "monitored": true,
+        "monitorNewItems": "all",
+        "useSceneNumbering": false,
+        "runtime": 45,
+        "tvdbId": 295696,
+        "tvRageId": 47531,
+        "tvMazeId": 3072,
+        "tmdbId": 65579,
+        "firstAired": "2016-03-24T00:00:00Z",
+        "lastAired": "2017-05-11T00:00:00Z",
+        "seriesType": "standard",
+        "cleanTitle": "thecatch",
+        "imdbId": "tt4396862",
+        "titleSlug": "the-catch",
+        "certification": "TV-14",
+        "genres": [
+          "Crime",
+          "Drama",
+          "Romance",
+          "Thriller"
+        ],
+        "tags": [],
+        "added": "2020-02-09T10:37:11Z",
+        "ratings": {
+          "votes": 12834,
+          "value": 7.1
+        },
+        "languageProfileId": 1,
+        "id": 960
+      },
+      "id": 356425
+    },
+    {
+      "episodeId": 66980,
+      "seriesId": 960,
+      "sourceTitle": "The.Catch.2016.S02E01.WEB.x264-TORRENTGALAXY[TGx]-xpost",
+      "languages": [
+        {
+          "id": 1,
+          "name": "English"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 8,
+          "name": "WEBDL-480p",
+          "source": "web",
+          "resolution": 480
+        },
+        "revision": {
+          "version": 1,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "customFormats": [
+        {
+          "id": 3,
+          "name": "english"
+        }
+      ],
+      "customFormatScore": 10,
+      "qualityCutoffNotMet": true,
+      "date": "2025-03-23T14:21:52Z",
+      "downloadId": "SABnzbd_nzo_nq5ng9i5",
+      "eventType": "grabbed",
+      "data": {
+        "indexer": "Nzb.su (yearly) (Prowlarr)",
+        "nzbInfoUrl": "https://api.nzb.su/details/6977830d3fdc4962fa0b7ee5b1e182da",
+        "releaseGroup": "TORRENTGALAXY",
+        "age": "0",
+        "ageHours": "0.6114881497222222",
+        "ageMinutes": "36.689289018333334",
+        "publishedDate": "2025-03-23T13:45:11Z",
+        "downloadClient": "SABnzbd",
+        "downloadClientName": "sab",
+        "size": "334652324",
+        "downloadUrl": "http://prowlarr:9696/4/download?apikey=5f771c1869f94fec821832369384a70c&link=STVqNEJicWsxZDBPM3RmZFpqSm5kZ21nMXZxY2EyT1A4YVMzWjhFL3BLRUY4Ly9JSHloZ1djNHJ1cUttRXlSbE1XYytFdjRSNDJWOFpkK3N0M3NUWnZsYy9aQ2FYanRNdUJHVFhzeEJ1SU5ZOEdzN0I0Q0xhM3NWQm5tcVB5NzBkeER0aUZZRzRKUGVwSkVhQXhoOHdRY0ZqVGJWMkd1TXozL1dUajh2WDQ0PQ&file=The.Catch.2016.S02E01.WEB.x264-TORRENTGALAXY%5BTGx%5D-xpost",
+        "guid": "https://api.nzb.su/details/6977830d3fdc4962fa0b7ee5b1e182da",
+        "tvdbId": "0",
+        "tvRageId": "0",
+        "imdbId": null,
+        "protocol": "1",
+        "customFormatScore": "10",
+        "seriesMatchType": "Title",
+        "releaseSource": "Rss",
+        "indexerFlags": "0",
+        "releaseType": "SingleEpisode"
+      },
+      "episode": {
+        "seriesId": 960,
+        "tvdbId": 5854708,
+        "episodeFileId": 1503547,
+        "seasonNumber": 2,
+        "episodeNumber": 1,
+        "title": "The New Deal",
+        "airDate": "2017-03-09",
+        "airDateUtc": "2017-03-10T03:00:00Z",
+        "runtime": 45,
+        "overview": "FBI Special Agent Justine Diaz has a deal for Ben, which gets him out of prison right away in exchange for staging cons and tipping off the FBI so they can arrest criminals. His work on Ben's case gets Jules Dao promoted, but it comes with moving to D.C. Rhys stages a prison break to get Ben out, thus ruining the latter's deal with the FBI. In exchange for help from within the prison, Rhys promised Ben's help on a snatch and grab con with a surprising twist. This leads to the FBI being able to arrest a criminal, meaning the deal with Ben's back on the table. Meanwhile, Alice's brother Tommy comes to town for his sister's help when he discovers someone created a bank account in his name with three million dollars in it. Valerie focuses on getting AVI up and running again after the FBI investigation into the firm caused them to lose all their clients.",
+        "hasFile": true,
+        "monitored": true,
+        "absoluteEpisodeNumber": 11,
+        "unverifiedSceneNumbering": false,
+        "id": 66980
+      },
+      "series": {
+        "title": "The Catch",
+        "sortTitle": "catch",
+        "status": "ended",
+        "ended": true,
+        "overview": "The Catch follows Alice Vaughan, a private investigator from Los Angeles, California, who is the victim of fraud by her fiancé. She is determined to find him - between working on other cases - before it ruins her career.",
+        "network": "ABC (US)",
+        "airTime": "22:00",
+        "images": [
+          {
+            "coverType": "banner",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/graphical/295696-g.jpg"
+          },
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/posters/295696-1.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/fanart/original/295696-4.jpg"
+          },
+          {
+            "coverType": "clearlogo",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/295696/clearlogo/611bf58d6978c.png"
+          }
+        ],
+        "originalLanguage": {
+          "id": 1,
+          "name": "English"
+        },
+        "seasons": [
+          {
+            "seasonNumber": 1,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 2,
+            "monitored": true
+          }
+        ],
+        "year": 2016,
+        "path": "/tv/Tv Shows/The Catch (2016)",
+        "qualityProfileId": 1,
+        "seasonFolder": true,
+        "monitored": true,
+        "monitorNewItems": "all",
+        "useSceneNumbering": false,
+        "runtime": 45,
+        "tvdbId": 295696,
+        "tvRageId": 47531,
+        "tvMazeId": 3072,
+        "tmdbId": 65579,
+        "firstAired": "2016-03-24T00:00:00Z",
+        "lastAired": "2017-05-11T00:00:00Z",
+        "seriesType": "standard",
+        "cleanTitle": "thecatch",
+        "imdbId": "tt4396862",
+        "titleSlug": "the-catch",
+        "certification": "TV-14",
+        "genres": [
+          "Crime",
+          "Drama",
+          "Romance",
+          "Thriller"
+        ],
+        "tags": [],
+        "added": "2020-02-09T10:37:11Z",
+        "ratings": {
+          "votes": 12834,
+          "value": 7.1
+        },
+        "languageProfileId": 1,
+        "id": 960
+      },
+      "id": 356424
+    },
+    {
+      "episodeId": 163579,
+      "seriesId": 1846,
+      "sourceTitle": "1923 (2022) S02E05 (1080p AMZN WEB-DL H265 SDR DDP 5.1 English - HONE)",
+      "languages": [
+        {
+          "id": 1,
+          "name": "English"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 3,
+          "name": "WEBDL-1080p",
+          "source": "web",
+          "resolution": 1080
+        },
+        "revision": {
+          "version": 1,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "customFormats": [
+        {
+          "id": 3,
+          "name": "english"
+        },
+        {
+          "id": 1,
+          "name": "english 265"
+        }
+      ],
+      "customFormatScore": 30,
+      "qualityCutoffNotMet": false,
+      "date": "2025-03-23T04:19:01Z",
+      "downloadId": "SABnzbd_nzo_df_41n5d",
+      "eventType": "downloadFolderImported",
+      "data": {
+        "fileId": "1503337",
+        "droppedPath": "/downloads/1923 (2022) S02E05 (1080p AMZN WEB-DL H265 SDR DDP 5.1 English - HONE)/1923 (2022) S02E05 (1080p AMZN WEB-DL H265 SDR DDP 5.1 English - HONE).mkv",
+        "importedPath": "/tv/Tv Shows/1923/Season 2/1923.S02E05.Only.Gunshots.to.Guide.Us.mkv",
+        "downloadClient": "SABnzbd",
+        "downloadClientName": "sab",
+        "releaseGroup": "HONE",
+        "customFormatScore": "30",
+        "size": "2184962717",
+        "indexerFlags": "0",
+        "releaseType": "SingleEpisode"
+      },
+      "episode": {
+        "seriesId": 1846,
+        "tvdbId": 10872203,
+        "episodeFileId": 1503337,
+        "seasonNumber": 2,
+        "episodeNumber": 5,
+        "title": "Only Gunshots to Guide Us",
+        "airDate": "2025-03-23",
+        "airDateUtc": "2025-03-23T07:00:00Z",
+        "runtime": 53,
+        "overview": "The search for Teonna continues. Alexandra and Spencer find their footing on two different trains.",
+        "hasFile": true,
+        "monitored": true,
+        "absoluteEpisodeNumber": 13,
+        "unverifiedSceneNumbering": false,
+        "id": 163579
+      },
+      "series": {
+        "title": "1923",
+        "sortTitle": "1923",
+        "status": "continuing",
+        "ended": false,
+        "overview": "The next installment of the Yellowstone origin story introduces a new generation of the Dutton family and explores the early twentieth century when pandemics, historic drought, the end of Prohibition, and the Great Depression all plague the Mountain West, and the Duttons who call it home.",
+        "network": "Paramount+",
+        "airTime": "03:00",
+        "images": [
+          {
+            "coverType": "banner",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/416491/banners/6393c5abdabcd.jpg"
+          },
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/416491/posters/63aa25026aabf.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/416491/backgrounds/63965fcbc0ca4.jpg"
+          },
+          {
+            "coverType": "clearlogo",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/416491/clearlogo/63c4f71decfab.png"
+          }
+        ],
+        "originalLanguage": {
+          "id": 1,
+          "name": "English"
+        },
+        "seasons": [
+          {
+            "seasonNumber": 0,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 1,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 2,
+            "monitored": true
+          }
+        ],
+        "year": 2022,
+        "path": "/tv/Tv Shows/1923",
+        "qualityProfileId": 1,
+        "seasonFolder": true,
+        "monitored": true,
+        "monitorNewItems": "all",
+        "useSceneNumbering": false,
+        "runtime": 57,
+        "tvdbId": 416491,
+        "tvRageId": 0,
+        "tvMazeId": 60550,
+        "tmdbId": 157744,
+        "firstAired": "2022-12-18T00:00:00Z",
+        "lastAired": "2025-04-13T00:00:00Z",
+        "seriesType": "standard",
+        "cleanTitle": "1923",
+        "imdbId": "tt18335752",
+        "titleSlug": "1923",
+        "certification": "TV-MA",
+        "genres": [
+          "Drama",
+          "Western"
+        ],
+        "tags": [],
+        "added": "2025-03-06T02:04:22Z",
+        "ratings": {
+          "votes": 70741,
+          "value": 8.3
+        },
+        "languageProfileId": 1,
+        "id": 1846
+      },
+      "id": 356423
+    },
+    {
+      "episodeId": 163579,
+      "seriesId": 1846,
+      "sourceTitle": "1923 (2022) S02E05 (1080p AMZN WEB-DL H265 SDR DDP 5.1 English - HONE)",
+      "languages": [
+        {
+          "id": 1,
+          "name": "English"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 3,
+          "name": "WEBDL-1080p",
+          "source": "web",
+          "resolution": 1080
+        },
+        "revision": {
+          "version": 1,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "customFormats": [
+        {
+          "id": 3,
+          "name": "english"
+        },
+        {
+          "id": 1,
+          "name": "english 265"
+        }
+      ],
+      "customFormatScore": 30,
+      "qualityCutoffNotMet": false,
+      "date": "2025-03-23T04:17:15Z",
+      "downloadId": "SABnzbd_nzo_df_41n5d",
+      "eventType": "grabbed",
+      "data": {
+        "indexer": "altHUB (Prowlarr)",
+        "nzbInfoUrl": "https://api.althub.co.za/details/575bbc721eee7721a15a08c5c15266a5",
+        "releaseGroup": "HONE",
+        "age": "0",
+        "ageHours": "0.07220433394444445",
+        "ageMinutes": "4.332260076666667",
+        "publishedDate": "2025-03-23T04:12:56Z",
+        "downloadClient": "SABnzbd",
+        "downloadClientName": "sab",
+        "size": "2337124579",
+        "downloadUrl": "http://prowlarr:9696/1/download?apikey=5f771c1869f94fec821832369384a70c&link=ejV2SUg1L3lud1hQdTQ3by9PaFA0M3QxQlZyc2p3ZHJwTGtTOHZ5R0liTmlpUWJBeVZxbENMajhvNVVWZ1NDbmlEMEJ1eVhQUkJVQTl2M0EyNUtrRzVqOXI2TGhSYmVIUm9RRnZDdGJNYnBvVUJmRmFYTi83bGNmd1lFcWtIc1d0Z05LVHRYc0lnZnlNREJqOU1zV0U3WG1Nb1lVUGVaeFFyMjFlNTNIVEM0PQ&file=1923+(2022)+S02E05+(1080p+AMZN+WEB-DL+H265+SDR+DDP+5.1+English+-+HONE)",
+        "guid": "https://api.althub.co.za/details/575bbc721eee7721a15a08c5c15266a5",
+        "tvdbId": "0",
+        "tvRageId": "0",
+        "imdbId": null,
+        "protocol": "1",
+        "customFormatScore": "30",
+        "seriesMatchType": "Title",
+        "releaseSource": "Rss",
+        "indexerFlags": "0",
+        "releaseType": "SingleEpisode"
+      },
+      "episode": {
+        "seriesId": 1846,
+        "tvdbId": 10872203,
+        "episodeFileId": 1503337,
+        "seasonNumber": 2,
+        "episodeNumber": 5,
+        "title": "Only Gunshots to Guide Us",
+        "airDate": "2025-03-23",
+        "airDateUtc": "2025-03-23T07:00:00Z",
+        "runtime": 53,
+        "overview": "The search for Teonna continues. Alexandra and Spencer find their footing on two different trains.",
+        "hasFile": true,
+        "monitored": true,
+        "absoluteEpisodeNumber": 13,
+        "unverifiedSceneNumbering": false,
+        "id": 163579
+      },
+      "series": {
+        "title": "1923",
+        "sortTitle": "1923",
+        "status": "continuing",
+        "ended": false,
+        "overview": "The next installment of the Yellowstone origin story introduces a new generation of the Dutton family and explores the early twentieth century when pandemics, historic drought, the end of Prohibition, and the Great Depression all plague the Mountain West, and the Duttons who call it home.",
+        "network": "Paramount+",
+        "airTime": "03:00",
+        "images": [
+          {
+            "coverType": "banner",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/416491/banners/6393c5abdabcd.jpg"
+          },
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/416491/posters/63aa25026aabf.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/416491/backgrounds/63965fcbc0ca4.jpg"
+          },
+          {
+            "coverType": "clearlogo",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/416491/clearlogo/63c4f71decfab.png"
+          }
+        ],
+        "originalLanguage": {
+          "id": 1,
+          "name": "English"
+        },
+        "seasons": [
+          {
+            "seasonNumber": 0,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 1,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 2,
+            "monitored": true
+          }
+        ],
+        "year": 2022,
+        "path": "/tv/Tv Shows/1923",
+        "qualityProfileId": 1,
+        "seasonFolder": true,
+        "monitored": true,
+        "monitorNewItems": "all",
+        "useSceneNumbering": false,
+        "runtime": 57,
+        "tvdbId": 416491,
+        "tvRageId": 0,
+        "tvMazeId": 60550,
+        "tmdbId": 157744,
+        "firstAired": "2022-12-18T00:00:00Z",
+        "lastAired": "2025-04-13T00:00:00Z",
+        "seriesType": "standard",
+        "cleanTitle": "1923",
+        "imdbId": "tt18335752",
+        "titleSlug": "1923",
+        "certification": "TV-MA",
+        "genres": [
+          "Drama",
+          "Western"
+        ],
+        "tags": [],
+        "added": "2025-03-06T02:04:22Z",
+        "ratings": {
+          "votes": 70741,
+          "value": 8.3
+        },
+        "languageProfileId": 1,
+        "id": 1846
+      },
+      "id": 356422
+    },
+    {
+      "episodeId": 162960,
+      "seriesId": 1371,
+      "sourceTitle": "Space.Invaders.S05E07.Leona.720p.WEBDL.h264-P147YPU5",
+      "languages": [
+        {
+          "id": 1,
+          "name": "English"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 5,
+          "name": "WEBDL-720p",
+          "source": "web",
+          "resolution": 720
+        },
+        "revision": {
+          "version": 1,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "customFormats": [
+        {
+          "id": 3,
+          "name": "english"
+        }
+      ],
+      "customFormatScore": 10,
+      "qualityCutoffNotMet": true,
+      "date": "2025-03-22T18:28:00Z",
+      "downloadId": "SABnzbd_nzo_5k03v6tm",
+      "eventType": "downloadFolderImported",
+      "data": {
+        "fileId": "1503129",
+        "droppedPath": "/downloads/Space.Invaders.S05E07.Leona.720p.WEBDL.h264-P147YPU5/KYcKv5I8KtglMLnqhLlnj0zTV9u8Aiwy.mkv",
+        "importedPath": "/tv/Documentaires/tv shows/Space Invaders/Season 5/Space.Invaders.S05E07.Ep.7.mkv",
+        "downloadClient": "SABnzbd",
+        "downloadClientName": "sab",
+        "releaseGroup": "P147YPU5",
+        "customFormatScore": "10",
+        "size": "501460907",
+        "indexerFlags": "0",
+        "releaseType": "SingleEpisode"
+      },
+      "episode": {
+        "seriesId": 1371,
+        "tvdbId": 10958142,
+        "episodeFileId": 1503129,
+        "seasonNumber": 5,
+        "episodeNumber": 7,
+        "title": "Ep 7",
+        "airDate": "2025-03-22",
+        "airDateUtc": "2025-03-22T08:30:00Z",
+        "runtime": 45,
+        "hasFile": true,
+        "monitored": true,
+        "unverifiedSceneNumbering": false,
+        "id": 162960
+      },
+      "series": {
+        "title": "Space Invaders",
+        "sortTitle": "space invaders",
+        "status": "continuing",
+        "ended": false,
+        "overview": "Across Australia families are battling a clutter crisis and desperately need an intervention. Declutter guru Peter Walsh, renovation queen Cherie Barber and treasure hunter Lucas Callaghan transform peoples' homes and lives.",
+        "network": "Nine Network",
+        "airTime": "19:30",
+        "images": [
+          {
+            "coverType": "banner",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/397614/banners/66a13c92da987.jpg"
+          },
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/series/397614/posters/603b1874d30eb.jpg"
+          }
+        ],
+        "originalLanguage": {
+          "id": 1,
+          "name": "English"
+        },
+        "seasons": [
+          {
+            "seasonNumber": 1,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 2,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 3,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 4,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 5,
+            "monitored": true
+          }
+        ],
+        "year": 2021,
+        "path": "/tv/Documentaires/tv shows/Space Invaders",
+        "qualityProfileId": 1,
+        "seasonFolder": true,
+        "monitored": true,
+        "monitorNewItems": "all",
+        "useSceneNumbering": false,
+        "runtime": 45,
+        "tvdbId": 397614,
+        "tvRageId": 0,
+        "tvMazeId": 54082,
+        "tmdbId": 120325,
+        "firstAired": "2021-02-27T00:00:00Z",
+        "lastAired": "2025-04-12T00:00:00Z",
+        "seriesType": "standard",
+        "cleanTitle": "spaceinvaders",
+        "imdbId": "tt14135990",
+        "titleSlug": "space-invaders",
+        "certification": "PG",
+        "genres": [
+          "Documentary",
+          "Home and Garden",
+          "Reality"
+        ],
+        "tags": [],
+        "added": "2022-03-22T12:27:39Z",
+        "ratings": {
+          "votes": 48,
+          "value": 6.9
+        },
+        "languageProfileId": 1,
+        "id": 1371
+      },
+      "id": 356421
+    },
+    {
+      "episodeId": 162960,
+      "seriesId": 1371,
+      "sourceTitle": "Space.Invaders.S05E07.Leona.720p.WEBDL.h264-P147YPU5",
+      "languages": [
+        {
+          "id": 1,
+          "name": "English"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 5,
+          "name": "WEBDL-720p",
+          "source": "web",
+          "resolution": 720
+        },
+        "revision": {
+          "version": 1,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "customFormats": [
+        {
+          "id": 3,
+          "name": "english"
+        }
+      ],
+      "customFormatScore": 10,
+      "qualityCutoffNotMet": true,
+      "date": "2025-03-22T18:26:46Z",
+      "downloadId": "SABnzbd_nzo_5k03v6tm",
+      "eventType": "grabbed",
+      "data": {
+        "indexer": "NZBgeek (Prowlarr)",
+        "nzbInfoUrl": "https://nzbgeek.info/geekseek.php?guid=de61986c6403cd009f91c254713350b2",
+        "releaseGroup": "P147YPU5",
+        "age": "0",
+        "ageHours": "0.10033302633333334",
+        "ageMinutes": "6.019981625",
+        "publishedDate": "2025-03-22T18:20:45Z",
+        "downloadClient": "SABnzbd",
+        "downloadClientName": "sab",
+        "size": "528603000",
+        "downloadUrl": "http://prowlarr:9696/5/download?apikey=5f771c1869f94fec821832369384a70c&link=Z1JrNWgreTJuUlExZmV4Ym92ckxjMmhsemY1T1haZHdSSE5jTk1WWjYxY3VLVERXRGVOc1dZdVdEQ1AwMmkzelo1Y1NqR0lJT0RJQVQ0VHhXN2c3cENJUUZJYktaN3hoWHhaVkR0VGtGanF1d0o5djQ5cXVQTnZhRWw2TzFvbXk3bTV3ZUxYNTRyeC9tMjg5S3lPZmNvWTUxK2NoTnV5NDhjY3Ftb3ZkSGM4PQ&file=Space.Invaders.S05E07.Leona.720p.WEBDL.h264-P147YPU5",
+        "guid": "https://nzbgeek.info/geekseek.php?guid=de61986c6403cd009f91c254713350b2",
+        "tvdbId": "397614",
+        "tvRageId": "0",
+        "imdbId": null,
+        "protocol": "1",
+        "customFormatScore": "10",
+        "seriesMatchType": "Title",
+        "releaseSource": "Rss",
+        "indexerFlags": "0",
+        "releaseType": "SingleEpisode"
+      },
+      "episode": {
+        "seriesId": 1371,
+        "tvdbId": 10958142,
+        "episodeFileId": 1503129,
+        "seasonNumber": 5,
+        "episodeNumber": 7,
+        "title": "Ep 7",
+        "airDate": "2025-03-22",
+        "airDateUtc": "2025-03-22T08:30:00Z",
+        "runtime": 45,
+        "hasFile": true,
+        "monitored": true,
+        "unverifiedSceneNumbering": false,
+        "id": 162960
+      },
+      "series": {
+        "title": "Space Invaders",
+        "sortTitle": "space invaders",
+        "status": "continuing",
+        "ended": false,
+        "overview": "Across Australia families are battling a clutter crisis and desperately need an intervention. Declutter guru Peter Walsh, renovation queen Cherie Barber and treasure hunter Lucas Callaghan transform peoples' homes and lives.",
+        "network": "Nine Network",
+        "airTime": "19:30",
+        "images": [
+          {
+            "coverType": "banner",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/397614/banners/66a13c92da987.jpg"
+          },
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/series/397614/posters/603b1874d30eb.jpg"
+          }
+        ],
+        "originalLanguage": {
+          "id": 1,
+          "name": "English"
+        },
+        "seasons": [
+          {
+            "seasonNumber": 1,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 2,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 3,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 4,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 5,
+            "monitored": true
+          }
+        ],
+        "year": 2021,
+        "path": "/tv/Documentaires/tv shows/Space Invaders",
+        "qualityProfileId": 1,
+        "seasonFolder": true,
+        "monitored": true,
+        "monitorNewItems": "all",
+        "useSceneNumbering": false,
+        "runtime": 45,
+        "tvdbId": 397614,
+        "tvRageId": 0,
+        "tvMazeId": 54082,
+        "tmdbId": 120325,
+        "firstAired": "2021-02-27T00:00:00Z",
+        "lastAired": "2025-04-12T00:00:00Z",
+        "seriesType": "standard",
+        "cleanTitle": "spaceinvaders",
+        "imdbId": "tt14135990",
+        "titleSlug": "space-invaders",
+        "certification": "PG",
+        "genres": [
+          "Documentary",
+          "Home and Garden",
+          "Reality"
+        ],
+        "tags": [],
+        "added": "2022-03-22T12:27:39Z",
+        "ratings": {
+          "votes": 48,
+          "value": 6.9
+        },
+        "languageProfileId": 1,
+        "id": 1371
+      },
+      "id": 356420
+    },
+    {
+      "episodeId": 34087,
+      "seriesId": 449,
+      "sourceTitle": "A Young Doctors Notebook (2012) S02E04 (1080p BDRip DDP5.1 x265) - Vialle",
+      "languages": [
+        {
+          "id": 1,
+          "name": "English"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 7,
+          "name": "Bluray-1080p",
+          "source": "bluray",
+          "resolution": 1080
+        },
+        "revision": {
+          "version": 1,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "customFormats": [
+        {
+          "id": 3,
+          "name": "english"
+        },
+        {
+          "id": 1,
+          "name": "english 265"
+        }
+      ],
+      "customFormatScore": 30,
+      "qualityCutoffNotMet": false,
+      "date": "2025-03-22T10:44:04Z",
+      "downloadId": "SABnzbd_nzo_nicfdr1k",
+      "eventType": "downloadFolderImported",
+      "data": {
+        "fileId": "1503128",
+        "droppedPath": "/downloads/A.Young.Doctors.Notebook.(2012).S02.(1080p.BDRip.DDP5.1.x265).-.Vialle/A Young Doctors Notebook (2012) S02E04 (1080p BDRip DDP5.1 x265) - Vialle.mkv",
+        "importedPath": "/tv/Tv Shows/A Young Doctor's Notebook/Season 2/A.Young.Doctor's.Notebook.S02E04.Episode.4.mkv",
+        "downloadClient": "SABnzbd",
+        "downloadClientName": "sab",
+        "releaseGroup": null,
+        "customFormatScore": "30",
+        "size": "1205758419",
+        "indexerFlags": "0",
+        "releaseType": "SeasonPack"
+      },
+      "episode": {
+        "seriesId": 449,
+        "tvdbId": 4707709,
+        "episodeFileId": 1503128,
+        "seasonNumber": 2,
+        "episodeNumber": 4,
+        "title": "Episode 4",
+        "airDate": "2013-12-12",
+        "airDateUtc": "2013-12-12T21:00:00Z",
+        "runtime": 23,
+        "finaleType": "series",
+        "overview": "The young Doctor delivers a self-serving eulogy at a funeral. The Bolsheviks take over.  The Young Doctor is required to make a life-changing decision when a train is derailed.",
+        "hasFile": true,
+        "monitored": true,
+        "unverifiedSceneNumbering": false,
+        "id": 34087
+      },
+      "series": {
+        "title": "A Young Doctor's Notebook",
+        "sortTitle": "young doctors notebook",
+        "status": "ended",
+        "ended": true,
+        "overview": "Based on short stories by Mikhail Bulgakov, this new series on Sky Arts 1 follows the adventures of a youthful, innocent doctor in his first job in a small country hospital in Russia.",
+        "network": "Sky Arts",
+        "airTime": "21:00",
+        "images": [
+          {
+            "coverType": "banner",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/graphical/263828-g.jpg"
+          },
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/posters/263828-3.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/fanart/original/263828-2.jpg"
+          },
+          {
+            "coverType": "clearlogo",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/263828/clearlogo/611c0d9d89842.png"
+          }
+        ],
+        "originalLanguage": {
+          "id": 1,
+          "name": "English"
+        },
+        "seasons": [
+          {
+            "seasonNumber": 0,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 1,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 2,
+            "monitored": true
+          }
+        ],
+        "year": 2012,
+        "path": "/tv/Tv Shows/A Young Doctor's Notebook",
+        "qualityProfileId": 1,
+        "seasonFolder": true,
+        "monitored": true,
+        "monitorNewItems": "all",
+        "useSceneNumbering": false,
+        "runtime": 23,
+        "tvdbId": 263828,
+        "tvRageId": 33405,
+        "tvMazeId": 402,
+        "tmdbId": 0,
+        "firstAired": "2012-12-06T00:00:00Z",
+        "lastAired": "2013-12-12T00:00:00Z",
+        "seriesType": "standard",
+        "cleanTitle": "ayoungdoctorsnotebook",
+        "imdbId": "tt2164430",
+        "titleSlug": "a-young-doctors-notebook",
+        "genres": [
+          "Comedy",
+          "Drama"
+        ],
+        "tags": [],
+        "added": "2020-02-09T08:27:02Z",
+        "ratings": {
+          "votes": 16859,
+          "value": 7.7
+        },
+        "languageProfileId": 1,
+        "id": 449
+      },
+      "id": 356419
+    }
+  ]
+}

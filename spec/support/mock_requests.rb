@@ -3,9 +3,13 @@
 module MockRequests
   def stub_endpoint(url)
     url = URI(url)
-    stub_request(:get, /#{url}/).to_return(
+    stub_request(:get, /#{url.path}.*#{url.query}.*/).to_return(
       status: 200,
-      body: File.read("spec/support/requests/#{url.host}#{url.path}.json")
+      body:
+        File.read(
+          "spec/support/requests/#{url.host}#{url.path}#{url.query ? "?#{url.query}" : ''}.json",
+          encoding: 'bom|utf-8'
+        )
     )
   end
 
@@ -15,25 +19,25 @@ module MockRequests
 
   def stub_sonarr
     base_url = load_config.sonarr.base_url
-    stub_endpoint("#{base_url}#{Sonarr::Service.since_endpoint}")
+    45.times.each { |i| stub_endpoint("#{base_url}#{Sonarr::Service.history_endpoint}?page=#{i + 1}") }
     stub_endpoint("#{base_url}#{Sonarr::Service.status_endpoint}")
   end
 
   def stub_lidarr
     base_url = load_config.lidarr.base_url
-    stub_endpoint("#{base_url}#{Lidarr::Service.since_endpoint}")
+    3.times.each { |i| stub_endpoint("#{base_url}#{Lidarr::Service.history_endpoint}?page=#{i + 1}") }
     stub_endpoint("#{base_url}#{Lidarr::Service.status_endpoint}")
   end
 
   def stub_readarr
     base_url = load_config.readarr.base_url
-    stub_endpoint("#{base_url}#{Readarr::Service.since_endpoint}")
+    2.times.each { |i| stub_endpoint("#{base_url}#{Readarr::Service.history_endpoint}?page=#{i + 1}") }
     stub_endpoint("#{base_url}#{Readarr::Service.status_endpoint}")
   end
 
   def stub_radarr
     base_url = load_config.radarr.base_url
-    stub_endpoint("#{base_url}#{Radarr::Service.since_endpoint}")
+    3.times.each { |i| stub_endpoint("#{base_url}#{Radarr::Service.history_endpoint}?page=#{i + 1}") }
     stub_endpoint("#{base_url}#{Radarr::Service.status_endpoint}")
   end
 

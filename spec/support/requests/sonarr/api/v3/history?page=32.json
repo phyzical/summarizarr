@@ -1,0 +1,3026 @@
+{
+  "page": 32,
+  "pageSize": 15,
+  "sortKey": "date",
+  "sortDirection": "descending",
+  "totalRecords": 344511,
+  "records": [
+    {
+      "episodeId": 161868,
+      "seriesId": 303,
+      "sourceTitle": "American.Dad.S21E22.What.Great.Advancements.1080p.AMZN.WEB-DL.DDP5.1.H.264-FLUX",
+      "languages": [
+        {
+          "id": 1,
+          "name": "English"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 3,
+          "name": "WEBDL-1080p",
+          "source": "web",
+          "resolution": 1080
+        },
+        "revision": {
+          "version": 1,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "customFormats": [
+        {
+          "id": 3,
+          "name": "english"
+        }
+      ],
+      "customFormatScore": 10,
+      "qualityCutoffNotMet": false,
+      "date": "2025-03-25T04:21:17Z",
+      "downloadId": "SABnzbd_nzo_h13juplx",
+      "eventType": "downloadFolderImported",
+      "data": {
+        "fileId": "1504216",
+        "droppedPath": "/downloads/American.Dad.S21E22.What.Great.Advancements.1080p.AMZN.WEB-DL.DDP5.1.H.264-FLUX/American.Dad.S21E22.What.Great.Advancements.1080p.AMZN.WEB-DL.DDP5.1.H.264-FLUX.mkv",
+        "importedPath": "/tv/Cartoons/American Dad/Season 21/American.Dad!.S21E22.What.Great.Advancements!.mkv",
+        "downloadClient": "SABnzbd",
+        "downloadClientName": "sab",
+        "releaseGroup": "FLUX",
+        "customFormatScore": "10",
+        "size": "1620159193",
+        "indexerFlags": "0",
+        "releaseType": "SingleEpisode"
+      },
+      "episode": {
+        "seriesId": 303,
+        "tvdbId": 10892446,
+        "episodeFileId": 1504216,
+        "seasonNumber": 21,
+        "episodeNumber": 22,
+        "title": "What Great Advancements!",
+        "airDate": "2025-03-24",
+        "airDateUtc": "2025-03-25T02:00:00Z",
+        "runtime": 21,
+        "finaleType": "season",
+        "overview": "An aspiring inventor leaves the Farm to make a go of it in The Big City.",
+        "hasFile": true,
+        "monitored": true,
+        "sceneAbsoluteEpisodeNumber": 391,
+        "sceneEpisodeNumber": 22,
+        "sceneSeasonNumber": 20,
+        "unverifiedSceneNumbering": false,
+        "id": 161868
+      },
+      "series": {
+        "title": "American Dad!",
+        "sortTitle": "american dad",
+        "status": "continuing",
+        "ended": false,
+        "overview": "CIA Agent Stan Smith is constantly fighting off terrorists who threaten the safety of the USA (sometimes causing more harm than good). His wife Francine is an average housewife with two kids: Hayley, an average rebellious teenager and Steve, a geek who enjoys Dungeons and Dragons, gaming and comic book conventions. Then there’s Roger, the home’s illegal (space) alien who the Smith’s are keeping protected. Last but not least, there’s Klaus, the Smiths’ wisecracking talking fish (swapped from  his human body years ago by the CIA).",
+        "network": "TBS",
+        "airTime": "22:00",
+        "images": [
+          {
+            "coverType": "banner",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/graphical/73141-g7.jpg"
+          },
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/posters/73141-10.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/fanart/original/73141-1.jpg"
+          },
+          {
+            "coverType": "clearlogo",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/73141/clearlogo/611b561aac078.png"
+          }
+        ],
+        "originalLanguage": {
+          "id": 1,
+          "name": "English"
+        },
+        "seasons": [
+          {
+            "seasonNumber": 0,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 1,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 2,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 3,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 4,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 5,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 6,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 7,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 8,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 9,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 10,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 11,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 12,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 13,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 14,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 15,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 16,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 17,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 18,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 19,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 20,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 21,
+            "monitored": true
+          }
+        ],
+        "year": 2005,
+        "path": "/tv/Cartoons/American Dad",
+        "qualityProfileId": 1,
+        "seasonFolder": true,
+        "monitored": true,
+        "monitorNewItems": "all",
+        "useSceneNumbering": true,
+        "runtime": 24,
+        "tvdbId": 73141,
+        "tvRageId": 2594,
+        "tvMazeId": 215,
+        "tmdbId": 1433,
+        "firstAired": "2005-02-06T00:00:00Z",
+        "lastAired": "2025-03-24T00:00:00Z",
+        "seriesType": "standard",
+        "cleanTitle": "americandad",
+        "imdbId": "tt0397306",
+        "titleSlug": "american-dad",
+        "certification": "TV-14",
+        "genres": [
+          "Animation",
+          "Comedy"
+        ],
+        "tags": [],
+        "added": "2020-02-09T03:09:57Z",
+        "ratings": {
+          "votes": 140134,
+          "value": 7.4
+        },
+        "languageProfileId": 1,
+        "id": 303
+      },
+      "id": 356583
+    },
+    {
+      "episodeId": 163467,
+      "seriesId": 812,
+      "sourceTitle": "NCIS.S22E15.Moonlit.1080p.AMZN.WEB-DL.DDP5.1.H.264-FLUX",
+      "languages": [
+        {
+          "id": 1,
+          "name": "English"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 3,
+          "name": "WEBDL-1080p",
+          "source": "web",
+          "resolution": 1080
+        },
+        "revision": {
+          "version": 1,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "customFormats": [
+        {
+          "id": 3,
+          "name": "english"
+        }
+      ],
+      "customFormatScore": 10,
+      "qualityCutoffNotMet": false,
+      "date": "2025-03-25T04:19:37Z",
+      "downloadId": "SABnzbd_nzo_i65ztijf",
+      "eventType": "grabbed",
+      "data": {
+        "indexer": "altHUB (Prowlarr)",
+        "nzbInfoUrl": "https://api.althub.co.za/details/28f137d9127668f2b854c00a20ac8966",
+        "releaseGroup": "FLUX",
+        "age": "0",
+        "ageHours": "0.21013557047222223",
+        "ageMinutes": "12.608134263333334",
+        "publishedDate": "2025-03-25T04:07:01Z",
+        "downloadClient": "SABnzbd",
+        "downloadClientName": "sab",
+        "size": "2747006649",
+        "downloadUrl": "http://prowlarr:9696/1/download?apikey=5f771c1869f94fec821832369384a70c&link=dDZRNTd1YThGc0tkRFRFeTY0T0lQZmhDbGlqbFNUWkNUSFpZNXdzLzQyYWM2bXZNUnZ5NGtLQVRmanB6Mkx2ZzUwNFdPUE91SjR3ZGlCYnZzWEZCOW8zQVpHdDB3L2ZCOHk0STJjcXRPdkdoaThIU0tjdlN5WUdYMTNaTFVPUDZKakFXaTBlb0dHTCtGT0tocnEzanBmSjgrZUNHNVlzdzVRdzVqdWQ1V0trPQ&file=NCIS.S22E15.Moonlit.1080p.AMZN.WEB-DL.DDP5.1.H.264-FLUX",
+        "guid": "https://api.althub.co.za/details/28f137d9127668f2b854c00a20ac8966",
+        "tvdbId": "0",
+        "tvRageId": "0",
+        "imdbId": "tt0364845",
+        "protocol": "1",
+        "customFormatScore": "10",
+        "seriesMatchType": "Title",
+        "releaseSource": "Rss",
+        "indexerFlags": "0",
+        "releaseType": "SingleEpisode"
+      },
+      "episode": {
+        "seriesId": 812,
+        "tvdbId": 10996109,
+        "episodeFileId": 1504217,
+        "seasonNumber": 22,
+        "episodeNumber": 15,
+        "title": "Moonlit",
+        "airDate": "2025-03-24",
+        "airDateUtc": "2025-03-25T01:00:00Z",
+        "runtime": 43,
+        "overview": "After a Navy Lieutenant’s death reveals ties to Special Agent Sawyer, Torres and Knight uncover a murder linked to a wealthy family. Meanwhile, Parker discovers a shocking connection between his mother’s death and Lily.",
+        "hasFile": true,
+        "monitored": true,
+        "unverifiedSceneNumbering": false,
+        "id": 163467
+      },
+      "series": {
+        "title": "NCIS",
+        "sortTitle": "ncis",
+        "status": "continuing",
+        "ended": false,
+        "overview": "Explore the inner workings of the government agency that investigates all crimes involving Navy and Marine Corps personnel, regardless of rank or position.  Leading this team is NCIS Special Agent Leroy Jethro Gibbs, a skilled investigator and interrogator who is smart, tough and willing to bend the rules to get the job done.",
+        "network": "CBS",
+        "airTime": "21:00",
+        "images": [
+          {
+            "coverType": "banner",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/graphical/72108-g12.jpg"
+          },
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/posters/72108-5.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/fanart/original/72108-4.jpg"
+          },
+          {
+            "coverType": "clearlogo",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/72108/clearlogo/611b4f6f6e088.png"
+          }
+        ],
+        "originalLanguage": {
+          "id": 1,
+          "name": "English"
+        },
+        "seasons": [
+          {
+            "seasonNumber": 0,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 1,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 2,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 3,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 4,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 5,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 6,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 7,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 8,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 9,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 10,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 11,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 12,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 13,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 14,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 15,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 16,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 17,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 18,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 19,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 20,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 21,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 22,
+            "monitored": true
+          }
+        ],
+        "year": 2003,
+        "path": "/tv/Tv Shows/NCIS",
+        "qualityProfileId": 1,
+        "seasonFolder": true,
+        "monitored": true,
+        "monitorNewItems": "all",
+        "useSceneNumbering": false,
+        "runtime": 45,
+        "tvdbId": 72108,
+        "tvRageId": 4628,
+        "tvMazeId": 60,
+        "tmdbId": 4614,
+        "firstAired": "2003-09-23T00:00:00Z",
+        "lastAired": "2025-05-05T00:00:00Z",
+        "seriesType": "standard",
+        "cleanTitle": "ncis",
+        "imdbId": "tt0364845",
+        "titleSlug": "ncis",
+        "certification": "TV-14",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Crime",
+          "Drama",
+          "Mystery",
+          "Thriller"
+        ],
+        "tags": [],
+        "added": "2020-02-09T09:32:14Z",
+        "ratings": {
+          "votes": 169922,
+          "value": 7.8
+        },
+        "languageProfileId": 1,
+        "id": 812
+      },
+      "id": 356582
+    },
+    {
+      "episodeId": 161868,
+      "seriesId": 303,
+      "sourceTitle": "American.Dad.S21E22.What.Great.Advancements.1080p.AMZN.WEB-DL.DDP5.1.H.264-FLUX",
+      "languages": [
+        {
+          "id": 1,
+          "name": "English"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 3,
+          "name": "WEBDL-1080p",
+          "source": "web",
+          "resolution": 1080
+        },
+        "revision": {
+          "version": 1,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "customFormats": [
+        {
+          "id": 3,
+          "name": "english"
+        }
+      ],
+      "customFormatScore": 10,
+      "qualityCutoffNotMet": false,
+      "date": "2025-03-25T04:19:35Z",
+      "downloadId": "SABnzbd_nzo_h13juplx",
+      "eventType": "grabbed",
+      "data": {
+        "indexer": "altHUB (Prowlarr)",
+        "nzbInfoUrl": "https://api.althub.co.za/details/07309fe69cf2d2aa414672249bb9e009",
+        "releaseGroup": "FLUX",
+        "age": "0",
+        "ageHours": "0.20333043719444444",
+        "ageMinutes": "12.199826268333334",
+        "publishedDate": "2025-03-25T04:07:24Z",
+        "downloadClient": "SABnzbd",
+        "downloadClientName": "sab",
+        "size": "1740827587",
+        "downloadUrl": "http://prowlarr:9696/1/download?apikey=5f771c1869f94fec821832369384a70c&link=MkpNcVJYVTY5b283OXUxYmpsZU9PYzhCQkNnTURON2NBS25ldlBSMkhaRVo5Qk83WkpPeVVucERscHhmM2VEenV6cGhzRGd0SVpXU3Bkb3laL05VVENseUlISWtLeTJGaEpjbWVHRUNobW84N0ZxelRoajhaZFRqMHV5RGJ4NllEZERnc1lJSm5jUHlSbFZmcXdxZEhGYVQ1NFlvTDlTQU1IK2I0aDcreGdnPQ&file=American.Dad.S21E22.What.Great.Advancements.1080p.AMZN.WEB-DL.DDP5.1.H.264-FLUX",
+        "guid": "https://api.althub.co.za/details/07309fe69cf2d2aa414672249bb9e009",
+        "tvdbId": "0",
+        "tvRageId": "0",
+        "imdbId": "tt0397306",
+        "protocol": "1",
+        "customFormatScore": "10",
+        "seriesMatchType": "Alias",
+        "releaseSource": "Rss",
+        "indexerFlags": "0",
+        "releaseType": "SingleEpisode"
+      },
+      "episode": {
+        "seriesId": 303,
+        "tvdbId": 10892446,
+        "episodeFileId": 1504216,
+        "seasonNumber": 21,
+        "episodeNumber": 22,
+        "title": "What Great Advancements!",
+        "airDate": "2025-03-24",
+        "airDateUtc": "2025-03-25T02:00:00Z",
+        "runtime": 21,
+        "finaleType": "season",
+        "overview": "An aspiring inventor leaves the Farm to make a go of it in The Big City.",
+        "hasFile": true,
+        "monitored": true,
+        "sceneAbsoluteEpisodeNumber": 391,
+        "sceneEpisodeNumber": 22,
+        "sceneSeasonNumber": 20,
+        "unverifiedSceneNumbering": false,
+        "id": 161868
+      },
+      "series": {
+        "title": "American Dad!",
+        "sortTitle": "american dad",
+        "status": "continuing",
+        "ended": false,
+        "overview": "CIA Agent Stan Smith is constantly fighting off terrorists who threaten the safety of the USA (sometimes causing more harm than good). His wife Francine is an average housewife with two kids: Hayley, an average rebellious teenager and Steve, a geek who enjoys Dungeons and Dragons, gaming and comic book conventions. Then there’s Roger, the home’s illegal (space) alien who the Smith’s are keeping protected. Last but not least, there’s Klaus, the Smiths’ wisecracking talking fish (swapped from  his human body years ago by the CIA).",
+        "network": "TBS",
+        "airTime": "22:00",
+        "images": [
+          {
+            "coverType": "banner",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/graphical/73141-g7.jpg"
+          },
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/posters/73141-10.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/fanart/original/73141-1.jpg"
+          },
+          {
+            "coverType": "clearlogo",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/73141/clearlogo/611b561aac078.png"
+          }
+        ],
+        "originalLanguage": {
+          "id": 1,
+          "name": "English"
+        },
+        "seasons": [
+          {
+            "seasonNumber": 0,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 1,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 2,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 3,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 4,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 5,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 6,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 7,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 8,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 9,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 10,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 11,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 12,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 13,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 14,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 15,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 16,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 17,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 18,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 19,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 20,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 21,
+            "monitored": true
+          }
+        ],
+        "year": 2005,
+        "path": "/tv/Cartoons/American Dad",
+        "qualityProfileId": 1,
+        "seasonFolder": true,
+        "monitored": true,
+        "monitorNewItems": "all",
+        "useSceneNumbering": true,
+        "runtime": 24,
+        "tvdbId": 73141,
+        "tvRageId": 2594,
+        "tvMazeId": 215,
+        "tmdbId": 1433,
+        "firstAired": "2005-02-06T00:00:00Z",
+        "lastAired": "2025-03-24T00:00:00Z",
+        "seriesType": "standard",
+        "cleanTitle": "americandad",
+        "imdbId": "tt0397306",
+        "titleSlug": "american-dad",
+        "certification": "TV-14",
+        "genres": [
+          "Animation",
+          "Comedy"
+        ],
+        "tags": [],
+        "added": "2020-02-09T03:09:57Z",
+        "ratings": {
+          "votes": 140134,
+          "value": 7.4
+        },
+        "languageProfileId": 1,
+        "id": 303
+      },
+      "id": 356581
+    },
+    {
+      "episodeId": 163174,
+      "seriesId": 1348,
+      "sourceTitle": "The.Neighborhood.S07E14.1080p.WEB.H264-SuccessfulCrab",
+      "languages": [
+        {
+          "id": 1,
+          "name": "English"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 3,
+          "name": "WEBDL-1080p",
+          "source": "web",
+          "resolution": 1080
+        },
+        "revision": {
+          "version": 1,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "customFormats": [
+        {
+          "id": 3,
+          "name": "english"
+        }
+      ],
+      "customFormatScore": 10,
+      "qualityCutoffNotMet": false,
+      "date": "2025-03-25T03:50:01Z",
+      "downloadId": "SABnzbd_nzo_654qnwj2",
+      "eventType": "downloadFolderImported",
+      "data": {
+        "fileId": "1504215",
+        "droppedPath": "/downloads/The.Neighborhood.S07E14.1080p.WEB.H264-SuccessfulCrab/the.neighborhood.s07e14.1080p.web.h264-successfulcrab.mkv",
+        "importedPath": "/tv/Tv Shows/The Neighborhood/Season 7/The.Neighborhood.S07E14.Welcome.to.the.Blowout.mkv",
+        "downloadClient": "SABnzbd",
+        "downloadClientName": "sab",
+        "releaseGroup": "SuccessfulCrab",
+        "customFormatScore": "10",
+        "size": "1649931447",
+        "indexerFlags": "0",
+        "releaseType": "SingleEpisode"
+      },
+      "episode": {
+        "seriesId": 1348,
+        "tvdbId": 10978101,
+        "episodeFileId": 1504215,
+        "seasonNumber": 7,
+        "episodeNumber": 14,
+        "title": "Welcome to the Blowout",
+        "airDate": "2025-03-24",
+        "airDateUtc": "2025-03-25T00:00:00Z",
+        "runtime": 0,
+        "overview": "Calvin spends a day babysitting Daphne. Also, Gemma and Dave worry about Grover’s high school applications.",
+        "hasFile": true,
+        "monitored": true,
+        "unverifiedSceneNumbering": false,
+        "id": 163174
+      },
+      "series": {
+        "title": "The Neighborhood",
+        "sortTitle": "neighborhood",
+        "status": "continuing",
+        "ended": false,
+        "overview": "The nicest guy in the Midwest moves his family into a tough neighborhood in Los Angeles where not everyone appreciates his extreme neighborliness. That includes their new next-door neighbor Calvin.",
+        "network": "CBS",
+        "airTime": "20:00",
+        "images": [
+          {
+            "coverType": "banner",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/graphical/5baac212a3c01.jpg"
+          },
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/348851/posters/6710111ac1e42.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/fanart/original/5bc77973c53ab.jpg"
+          },
+          {
+            "coverType": "clearlogo",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/348851/clearlogo/611c738c9bc14.png"
+          }
+        ],
+        "originalLanguage": {
+          "id": 1,
+          "name": "English"
+        },
+        "seasons": [
+          {
+            "seasonNumber": 1,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 2,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 3,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 4,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 5,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 6,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 7,
+            "monitored": true
+          }
+        ],
+        "year": 2018,
+        "path": "/tv/Tv Shows/The Neighborhood",
+        "qualityProfileId": 1,
+        "seasonFolder": true,
+        "monitored": true,
+        "monitorNewItems": "all",
+        "useSceneNumbering": false,
+        "runtime": 22,
+        "tvdbId": 348851,
+        "tvRageId": 0,
+        "tvMazeId": 35839,
+        "tmdbId": 81144,
+        "firstAired": "2018-10-01T00:00:00Z",
+        "lastAired": "2025-05-05T00:00:00Z",
+        "seriesType": "standard",
+        "cleanTitle": "theneighborhood",
+        "imdbId": "tt7942794",
+        "titleSlug": "the-neighborhood",
+        "certification": "TV-PG",
+        "genres": [
+          "Comedy"
+        ],
+        "tags": [],
+        "added": "2022-01-03T14:44:14Z",
+        "ratings": {
+          "votes": 11370,
+          "value": 6.7
+        },
+        "languageProfileId": 1,
+        "id": 1348
+      },
+      "id": 356580
+    },
+    {
+      "episodeId": 163174,
+      "seriesId": 1348,
+      "sourceTitle": "/tv/Tv Shows/The Neighborhood/Season 7/The.Neighborhood.S07E14.Welcome.to.the.Blowout.mkv",
+      "languages": [
+        {
+          "id": 1,
+          "name": "English"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 4,
+          "name": "HDTV-720p",
+          "source": "television",
+          "resolution": 720
+        },
+        "revision": {
+          "version": 1,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "customFormats": [
+        {
+          "id": 3,
+          "name": "english"
+        }
+      ],
+      "customFormatScore": 10,
+      "qualityCutoffNotMet": true,
+      "date": "2025-03-25T03:50:00Z",
+      "eventType": "episodeFileDeleted",
+      "data": {
+        "reason": "Upgrade",
+        "releaseGroup": "MeGusta",
+        "size": "178742185",
+        "indexerFlags": "0",
+        "releaseType": "SingleEpisode"
+      },
+      "episode": {
+        "seriesId": 1348,
+        "tvdbId": 10978101,
+        "episodeFileId": 1504215,
+        "seasonNumber": 7,
+        "episodeNumber": 14,
+        "title": "Welcome to the Blowout",
+        "airDate": "2025-03-24",
+        "airDateUtc": "2025-03-25T00:00:00Z",
+        "runtime": 0,
+        "overview": "Calvin spends a day babysitting Daphne. Also, Gemma and Dave worry about Grover’s high school applications.",
+        "hasFile": true,
+        "monitored": true,
+        "unverifiedSceneNumbering": false,
+        "id": 163174
+      },
+      "series": {
+        "title": "The Neighborhood",
+        "sortTitle": "neighborhood",
+        "status": "continuing",
+        "ended": false,
+        "overview": "The nicest guy in the Midwest moves his family into a tough neighborhood in Los Angeles where not everyone appreciates his extreme neighborliness. That includes their new next-door neighbor Calvin.",
+        "network": "CBS",
+        "airTime": "20:00",
+        "images": [
+          {
+            "coverType": "banner",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/graphical/5baac212a3c01.jpg"
+          },
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/348851/posters/6710111ac1e42.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/fanart/original/5bc77973c53ab.jpg"
+          },
+          {
+            "coverType": "clearlogo",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/348851/clearlogo/611c738c9bc14.png"
+          }
+        ],
+        "originalLanguage": {
+          "id": 1,
+          "name": "English"
+        },
+        "seasons": [
+          {
+            "seasonNumber": 1,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 2,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 3,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 4,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 5,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 6,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 7,
+            "monitored": true
+          }
+        ],
+        "year": 2018,
+        "path": "/tv/Tv Shows/The Neighborhood",
+        "qualityProfileId": 1,
+        "seasonFolder": true,
+        "monitored": true,
+        "monitorNewItems": "all",
+        "useSceneNumbering": false,
+        "runtime": 22,
+        "tvdbId": 348851,
+        "tvRageId": 0,
+        "tvMazeId": 35839,
+        "tmdbId": 81144,
+        "firstAired": "2018-10-01T00:00:00Z",
+        "lastAired": "2025-05-05T00:00:00Z",
+        "seriesType": "standard",
+        "cleanTitle": "theneighborhood",
+        "imdbId": "tt7942794",
+        "titleSlug": "the-neighborhood",
+        "certification": "TV-PG",
+        "genres": [
+          "Comedy"
+        ],
+        "tags": [],
+        "added": "2022-01-03T14:44:14Z",
+        "ratings": {
+          "votes": 11370,
+          "value": 6.7
+        },
+        "languageProfileId": 1,
+        "id": 1348
+      },
+      "id": 356579
+    },
+    {
+      "episodeId": 163174,
+      "seriesId": 1348,
+      "sourceTitle": "The.Neighborhood.S07E14.1080p.WEB.H264-SuccessfulCrab",
+      "languages": [
+        {
+          "id": 1,
+          "name": "English"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 3,
+          "name": "WEBDL-1080p",
+          "source": "web",
+          "resolution": 1080
+        },
+        "revision": {
+          "version": 1,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "customFormats": [
+        {
+          "id": 3,
+          "name": "english"
+        }
+      ],
+      "customFormatScore": 10,
+      "qualityCutoffNotMet": false,
+      "date": "2025-03-25T03:48:39Z",
+      "downloadId": "SABnzbd_nzo_654qnwj2",
+      "eventType": "grabbed",
+      "data": {
+        "indexer": "altHUB (Prowlarr)",
+        "nzbInfoUrl": "https://api.althub.co.za/details/9060b0e7ac4e5eef10762f0c51348c6c",
+        "releaseGroup": "SuccessfulCrab",
+        "age": "0",
+        "ageHours": "0.16539596422222222",
+        "ageMinutes": "9.923757888333334",
+        "publishedDate": "2025-03-25T03:38:44Z",
+        "downloadClient": "SABnzbd",
+        "downloadClientName": "sab",
+        "size": "1856694414",
+        "downloadUrl": "http://prowlarr:9696/1/download?apikey=5f771c1869f94fec821832369384a70c&link=UHdTSTg3dEd0RFNsazhGdFJGSTZDN0sreUp6KzR6Vmx4TzV2R2h0b25qMWNnY3hPTGYxdWhvNDBkRUlpRWJJdjlaYkJ4TklibHlVNnRXa3NLSWYxTjUyVURnSGZiaXpQWGlrckwyL3ZGMmJzU0Y4OWZEVmwxV0ZBT24vUUFtMmVPMDFMQjAxYU5icGdtZUxCNzZpMjBrU2hQTjFTc29HdE9yNkh3M01FaW5jPQ&file=The.Neighborhood.S07E14.1080p.WEB.H264-SuccessfulCrab",
+        "guid": "https://api.althub.co.za/details/9060b0e7ac4e5eef10762f0c51348c6c",
+        "tvdbId": "0",
+        "tvRageId": "0",
+        "imdbId": null,
+        "protocol": "1",
+        "customFormatScore": "10",
+        "seriesMatchType": "Title",
+        "releaseSource": "Rss",
+        "indexerFlags": "0",
+        "releaseType": "SingleEpisode"
+      },
+      "episode": {
+        "seriesId": 1348,
+        "tvdbId": 10978101,
+        "episodeFileId": 1504215,
+        "seasonNumber": 7,
+        "episodeNumber": 14,
+        "title": "Welcome to the Blowout",
+        "airDate": "2025-03-24",
+        "airDateUtc": "2025-03-25T00:00:00Z",
+        "runtime": 0,
+        "overview": "Calvin spends a day babysitting Daphne. Also, Gemma and Dave worry about Grover’s high school applications.",
+        "hasFile": true,
+        "monitored": true,
+        "unverifiedSceneNumbering": false,
+        "id": 163174
+      },
+      "series": {
+        "title": "The Neighborhood",
+        "sortTitle": "neighborhood",
+        "status": "continuing",
+        "ended": false,
+        "overview": "The nicest guy in the Midwest moves his family into a tough neighborhood in Los Angeles where not everyone appreciates his extreme neighborliness. That includes their new next-door neighbor Calvin.",
+        "network": "CBS",
+        "airTime": "20:00",
+        "images": [
+          {
+            "coverType": "banner",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/graphical/5baac212a3c01.jpg"
+          },
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/348851/posters/6710111ac1e42.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/fanart/original/5bc77973c53ab.jpg"
+          },
+          {
+            "coverType": "clearlogo",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/348851/clearlogo/611c738c9bc14.png"
+          }
+        ],
+        "originalLanguage": {
+          "id": 1,
+          "name": "English"
+        },
+        "seasons": [
+          {
+            "seasonNumber": 1,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 2,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 3,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 4,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 5,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 6,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 7,
+            "monitored": true
+          }
+        ],
+        "year": 2018,
+        "path": "/tv/Tv Shows/The Neighborhood",
+        "qualityProfileId": 1,
+        "seasonFolder": true,
+        "monitored": true,
+        "monitorNewItems": "all",
+        "useSceneNumbering": false,
+        "runtime": 22,
+        "tvdbId": 348851,
+        "tvRageId": 0,
+        "tvMazeId": 35839,
+        "tmdbId": 81144,
+        "firstAired": "2018-10-01T00:00:00Z",
+        "lastAired": "2025-05-05T00:00:00Z",
+        "seriesType": "standard",
+        "cleanTitle": "theneighborhood",
+        "imdbId": "tt7942794",
+        "titleSlug": "the-neighborhood",
+        "certification": "TV-PG",
+        "genres": [
+          "Comedy"
+        ],
+        "tags": [],
+        "added": "2022-01-03T14:44:14Z",
+        "ratings": {
+          "votes": 11370,
+          "value": 6.7
+        },
+        "languageProfileId": 1,
+        "id": 1348
+      },
+      "id": 356578
+    },
+    {
+      "episodeId": 163467,
+      "seriesId": 812,
+      "sourceTitle": "NCIS.S22E15.720p.HDTV.x264-SYNCOPY",
+      "languages": [
+        {
+          "id": 1,
+          "name": "English"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 4,
+          "name": "HDTV-720p",
+          "source": "television",
+          "resolution": 720
+        },
+        "revision": {
+          "version": 1,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "customFormats": [
+        {
+          "id": 3,
+          "name": "english"
+        }
+      ],
+      "customFormatScore": 10,
+      "qualityCutoffNotMet": true,
+      "date": "2025-03-25T02:17:00Z",
+      "downloadId": "SABnzbd_nzo_tmrw_46k",
+      "eventType": "downloadFolderImported",
+      "data": {
+        "fileId": "1504214",
+        "droppedPath": "/downloads/NCIS.S22E15.720p.HDTV.x264-SYNCOPY/NCIS.S22E15.720p.HDTV.x264-SYNCOPY.mkv",
+        "importedPath": "/tv/Tv Shows/NCIS/Season 22/NCIS.S22E15.Moonlit.mkv",
+        "downloadClient": "SABnzbd",
+        "downloadClientName": "sab",
+        "releaseGroup": "SYNCOPY",
+        "customFormatScore": "10",
+        "size": "942885984",
+        "indexerFlags": "0",
+        "releaseType": "SingleEpisode"
+      },
+      "episode": {
+        "seriesId": 812,
+        "tvdbId": 10996109,
+        "episodeFileId": 1504217,
+        "seasonNumber": 22,
+        "episodeNumber": 15,
+        "title": "Moonlit",
+        "airDate": "2025-03-24",
+        "airDateUtc": "2025-03-25T01:00:00Z",
+        "runtime": 43,
+        "overview": "After a Navy Lieutenant’s death reveals ties to Special Agent Sawyer, Torres and Knight uncover a murder linked to a wealthy family. Meanwhile, Parker discovers a shocking connection between his mother’s death and Lily.",
+        "hasFile": true,
+        "monitored": true,
+        "unverifiedSceneNumbering": false,
+        "id": 163467
+      },
+      "series": {
+        "title": "NCIS",
+        "sortTitle": "ncis",
+        "status": "continuing",
+        "ended": false,
+        "overview": "Explore the inner workings of the government agency that investigates all crimes involving Navy and Marine Corps personnel, regardless of rank or position.  Leading this team is NCIS Special Agent Leroy Jethro Gibbs, a skilled investigator and interrogator who is smart, tough and willing to bend the rules to get the job done.",
+        "network": "CBS",
+        "airTime": "21:00",
+        "images": [
+          {
+            "coverType": "banner",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/graphical/72108-g12.jpg"
+          },
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/posters/72108-5.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/fanart/original/72108-4.jpg"
+          },
+          {
+            "coverType": "clearlogo",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/72108/clearlogo/611b4f6f6e088.png"
+          }
+        ],
+        "originalLanguage": {
+          "id": 1,
+          "name": "English"
+        },
+        "seasons": [
+          {
+            "seasonNumber": 0,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 1,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 2,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 3,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 4,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 5,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 6,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 7,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 8,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 9,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 10,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 11,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 12,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 13,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 14,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 15,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 16,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 17,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 18,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 19,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 20,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 21,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 22,
+            "monitored": true
+          }
+        ],
+        "year": 2003,
+        "path": "/tv/Tv Shows/NCIS",
+        "qualityProfileId": 1,
+        "seasonFolder": true,
+        "monitored": true,
+        "monitorNewItems": "all",
+        "useSceneNumbering": false,
+        "runtime": 45,
+        "tvdbId": 72108,
+        "tvRageId": 4628,
+        "tvMazeId": 60,
+        "tmdbId": 4614,
+        "firstAired": "2003-09-23T00:00:00Z",
+        "lastAired": "2025-05-05T00:00:00Z",
+        "seriesType": "standard",
+        "cleanTitle": "ncis",
+        "imdbId": "tt0364845",
+        "titleSlug": "ncis",
+        "certification": "TV-14",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Crime",
+          "Drama",
+          "Mystery",
+          "Thriller"
+        ],
+        "tags": [],
+        "added": "2020-02-09T09:32:14Z",
+        "ratings": {
+          "votes": 169922,
+          "value": 7.8
+        },
+        "languageProfileId": 1,
+        "id": 812
+      },
+      "id": 356577
+    },
+    {
+      "episodeId": 163467,
+      "seriesId": 812,
+      "sourceTitle": "NCIS.S22E15.720p.HDTV.x264-SYNCOPY",
+      "languages": [
+        {
+          "id": 1,
+          "name": "English"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 4,
+          "name": "HDTV-720p",
+          "source": "television",
+          "resolution": 720
+        },
+        "revision": {
+          "version": 1,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "customFormats": [
+        {
+          "id": 3,
+          "name": "english"
+        }
+      ],
+      "customFormatScore": 10,
+      "qualityCutoffNotMet": true,
+      "date": "2025-03-25T02:15:34Z",
+      "downloadId": "SABnzbd_nzo_tmrw_46k",
+      "eventType": "grabbed",
+      "data": {
+        "indexer": "altHUB (Prowlarr)",
+        "nzbInfoUrl": "https://api.althub.co.za/details/a93936e28247992eee6c0c353cb01bd3",
+        "releaseGroup": "SYNCOPY",
+        "age": "0",
+        "ageHours": "0.16248290783333333",
+        "ageMinutes": "9.74897451",
+        "publishedDate": "2025-03-25T02:05:50Z",
+        "downloadClient": "SABnzbd",
+        "downloadClientName": "sab",
+        "size": "1036249685",
+        "downloadUrl": "http://prowlarr:9696/1/download?apikey=5f771c1869f94fec821832369384a70c&link=aC9GZDNGVDdWeG0xemd5TGdQZm1QSGIrVzN3cnMrNzZHaHFwK20rRVYvZWI0TW9kRDBGYnFDd3NEMWVGSHFuN0RsSUhsSkttY2RvMVJmZVJYcEJ0L2prSnA2ay8xeVR2ZTdqWURDVnJEUU54VjBOYnlHNHNMMVp6dXp5Y29lbFEzZ3FMd2pmRnNMK0cvc3pNalVCWXhTTm1tdG50MDdVUGlDT3JaWFBJeHZ3PQ&file=NCIS.S22E15.720p.HDTV.x264-SYNCOPY",
+        "guid": "https://api.althub.co.za/details/a93936e28247992eee6c0c353cb01bd3",
+        "tvdbId": "0",
+        "tvRageId": "0",
+        "imdbId": "tt0364845",
+        "protocol": "1",
+        "customFormatScore": "10",
+        "seriesMatchType": "Title",
+        "releaseSource": "Rss",
+        "indexerFlags": "0",
+        "releaseType": "SingleEpisode"
+      },
+      "episode": {
+        "seriesId": 812,
+        "tvdbId": 10996109,
+        "episodeFileId": 1504217,
+        "seasonNumber": 22,
+        "episodeNumber": 15,
+        "title": "Moonlit",
+        "airDate": "2025-03-24",
+        "airDateUtc": "2025-03-25T01:00:00Z",
+        "runtime": 43,
+        "overview": "After a Navy Lieutenant’s death reveals ties to Special Agent Sawyer, Torres and Knight uncover a murder linked to a wealthy family. Meanwhile, Parker discovers a shocking connection between his mother’s death and Lily.",
+        "hasFile": true,
+        "monitored": true,
+        "unverifiedSceneNumbering": false,
+        "id": 163467
+      },
+      "series": {
+        "title": "NCIS",
+        "sortTitle": "ncis",
+        "status": "continuing",
+        "ended": false,
+        "overview": "Explore the inner workings of the government agency that investigates all crimes involving Navy and Marine Corps personnel, regardless of rank or position.  Leading this team is NCIS Special Agent Leroy Jethro Gibbs, a skilled investigator and interrogator who is smart, tough and willing to bend the rules to get the job done.",
+        "network": "CBS",
+        "airTime": "21:00",
+        "images": [
+          {
+            "coverType": "banner",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/graphical/72108-g12.jpg"
+          },
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/posters/72108-5.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/fanart/original/72108-4.jpg"
+          },
+          {
+            "coverType": "clearlogo",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/72108/clearlogo/611b4f6f6e088.png"
+          }
+        ],
+        "originalLanguage": {
+          "id": 1,
+          "name": "English"
+        },
+        "seasons": [
+          {
+            "seasonNumber": 0,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 1,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 2,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 3,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 4,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 5,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 6,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 7,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 8,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 9,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 10,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 11,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 12,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 13,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 14,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 15,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 16,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 17,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 18,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 19,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 20,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 21,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 22,
+            "monitored": true
+          }
+        ],
+        "year": 2003,
+        "path": "/tv/Tv Shows/NCIS",
+        "qualityProfileId": 1,
+        "seasonFolder": true,
+        "monitored": true,
+        "monitorNewItems": "all",
+        "useSceneNumbering": false,
+        "runtime": 45,
+        "tvdbId": 72108,
+        "tvRageId": 4628,
+        "tvMazeId": 60,
+        "tmdbId": 4614,
+        "firstAired": "2003-09-23T00:00:00Z",
+        "lastAired": "2025-05-05T00:00:00Z",
+        "seriesType": "standard",
+        "cleanTitle": "ncis",
+        "imdbId": "tt0364845",
+        "titleSlug": "ncis",
+        "certification": "TV-14",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Crime",
+          "Drama",
+          "Mystery",
+          "Thriller"
+        ],
+        "tags": [],
+        "added": "2020-02-09T09:32:14Z",
+        "ratings": {
+          "votes": 169922,
+          "value": 7.8
+        },
+        "languageProfileId": 1,
+        "id": 812
+      },
+      "id": 356576
+    },
+    {
+      "episodeId": 163174,
+      "seriesId": 1348,
+      "sourceTitle": "The.Neighborhood.S07E14.720p.HEVC.x265-MeGusta",
+      "languages": [
+        {
+          "id": 1,
+          "name": "English"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 4,
+          "name": "HDTV-720p",
+          "source": "television",
+          "resolution": 720
+        },
+        "revision": {
+          "version": 1,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "customFormats": [
+        {
+          "id": 3,
+          "name": "english"
+        },
+        {
+          "id": 1,
+          "name": "english 265"
+        }
+      ],
+      "customFormatScore": 30,
+      "qualityCutoffNotMet": true,
+      "date": "2025-03-25T00:43:00Z",
+      "downloadId": "SABnzbd_nzo_mwb3ht7h",
+      "eventType": "downloadFolderImported",
+      "data": {
+        "fileId": "1504213",
+        "droppedPath": "/downloads/The.Neighborhood.S07E14.720p.HEVC.x265-MeGusta/The.Neighborhood.S07E14.720p.HEVC.x265-MeGusta.mkv",
+        "importedPath": "/tv/Tv Shows/The Neighborhood/Season 7/The.Neighborhood.S07E14.Welcome.to.the.Blowout.mkv",
+        "downloadClient": "SABnzbd",
+        "downloadClientName": "sab",
+        "releaseGroup": "MeGusta",
+        "customFormatScore": "30",
+        "size": "178742185",
+        "indexerFlags": "0",
+        "releaseType": "SingleEpisode"
+      },
+      "episode": {
+        "seriesId": 1348,
+        "tvdbId": 10978101,
+        "episodeFileId": 1504215,
+        "seasonNumber": 7,
+        "episodeNumber": 14,
+        "title": "Welcome to the Blowout",
+        "airDate": "2025-03-24",
+        "airDateUtc": "2025-03-25T00:00:00Z",
+        "runtime": 0,
+        "overview": "Calvin spends a day babysitting Daphne. Also, Gemma and Dave worry about Grover’s high school applications.",
+        "hasFile": true,
+        "monitored": true,
+        "unverifiedSceneNumbering": false,
+        "id": 163174
+      },
+      "series": {
+        "title": "The Neighborhood",
+        "sortTitle": "neighborhood",
+        "status": "continuing",
+        "ended": false,
+        "overview": "The nicest guy in the Midwest moves his family into a tough neighborhood in Los Angeles where not everyone appreciates his extreme neighborliness. That includes their new next-door neighbor Calvin.",
+        "network": "CBS",
+        "airTime": "20:00",
+        "images": [
+          {
+            "coverType": "banner",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/graphical/5baac212a3c01.jpg"
+          },
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/348851/posters/6710111ac1e42.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/fanart/original/5bc77973c53ab.jpg"
+          },
+          {
+            "coverType": "clearlogo",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/348851/clearlogo/611c738c9bc14.png"
+          }
+        ],
+        "originalLanguage": {
+          "id": 1,
+          "name": "English"
+        },
+        "seasons": [
+          {
+            "seasonNumber": 1,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 2,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 3,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 4,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 5,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 6,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 7,
+            "monitored": true
+          }
+        ],
+        "year": 2018,
+        "path": "/tv/Tv Shows/The Neighborhood",
+        "qualityProfileId": 1,
+        "seasonFolder": true,
+        "monitored": true,
+        "monitorNewItems": "all",
+        "useSceneNumbering": false,
+        "runtime": 22,
+        "tvdbId": 348851,
+        "tvRageId": 0,
+        "tvMazeId": 35839,
+        "tmdbId": 81144,
+        "firstAired": "2018-10-01T00:00:00Z",
+        "lastAired": "2025-05-05T00:00:00Z",
+        "seriesType": "standard",
+        "cleanTitle": "theneighborhood",
+        "imdbId": "tt7942794",
+        "titleSlug": "the-neighborhood",
+        "certification": "TV-PG",
+        "genres": [
+          "Comedy"
+        ],
+        "tags": [],
+        "added": "2022-01-03T14:44:14Z",
+        "ratings": {
+          "votes": 11370,
+          "value": 6.7
+        },
+        "languageProfileId": 1,
+        "id": 1348
+      },
+      "id": 356575
+    },
+    {
+      "episodeId": 163174,
+      "seriesId": 1348,
+      "sourceTitle": "The.Neighborhood.S07E14.720p.HEVC.x265-MeGusta",
+      "languages": [
+        {
+          "id": 1,
+          "name": "English"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 4,
+          "name": "HDTV-720p",
+          "source": "television",
+          "resolution": 720
+        },
+        "revision": {
+          "version": 1,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "customFormats": [
+        {
+          "id": 3,
+          "name": "english"
+        },
+        {
+          "id": 1,
+          "name": "english 265"
+        }
+      ],
+      "customFormatScore": 30,
+      "qualityCutoffNotMet": true,
+      "date": "2025-03-25T00:42:03Z",
+      "downloadId": "SABnzbd_nzo_mwb3ht7h",
+      "eventType": "grabbed",
+      "data": {
+        "indexer": "altHUB (Prowlarr)",
+        "nzbInfoUrl": "https://api.althub.co.za/details/8f46d58ffce813e1eedd3d79514eb51d",
+        "releaseGroup": "MeGusta",
+        "age": "0",
+        "ageHours": "0.08495591527777778",
+        "ageMinutes": "5.0973549516666665",
+        "publishedDate": "2025-03-25T00:36:58Z",
+        "downloadClient": "SABnzbd",
+        "downloadClientName": "sab",
+        "size": "218386543",
+        "downloadUrl": "http://prowlarr:9696/1/download?apikey=5f771c1869f94fec821832369384a70c&link=OEtBUVNaUVpUSHYrUHd1NGxGRlkwYnpEYWptV0JURjRlN3B1b3dzRkxyZ2RUVjRUMTFPVTVGdjQyR0V2NFVaZ2R1dEFEcXZkN2NPTFJCREVHMngza1lrQVZmS0UxcU5odG5HdmNydmQvRjdqWXZaV1lzN0ZQSzVkbnkvaEF6K2lVT1ZLcm5mOVhISmVxTlkwYnpWT2ZMQTlDekwyOXJWc2JaR0JrZmY3NHBFPQ&file=The.Neighborhood.S07E14.720p.HEVC.x265-MeGusta",
+        "guid": "https://api.althub.co.za/details/8f46d58ffce813e1eedd3d79514eb51d",
+        "tvdbId": "0",
+        "tvRageId": "0",
+        "imdbId": null,
+        "protocol": "1",
+        "customFormatScore": "30",
+        "seriesMatchType": "Title",
+        "releaseSource": "Rss",
+        "indexerFlags": "0",
+        "releaseType": "SingleEpisode"
+      },
+      "episode": {
+        "seriesId": 1348,
+        "tvdbId": 10978101,
+        "episodeFileId": 1504215,
+        "seasonNumber": 7,
+        "episodeNumber": 14,
+        "title": "Welcome to the Blowout",
+        "airDate": "2025-03-24",
+        "airDateUtc": "2025-03-25T00:00:00Z",
+        "runtime": 0,
+        "overview": "Calvin spends a day babysitting Daphne. Also, Gemma and Dave worry about Grover’s high school applications.",
+        "hasFile": true,
+        "monitored": true,
+        "unverifiedSceneNumbering": false,
+        "id": 163174
+      },
+      "series": {
+        "title": "The Neighborhood",
+        "sortTitle": "neighborhood",
+        "status": "continuing",
+        "ended": false,
+        "overview": "The nicest guy in the Midwest moves his family into a tough neighborhood in Los Angeles where not everyone appreciates his extreme neighborliness. That includes their new next-door neighbor Calvin.",
+        "network": "CBS",
+        "airTime": "20:00",
+        "images": [
+          {
+            "coverType": "banner",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/graphical/5baac212a3c01.jpg"
+          },
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/348851/posters/6710111ac1e42.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/fanart/original/5bc77973c53ab.jpg"
+          },
+          {
+            "coverType": "clearlogo",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/348851/clearlogo/611c738c9bc14.png"
+          }
+        ],
+        "originalLanguage": {
+          "id": 1,
+          "name": "English"
+        },
+        "seasons": [
+          {
+            "seasonNumber": 1,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 2,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 3,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 4,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 5,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 6,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 7,
+            "monitored": true
+          }
+        ],
+        "year": 2018,
+        "path": "/tv/Tv Shows/The Neighborhood",
+        "qualityProfileId": 1,
+        "seasonFolder": true,
+        "monitored": true,
+        "monitorNewItems": "all",
+        "useSceneNumbering": false,
+        "runtime": 22,
+        "tvdbId": 348851,
+        "tvRageId": 0,
+        "tvMazeId": 35839,
+        "tmdbId": 81144,
+        "firstAired": "2018-10-01T00:00:00Z",
+        "lastAired": "2025-05-05T00:00:00Z",
+        "seriesType": "standard",
+        "cleanTitle": "theneighborhood",
+        "imdbId": "tt7942794",
+        "titleSlug": "the-neighborhood",
+        "certification": "TV-PG",
+        "genres": [
+          "Comedy"
+        ],
+        "tags": [],
+        "added": "2022-01-03T14:44:14Z",
+        "ratings": {
+          "votes": 11370,
+          "value": 6.7
+        },
+        "languageProfileId": 1,
+        "id": 1348
+      },
+      "id": 356574
+    },
+    {
+      "episodeId": 164126,
+      "seriesId": 666,
+      "sourceTitle": "Great.British.Menu.S20E25.The.Finals.Starters.720p.iP.WEB-DL.AAC2.0.HFR.H.264-RAWR",
+      "languages": [
+        {
+          "id": 1,
+          "name": "English"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 5,
+          "name": "WEBDL-720p",
+          "source": "web",
+          "resolution": 720
+        },
+        "revision": {
+          "version": 1,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "customFormats": [
+        {
+          "id": 3,
+          "name": "english"
+        }
+      ],
+      "customFormatScore": 10,
+      "qualityCutoffNotMet": false,
+      "date": "2025-03-24T22:39:02Z",
+      "downloadId": "SABnzbd_nzo_4zfnloo9",
+      "eventType": "downloadFolderImported",
+      "data": {
+        "fileId": "1504212",
+        "droppedPath": "/downloads/Great.British.Menu.S20E25.The.Finals.Starters.720p.iP.WEB-DL.AAC2.0.HFR.H.264-RAWR/4b6cef2d9c4449509997f4821c6a96c9.mkv",
+        "importedPath": "/tv/Documentaires/tv shows/Great British Menu/Season 20/Great.British.Menu.S20E25.The.Finals-.Starters.mkv",
+        "downloadClient": "SABnzbd",
+        "downloadClientName": "sab",
+        "releaseGroup": "RAWR",
+        "customFormatScore": "10",
+        "size": "2305271769",
+        "indexerFlags": "0",
+        "releaseType": "SingleEpisode"
+      },
+      "episode": {
+        "seriesId": 666,
+        "tvdbId": 11028546,
+        "episodeFileId": 1504212,
+        "seasonNumber": 20,
+        "episodeNumber": 25,
+        "title": "The Finals: Starters",
+        "airDate": "2025-03-24",
+        "airDateUtc": "2025-03-24T20:00:00Z",
+        "runtime": 59,
+        "overview": "The eight finalists compete to win the starter course at a banquet celebrating great Britons of the past and Great British Menu’s 20th year. Film director Gurinder Chadha is the guest judge.",
+        "hasFile": true,
+        "monitored": true,
+        "unverifiedSceneNumbering": false,
+        "id": 164126
+      },
+      "series": {
+        "title": "Great British Menu",
+        "sortTitle": "great british menu",
+        "status": "continuing",
+        "ended": false,
+        "overview": "Britain's top chefs compete for the chance to cook at a celebratory four-course banquet.",
+        "network": "BBC Two",
+        "airTime": "20:00",
+        "images": [
+          {
+            "coverType": "banner",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/graphical/81561-g2.jpg"
+          },
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/posters/81561-1.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/fanart/original/81561-2.jpg"
+          }
+        ],
+        "originalLanguage": {
+          "id": 1,
+          "name": "English"
+        },
+        "seasons": [
+          {
+            "seasonNumber": 0,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 1,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 2,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 3,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 4,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 5,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 6,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 7,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 8,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 9,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 10,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 11,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 12,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 13,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 14,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 15,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 16,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 17,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 18,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 19,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 20,
+            "monitored": true
+          }
+        ],
+        "year": 2006,
+        "path": "/tv/Documentaires/tv shows/Great British Menu",
+        "qualityProfileId": 3,
+        "seasonFolder": true,
+        "monitored": true,
+        "monitorNewItems": "all",
+        "useSceneNumbering": false,
+        "runtime": 36,
+        "tvdbId": 81561,
+        "tvRageId": 10272,
+        "tvMazeId": 6155,
+        "tmdbId": 3431,
+        "firstAired": "2006-04-10T00:00:00Z",
+        "lastAired": "2025-03-28T00:00:00Z",
+        "seriesType": "standard",
+        "cleanTitle": "greatbritishmenu",
+        "imdbId": "tt0977628",
+        "titleSlug": "great-british-menu",
+        "genres": [
+          "Food",
+          "Reality"
+        ],
+        "tags": [],
+        "added": "2020-02-09T08:55:08Z",
+        "ratings": {
+          "votes": 489,
+          "value": 7.5
+        },
+        "languageProfileId": 1,
+        "id": 666
+      },
+      "id": 356573
+    },
+    {
+      "episodeId": 164126,
+      "seriesId": 666,
+      "sourceTitle": "Great.British.Menu.S20E25.The.Finals.Starters.720p.iP.WEB-DL.AAC2.0.HFR.H.264-RAWR",
+      "languages": [
+        {
+          "id": 1,
+          "name": "English"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 5,
+          "name": "WEBDL-720p",
+          "source": "web",
+          "resolution": 720
+        },
+        "revision": {
+          "version": 1,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "customFormats": [
+        {
+          "id": 3,
+          "name": "english"
+        }
+      ],
+      "customFormatScore": 10,
+      "qualityCutoffNotMet": false,
+      "date": "2025-03-24T22:38:05Z",
+      "downloadId": "SABnzbd_nzo_4zfnloo9",
+      "eventType": "grabbed",
+      "data": {
+        "indexer": "NzbPlanet (Prowlarr)",
+        "nzbInfoUrl": "https://nzbplanet.org/details/2f781f83456f926a8d2b26f20b2d394e",
+        "releaseGroup": "RAWR",
+        "age": "0",
+        "ageHours": "0.27364149605555554",
+        "ageMinutes": "16.418489808333334",
+        "publishedDate": "2025-03-24T22:21:40Z",
+        "downloadClient": "SABnzbd",
+        "downloadClientName": "sab",
+        "size": "2539052258",
+        "downloadUrl": "http://prowlarr:9696/7/download?apikey=5f771c1869f94fec821832369384a70c&link=ZkR1T0VxcUM0RGlpM2JqV3pmaVVSU2dscDZLMU01WUVlOGFJdHZBazAwdEswWFU1V0RZdDlJeFhDUDVMTVhEaWJZdVA2R1JnOVk3aTUyOWwwelhQMzNTZlZHVUFHdURWVklZNGdNR3ZvNzBpSXRjS0w3ZDJSelBZRFEzcVk1Tlh0TElQVmtYVWVpSTJtcUZSdWZFUjVyUWlHT05hZ0xLYlFxYzZQem9QTHFzPQ&file=Great.British.Menu.S20E25.The.Finals.Starters.720p.iP.WEB-DL.AAC2.0.HFR.H.264-RAWR",
+        "guid": "https://nzbplanet.org/details/2f781f83456f926a8d2b26f20b2d394e",
+        "tvdbId": "0",
+        "tvRageId": "0",
+        "imdbId": null,
+        "protocol": "1",
+        "customFormatScore": "10",
+        "seriesMatchType": "Title",
+        "releaseSource": "Rss",
+        "indexerFlags": "0",
+        "releaseType": "SingleEpisode"
+      },
+      "episode": {
+        "seriesId": 666,
+        "tvdbId": 11028546,
+        "episodeFileId": 1504212,
+        "seasonNumber": 20,
+        "episodeNumber": 25,
+        "title": "The Finals: Starters",
+        "airDate": "2025-03-24",
+        "airDateUtc": "2025-03-24T20:00:00Z",
+        "runtime": 59,
+        "overview": "The eight finalists compete to win the starter course at a banquet celebrating great Britons of the past and Great British Menu’s 20th year. Film director Gurinder Chadha is the guest judge.",
+        "hasFile": true,
+        "monitored": true,
+        "unverifiedSceneNumbering": false,
+        "id": 164126
+      },
+      "series": {
+        "title": "Great British Menu",
+        "sortTitle": "great british menu",
+        "status": "continuing",
+        "ended": false,
+        "overview": "Britain's top chefs compete for the chance to cook at a celebratory four-course banquet.",
+        "network": "BBC Two",
+        "airTime": "20:00",
+        "images": [
+          {
+            "coverType": "banner",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/graphical/81561-g2.jpg"
+          },
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/posters/81561-1.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/fanart/original/81561-2.jpg"
+          }
+        ],
+        "originalLanguage": {
+          "id": 1,
+          "name": "English"
+        },
+        "seasons": [
+          {
+            "seasonNumber": 0,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 1,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 2,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 3,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 4,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 5,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 6,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 7,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 8,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 9,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 10,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 11,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 12,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 13,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 14,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 15,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 16,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 17,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 18,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 19,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 20,
+            "monitored": true
+          }
+        ],
+        "year": 2006,
+        "path": "/tv/Documentaires/tv shows/Great British Menu",
+        "qualityProfileId": 3,
+        "seasonFolder": true,
+        "monitored": true,
+        "monitorNewItems": "all",
+        "useSceneNumbering": false,
+        "runtime": 36,
+        "tvdbId": 81561,
+        "tvRageId": 10272,
+        "tvMazeId": 6155,
+        "tmdbId": 3431,
+        "firstAired": "2006-04-10T00:00:00Z",
+        "lastAired": "2025-03-28T00:00:00Z",
+        "seriesType": "standard",
+        "cleanTitle": "greatbritishmenu",
+        "imdbId": "tt0977628",
+        "titleSlug": "great-british-menu",
+        "genres": [
+          "Food",
+          "Reality"
+        ],
+        "tags": [],
+        "added": "2020-02-09T08:55:08Z",
+        "ratings": {
+          "votes": 489,
+          "value": 7.5
+        },
+        "languageProfileId": 1,
+        "id": 666
+      },
+      "id": 356572
+    },
+    {
+      "episodeId": 159406,
+      "seriesId": 857,
+      "sourceTitle": "QI.S22E11.1080p.WEB.h264-Ginnungagap",
+      "languages": [
+        {
+          "id": 1,
+          "name": "English"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 3,
+          "name": "WEBDL-1080p",
+          "source": "web",
+          "resolution": 1080
+        },
+        "revision": {
+          "version": 1,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "customFormats": [
+        {
+          "id": 3,
+          "name": "english"
+        }
+      ],
+      "customFormatScore": 10,
+      "qualityCutoffNotMet": false,
+      "date": "2025-03-24T16:57:01Z",
+      "downloadId": "SABnzbd_nzo_2eu9clqo",
+      "eventType": "downloadFolderImported",
+      "data": {
+        "fileId": "1504004",
+        "droppedPath": "/downloads/QI.S22E11.1080p.WEB.h264-Ginnungagap/qi.s22e11.1080p.web.h264-ginnungagap.mkv",
+        "importedPath": "/tv/Tv Shows/QI/Season 22/QI.S22E11.Vintage.mkv",
+        "downloadClient": "SABnzbd",
+        "downloadClientName": "sab",
+        "releaseGroup": "Ginnungagap",
+        "customFormatScore": "10",
+        "size": "1812483725",
+        "indexerFlags": "0",
+        "releaseType": "SingleEpisode"
+      },
+      "episode": {
+        "seriesId": 857,
+        "tvdbId": 10738220,
+        "episodeFileId": 1504004,
+        "seasonNumber": 22,
+        "episodeNumber": 11,
+        "title": "Vintage",
+        "airDate": "2025-01-13",
+        "airDateUtc": "2025-01-13T22:00:00Z",
+        "runtime": 29,
+        "overview": "Sandi Toksvig hosts a vintage episode of QI with Susan Calman, Rosie Jones, Josh Widdicombe and Alan Davies.",
+        "hasFile": true,
+        "monitored": true,
+        "unverifiedSceneNumbering": false,
+        "id": 159406
+      },
+      "series": {
+        "title": "QI",
+        "sortTitle": "qi",
+        "status": "continuing",
+        "ended": false,
+        "overview": "QI is a BBC panel show that both educates and entertains.  QI Masters Stephen Fry [Seasons 1-13] and Sandi Toksvig [Season 14+] ask questions that are very difficult and award points for answers that are either Quite Interesting or correct.  However, points are deducted for answers commonly thought to be correct but are in fact quite wrong.  Four Bantermeisters, including permanent panelist Alan Davies, try their best to separate the fact from the fiction.",
+        "network": "BBC Two",
+        "airTime": "22:00",
+        "images": [
+          {
+            "coverType": "banner",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/graphical/72716-g3.jpg"
+          },
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/posters/72716-8.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/fanart/original/72716-1.jpg"
+          },
+          {
+            "coverType": "clearlogo",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/72716/clearlogo/611b6831490f9.png"
+          }
+        ],
+        "originalLanguage": {
+          "id": 1,
+          "name": "English"
+        },
+        "seasons": [
+          {
+            "seasonNumber": 0,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 1,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 2,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 3,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 4,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 5,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 6,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 7,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 8,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 9,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 10,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 11,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 12,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 13,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 14,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 15,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 16,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 17,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 18,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 19,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 20,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 21,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 22,
+            "monitored": true
+          }
+        ],
+        "year": 2003,
+        "path": "/tv/Tv Shows/QI",
+        "qualityProfileId": 1,
+        "seasonFolder": true,
+        "monitored": true,
+        "monitorNewItems": "all",
+        "useSceneNumbering": false,
+        "runtime": 30,
+        "tvdbId": 72716,
+        "tvRageId": 4920,
+        "tvMazeId": 703,
+        "tmdbId": 1554,
+        "firstAired": "2003-09-11T00:00:00Z",
+        "lastAired": "2025-03-03T00:00:00Z",
+        "seriesType": "standard",
+        "cleanTitle": "qi",
+        "imdbId": "tt0380136",
+        "titleSlug": "qi",
+        "certification": "TV-14",
+        "genres": [
+          "Comedy",
+          "Game Show"
+        ],
+        "tags": [],
+        "added": "2020-02-09T09:45:34Z",
+        "ratings": {
+          "votes": 34813,
+          "value": 8.6
+        },
+        "languageProfileId": 1,
+        "id": 857
+      },
+      "id": 356571
+    },
+    {
+      "episodeId": 159406,
+      "seriesId": 857,
+      "sourceTitle": "QI.S22E11.1080p.WEB.h264-Ginnungagap",
+      "languages": [
+        {
+          "id": 1,
+          "name": "English"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 3,
+          "name": "WEBDL-1080p",
+          "source": "web",
+          "resolution": 1080
+        },
+        "revision": {
+          "version": 1,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "customFormats": [
+        {
+          "id": 3,
+          "name": "english"
+        }
+      ],
+      "customFormatScore": 10,
+      "qualityCutoffNotMet": false,
+      "date": "2025-03-24T16:55:31Z",
+      "downloadId": "SABnzbd_nzo_2eu9clqo",
+      "eventType": "grabbed",
+      "data": {
+        "indexer": "altHUB (Prowlarr)",
+        "nzbInfoUrl": "https://api.althub.co.za/details/3f18ed2dfb2d7801705ce9e35186bf1d",
+        "releaseGroup": "Ginnungagap",
+        "age": "0",
+        "ageHours": "0.1840052971111111",
+        "ageMinutes": "11.040317863333334",
+        "publishedDate": "2025-03-24T16:44:29Z",
+        "downloadClient": "SABnzbd",
+        "downloadClientName": "sab",
+        "size": "2010453796",
+        "downloadUrl": "http://prowlarr:9696/1/download?apikey=5f771c1869f94fec821832369384a70c&link=Nlh2YXlDZmp5cGhGVTZXSDE1eHdrR2FmajJoYnRJODZhdHR1QjYwVjYxTm5NcjNEWk9pZlIwMG5kV3ZDTXNEYXFCcThVNFpZZGVIK2xWeFowamUwNzRPT1lCRnkvS1pwUVlqY3lWUy96Y1ovOE00UHllYnI2bEN0ZVZPRjgvMEoxcXBzYTZaMHhXbExCZzBEUVhNODRKS3JSUnFYeHBmdERST0tkOTNZa2pZPQ&file=QI.S22E11.1080p.WEB.h264-Ginnungagap",
+        "guid": "https://api.althub.co.za/details/3f18ed2dfb2d7801705ce9e35186bf1d",
+        "tvdbId": "0",
+        "tvRageId": "0",
+        "imdbId": "tt0380136",
+        "protocol": "1",
+        "customFormatScore": "10",
+        "seriesMatchType": "Title",
+        "releaseSource": "Rss",
+        "indexerFlags": "0",
+        "releaseType": "SingleEpisode"
+      },
+      "episode": {
+        "seriesId": 857,
+        "tvdbId": 10738220,
+        "episodeFileId": 1504004,
+        "seasonNumber": 22,
+        "episodeNumber": 11,
+        "title": "Vintage",
+        "airDate": "2025-01-13",
+        "airDateUtc": "2025-01-13T22:00:00Z",
+        "runtime": 29,
+        "overview": "Sandi Toksvig hosts a vintage episode of QI with Susan Calman, Rosie Jones, Josh Widdicombe and Alan Davies.",
+        "hasFile": true,
+        "monitored": true,
+        "unverifiedSceneNumbering": false,
+        "id": 159406
+      },
+      "series": {
+        "title": "QI",
+        "sortTitle": "qi",
+        "status": "continuing",
+        "ended": false,
+        "overview": "QI is a BBC panel show that both educates and entertains.  QI Masters Stephen Fry [Seasons 1-13] and Sandi Toksvig [Season 14+] ask questions that are very difficult and award points for answers that are either Quite Interesting or correct.  However, points are deducted for answers commonly thought to be correct but are in fact quite wrong.  Four Bantermeisters, including permanent panelist Alan Davies, try their best to separate the fact from the fiction.",
+        "network": "BBC Two",
+        "airTime": "22:00",
+        "images": [
+          {
+            "coverType": "banner",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/graphical/72716-g3.jpg"
+          },
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/posters/72716-8.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/fanart/original/72716-1.jpg"
+          },
+          {
+            "coverType": "clearlogo",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/72716/clearlogo/611b6831490f9.png"
+          }
+        ],
+        "originalLanguage": {
+          "id": 1,
+          "name": "English"
+        },
+        "seasons": [
+          {
+            "seasonNumber": 0,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 1,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 2,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 3,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 4,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 5,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 6,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 7,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 8,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 9,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 10,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 11,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 12,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 13,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 14,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 15,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 16,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 17,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 18,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 19,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 20,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 21,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 22,
+            "monitored": true
+          }
+        ],
+        "year": 2003,
+        "path": "/tv/Tv Shows/QI",
+        "qualityProfileId": 1,
+        "seasonFolder": true,
+        "monitored": true,
+        "monitorNewItems": "all",
+        "useSceneNumbering": false,
+        "runtime": 30,
+        "tvdbId": 72716,
+        "tvRageId": 4920,
+        "tvMazeId": 703,
+        "tmdbId": 1554,
+        "firstAired": "2003-09-11T00:00:00Z",
+        "lastAired": "2025-03-03T00:00:00Z",
+        "seriesType": "standard",
+        "cleanTitle": "qi",
+        "imdbId": "tt0380136",
+        "titleSlug": "qi",
+        "certification": "TV-14",
+        "genres": [
+          "Comedy",
+          "Game Show"
+        ],
+        "tags": [],
+        "added": "2020-02-09T09:45:34Z",
+        "ratings": {
+          "votes": 34813,
+          "value": 8.6
+        },
+        "languageProfileId": 1,
+        "id": 857
+      },
+      "id": 356570
+    },
+    {
+      "episodeId": 158083,
+      "seriesId": 400,
+      "sourceTitle": "SpongeBob.SquarePants.S15E19.Delivery.of.Doom.720p.AMZN.WEB-DL.DDP2.0.H.264-NTb",
+      "languages": [
+        {
+          "id": 1,
+          "name": "English"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 5,
+          "name": "WEBDL-720p",
+          "source": "web",
+          "resolution": 720
+        },
+        "revision": {
+          "version": 1,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "customFormats": [
+        {
+          "id": 3,
+          "name": "english"
+        }
+      ],
+      "customFormatScore": 10,
+      "qualityCutoffNotMet": false,
+      "date": "2025-03-24T15:39:00Z",
+      "downloadId": "SABnzbd_nzo_u6qcs5pj",
+      "eventType": "downloadFolderImported",
+      "data": {
+        "fileId": "1504003",
+        "droppedPath": "/downloads/SpongeBob.SquarePants.S15E19.Delivery.of.Doom.720p.AMZN.WEB-DL.DDP2.0.H.264-NTb/7a4c558886d94ffa97b2c7f12ee294a8.mkv",
+        "importedPath": "/tv/Kids/SpongeBob SquarePants/Season 15/SpongeBob.SquarePants.S15E19.Delivery.of.Doom.mkv",
+        "downloadClient": "SABnzbd",
+        "downloadClientName": "sab",
+        "releaseGroup": "NTb",
+        "customFormatScore": "10",
+        "size": "239493026",
+        "indexerFlags": "0",
+        "releaseType": "SingleEpisode"
+      },
+      "episode": {
+        "seriesId": 400,
+        "tvdbId": 10622792,
+        "episodeFileId": 1504003,
+        "seasonNumber": 15,
+        "episodeNumber": 19,
+        "title": "Delivery of Doom",
+        "runtime": 10,
+        "overview": "SpongeBob is challenged by E.V.I.L. to make a delivery to their secret lair in 10 minutes or less.",
+        "hasFile": true,
+        "monitored": true,
+        "unverifiedSceneNumbering": false,
+        "id": 158083
+      },
+      "series": {
+        "title": "SpongeBob SquarePants",
+        "sortTitle": "spongebob squarepants",
+        "status": "continuing",
+        "ended": false,
+        "overview": "The misadventures of a talking sea sponge who works at a fast food restaurant, attends a boating school, and lives in an underwater pineapple.",
+        "network": "Nickelodeon",
+        "airTime": "19:00",
+        "images": [
+          {
+            "coverType": "banner",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/graphical/75886-g5.jpg"
+          },
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/posters/75886-7.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/fanart/original/75886-11.jpg"
+          },
+          {
+            "coverType": "clearlogo",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/75886/clearlogo/611b69f1bf910.png"
+          }
+        ],
+        "originalLanguage": {
+          "id": 1,
+          "name": "English"
+        },
+        "seasons": [
+          {
+            "seasonNumber": 0,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 1,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 2,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 3,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 4,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 5,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 6,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 7,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 8,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 9,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 10,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 11,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 12,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 13,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 14,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 15,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 16,
+            "monitored": true
+          }
+        ],
+        "year": 1999,
+        "path": "/tv/Kids/SpongeBob SquarePants",
+        "qualityProfileId": 3,
+        "seasonFolder": true,
+        "monitored": true,
+        "monitorNewItems": "all",
+        "useSceneNumbering": false,
+        "runtime": 10,
+        "tvdbId": 75886,
+        "tvRageId": 5304,
+        "tvMazeId": 713,
+        "tmdbId": 387,
+        "firstAired": "1999-05-01T00:00:00Z",
+        "lastAired": "2025-03-14T00:00:00Z",
+        "seriesType": "standard",
+        "cleanTitle": "spongebobsquarepants",
+        "imdbId": "tt0206512",
+        "titleSlug": "spongebob-squarepants",
+        "certification": "TV-Y7",
+        "genres": [
+          "Animation",
+          "Children",
+          "Comedy",
+          "Family",
+          "Fantasy"
+        ],
+        "tags": [],
+        "added": "2020-02-09T03:18:20Z",
+        "ratings": {
+          "votes": 117921,
+          "value": 8.2
+        },
+        "languageProfileId": 1,
+        "id": 400
+      },
+      "id": 356569
+    }
+  ]
+}

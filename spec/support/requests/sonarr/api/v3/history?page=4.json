@@ -1,0 +1,2360 @@
+{
+  "page": 4,
+  "pageSize": 15,
+  "sortKey": "date",
+  "sortDirection": "descending",
+  "totalRecords": 344511,
+  "records": [
+    {
+      "episodeId": 75250,
+      "seriesId": 1101,
+      "sourceTitle": "/tv/Tv Shows/Younger/Season 3/Younger.s03e12.mkv",
+      "languages": [
+        {
+          "id": 1,
+          "name": "English"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 1,
+          "name": "SDTV",
+          "source": "television",
+          "resolution": 480
+        },
+        "revision": {
+          "version": 1,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "customFormats": [
+        {
+          "id": 3,
+          "name": "english"
+        }
+      ],
+      "customFormatScore": 10,
+      "qualityCutoffNotMet": true,
+      "date": "2025-03-28T19:17:00Z",
+      "eventType": "episodeFileDeleted",
+      "data": {
+        "reason": "Upgrade",
+        "releaseGroup": null,
+        "size": "145602739",
+        "indexerFlags": "0",
+        "releaseType": "Unknown"
+      },
+      "episode": {
+        "seriesId": 1101,
+        "tvdbId": 5762783,
+        "episodeFileId": 1505816,
+        "seasonNumber": 3,
+        "episodeNumber": 12,
+        "title": "Get Real",
+        "airDate": "2016-12-14",
+        "airDateUtc": "2016-12-14T08:26:00Z",
+        "runtime": 25,
+        "finaleType": "season",
+        "overview": "Liza faces some hard truths after an encounter with a famous life coach.",
+        "hasFile": true,
+        "monitored": true,
+        "absoluteEpisodeNumber": 36,
+        "unverifiedSceneNumbering": false,
+        "id": 75250
+      },
+      "series": {
+        "title": "Younger",
+        "sortTitle": "younger",
+        "status": "ended",
+        "ended": true,
+        "overview": "The series follows 40-year old Liza Miller, a suddenly single mother who tries to get back into the working world, only to find it’s nearly impossible to start at the bottom at her age. When a chance encounter with a young guy at a bar convinces her she looks younger than she is, Liza tries to pass herself off as 26 – with the help of a makeover, courtesy of her best friend Maggie. Armed with new confidence, she lands a job as an assistant to the temperamental Diana and teams up with her new co-worker and twentysomething Kelsey to make it in the career of her dreams. Now she just has to make sure no one finds out the secret only she and Maggie share.",
+        "network": "Paramount+",
+        "airTime": "03:00",
+        "images": [
+          {
+            "coverType": "banner",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/graphical/280706-g5.jpg"
+          },
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/posters/280706-1.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/fanart/original/280706-6.jpg"
+          },
+          {
+            "coverType": "clearlogo",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/280706/clearlogo/611bcd47f2d8d.png"
+          }
+        ],
+        "originalLanguage": {
+          "id": 1,
+          "name": "English"
+        },
+        "seasons": [
+          {
+            "seasonNumber": 1,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 2,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 3,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 4,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 5,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 6,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 7,
+            "monitored": true
+          }
+        ],
+        "year": 2015,
+        "path": "/tv/Tv Shows/Younger",
+        "qualityProfileId": 1,
+        "seasonFolder": true,
+        "monitored": true,
+        "monitorNewItems": "all",
+        "useSceneNumbering": false,
+        "runtime": 26,
+        "tvdbId": 280706,
+        "tvRageId": 37246,
+        "tvMazeId": 623,
+        "tmdbId": 62117,
+        "firstAired": "2015-03-31T00:00:00Z",
+        "lastAired": "2021-06-10T00:00:00Z",
+        "seriesType": "standard",
+        "cleanTitle": "younger",
+        "imdbId": "tt3288518",
+        "titleSlug": "younger",
+        "certification": "TV-14",
+        "genres": [
+          "Comedy",
+          "Drama",
+          "Romance"
+        ],
+        "tags": [],
+        "added": "2020-02-09T10:55:51Z",
+        "ratings": {
+          "votes": 28078,
+          "value": 7.8
+        },
+        "languageProfileId": 1,
+        "id": 1101
+      },
+      "id": 357003
+    },
+    {
+      "episodeId": 75249,
+      "seriesId": 1101,
+      "sourceTitle": "Younger.2015.S03E11.1080p.AMZN.WEB-DL.H265.SDR.DDP.5.1.English-HONE",
+      "languages": [
+        {
+          "id": 1,
+          "name": "English"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 3,
+          "name": "WEBDL-1080p",
+          "source": "web",
+          "resolution": 1080
+        },
+        "revision": {
+          "version": 1,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "customFormats": [
+        {
+          "id": 3,
+          "name": "english"
+        },
+        {
+          "id": 1,
+          "name": "english 265"
+        }
+      ],
+      "customFormatScore": 30,
+      "qualityCutoffNotMet": false,
+      "date": "2025-03-28T19:15:03Z",
+      "downloadId": "SABnzbd_nzo_xuc2sg8g",
+      "eventType": "downloadFolderImported",
+      "data": {
+        "fileId": "1505815",
+        "droppedPath": "/downloads/Younger.2015.S03E11.1080p.AMZN.WEB-DL.H265.SDR.DDP.5.1.English-HONE/Younger.2015.S03E11.1080p.AMZN.WEB-DL.H265.SDR.DDP.5.1.English-HONE.mkv",
+        "importedPath": "/tv/Tv Shows/Younger/Season 3/Younger.S03E11.A.Book.Fair.to.Remember.mkv",
+        "downloadClient": "SABnzbd",
+        "downloadClientName": "sab",
+        "releaseGroup": "HONE",
+        "customFormatScore": "30",
+        "size": "1613252924",
+        "indexerFlags": "0",
+        "releaseType": "SingleEpisode"
+      },
+      "episode": {
+        "seriesId": 1101,
+        "tvdbId": 5762781,
+        "episodeFileId": 1505815,
+        "seasonNumber": 3,
+        "episodeNumber": 11,
+        "title": "A Book Fair to Remember",
+        "airDate": "2016-12-14",
+        "airDateUtc": "2016-12-14T08:00:00Z",
+        "runtime": 25,
+        "overview": "Liza gets closer to Charles at a book fair and Kelsey feels neglected by Colin.",
+        "hasFile": true,
+        "monitored": true,
+        "absoluteEpisodeNumber": 35,
+        "unverifiedSceneNumbering": false,
+        "id": 75249
+      },
+      "series": {
+        "title": "Younger",
+        "sortTitle": "younger",
+        "status": "ended",
+        "ended": true,
+        "overview": "The series follows 40-year old Liza Miller, a suddenly single mother who tries to get back into the working world, only to find it’s nearly impossible to start at the bottom at her age. When a chance encounter with a young guy at a bar convinces her she looks younger than she is, Liza tries to pass herself off as 26 – with the help of a makeover, courtesy of her best friend Maggie. Armed with new confidence, she lands a job as an assistant to the temperamental Diana and teams up with her new co-worker and twentysomething Kelsey to make it in the career of her dreams. Now she just has to make sure no one finds out the secret only she and Maggie share.",
+        "network": "Paramount+",
+        "airTime": "03:00",
+        "images": [
+          {
+            "coverType": "banner",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/graphical/280706-g5.jpg"
+          },
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/posters/280706-1.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/fanart/original/280706-6.jpg"
+          },
+          {
+            "coverType": "clearlogo",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/280706/clearlogo/611bcd47f2d8d.png"
+          }
+        ],
+        "originalLanguage": {
+          "id": 1,
+          "name": "English"
+        },
+        "seasons": [
+          {
+            "seasonNumber": 1,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 2,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 3,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 4,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 5,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 6,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 7,
+            "monitored": true
+          }
+        ],
+        "year": 2015,
+        "path": "/tv/Tv Shows/Younger",
+        "qualityProfileId": 1,
+        "seasonFolder": true,
+        "monitored": true,
+        "monitorNewItems": "all",
+        "useSceneNumbering": false,
+        "runtime": 26,
+        "tvdbId": 280706,
+        "tvRageId": 37246,
+        "tvMazeId": 623,
+        "tmdbId": 62117,
+        "firstAired": "2015-03-31T00:00:00Z",
+        "lastAired": "2021-06-10T00:00:00Z",
+        "seriesType": "standard",
+        "cleanTitle": "younger",
+        "imdbId": "tt3288518",
+        "titleSlug": "younger",
+        "certification": "TV-14",
+        "genres": [
+          "Comedy",
+          "Drama",
+          "Romance"
+        ],
+        "tags": [],
+        "added": "2020-02-09T10:55:51Z",
+        "ratings": {
+          "votes": 28078,
+          "value": 7.8
+        },
+        "languageProfileId": 1,
+        "id": 1101
+      },
+      "id": 357002
+    },
+    {
+      "episodeId": 75249,
+      "seriesId": 1101,
+      "sourceTitle": "/tv/Tv Shows/Younger/Season 3/Younger.s03e11.mkv",
+      "languages": [
+        {
+          "id": 1,
+          "name": "English"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 4,
+          "name": "HDTV-720p",
+          "source": "television",
+          "resolution": 720
+        },
+        "revision": {
+          "version": 1,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "customFormats": [
+        {
+          "id": 3,
+          "name": "english"
+        }
+      ],
+      "customFormatScore": 10,
+      "qualityCutoffNotMet": true,
+      "date": "2025-03-28T19:15:01Z",
+      "eventType": "episodeFileDeleted",
+      "data": {
+        "reason": "Upgrade",
+        "releaseGroup": null,
+        "size": "580980304",
+        "indexerFlags": "0",
+        "releaseType": "Unknown"
+      },
+      "episode": {
+        "seriesId": 1101,
+        "tvdbId": 5762781,
+        "episodeFileId": 1505815,
+        "seasonNumber": 3,
+        "episodeNumber": 11,
+        "title": "A Book Fair to Remember",
+        "airDate": "2016-12-14",
+        "airDateUtc": "2016-12-14T08:00:00Z",
+        "runtime": 25,
+        "overview": "Liza gets closer to Charles at a book fair and Kelsey feels neglected by Colin.",
+        "hasFile": true,
+        "monitored": true,
+        "absoluteEpisodeNumber": 35,
+        "unverifiedSceneNumbering": false,
+        "id": 75249
+      },
+      "series": {
+        "title": "Younger",
+        "sortTitle": "younger",
+        "status": "ended",
+        "ended": true,
+        "overview": "The series follows 40-year old Liza Miller, a suddenly single mother who tries to get back into the working world, only to find it’s nearly impossible to start at the bottom at her age. When a chance encounter with a young guy at a bar convinces her she looks younger than she is, Liza tries to pass herself off as 26 – with the help of a makeover, courtesy of her best friend Maggie. Armed with new confidence, she lands a job as an assistant to the temperamental Diana and teams up with her new co-worker and twentysomething Kelsey to make it in the career of her dreams. Now she just has to make sure no one finds out the secret only she and Maggie share.",
+        "network": "Paramount+",
+        "airTime": "03:00",
+        "images": [
+          {
+            "coverType": "banner",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/graphical/280706-g5.jpg"
+          },
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/posters/280706-1.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/fanart/original/280706-6.jpg"
+          },
+          {
+            "coverType": "clearlogo",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/280706/clearlogo/611bcd47f2d8d.png"
+          }
+        ],
+        "originalLanguage": {
+          "id": 1,
+          "name": "English"
+        },
+        "seasons": [
+          {
+            "seasonNumber": 1,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 2,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 3,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 4,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 5,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 6,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 7,
+            "monitored": true
+          }
+        ],
+        "year": 2015,
+        "path": "/tv/Tv Shows/Younger",
+        "qualityProfileId": 1,
+        "seasonFolder": true,
+        "monitored": true,
+        "monitorNewItems": "all",
+        "useSceneNumbering": false,
+        "runtime": 26,
+        "tvdbId": 280706,
+        "tvRageId": 37246,
+        "tvMazeId": 623,
+        "tmdbId": 62117,
+        "firstAired": "2015-03-31T00:00:00Z",
+        "lastAired": "2021-06-10T00:00:00Z",
+        "seriesType": "standard",
+        "cleanTitle": "younger",
+        "imdbId": "tt3288518",
+        "titleSlug": "younger",
+        "certification": "TV-14",
+        "genres": [
+          "Comedy",
+          "Drama",
+          "Romance"
+        ],
+        "tags": [],
+        "added": "2020-02-09T10:55:51Z",
+        "ratings": {
+          "votes": 28078,
+          "value": 7.8
+        },
+        "languageProfileId": 1,
+        "id": 1101
+      },
+      "id": 357001
+    },
+    {
+      "episodeId": 75246,
+      "seriesId": 1101,
+      "sourceTitle": "Younger.2015.S03E08.1080p.AMZN.WEB-DL.H265.SDR.DDP.5.1.English-HONE",
+      "languages": [
+        {
+          "id": 1,
+          "name": "English"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 3,
+          "name": "WEBDL-1080p",
+          "source": "web",
+          "resolution": 1080
+        },
+        "revision": {
+          "version": 1,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "customFormats": [
+        {
+          "id": 3,
+          "name": "english"
+        },
+        {
+          "id": 1,
+          "name": "english 265"
+        }
+      ],
+      "customFormatScore": 30,
+      "qualityCutoffNotMet": false,
+      "date": "2025-03-28T19:15:01Z",
+      "downloadId": "SABnzbd_nzo_l1y6w69n",
+      "eventType": "downloadFolderImported",
+      "data": {
+        "fileId": "1505814",
+        "droppedPath": "/downloads/Younger.2015.S03E08.1080p.AMZN.WEB-DL.H265.SDR.DDP.5.1.English-HONE/Younger.2015.S03E08.1080p.AMZN.WEB-DL.H265.SDR.DDP.5.1.English-HONE.mkv",
+        "importedPath": "/tv/Tv Shows/Younger/Season 3/Younger.S03E08.What's.Up,.Dock.mkv",
+        "downloadClient": "SABnzbd",
+        "downloadClientName": "sab",
+        "releaseGroup": "HONE",
+        "customFormatScore": "30",
+        "size": "1617801049",
+        "indexerFlags": "0",
+        "releaseType": "SingleEpisode"
+      },
+      "episode": {
+        "seriesId": 1101,
+        "tvdbId": 5762777,
+        "episodeFileId": 1505814,
+        "seasonNumber": 3,
+        "episodeNumber": 8,
+        "title": "What's Up, Dock?",
+        "airDate": "2016-11-16",
+        "airDateUtc": "2016-11-16T08:00:00Z",
+        "runtime": 25,
+        "overview": "Liza finalizes her divorce and Diana meets a handsome stranger, but their worlds soon intertwine when Liza ends up in the hospital.",
+        "hasFile": true,
+        "monitored": true,
+        "absoluteEpisodeNumber": 32,
+        "unverifiedSceneNumbering": false,
+        "id": 75246
+      },
+      "series": {
+        "title": "Younger",
+        "sortTitle": "younger",
+        "status": "ended",
+        "ended": true,
+        "overview": "The series follows 40-year old Liza Miller, a suddenly single mother who tries to get back into the working world, only to find it’s nearly impossible to start at the bottom at her age. When a chance encounter with a young guy at a bar convinces her she looks younger than she is, Liza tries to pass herself off as 26 – with the help of a makeover, courtesy of her best friend Maggie. Armed with new confidence, she lands a job as an assistant to the temperamental Diana and teams up with her new co-worker and twentysomething Kelsey to make it in the career of her dreams. Now she just has to make sure no one finds out the secret only she and Maggie share.",
+        "network": "Paramount+",
+        "airTime": "03:00",
+        "images": [
+          {
+            "coverType": "banner",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/graphical/280706-g5.jpg"
+          },
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/posters/280706-1.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/fanart/original/280706-6.jpg"
+          },
+          {
+            "coverType": "clearlogo",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/280706/clearlogo/611bcd47f2d8d.png"
+          }
+        ],
+        "originalLanguage": {
+          "id": 1,
+          "name": "English"
+        },
+        "seasons": [
+          {
+            "seasonNumber": 1,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 2,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 3,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 4,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 5,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 6,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 7,
+            "monitored": true
+          }
+        ],
+        "year": 2015,
+        "path": "/tv/Tv Shows/Younger",
+        "qualityProfileId": 1,
+        "seasonFolder": true,
+        "monitored": true,
+        "monitorNewItems": "all",
+        "useSceneNumbering": false,
+        "runtime": 26,
+        "tvdbId": 280706,
+        "tvRageId": 37246,
+        "tvMazeId": 623,
+        "tmdbId": 62117,
+        "firstAired": "2015-03-31T00:00:00Z",
+        "lastAired": "2021-06-10T00:00:00Z",
+        "seriesType": "standard",
+        "cleanTitle": "younger",
+        "imdbId": "tt3288518",
+        "titleSlug": "younger",
+        "certification": "TV-14",
+        "genres": [
+          "Comedy",
+          "Drama",
+          "Romance"
+        ],
+        "tags": [],
+        "added": "2020-02-09T10:55:51Z",
+        "ratings": {
+          "votes": 28078,
+          "value": 7.8
+        },
+        "languageProfileId": 1,
+        "id": 1101
+      },
+      "id": 357000
+    },
+    {
+      "episodeId": 75246,
+      "seriesId": 1101,
+      "sourceTitle": "/tv/Tv Shows/Younger/Season 3/Younger.s03e08.mkv",
+      "languages": [
+        {
+          "id": 1,
+          "name": "English"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 4,
+          "name": "HDTV-720p",
+          "source": "television",
+          "resolution": 720
+        },
+        "revision": {
+          "version": 1,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "customFormats": [
+        {
+          "id": 3,
+          "name": "english"
+        }
+      ],
+      "customFormatScore": 10,
+      "qualityCutoffNotMet": true,
+      "date": "2025-03-28T19:15:00Z",
+      "eventType": "episodeFileDeleted",
+      "data": {
+        "reason": "Upgrade",
+        "releaseGroup": null,
+        "size": "485232019",
+        "indexerFlags": "0",
+        "releaseType": "Unknown"
+      },
+      "episode": {
+        "seriesId": 1101,
+        "tvdbId": 5762777,
+        "episodeFileId": 1505814,
+        "seasonNumber": 3,
+        "episodeNumber": 8,
+        "title": "What's Up, Dock?",
+        "airDate": "2016-11-16",
+        "airDateUtc": "2016-11-16T08:00:00Z",
+        "runtime": 25,
+        "overview": "Liza finalizes her divorce and Diana meets a handsome stranger, but their worlds soon intertwine when Liza ends up in the hospital.",
+        "hasFile": true,
+        "monitored": true,
+        "absoluteEpisodeNumber": 32,
+        "unverifiedSceneNumbering": false,
+        "id": 75246
+      },
+      "series": {
+        "title": "Younger",
+        "sortTitle": "younger",
+        "status": "ended",
+        "ended": true,
+        "overview": "The series follows 40-year old Liza Miller, a suddenly single mother who tries to get back into the working world, only to find it’s nearly impossible to start at the bottom at her age. When a chance encounter with a young guy at a bar convinces her she looks younger than she is, Liza tries to pass herself off as 26 – with the help of a makeover, courtesy of her best friend Maggie. Armed with new confidence, she lands a job as an assistant to the temperamental Diana and teams up with her new co-worker and twentysomething Kelsey to make it in the career of her dreams. Now she just has to make sure no one finds out the secret only she and Maggie share.",
+        "network": "Paramount+",
+        "airTime": "03:00",
+        "images": [
+          {
+            "coverType": "banner",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/graphical/280706-g5.jpg"
+          },
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/posters/280706-1.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/fanart/original/280706-6.jpg"
+          },
+          {
+            "coverType": "clearlogo",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/280706/clearlogo/611bcd47f2d8d.png"
+          }
+        ],
+        "originalLanguage": {
+          "id": 1,
+          "name": "English"
+        },
+        "seasons": [
+          {
+            "seasonNumber": 1,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 2,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 3,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 4,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 5,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 6,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 7,
+            "monitored": true
+          }
+        ],
+        "year": 2015,
+        "path": "/tv/Tv Shows/Younger",
+        "qualityProfileId": 1,
+        "seasonFolder": true,
+        "monitored": true,
+        "monitorNewItems": "all",
+        "useSceneNumbering": false,
+        "runtime": 26,
+        "tvdbId": 280706,
+        "tvRageId": 37246,
+        "tvMazeId": 623,
+        "tmdbId": 62117,
+        "firstAired": "2015-03-31T00:00:00Z",
+        "lastAired": "2021-06-10T00:00:00Z",
+        "seriesType": "standard",
+        "cleanTitle": "younger",
+        "imdbId": "tt3288518",
+        "titleSlug": "younger",
+        "certification": "TV-14",
+        "genres": [
+          "Comedy",
+          "Drama",
+          "Romance"
+        ],
+        "tags": [],
+        "added": "2020-02-09T10:55:51Z",
+        "ratings": {
+          "votes": 28078,
+          "value": 7.8
+        },
+        "languageProfileId": 1,
+        "id": 1101
+      },
+      "id": 356999
+    },
+    {
+      "episodeId": 75244,
+      "seriesId": 1101,
+      "sourceTitle": "Younger.2015.S03E06.1080p.AMZN.WEB-DL.H265.SDR.DDP.5.1.English-HONE",
+      "languages": [
+        {
+          "id": 1,
+          "name": "English"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 3,
+          "name": "WEBDL-1080p",
+          "source": "web",
+          "resolution": 1080
+        },
+        "revision": {
+          "version": 1,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "customFormats": [
+        {
+          "id": 3,
+          "name": "english"
+        },
+        {
+          "id": 1,
+          "name": "english 265"
+        }
+      ],
+      "customFormatScore": 30,
+      "qualityCutoffNotMet": false,
+      "date": "2025-03-28T19:14:03Z",
+      "downloadId": "SABnzbd_nzo_knx3jah7",
+      "eventType": "downloadFolderImported",
+      "data": {
+        "fileId": "1505813",
+        "droppedPath": "/downloads/Younger.2015.S03E06.1080p.AMZN.WEB-DL.H265.SDR.DDP.5.1.English-HONE/Younger.2015.S03E06.1080p.AMZN.WEB-DL.H265.SDR.DDP.5.1.English-HONE.mkv",
+        "importedPath": "/tv/Tv Shows/Younger/Season 3/Younger.S03E06.Me,.Myself,.and.O.mkv",
+        "downloadClient": "SABnzbd",
+        "downloadClientName": "sab",
+        "releaseGroup": "HONE",
+        "customFormatScore": "30",
+        "size": "1624369405",
+        "indexerFlags": "0",
+        "releaseType": "SingleEpisode"
+      },
+      "episode": {
+        "seriesId": 1101,
+        "tvdbId": 5762775,
+        "episodeFileId": 1505813,
+        "seasonNumber": 3,
+        "episodeNumber": 6,
+        "title": "Me, Myself, and O",
+        "airDate": "2016-11-02",
+        "airDateUtc": "2016-11-02T07:00:00Z",
+        "runtime": 25,
+        "overview": "Liza and Kelsey pursue an erotica author who writes under a pseudonym and are surprised when the true identity is revealed.",
+        "hasFile": true,
+        "monitored": true,
+        "absoluteEpisodeNumber": 30,
+        "unverifiedSceneNumbering": false,
+        "id": 75244
+      },
+      "series": {
+        "title": "Younger",
+        "sortTitle": "younger",
+        "status": "ended",
+        "ended": true,
+        "overview": "The series follows 40-year old Liza Miller, a suddenly single mother who tries to get back into the working world, only to find it’s nearly impossible to start at the bottom at her age. When a chance encounter with a young guy at a bar convinces her she looks younger than she is, Liza tries to pass herself off as 26 – with the help of a makeover, courtesy of her best friend Maggie. Armed with new confidence, she lands a job as an assistant to the temperamental Diana and teams up with her new co-worker and twentysomething Kelsey to make it in the career of her dreams. Now she just has to make sure no one finds out the secret only she and Maggie share.",
+        "network": "Paramount+",
+        "airTime": "03:00",
+        "images": [
+          {
+            "coverType": "banner",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/graphical/280706-g5.jpg"
+          },
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/posters/280706-1.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/fanart/original/280706-6.jpg"
+          },
+          {
+            "coverType": "clearlogo",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/280706/clearlogo/611bcd47f2d8d.png"
+          }
+        ],
+        "originalLanguage": {
+          "id": 1,
+          "name": "English"
+        },
+        "seasons": [
+          {
+            "seasonNumber": 1,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 2,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 3,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 4,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 5,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 6,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 7,
+            "monitored": true
+          }
+        ],
+        "year": 2015,
+        "path": "/tv/Tv Shows/Younger",
+        "qualityProfileId": 1,
+        "seasonFolder": true,
+        "monitored": true,
+        "monitorNewItems": "all",
+        "useSceneNumbering": false,
+        "runtime": 26,
+        "tvdbId": 280706,
+        "tvRageId": 37246,
+        "tvMazeId": 623,
+        "tmdbId": 62117,
+        "firstAired": "2015-03-31T00:00:00Z",
+        "lastAired": "2021-06-10T00:00:00Z",
+        "seriesType": "standard",
+        "cleanTitle": "younger",
+        "imdbId": "tt3288518",
+        "titleSlug": "younger",
+        "certification": "TV-14",
+        "genres": [
+          "Comedy",
+          "Drama",
+          "Romance"
+        ],
+        "tags": [],
+        "added": "2020-02-09T10:55:51Z",
+        "ratings": {
+          "votes": 28078,
+          "value": 7.8
+        },
+        "languageProfileId": 1,
+        "id": 1101
+      },
+      "id": 356998
+    },
+    {
+      "episodeId": 75244,
+      "seriesId": 1101,
+      "sourceTitle": "/tv/Tv Shows/Younger/Season 3/Younger.s03e06.mkv",
+      "languages": [
+        {
+          "id": 1,
+          "name": "English"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 4,
+          "name": "HDTV-720p",
+          "source": "television",
+          "resolution": 720
+        },
+        "revision": {
+          "version": 1,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "customFormats": [
+        {
+          "id": 3,
+          "name": "english"
+        }
+      ],
+      "customFormatScore": 10,
+      "qualityCutoffNotMet": true,
+      "date": "2025-03-28T19:14:01Z",
+      "eventType": "episodeFileDeleted",
+      "data": {
+        "reason": "Upgrade",
+        "releaseGroup": null,
+        "size": "469742163",
+        "indexerFlags": "0",
+        "releaseType": "Unknown"
+      },
+      "episode": {
+        "seriesId": 1101,
+        "tvdbId": 5762775,
+        "episodeFileId": 1505813,
+        "seasonNumber": 3,
+        "episodeNumber": 6,
+        "title": "Me, Myself, and O",
+        "airDate": "2016-11-02",
+        "airDateUtc": "2016-11-02T07:00:00Z",
+        "runtime": 25,
+        "overview": "Liza and Kelsey pursue an erotica author who writes under a pseudonym and are surprised when the true identity is revealed.",
+        "hasFile": true,
+        "monitored": true,
+        "absoluteEpisodeNumber": 30,
+        "unverifiedSceneNumbering": false,
+        "id": 75244
+      },
+      "series": {
+        "title": "Younger",
+        "sortTitle": "younger",
+        "status": "ended",
+        "ended": true,
+        "overview": "The series follows 40-year old Liza Miller, a suddenly single mother who tries to get back into the working world, only to find it’s nearly impossible to start at the bottom at her age. When a chance encounter with a young guy at a bar convinces her she looks younger than she is, Liza tries to pass herself off as 26 – with the help of a makeover, courtesy of her best friend Maggie. Armed with new confidence, she lands a job as an assistant to the temperamental Diana and teams up with her new co-worker and twentysomething Kelsey to make it in the career of her dreams. Now she just has to make sure no one finds out the secret only she and Maggie share.",
+        "network": "Paramount+",
+        "airTime": "03:00",
+        "images": [
+          {
+            "coverType": "banner",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/graphical/280706-g5.jpg"
+          },
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/posters/280706-1.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/fanart/original/280706-6.jpg"
+          },
+          {
+            "coverType": "clearlogo",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/280706/clearlogo/611bcd47f2d8d.png"
+          }
+        ],
+        "originalLanguage": {
+          "id": 1,
+          "name": "English"
+        },
+        "seasons": [
+          {
+            "seasonNumber": 1,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 2,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 3,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 4,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 5,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 6,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 7,
+            "monitored": true
+          }
+        ],
+        "year": 2015,
+        "path": "/tv/Tv Shows/Younger",
+        "qualityProfileId": 1,
+        "seasonFolder": true,
+        "monitored": true,
+        "monitorNewItems": "all",
+        "useSceneNumbering": false,
+        "runtime": 26,
+        "tvdbId": 280706,
+        "tvRageId": 37246,
+        "tvMazeId": 623,
+        "tmdbId": 62117,
+        "firstAired": "2015-03-31T00:00:00Z",
+        "lastAired": "2021-06-10T00:00:00Z",
+        "seriesType": "standard",
+        "cleanTitle": "younger",
+        "imdbId": "tt3288518",
+        "titleSlug": "younger",
+        "certification": "TV-14",
+        "genres": [
+          "Comedy",
+          "Drama",
+          "Romance"
+        ],
+        "tags": [],
+        "added": "2020-02-09T10:55:51Z",
+        "ratings": {
+          "votes": 28078,
+          "value": 7.8
+        },
+        "languageProfileId": 1,
+        "id": 1101
+      },
+      "id": 356997
+    },
+    {
+      "episodeId": 75245,
+      "seriesId": 1101,
+      "sourceTitle": "Younger.2015.S03E07.1080p.AMZN.WEB-DL.H265.SDR.DDP.5.1.English-HONE",
+      "languages": [
+        {
+          "id": 1,
+          "name": "English"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 3,
+          "name": "WEBDL-1080p",
+          "source": "web",
+          "resolution": 1080
+        },
+        "revision": {
+          "version": 1,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "customFormats": [
+        {
+          "id": 3,
+          "name": "english"
+        },
+        {
+          "id": 1,
+          "name": "english 265"
+        }
+      ],
+      "customFormatScore": 30,
+      "qualityCutoffNotMet": false,
+      "date": "2025-03-28T19:14:01Z",
+      "downloadId": "SABnzbd_nzo_8ex_pyvj",
+      "eventType": "downloadFolderImported",
+      "data": {
+        "fileId": "1505812",
+        "droppedPath": "/downloads/Younger.2015.S03E07.1080p.AMZN.WEB-DL.H265.SDR.DDP.5.1.English-HONE/Younger.2015.S03E07.1080p.AMZN.WEB-DL.H265.SDR.DDP.5.1.English-HONE.mkv",
+        "importedPath": "/tv/Tv Shows/Younger/Season 3/Younger.S03E07.Ladies.Who.Lust.mkv",
+        "downloadClient": "SABnzbd",
+        "downloadClientName": "sab",
+        "releaseGroup": "HONE",
+        "customFormatScore": "30",
+        "size": "1557568547",
+        "indexerFlags": "0",
+        "releaseType": "SingleEpisode"
+      },
+      "episode": {
+        "seriesId": 1101,
+        "tvdbId": 5762776,
+        "episodeFileId": 1505812,
+        "seasonNumber": 3,
+        "episodeNumber": 7,
+        "title": "Ladies Who Lust",
+        "airDate": "2016-11-09",
+        "airDateUtc": "2016-11-09T08:00:00Z",
+        "runtime": 25,
+        "overview": "A women’s erotica event threatens to expose the author’s secret while Liza and Kelsey try to preserve it.",
+        "hasFile": true,
+        "monitored": true,
+        "absoluteEpisodeNumber": 31,
+        "unverifiedSceneNumbering": false,
+        "id": 75245
+      },
+      "series": {
+        "title": "Younger",
+        "sortTitle": "younger",
+        "status": "ended",
+        "ended": true,
+        "overview": "The series follows 40-year old Liza Miller, a suddenly single mother who tries to get back into the working world, only to find it’s nearly impossible to start at the bottom at her age. When a chance encounter with a young guy at a bar convinces her she looks younger than she is, Liza tries to pass herself off as 26 – with the help of a makeover, courtesy of her best friend Maggie. Armed with new confidence, she lands a job as an assistant to the temperamental Diana and teams up with her new co-worker and twentysomething Kelsey to make it in the career of her dreams. Now she just has to make sure no one finds out the secret only she and Maggie share.",
+        "network": "Paramount+",
+        "airTime": "03:00",
+        "images": [
+          {
+            "coverType": "banner",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/graphical/280706-g5.jpg"
+          },
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/posters/280706-1.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/fanart/original/280706-6.jpg"
+          },
+          {
+            "coverType": "clearlogo",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/280706/clearlogo/611bcd47f2d8d.png"
+          }
+        ],
+        "originalLanguage": {
+          "id": 1,
+          "name": "English"
+        },
+        "seasons": [
+          {
+            "seasonNumber": 1,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 2,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 3,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 4,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 5,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 6,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 7,
+            "monitored": true
+          }
+        ],
+        "year": 2015,
+        "path": "/tv/Tv Shows/Younger",
+        "qualityProfileId": 1,
+        "seasonFolder": true,
+        "monitored": true,
+        "monitorNewItems": "all",
+        "useSceneNumbering": false,
+        "runtime": 26,
+        "tvdbId": 280706,
+        "tvRageId": 37246,
+        "tvMazeId": 623,
+        "tmdbId": 62117,
+        "firstAired": "2015-03-31T00:00:00Z",
+        "lastAired": "2021-06-10T00:00:00Z",
+        "seriesType": "standard",
+        "cleanTitle": "younger",
+        "imdbId": "tt3288518",
+        "titleSlug": "younger",
+        "certification": "TV-14",
+        "genres": [
+          "Comedy",
+          "Drama",
+          "Romance"
+        ],
+        "tags": [],
+        "added": "2020-02-09T10:55:51Z",
+        "ratings": {
+          "votes": 28078,
+          "value": 7.8
+        },
+        "languageProfileId": 1,
+        "id": 1101
+      },
+      "id": 356996
+    },
+    {
+      "episodeId": 75245,
+      "seriesId": 1101,
+      "sourceTitle": "/tv/Tv Shows/Younger/Season 3/Younger.s03e07.mkv",
+      "languages": [
+        {
+          "id": 1,
+          "name": "English"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 1,
+          "name": "SDTV",
+          "source": "television",
+          "resolution": 480
+        },
+        "revision": {
+          "version": 1,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "customFormats": [
+        {
+          "id": 3,
+          "name": "english"
+        }
+      ],
+      "customFormatScore": 10,
+      "qualityCutoffNotMet": true,
+      "date": "2025-03-28T19:14:00Z",
+      "eventType": "episodeFileDeleted",
+      "data": {
+        "reason": "Upgrade",
+        "releaseGroup": null,
+        "size": "121400287",
+        "indexerFlags": "0",
+        "releaseType": "Unknown"
+      },
+      "episode": {
+        "seriesId": 1101,
+        "tvdbId": 5762776,
+        "episodeFileId": 1505812,
+        "seasonNumber": 3,
+        "episodeNumber": 7,
+        "title": "Ladies Who Lust",
+        "airDate": "2016-11-09",
+        "airDateUtc": "2016-11-09T08:00:00Z",
+        "runtime": 25,
+        "overview": "A women’s erotica event threatens to expose the author’s secret while Liza and Kelsey try to preserve it.",
+        "hasFile": true,
+        "monitored": true,
+        "absoluteEpisodeNumber": 31,
+        "unverifiedSceneNumbering": false,
+        "id": 75245
+      },
+      "series": {
+        "title": "Younger",
+        "sortTitle": "younger",
+        "status": "ended",
+        "ended": true,
+        "overview": "The series follows 40-year old Liza Miller, a suddenly single mother who tries to get back into the working world, only to find it’s nearly impossible to start at the bottom at her age. When a chance encounter with a young guy at a bar convinces her she looks younger than she is, Liza tries to pass herself off as 26 – with the help of a makeover, courtesy of her best friend Maggie. Armed with new confidence, she lands a job as an assistant to the temperamental Diana and teams up with her new co-worker and twentysomething Kelsey to make it in the career of her dreams. Now she just has to make sure no one finds out the secret only she and Maggie share.",
+        "network": "Paramount+",
+        "airTime": "03:00",
+        "images": [
+          {
+            "coverType": "banner",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/graphical/280706-g5.jpg"
+          },
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/posters/280706-1.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/fanart/original/280706-6.jpg"
+          },
+          {
+            "coverType": "clearlogo",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/280706/clearlogo/611bcd47f2d8d.png"
+          }
+        ],
+        "originalLanguage": {
+          "id": 1,
+          "name": "English"
+        },
+        "seasons": [
+          {
+            "seasonNumber": 1,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 2,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 3,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 4,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 5,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 6,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 7,
+            "monitored": true
+          }
+        ],
+        "year": 2015,
+        "path": "/tv/Tv Shows/Younger",
+        "qualityProfileId": 1,
+        "seasonFolder": true,
+        "monitored": true,
+        "monitorNewItems": "all",
+        "useSceneNumbering": false,
+        "runtime": 26,
+        "tvdbId": 280706,
+        "tvRageId": 37246,
+        "tvMazeId": 623,
+        "tmdbId": 62117,
+        "firstAired": "2015-03-31T00:00:00Z",
+        "lastAired": "2021-06-10T00:00:00Z",
+        "seriesType": "standard",
+        "cleanTitle": "younger",
+        "imdbId": "tt3288518",
+        "titleSlug": "younger",
+        "certification": "TV-14",
+        "genres": [
+          "Comedy",
+          "Drama",
+          "Romance"
+        ],
+        "tags": [],
+        "added": "2020-02-09T10:55:51Z",
+        "ratings": {
+          "votes": 28078,
+          "value": 7.8
+        },
+        "languageProfileId": 1,
+        "id": 1101
+      },
+      "id": 356995
+    },
+    {
+      "episodeId": 75243,
+      "seriesId": 1101,
+      "sourceTitle": "Younger.2015.S03E05.1080p.AMZN.WEB-DL.H265.SDR.DDP.5.1.English-HONE",
+      "languages": [
+        {
+          "id": 1,
+          "name": "English"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 3,
+          "name": "WEBDL-1080p",
+          "source": "web",
+          "resolution": 1080
+        },
+        "revision": {
+          "version": 1,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "customFormats": [
+        {
+          "id": 3,
+          "name": "english"
+        },
+        {
+          "id": 1,
+          "name": "english 265"
+        }
+      ],
+      "customFormatScore": 30,
+      "qualityCutoffNotMet": false,
+      "date": "2025-03-28T19:13:02Z",
+      "downloadId": "SABnzbd_nzo_clvdutqt",
+      "eventType": "downloadFolderImported",
+      "data": {
+        "fileId": "1505811",
+        "droppedPath": "/downloads/Younger.2015.S03E05.1080p.AMZN.WEB-DL.H265.SDR.DDP.5.1.English-HONE/Younger.2015.S03E05.1080p.AMZN.WEB-DL.H265.SDR.DDP.5.1.English-HONE.mkv",
+        "importedPath": "/tv/Tv Shows/Younger/Season 3/Younger.S03E05.P.is.for.Pancake.mkv",
+        "downloadClient": "SABnzbd",
+        "downloadClientName": "sab",
+        "releaseGroup": "HONE",
+        "customFormatScore": "30",
+        "size": "1610594241",
+        "indexerFlags": "0",
+        "releaseType": "SingleEpisode"
+      },
+      "episode": {
+        "seriesId": 1101,
+        "tvdbId": 5762774,
+        "episodeFileId": 1505811,
+        "seasonNumber": 3,
+        "episodeNumber": 5,
+        "title": "P is for Pancake",
+        "airDate": "2016-10-26",
+        "airDateUtc": "2016-10-26T07:00:00Z",
+        "runtime": 25,
+        "overview": "Kelsey starts dating, but Liza and Lauren fear she’s moving too fast. Also: Josh examines his relationship with Liza.",
+        "hasFile": true,
+        "monitored": true,
+        "absoluteEpisodeNumber": 29,
+        "unverifiedSceneNumbering": false,
+        "id": 75243
+      },
+      "series": {
+        "title": "Younger",
+        "sortTitle": "younger",
+        "status": "ended",
+        "ended": true,
+        "overview": "The series follows 40-year old Liza Miller, a suddenly single mother who tries to get back into the working world, only to find it’s nearly impossible to start at the bottom at her age. When a chance encounter with a young guy at a bar convinces her she looks younger than she is, Liza tries to pass herself off as 26 – with the help of a makeover, courtesy of her best friend Maggie. Armed with new confidence, she lands a job as an assistant to the temperamental Diana and teams up with her new co-worker and twentysomething Kelsey to make it in the career of her dreams. Now she just has to make sure no one finds out the secret only she and Maggie share.",
+        "network": "Paramount+",
+        "airTime": "03:00",
+        "images": [
+          {
+            "coverType": "banner",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/graphical/280706-g5.jpg"
+          },
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/posters/280706-1.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/fanart/original/280706-6.jpg"
+          },
+          {
+            "coverType": "clearlogo",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/280706/clearlogo/611bcd47f2d8d.png"
+          }
+        ],
+        "originalLanguage": {
+          "id": 1,
+          "name": "English"
+        },
+        "seasons": [
+          {
+            "seasonNumber": 1,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 2,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 3,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 4,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 5,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 6,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 7,
+            "monitored": true
+          }
+        ],
+        "year": 2015,
+        "path": "/tv/Tv Shows/Younger",
+        "qualityProfileId": 1,
+        "seasonFolder": true,
+        "monitored": true,
+        "monitorNewItems": "all",
+        "useSceneNumbering": false,
+        "runtime": 26,
+        "tvdbId": 280706,
+        "tvRageId": 37246,
+        "tvMazeId": 623,
+        "tmdbId": 62117,
+        "firstAired": "2015-03-31T00:00:00Z",
+        "lastAired": "2021-06-10T00:00:00Z",
+        "seriesType": "standard",
+        "cleanTitle": "younger",
+        "imdbId": "tt3288518",
+        "titleSlug": "younger",
+        "certification": "TV-14",
+        "genres": [
+          "Comedy",
+          "Drama",
+          "Romance"
+        ],
+        "tags": [],
+        "added": "2020-02-09T10:55:51Z",
+        "ratings": {
+          "votes": 28078,
+          "value": 7.8
+        },
+        "languageProfileId": 1,
+        "id": 1101
+      },
+      "id": 356994
+    },
+    {
+      "episodeId": 75243,
+      "seriesId": 1101,
+      "sourceTitle": "/tv/Tv Shows/Younger/Season 3/Younger.s03e05.mkv",
+      "languages": [
+        {
+          "id": 1,
+          "name": "English"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 4,
+          "name": "HDTV-720p",
+          "source": "television",
+          "resolution": 720
+        },
+        "revision": {
+          "version": 1,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "customFormats": [
+        {
+          "id": 3,
+          "name": "english"
+        }
+      ],
+      "customFormatScore": 10,
+      "qualityCutoffNotMet": true,
+      "date": "2025-03-28T19:13:01Z",
+      "eventType": "episodeFileDeleted",
+      "data": {
+        "reason": "Upgrade",
+        "releaseGroup": null,
+        "size": "501972182",
+        "indexerFlags": "0",
+        "releaseType": "Unknown"
+      },
+      "episode": {
+        "seriesId": 1101,
+        "tvdbId": 5762774,
+        "episodeFileId": 1505811,
+        "seasonNumber": 3,
+        "episodeNumber": 5,
+        "title": "P is for Pancake",
+        "airDate": "2016-10-26",
+        "airDateUtc": "2016-10-26T07:00:00Z",
+        "runtime": 25,
+        "overview": "Kelsey starts dating, but Liza and Lauren fear she’s moving too fast. Also: Josh examines his relationship with Liza.",
+        "hasFile": true,
+        "monitored": true,
+        "absoluteEpisodeNumber": 29,
+        "unverifiedSceneNumbering": false,
+        "id": 75243
+      },
+      "series": {
+        "title": "Younger",
+        "sortTitle": "younger",
+        "status": "ended",
+        "ended": true,
+        "overview": "The series follows 40-year old Liza Miller, a suddenly single mother who tries to get back into the working world, only to find it’s nearly impossible to start at the bottom at her age. When a chance encounter with a young guy at a bar convinces her she looks younger than she is, Liza tries to pass herself off as 26 – with the help of a makeover, courtesy of her best friend Maggie. Armed with new confidence, she lands a job as an assistant to the temperamental Diana and teams up with her new co-worker and twentysomething Kelsey to make it in the career of her dreams. Now she just has to make sure no one finds out the secret only she and Maggie share.",
+        "network": "Paramount+",
+        "airTime": "03:00",
+        "images": [
+          {
+            "coverType": "banner",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/graphical/280706-g5.jpg"
+          },
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/posters/280706-1.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/fanart/original/280706-6.jpg"
+          },
+          {
+            "coverType": "clearlogo",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/280706/clearlogo/611bcd47f2d8d.png"
+          }
+        ],
+        "originalLanguage": {
+          "id": 1,
+          "name": "English"
+        },
+        "seasons": [
+          {
+            "seasonNumber": 1,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 2,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 3,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 4,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 5,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 6,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 7,
+            "monitored": true
+          }
+        ],
+        "year": 2015,
+        "path": "/tv/Tv Shows/Younger",
+        "qualityProfileId": 1,
+        "seasonFolder": true,
+        "monitored": true,
+        "monitorNewItems": "all",
+        "useSceneNumbering": false,
+        "runtime": 26,
+        "tvdbId": 280706,
+        "tvRageId": 37246,
+        "tvMazeId": 623,
+        "tmdbId": 62117,
+        "firstAired": "2015-03-31T00:00:00Z",
+        "lastAired": "2021-06-10T00:00:00Z",
+        "seriesType": "standard",
+        "cleanTitle": "younger",
+        "imdbId": "tt3288518",
+        "titleSlug": "younger",
+        "certification": "TV-14",
+        "genres": [
+          "Comedy",
+          "Drama",
+          "Romance"
+        ],
+        "tags": [],
+        "added": "2020-02-09T10:55:51Z",
+        "ratings": {
+          "votes": 28078,
+          "value": 7.8
+        },
+        "languageProfileId": 1,
+        "id": 1101
+      },
+      "id": 356993
+    },
+    {
+      "episodeId": 75242,
+      "seriesId": 1101,
+      "sourceTitle": "Younger.2015.S03E04.1080p.AMZN.WEB-DL.H265.SDR.DDP.5.1.English-HONE",
+      "languages": [
+        {
+          "id": 1,
+          "name": "English"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 3,
+          "name": "WEBDL-1080p",
+          "source": "web",
+          "resolution": 1080
+        },
+        "revision": {
+          "version": 1,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "customFormats": [
+        {
+          "id": 3,
+          "name": "english"
+        },
+        {
+          "id": 1,
+          "name": "english 265"
+        }
+      ],
+      "customFormatScore": 30,
+      "qualityCutoffNotMet": false,
+      "date": "2025-03-28T19:13:01Z",
+      "downloadId": "SABnzbd_nzo_m5d5_oap",
+      "eventType": "downloadFolderImported",
+      "data": {
+        "fileId": "1505810",
+        "droppedPath": "/downloads/Younger.2015.S03E04.1080p.AMZN.WEB-DL.H265.SDR.DDP.5.1.English-HONE/Younger.2015.S03E04.1080p.AMZN.WEB-DL.H265.SDR.DDP.5.1.English-HONE.mkv",
+        "importedPath": "/tv/Tv Shows/Younger/Season 3/Younger.S03E04.A.Night.at.the.Opera.mkv",
+        "downloadClient": "SABnzbd",
+        "downloadClientName": "sab",
+        "releaseGroup": "HONE",
+        "customFormatScore": "30",
+        "size": "1482719737",
+        "indexerFlags": "0",
+        "releaseType": "SingleEpisode"
+      },
+      "episode": {
+        "seriesId": 1101,
+        "tvdbId": 5762773,
+        "episodeFileId": 1505810,
+        "seasonNumber": 3,
+        "episodeNumber": 4,
+        "title": "A Night at the Opera",
+        "airDate": "2016-10-19",
+        "airDateUtc": "2016-10-19T07:00:00Z",
+        "runtime": 25,
+        "overview": "Liza tries to sign YouTube stars to Empirical.",
+        "hasFile": true,
+        "monitored": true,
+        "absoluteEpisodeNumber": 28,
+        "unverifiedSceneNumbering": false,
+        "id": 75242
+      },
+      "series": {
+        "title": "Younger",
+        "sortTitle": "younger",
+        "status": "ended",
+        "ended": true,
+        "overview": "The series follows 40-year old Liza Miller, a suddenly single mother who tries to get back into the working world, only to find it’s nearly impossible to start at the bottom at her age. When a chance encounter with a young guy at a bar convinces her she looks younger than she is, Liza tries to pass herself off as 26 – with the help of a makeover, courtesy of her best friend Maggie. Armed with new confidence, she lands a job as an assistant to the temperamental Diana and teams up with her new co-worker and twentysomething Kelsey to make it in the career of her dreams. Now she just has to make sure no one finds out the secret only she and Maggie share.",
+        "network": "Paramount+",
+        "airTime": "03:00",
+        "images": [
+          {
+            "coverType": "banner",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/graphical/280706-g5.jpg"
+          },
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/posters/280706-1.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/fanart/original/280706-6.jpg"
+          },
+          {
+            "coverType": "clearlogo",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/280706/clearlogo/611bcd47f2d8d.png"
+          }
+        ],
+        "originalLanguage": {
+          "id": 1,
+          "name": "English"
+        },
+        "seasons": [
+          {
+            "seasonNumber": 1,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 2,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 3,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 4,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 5,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 6,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 7,
+            "monitored": true
+          }
+        ],
+        "year": 2015,
+        "path": "/tv/Tv Shows/Younger",
+        "qualityProfileId": 1,
+        "seasonFolder": true,
+        "monitored": true,
+        "monitorNewItems": "all",
+        "useSceneNumbering": false,
+        "runtime": 26,
+        "tvdbId": 280706,
+        "tvRageId": 37246,
+        "tvMazeId": 623,
+        "tmdbId": 62117,
+        "firstAired": "2015-03-31T00:00:00Z",
+        "lastAired": "2021-06-10T00:00:00Z",
+        "seriesType": "standard",
+        "cleanTitle": "younger",
+        "imdbId": "tt3288518",
+        "titleSlug": "younger",
+        "certification": "TV-14",
+        "genres": [
+          "Comedy",
+          "Drama",
+          "Romance"
+        ],
+        "tags": [],
+        "added": "2020-02-09T10:55:51Z",
+        "ratings": {
+          "votes": 28078,
+          "value": 7.8
+        },
+        "languageProfileId": 1,
+        "id": 1101
+      },
+      "id": 356992
+    },
+    {
+      "episodeId": 75242,
+      "seriesId": 1101,
+      "sourceTitle": "/tv/Tv Shows/Younger/Season 3/Younger.s03e04.mkv",
+      "languages": [
+        {
+          "id": 1,
+          "name": "English"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 4,
+          "name": "HDTV-720p",
+          "source": "television",
+          "resolution": 720
+        },
+        "revision": {
+          "version": 1,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "customFormats": [
+        {
+          "id": 3,
+          "name": "english"
+        }
+      ],
+      "customFormatScore": 10,
+      "qualityCutoffNotMet": true,
+      "date": "2025-03-28T19:13:00Z",
+      "eventType": "episodeFileDeleted",
+      "data": {
+        "reason": "Upgrade",
+        "releaseGroup": null,
+        "size": "472026313",
+        "indexerFlags": "0",
+        "releaseType": "Unknown"
+      },
+      "episode": {
+        "seriesId": 1101,
+        "tvdbId": 5762773,
+        "episodeFileId": 1505810,
+        "seasonNumber": 3,
+        "episodeNumber": 4,
+        "title": "A Night at the Opera",
+        "airDate": "2016-10-19",
+        "airDateUtc": "2016-10-19T07:00:00Z",
+        "runtime": 25,
+        "overview": "Liza tries to sign YouTube stars to Empirical.",
+        "hasFile": true,
+        "monitored": true,
+        "absoluteEpisodeNumber": 28,
+        "unverifiedSceneNumbering": false,
+        "id": 75242
+      },
+      "series": {
+        "title": "Younger",
+        "sortTitle": "younger",
+        "status": "ended",
+        "ended": true,
+        "overview": "The series follows 40-year old Liza Miller, a suddenly single mother who tries to get back into the working world, only to find it’s nearly impossible to start at the bottom at her age. When a chance encounter with a young guy at a bar convinces her she looks younger than she is, Liza tries to pass herself off as 26 – with the help of a makeover, courtesy of her best friend Maggie. Armed with new confidence, she lands a job as an assistant to the temperamental Diana and teams up with her new co-worker and twentysomething Kelsey to make it in the career of her dreams. Now she just has to make sure no one finds out the secret only she and Maggie share.",
+        "network": "Paramount+",
+        "airTime": "03:00",
+        "images": [
+          {
+            "coverType": "banner",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/graphical/280706-g5.jpg"
+          },
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/posters/280706-1.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/fanart/original/280706-6.jpg"
+          },
+          {
+            "coverType": "clearlogo",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/280706/clearlogo/611bcd47f2d8d.png"
+          }
+        ],
+        "originalLanguage": {
+          "id": 1,
+          "name": "English"
+        },
+        "seasons": [
+          {
+            "seasonNumber": 1,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 2,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 3,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 4,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 5,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 6,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 7,
+            "monitored": true
+          }
+        ],
+        "year": 2015,
+        "path": "/tv/Tv Shows/Younger",
+        "qualityProfileId": 1,
+        "seasonFolder": true,
+        "monitored": true,
+        "monitorNewItems": "all",
+        "useSceneNumbering": false,
+        "runtime": 26,
+        "tvdbId": 280706,
+        "tvRageId": 37246,
+        "tvMazeId": 623,
+        "tmdbId": 62117,
+        "firstAired": "2015-03-31T00:00:00Z",
+        "lastAired": "2021-06-10T00:00:00Z",
+        "seriesType": "standard",
+        "cleanTitle": "younger",
+        "imdbId": "tt3288518",
+        "titleSlug": "younger",
+        "certification": "TV-14",
+        "genres": [
+          "Comedy",
+          "Drama",
+          "Romance"
+        ],
+        "tags": [],
+        "added": "2020-02-09T10:55:51Z",
+        "ratings": {
+          "votes": 28078,
+          "value": 7.8
+        },
+        "languageProfileId": 1,
+        "id": 1101
+      },
+      "id": 356991
+    },
+    {
+      "episodeId": 75240,
+      "seriesId": 1101,
+      "sourceTitle": "Younger.2015.S03E02.1080p.AMZN.WEB-DL.H265.SDR.DDP.5.1.English-HONE",
+      "languages": [
+        {
+          "id": 1,
+          "name": "English"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 3,
+          "name": "WEBDL-1080p",
+          "source": "web",
+          "resolution": 1080
+        },
+        "revision": {
+          "version": 1,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "customFormats": [
+        {
+          "id": 3,
+          "name": "english"
+        },
+        {
+          "id": 1,
+          "name": "english 265"
+        }
+      ],
+      "customFormatScore": 30,
+      "qualityCutoffNotMet": false,
+      "date": "2025-03-28T19:12:04Z",
+      "downloadId": "SABnzbd_nzo_xdd_6p20",
+      "eventType": "downloadFolderImported",
+      "data": {
+        "fileId": "1505809",
+        "droppedPath": "/downloads/Younger.2015.S03E02.1080p.AMZN.WEB-DL.H265.SDR.DDP.5.1.English-HONE/Younger.2015.S03E02.1080p.AMZN.WEB-DL.H265.SDR.DDP.5.1.English-HONE.mkv",
+        "importedPath": "/tv/Tv Shows/Younger/Season 3/Younger.S03E02.The.Marshmallow.Experiment.mkv",
+        "downloadClient": "SABnzbd",
+        "downloadClientName": "sab",
+        "releaseGroup": "HONE",
+        "customFormatScore": "30",
+        "size": "1479713092",
+        "indexerFlags": "0",
+        "releaseType": "SingleEpisode"
+      },
+      "episode": {
+        "seriesId": 1101,
+        "tvdbId": 5762770,
+        "episodeFileId": 1505809,
+        "seasonNumber": 3,
+        "episodeNumber": 2,
+        "title": "The Marshmallow Experiment",
+        "airDate": "2016-10-05",
+        "airDateUtc": "2016-10-05T07:00:00Z",
+        "runtime": 25,
+        "overview": "Liza’s identity is threatened by Thad’s laptop and Kelsey. Also: a Silicon Valley billionaire makes an investment in Empirical.",
+        "hasFile": true,
+        "monitored": true,
+        "absoluteEpisodeNumber": 26,
+        "unverifiedSceneNumbering": false,
+        "id": 75240
+      },
+      "series": {
+        "title": "Younger",
+        "sortTitle": "younger",
+        "status": "ended",
+        "ended": true,
+        "overview": "The series follows 40-year old Liza Miller, a suddenly single mother who tries to get back into the working world, only to find it’s nearly impossible to start at the bottom at her age. When a chance encounter with a young guy at a bar convinces her she looks younger than she is, Liza tries to pass herself off as 26 – with the help of a makeover, courtesy of her best friend Maggie. Armed with new confidence, she lands a job as an assistant to the temperamental Diana and teams up with her new co-worker and twentysomething Kelsey to make it in the career of her dreams. Now she just has to make sure no one finds out the secret only she and Maggie share.",
+        "network": "Paramount+",
+        "airTime": "03:00",
+        "images": [
+          {
+            "coverType": "banner",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/graphical/280706-g5.jpg"
+          },
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/posters/280706-1.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/fanart/original/280706-6.jpg"
+          },
+          {
+            "coverType": "clearlogo",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/280706/clearlogo/611bcd47f2d8d.png"
+          }
+        ],
+        "originalLanguage": {
+          "id": 1,
+          "name": "English"
+        },
+        "seasons": [
+          {
+            "seasonNumber": 1,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 2,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 3,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 4,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 5,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 6,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 7,
+            "monitored": true
+          }
+        ],
+        "year": 2015,
+        "path": "/tv/Tv Shows/Younger",
+        "qualityProfileId": 1,
+        "seasonFolder": true,
+        "monitored": true,
+        "monitorNewItems": "all",
+        "useSceneNumbering": false,
+        "runtime": 26,
+        "tvdbId": 280706,
+        "tvRageId": 37246,
+        "tvMazeId": 623,
+        "tmdbId": 62117,
+        "firstAired": "2015-03-31T00:00:00Z",
+        "lastAired": "2021-06-10T00:00:00Z",
+        "seriesType": "standard",
+        "cleanTitle": "younger",
+        "imdbId": "tt3288518",
+        "titleSlug": "younger",
+        "certification": "TV-14",
+        "genres": [
+          "Comedy",
+          "Drama",
+          "Romance"
+        ],
+        "tags": [],
+        "added": "2020-02-09T10:55:51Z",
+        "ratings": {
+          "votes": 28078,
+          "value": 7.8
+        },
+        "languageProfileId": 1,
+        "id": 1101
+      },
+      "id": 356990
+    },
+    {
+      "episodeId": 75240,
+      "seriesId": 1101,
+      "sourceTitle": "/tv/Tv Shows/Younger/Season 3/Younger.s03e02.mkv",
+      "languages": [
+        {
+          "id": 1,
+          "name": "English"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 4,
+          "name": "HDTV-720p",
+          "source": "television",
+          "resolution": 720
+        },
+        "revision": {
+          "version": 1,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "customFormats": [
+        {
+          "id": 3,
+          "name": "english"
+        }
+      ],
+      "customFormatScore": 10,
+      "qualityCutoffNotMet": true,
+      "date": "2025-03-28T19:12:03Z",
+      "eventType": "episodeFileDeleted",
+      "data": {
+        "reason": "Upgrade",
+        "releaseGroup": null,
+        "size": "432109351",
+        "indexerFlags": "0",
+        "releaseType": "Unknown"
+      },
+      "episode": {
+        "seriesId": 1101,
+        "tvdbId": 5762770,
+        "episodeFileId": 1505809,
+        "seasonNumber": 3,
+        "episodeNumber": 2,
+        "title": "The Marshmallow Experiment",
+        "airDate": "2016-10-05",
+        "airDateUtc": "2016-10-05T07:00:00Z",
+        "runtime": 25,
+        "overview": "Liza’s identity is threatened by Thad’s laptop and Kelsey. Also: a Silicon Valley billionaire makes an investment in Empirical.",
+        "hasFile": true,
+        "monitored": true,
+        "absoluteEpisodeNumber": 26,
+        "unverifiedSceneNumbering": false,
+        "id": 75240
+      },
+      "series": {
+        "title": "Younger",
+        "sortTitle": "younger",
+        "status": "ended",
+        "ended": true,
+        "overview": "The series follows 40-year old Liza Miller, a suddenly single mother who tries to get back into the working world, only to find it’s nearly impossible to start at the bottom at her age. When a chance encounter with a young guy at a bar convinces her she looks younger than she is, Liza tries to pass herself off as 26 – with the help of a makeover, courtesy of her best friend Maggie. Armed with new confidence, she lands a job as an assistant to the temperamental Diana and teams up with her new co-worker and twentysomething Kelsey to make it in the career of her dreams. Now she just has to make sure no one finds out the secret only she and Maggie share.",
+        "network": "Paramount+",
+        "airTime": "03:00",
+        "images": [
+          {
+            "coverType": "banner",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/graphical/280706-g5.jpg"
+          },
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/posters/280706-1.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/fanart/original/280706-6.jpg"
+          },
+          {
+            "coverType": "clearlogo",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/280706/clearlogo/611bcd47f2d8d.png"
+          }
+        ],
+        "originalLanguage": {
+          "id": 1,
+          "name": "English"
+        },
+        "seasons": [
+          {
+            "seasonNumber": 1,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 2,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 3,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 4,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 5,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 6,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 7,
+            "monitored": true
+          }
+        ],
+        "year": 2015,
+        "path": "/tv/Tv Shows/Younger",
+        "qualityProfileId": 1,
+        "seasonFolder": true,
+        "monitored": true,
+        "monitorNewItems": "all",
+        "useSceneNumbering": false,
+        "runtime": 26,
+        "tvdbId": 280706,
+        "tvRageId": 37246,
+        "tvMazeId": 623,
+        "tmdbId": 62117,
+        "firstAired": "2015-03-31T00:00:00Z",
+        "lastAired": "2021-06-10T00:00:00Z",
+        "seriesType": "standard",
+        "cleanTitle": "younger",
+        "imdbId": "tt3288518",
+        "titleSlug": "younger",
+        "certification": "TV-14",
+        "genres": [
+          "Comedy",
+          "Drama",
+          "Romance"
+        ],
+        "tags": [],
+        "added": "2020-02-09T10:55:51Z",
+        "ratings": {
+          "votes": 28078,
+          "value": 7.8
+        },
+        "languageProfileId": 1,
+        "id": 1101
+      },
+      "id": 356989
+    }
+  ]
+}

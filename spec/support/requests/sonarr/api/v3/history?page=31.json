@@ -1,0 +1,2534 @@
+{
+  "page": 31,
+  "pageSize": 15,
+  "sortKey": "date",
+  "sortDirection": "descending",
+  "totalRecords": 344511,
+  "records": [
+    {
+      "episodeId": 69644,
+      "seriesId": 1006,
+      "sourceTitle": "the.man.in.the.high.castle.s04e02.1080p.WEBRip.HDR10.10Bit.DDP5.1.HEVC-d3g",
+      "languages": [
+        {
+          "id": 1,
+          "name": "English"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 15,
+          "name": "WEBRip-1080p",
+          "source": "webRip",
+          "resolution": 1080
+        },
+        "revision": {
+          "version": 1,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "customFormats": [
+        {
+          "id": 3,
+          "name": "english"
+        },
+        {
+          "id": 1,
+          "name": "english 265"
+        }
+      ],
+      "customFormatScore": 30,
+      "qualityCutoffNotMet": false,
+      "date": "2025-03-25T14:57:05Z",
+      "downloadId": "SABnzbd_nzo_9rpggh9t",
+      "eventType": "downloadFolderImported",
+      "data": {
+        "fileId": "1504426",
+        "droppedPath": "/downloads/the.man.in.the.high.castle.s04e02.1080p.WEBRip.HDR10.10Bit.DDP5.1.HEVC-d3g/the.man.in.the.high.castle.s04e02.1080p.WEBRip.HDR10.10Bit.DDP5.1.HEVC-d3g.mkv",
+        "importedPath": "/tv/Tv Shows/the Man in the High Castle/Season 4/The.Man.in.the.High.Castle.S04E02.Every.Door.Out.mkv",
+        "downloadClient": "SABnzbd",
+        "downloadClientName": "sab",
+        "releaseGroup": "d3g",
+        "customFormatScore": "30",
+        "size": "2838187294",
+        "indexerFlags": "0",
+        "releaseType": "SingleEpisode"
+      },
+      "episode": {
+        "seriesId": 1006,
+        "tvdbId": 7465726,
+        "episodeFileId": 1504426,
+        "seasonNumber": 4,
+        "episodeNumber": 2,
+        "title": "Every Door Out...",
+        "airDate": "2019-11-15",
+        "airDateUtc": "2019-11-15T05:00:00Z",
+        "runtime": 60,
+        "overview": "John Smith receives key intelligence from his officers at the Die Nebenwelt complex, while back at home he struggles with the changing dynamics of his family. Bell Mallory and the BCR join forces with Wyatt Price's rebels. Kido tries to bond with his estranged son.  Childan makes a connection with his Japanese assistant.  Juliana discovers an enemy in one world can be a friend in another.",
+        "hasFile": true,
+        "monitored": true,
+        "absoluteEpisodeNumber": 32,
+        "unverifiedSceneNumbering": false,
+        "id": 69644
+      },
+      "series": {
+        "title": "The Man in the High Castle",
+        "sortTitle": "man in the high castle",
+        "status": "ended",
+        "ended": true,
+        "overview": "A glimpse into an alternate history of North America: what life after WWII might have been like if the Nazis had won the war. The Man in the High Castle explores daily life in 1962, fourteen years after the end of a longer Second World War (1939–1948 in this history). The victorious Axis Powers - Imperial Japan, Fascist Italy, and Nazi Germany - are conducting intrigues against each other in North America, specifically in the former U.S., which surrendered to them once they had conquered Eurasia and destroyed the populaces of Africa.",
+        "network": "Prime Video",
+        "airTime": "00:00",
+        "images": [
+          {
+            "coverType": "banner",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/graphical/295829-g8.jpg"
+          },
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/posters/295829-7.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/fanart/original/295829-3.jpg"
+          },
+          {
+            "coverType": "clearlogo",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/295829/clearlogo/611b882618b9b.png"
+          }
+        ],
+        "originalLanguage": {
+          "id": 1,
+          "name": "English"
+        },
+        "seasons": [
+          {
+            "seasonNumber": 0,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 1,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 2,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 3,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 4,
+            "monitored": true
+          }
+        ],
+        "year": 2015,
+        "path": "/tv/Tv Shows/the Man in the High Castle",
+        "qualityProfileId": 1,
+        "seasonFolder": true,
+        "monitored": true,
+        "monitorNewItems": "all",
+        "useSceneNumbering": false,
+        "runtime": 55,
+        "tvdbId": 295829,
+        "tvRageId": 34577,
+        "tvMazeId": 1804,
+        "tmdbId": 62017,
+        "firstAired": "2015-01-15T00:00:00Z",
+        "lastAired": "2019-11-15T00:00:00Z",
+        "seriesType": "standard",
+        "cleanTitle": "themaninhighcastle",
+        "imdbId": "tt1740299",
+        "titleSlug": "the-man-in-the-high-castle",
+        "certification": "TV-PG",
+        "genres": [
+          "Drama",
+          "Science Fiction",
+          "Thriller"
+        ],
+        "tags": [],
+        "added": "2020-02-09T10:44:22Z",
+        "ratings": {
+          "votes": 116238,
+          "value": 7.9
+        },
+        "languageProfileId": 1,
+        "id": 1006
+      },
+      "id": 356598
+    },
+    {
+      "episodeId": 69644,
+      "seriesId": 1006,
+      "sourceTitle": "/tv/Tv Shows/the Man in the High Castle/Season 4/The.Man.in.the.High.Castle.S04E02.Every.Door.Out.mkv",
+      "languages": [
+        {
+          "id": 1,
+          "name": "English"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 5,
+          "name": "WEBDL-720p",
+          "source": "web",
+          "resolution": 720
+        },
+        "revision": {
+          "version": 1,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "customFormats": [
+        {
+          "id": 3,
+          "name": "english"
+        }
+      ],
+      "customFormatScore": 10,
+      "qualityCutoffNotMet": true,
+      "date": "2025-03-25T14:57:02Z",
+      "eventType": "episodeFileDeleted",
+      "data": {
+        "reason": "Upgrade",
+        "releaseGroup": "NTG",
+        "size": "1572136456",
+        "indexerFlags": "0",
+        "releaseType": "SingleEpisode"
+      },
+      "episode": {
+        "seriesId": 1006,
+        "tvdbId": 7465726,
+        "episodeFileId": 1504426,
+        "seasonNumber": 4,
+        "episodeNumber": 2,
+        "title": "Every Door Out...",
+        "airDate": "2019-11-15",
+        "airDateUtc": "2019-11-15T05:00:00Z",
+        "runtime": 60,
+        "overview": "John Smith receives key intelligence from his officers at the Die Nebenwelt complex, while back at home he struggles with the changing dynamics of his family. Bell Mallory and the BCR join forces with Wyatt Price's rebels. Kido tries to bond with his estranged son.  Childan makes a connection with his Japanese assistant.  Juliana discovers an enemy in one world can be a friend in another.",
+        "hasFile": true,
+        "monitored": true,
+        "absoluteEpisodeNumber": 32,
+        "unverifiedSceneNumbering": false,
+        "id": 69644
+      },
+      "series": {
+        "title": "The Man in the High Castle",
+        "sortTitle": "man in the high castle",
+        "status": "ended",
+        "ended": true,
+        "overview": "A glimpse into an alternate history of North America: what life after WWII might have been like if the Nazis had won the war. The Man in the High Castle explores daily life in 1962, fourteen years after the end of a longer Second World War (1939–1948 in this history). The victorious Axis Powers - Imperial Japan, Fascist Italy, and Nazi Germany - are conducting intrigues against each other in North America, specifically in the former U.S., which surrendered to them once they had conquered Eurasia and destroyed the populaces of Africa.",
+        "network": "Prime Video",
+        "airTime": "00:00",
+        "images": [
+          {
+            "coverType": "banner",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/graphical/295829-g8.jpg"
+          },
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/posters/295829-7.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/fanart/original/295829-3.jpg"
+          },
+          {
+            "coverType": "clearlogo",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/295829/clearlogo/611b882618b9b.png"
+          }
+        ],
+        "originalLanguage": {
+          "id": 1,
+          "name": "English"
+        },
+        "seasons": [
+          {
+            "seasonNumber": 0,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 1,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 2,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 3,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 4,
+            "monitored": true
+          }
+        ],
+        "year": 2015,
+        "path": "/tv/Tv Shows/the Man in the High Castle",
+        "qualityProfileId": 1,
+        "seasonFolder": true,
+        "monitored": true,
+        "monitorNewItems": "all",
+        "useSceneNumbering": false,
+        "runtime": 55,
+        "tvdbId": 295829,
+        "tvRageId": 34577,
+        "tvMazeId": 1804,
+        "tmdbId": 62017,
+        "firstAired": "2015-01-15T00:00:00Z",
+        "lastAired": "2019-11-15T00:00:00Z",
+        "seriesType": "standard",
+        "cleanTitle": "themaninhighcastle",
+        "imdbId": "tt1740299",
+        "titleSlug": "the-man-in-the-high-castle",
+        "certification": "TV-PG",
+        "genres": [
+          "Drama",
+          "Science Fiction",
+          "Thriller"
+        ],
+        "tags": [],
+        "added": "2020-02-09T10:44:22Z",
+        "ratings": {
+          "votes": 116238,
+          "value": 7.9
+        },
+        "languageProfileId": 1,
+        "id": 1006
+      },
+      "id": 356597
+    },
+    {
+      "episodeId": 69643,
+      "seriesId": 1006,
+      "sourceTitle": "the.man.in.the.high.castle.s04e01.1080p.WEBRip.HDR10.10Bit.DDP5.1.HEVC-d3g",
+      "languages": [
+        {
+          "id": 1,
+          "name": "English"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 15,
+          "name": "WEBRip-1080p",
+          "source": "webRip",
+          "resolution": 1080
+        },
+        "revision": {
+          "version": 1,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "customFormats": [
+        {
+          "id": 3,
+          "name": "english"
+        },
+        {
+          "id": 1,
+          "name": "english 265"
+        }
+      ],
+      "customFormatScore": 30,
+      "qualityCutoffNotMet": false,
+      "date": "2025-03-25T14:57:02Z",
+      "downloadId": "SABnzbd_nzo_l61i2mg0",
+      "eventType": "downloadFolderImported",
+      "data": {
+        "fileId": "1504425",
+        "droppedPath": "/downloads/the.man.in.the.high.castle.s04e01.1080p.WEBRip.HDR10.10Bit.DDP5.1.HEVC-d3g/the.man.in.the.high.castle.s04e01.1080p.WEBRip.HDR10.10Bit.DDP5.1.HEVC-d3g.mkv",
+        "importedPath": "/tv/Tv Shows/the Man in the High Castle/Season 4/The.Man.in.the.High.Castle.S04E01.Hexagram.64.mkv",
+        "downloadClient": "SABnzbd",
+        "downloadClientName": "sab",
+        "releaseGroup": "d3g",
+        "customFormatScore": "30",
+        "size": "2707731042",
+        "indexerFlags": "0",
+        "releaseType": "SingleEpisode"
+      },
+      "episode": {
+        "seriesId": 1006,
+        "tvdbId": 7293190,
+        "episodeFileId": 1504425,
+        "seasonNumber": 4,
+        "episodeNumber": 1,
+        "title": "Hexagram 64",
+        "airDate": "2019-11-15",
+        "airDateUtc": "2019-11-15T05:00:00Z",
+        "runtime": 58,
+        "overview": "Juliana Crain finds herself in a new world. In the wake of an attack on Trade Minister Tagomi, Chief Inspector Kido begins a crackdown against the suspected culprits: the Black Communist Rebellion. John Smith leads a military incursion into the Neutral Zone to capture Wyatt Price and his rebel army. Helen Smith’s new independence is tested as John comes to claim his daughters.",
+        "hasFile": true,
+        "monitored": true,
+        "absoluteEpisodeNumber": 31,
+        "unverifiedSceneNumbering": false,
+        "id": 69643
+      },
+      "series": {
+        "title": "The Man in the High Castle",
+        "sortTitle": "man in the high castle",
+        "status": "ended",
+        "ended": true,
+        "overview": "A glimpse into an alternate history of North America: what life after WWII might have been like if the Nazis had won the war. The Man in the High Castle explores daily life in 1962, fourteen years after the end of a longer Second World War (1939–1948 in this history). The victorious Axis Powers - Imperial Japan, Fascist Italy, and Nazi Germany - are conducting intrigues against each other in North America, specifically in the former U.S., which surrendered to them once they had conquered Eurasia and destroyed the populaces of Africa.",
+        "network": "Prime Video",
+        "airTime": "00:00",
+        "images": [
+          {
+            "coverType": "banner",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/graphical/295829-g8.jpg"
+          },
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/posters/295829-7.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/fanart/original/295829-3.jpg"
+          },
+          {
+            "coverType": "clearlogo",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/295829/clearlogo/611b882618b9b.png"
+          }
+        ],
+        "originalLanguage": {
+          "id": 1,
+          "name": "English"
+        },
+        "seasons": [
+          {
+            "seasonNumber": 0,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 1,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 2,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 3,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 4,
+            "monitored": true
+          }
+        ],
+        "year": 2015,
+        "path": "/tv/Tv Shows/the Man in the High Castle",
+        "qualityProfileId": 1,
+        "seasonFolder": true,
+        "monitored": true,
+        "monitorNewItems": "all",
+        "useSceneNumbering": false,
+        "runtime": 55,
+        "tvdbId": 295829,
+        "tvRageId": 34577,
+        "tvMazeId": 1804,
+        "tmdbId": 62017,
+        "firstAired": "2015-01-15T00:00:00Z",
+        "lastAired": "2019-11-15T00:00:00Z",
+        "seriesType": "standard",
+        "cleanTitle": "themaninhighcastle",
+        "imdbId": "tt1740299",
+        "titleSlug": "the-man-in-the-high-castle",
+        "certification": "TV-PG",
+        "genres": [
+          "Drama",
+          "Science Fiction",
+          "Thriller"
+        ],
+        "tags": [],
+        "added": "2020-02-09T10:44:22Z",
+        "ratings": {
+          "votes": 116238,
+          "value": 7.9
+        },
+        "languageProfileId": 1,
+        "id": 1006
+      },
+      "id": 356596
+    },
+    {
+      "episodeId": 69643,
+      "seriesId": 1006,
+      "sourceTitle": "/tv/Tv Shows/the Man in the High Castle/Season 4/The.Man.in.the.High.Castle.S04E01.Hexagram.64.mkv",
+      "languages": [
+        {
+          "id": 1,
+          "name": "English"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 5,
+          "name": "WEBDL-720p",
+          "source": "web",
+          "resolution": 720
+        },
+        "revision": {
+          "version": 1,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "customFormats": [
+        {
+          "id": 3,
+          "name": "english"
+        }
+      ],
+      "customFormatScore": 10,
+      "qualityCutoffNotMet": true,
+      "date": "2025-03-25T14:57:00Z",
+      "eventType": "episodeFileDeleted",
+      "data": {
+        "reason": "Upgrade",
+        "releaseGroup": "NTG",
+        "size": "1519962846",
+        "indexerFlags": "0",
+        "releaseType": "SingleEpisode"
+      },
+      "episode": {
+        "seriesId": 1006,
+        "tvdbId": 7293190,
+        "episodeFileId": 1504425,
+        "seasonNumber": 4,
+        "episodeNumber": 1,
+        "title": "Hexagram 64",
+        "airDate": "2019-11-15",
+        "airDateUtc": "2019-11-15T05:00:00Z",
+        "runtime": 58,
+        "overview": "Juliana Crain finds herself in a new world. In the wake of an attack on Trade Minister Tagomi, Chief Inspector Kido begins a crackdown against the suspected culprits: the Black Communist Rebellion. John Smith leads a military incursion into the Neutral Zone to capture Wyatt Price and his rebel army. Helen Smith’s new independence is tested as John comes to claim his daughters.",
+        "hasFile": true,
+        "monitored": true,
+        "absoluteEpisodeNumber": 31,
+        "unverifiedSceneNumbering": false,
+        "id": 69643
+      },
+      "series": {
+        "title": "The Man in the High Castle",
+        "sortTitle": "man in the high castle",
+        "status": "ended",
+        "ended": true,
+        "overview": "A glimpse into an alternate history of North America: what life after WWII might have been like if the Nazis had won the war. The Man in the High Castle explores daily life in 1962, fourteen years after the end of a longer Second World War (1939–1948 in this history). The victorious Axis Powers - Imperial Japan, Fascist Italy, and Nazi Germany - are conducting intrigues against each other in North America, specifically in the former U.S., which surrendered to them once they had conquered Eurasia and destroyed the populaces of Africa.",
+        "network": "Prime Video",
+        "airTime": "00:00",
+        "images": [
+          {
+            "coverType": "banner",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/graphical/295829-g8.jpg"
+          },
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/posters/295829-7.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/fanart/original/295829-3.jpg"
+          },
+          {
+            "coverType": "clearlogo",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/295829/clearlogo/611b882618b9b.png"
+          }
+        ],
+        "originalLanguage": {
+          "id": 1,
+          "name": "English"
+        },
+        "seasons": [
+          {
+            "seasonNumber": 0,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 1,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 2,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 3,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 4,
+            "monitored": true
+          }
+        ],
+        "year": 2015,
+        "path": "/tv/Tv Shows/the Man in the High Castle",
+        "qualityProfileId": 1,
+        "seasonFolder": true,
+        "monitored": true,
+        "monitorNewItems": "all",
+        "useSceneNumbering": false,
+        "runtime": 55,
+        "tvdbId": 295829,
+        "tvRageId": 34577,
+        "tvMazeId": 1804,
+        "tmdbId": 62017,
+        "firstAired": "2015-01-15T00:00:00Z",
+        "lastAired": "2019-11-15T00:00:00Z",
+        "seriesType": "standard",
+        "cleanTitle": "themaninhighcastle",
+        "imdbId": "tt1740299",
+        "titleSlug": "the-man-in-the-high-castle",
+        "certification": "TV-PG",
+        "genres": [
+          "Drama",
+          "Science Fiction",
+          "Thriller"
+        ],
+        "tags": [],
+        "added": "2020-02-09T10:44:22Z",
+        "ratings": {
+          "votes": 116238,
+          "value": 7.9
+        },
+        "languageProfileId": 1,
+        "id": 1006
+      },
+      "id": 356595
+    },
+    {
+      "episodeId": 69652,
+      "seriesId": 1006,
+      "sourceTitle": "the.man.in.the.high.castle.s04e10.1080p.WEBRip.HDR10.10Bit.DDP5.1.HEVC-d3g",
+      "languages": [
+        {
+          "id": 1,
+          "name": "English"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 15,
+          "name": "WEBRip-1080p",
+          "source": "webRip",
+          "resolution": 1080
+        },
+        "revision": {
+          "version": 1,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "customFormats": [
+        {
+          "id": 3,
+          "name": "english"
+        },
+        {
+          "id": 1,
+          "name": "english 265"
+        }
+      ],
+      "customFormatScore": 30,
+      "qualityCutoffNotMet": false,
+      "date": "2025-03-25T14:55:24Z",
+      "downloadId": "SABnzbd_nzo_a4155w31",
+      "eventType": "grabbed",
+      "data": {
+        "indexer": "NZBFinder (yearly) (Prowlarr)",
+        "nzbInfoUrl": "https://nzbfinder.ws/details/05d01f1c-da8c-4344-b875-00bba88a3f78",
+        "releaseGroup": "d3g",
+        "age": "0",
+        "ageHours": "0.31347047652777776",
+        "ageMinutes": "18.80822862833333",
+        "publishedDate": "2025-03-25T14:36:36Z",
+        "downloadClient": "SABnzbd",
+        "downloadClientName": "sab",
+        "size": "3094457067",
+        "downloadUrl": "http://prowlarr:9696/3/download?apikey=5f771c1869f94fec821832369384a70c&link=a0NPSDlERkNQc1VHcHBFUGZKL1BTSHZXWEFjYWdqTGdaa3hYVzNFZzZyeXFXY0E5NXlTUEJFaW12cDRpVkZWbksxQWR0Tlh3Q3MvMDZ6Mkh0NVgwWSszVlBMVDNYcVl5ZGNDUFhkM2hTT3AxTVZQb0RRVS8zRFQ0cTFXMTdQZDNlMXdyOGhoZGxsSHpzUEZnK3o4NDZqbHlGdHRua05zTm1EV3dka2RRUVA5UGJPUE9XUUpVWXUzbEk2Uk5jSFEx&file=the.man.in.the.high.castle.s04e10.1080p.WEBRip.HDR10.10Bit.DDP5.1.HEVC-d3g",
+        "guid": "https://nzbfinder.ws/details/05d01f1c-da8c-4344-b875-00bba88a3f78",
+        "tvdbId": "295829",
+        "tvRageId": "34577",
+        "imdbId": "tt1740299",
+        "protocol": "1",
+        "customFormatScore": "30",
+        "seriesMatchType": "Title",
+        "releaseSource": "Rss",
+        "indexerFlags": "0",
+        "releaseType": "SingleEpisode"
+      },
+      "episode": {
+        "seriesId": 1006,
+        "tvdbId": 7465741,
+        "episodeFileId": 1504433,
+        "seasonNumber": 4,
+        "episodeNumber": 10,
+        "title": "Fire From the Gods",
+        "airDate": "2019-11-15",
+        "airDateUtc": "2019-11-15T05:00:00Z",
+        "runtime": 58,
+        "finaleType": "series",
+        "overview": "On the brink of an inevitable Nazi invasion, the BCR brace for impact as Kido races against the clock to find his son. Childan offers everything he has to make his way back to Yukiko. Helen is forced to choose whether or not to betray her husband, as she and Smith travel by high-speed train to the Portal—with Juliana and Wyatt lying in wait.",
+        "hasFile": true,
+        "monitored": true,
+        "absoluteEpisodeNumber": 40,
+        "unverifiedSceneNumbering": false,
+        "id": 69652
+      },
+      "series": {
+        "title": "The Man in the High Castle",
+        "sortTitle": "man in the high castle",
+        "status": "ended",
+        "ended": true,
+        "overview": "A glimpse into an alternate history of North America: what life after WWII might have been like if the Nazis had won the war. The Man in the High Castle explores daily life in 1962, fourteen years after the end of a longer Second World War (1939–1948 in this history). The victorious Axis Powers - Imperial Japan, Fascist Italy, and Nazi Germany - are conducting intrigues against each other in North America, specifically in the former U.S., which surrendered to them once they had conquered Eurasia and destroyed the populaces of Africa.",
+        "network": "Prime Video",
+        "airTime": "00:00",
+        "images": [
+          {
+            "coverType": "banner",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/graphical/295829-g8.jpg"
+          },
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/posters/295829-7.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/fanart/original/295829-3.jpg"
+          },
+          {
+            "coverType": "clearlogo",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/295829/clearlogo/611b882618b9b.png"
+          }
+        ],
+        "originalLanguage": {
+          "id": 1,
+          "name": "English"
+        },
+        "seasons": [
+          {
+            "seasonNumber": 0,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 1,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 2,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 3,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 4,
+            "monitored": true
+          }
+        ],
+        "year": 2015,
+        "path": "/tv/Tv Shows/the Man in the High Castle",
+        "qualityProfileId": 1,
+        "seasonFolder": true,
+        "monitored": true,
+        "monitorNewItems": "all",
+        "useSceneNumbering": false,
+        "runtime": 55,
+        "tvdbId": 295829,
+        "tvRageId": 34577,
+        "tvMazeId": 1804,
+        "tmdbId": 62017,
+        "firstAired": "2015-01-15T00:00:00Z",
+        "lastAired": "2019-11-15T00:00:00Z",
+        "seriesType": "standard",
+        "cleanTitle": "themaninhighcastle",
+        "imdbId": "tt1740299",
+        "titleSlug": "the-man-in-the-high-castle",
+        "certification": "TV-PG",
+        "genres": [
+          "Drama",
+          "Science Fiction",
+          "Thriller"
+        ],
+        "tags": [],
+        "added": "2020-02-09T10:44:22Z",
+        "ratings": {
+          "votes": 116238,
+          "value": 7.9
+        },
+        "languageProfileId": 1,
+        "id": 1006
+      },
+      "id": 356594
+    },
+    {
+      "episodeId": 69651,
+      "seriesId": 1006,
+      "sourceTitle": "the.man.in.the.high.castle.s04e09.1080p.WEBRip.HDR10.10Bit.DDP5.1.HEVC-d3g",
+      "languages": [
+        {
+          "id": 1,
+          "name": "English"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 15,
+          "name": "WEBRip-1080p",
+          "source": "webRip",
+          "resolution": 1080
+        },
+        "revision": {
+          "version": 1,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "customFormats": [
+        {
+          "id": 3,
+          "name": "english"
+        },
+        {
+          "id": 1,
+          "name": "english 265"
+        }
+      ],
+      "customFormatScore": 30,
+      "qualityCutoffNotMet": false,
+      "date": "2025-03-25T14:55:21Z",
+      "downloadId": "SABnzbd_nzo_ewh1kym1",
+      "eventType": "grabbed",
+      "data": {
+        "indexer": "NZBFinder (yearly) (Prowlarr)",
+        "nzbInfoUrl": "https://nzbfinder.ws/details/07e0dbc1-b60d-4369-b982-1c00f611dd3c",
+        "releaseGroup": "d3g",
+        "age": "0",
+        "ageHours": "0.3563818918055556",
+        "ageMinutes": "21.382913538333334",
+        "publishedDate": "2025-03-25T14:33:59Z",
+        "downloadClient": "SABnzbd",
+        "downloadClientName": "sab",
+        "size": "2644768305",
+        "downloadUrl": "http://prowlarr:9696/3/download?apikey=5f771c1869f94fec821832369384a70c&link=SzU2Z2IzTzQrQ1c0ak1mdzFNcGlxbUlsWERQVXRDazdkVHZZUEl0OGNZRTBMWDZjT3Z6Y2lKRzVESnZrTFZLZDJ1WEhUdmdrUGJ6L2xQZDFUZDZUS3c4cG9kVnpvK3h1NlRhMEVvYi9yajRPejFpMnNBaE5TRzlxYk9lSGJNd01Oem5PbG1GQldjeEF6ZFpZN0NwdXkweXVvTHYrbzdHZXVwWWpYcWg5QTRIZm92UDd5VGp0aHE1MU4rbzdGSStD&file=the.man.in.the.high.castle.s04e09.1080p.WEBRip.HDR10.10Bit.DDP5.1.HEVC-d3g",
+        "guid": "https://nzbfinder.ws/details/07e0dbc1-b60d-4369-b982-1c00f611dd3c",
+        "tvdbId": "295829",
+        "tvRageId": "34577",
+        "imdbId": "tt1740299",
+        "protocol": "1",
+        "customFormatScore": "30",
+        "seriesMatchType": "Title",
+        "releaseSource": "Rss",
+        "indexerFlags": "0",
+        "releaseType": "SingleEpisode"
+      },
+      "episode": {
+        "seriesId": 1006,
+        "tvdbId": 7465738,
+        "episodeFileId": 1504432,
+        "seasonNumber": 4,
+        "episodeNumber": 9,
+        "title": "For Want of a Nail",
+        "airDate": "2019-11-15",
+        "airDateUtc": "2019-11-15T05:00:00Z",
+        "runtime": 50,
+        "overview": "Smith and Helen’s true loyalties are placed on trial by an old nemesis. The BCR struggles to maintain order across the JPS. Kido is forced to confront his atrocities. Bands of roving vigilantes threaten Childan and Yukiko.",
+        "hasFile": true,
+        "monitored": true,
+        "absoluteEpisodeNumber": 39,
+        "unverifiedSceneNumbering": false,
+        "id": 69651
+      },
+      "series": {
+        "title": "The Man in the High Castle",
+        "sortTitle": "man in the high castle",
+        "status": "ended",
+        "ended": true,
+        "overview": "A glimpse into an alternate history of North America: what life after WWII might have been like if the Nazis had won the war. The Man in the High Castle explores daily life in 1962, fourteen years after the end of a longer Second World War (1939–1948 in this history). The victorious Axis Powers - Imperial Japan, Fascist Italy, and Nazi Germany - are conducting intrigues against each other in North America, specifically in the former U.S., which surrendered to them once they had conquered Eurasia and destroyed the populaces of Africa.",
+        "network": "Prime Video",
+        "airTime": "00:00",
+        "images": [
+          {
+            "coverType": "banner",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/graphical/295829-g8.jpg"
+          },
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/posters/295829-7.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/fanart/original/295829-3.jpg"
+          },
+          {
+            "coverType": "clearlogo",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/295829/clearlogo/611b882618b9b.png"
+          }
+        ],
+        "originalLanguage": {
+          "id": 1,
+          "name": "English"
+        },
+        "seasons": [
+          {
+            "seasonNumber": 0,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 1,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 2,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 3,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 4,
+            "monitored": true
+          }
+        ],
+        "year": 2015,
+        "path": "/tv/Tv Shows/the Man in the High Castle",
+        "qualityProfileId": 1,
+        "seasonFolder": true,
+        "monitored": true,
+        "monitorNewItems": "all",
+        "useSceneNumbering": false,
+        "runtime": 55,
+        "tvdbId": 295829,
+        "tvRageId": 34577,
+        "tvMazeId": 1804,
+        "tmdbId": 62017,
+        "firstAired": "2015-01-15T00:00:00Z",
+        "lastAired": "2019-11-15T00:00:00Z",
+        "seriesType": "standard",
+        "cleanTitle": "themaninhighcastle",
+        "imdbId": "tt1740299",
+        "titleSlug": "the-man-in-the-high-castle",
+        "certification": "TV-PG",
+        "genres": [
+          "Drama",
+          "Science Fiction",
+          "Thriller"
+        ],
+        "tags": [],
+        "added": "2020-02-09T10:44:22Z",
+        "ratings": {
+          "votes": 116238,
+          "value": 7.9
+        },
+        "languageProfileId": 1,
+        "id": 1006
+      },
+      "id": 356593
+    },
+    {
+      "episodeId": 69650,
+      "seriesId": 1006,
+      "sourceTitle": "the.man.in.the.high.castle.s04e08.1080p.WEBRip.HDR10.10Bit.DDP5.1.HEVC-d3g",
+      "languages": [
+        {
+          "id": 1,
+          "name": "English"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 15,
+          "name": "WEBRip-1080p",
+          "source": "webRip",
+          "resolution": 1080
+        },
+        "revision": {
+          "version": 1,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "customFormats": [
+        {
+          "id": 3,
+          "name": "english"
+        },
+        {
+          "id": 1,
+          "name": "english 265"
+        }
+      ],
+      "customFormatScore": 30,
+      "qualityCutoffNotMet": false,
+      "date": "2025-03-25T14:55:20Z",
+      "downloadId": "SABnzbd_nzo_yo_y5i_f",
+      "eventType": "grabbed",
+      "data": {
+        "indexer": "NZBFinder (yearly) (Prowlarr)",
+        "nzbInfoUrl": "https://nzbfinder.ws/details/77df2890-e483-465d-8074-a99e18b36eb3",
+        "releaseGroup": "d3g",
+        "age": "0",
+        "ageHours": "0.3056312494444444",
+        "ageMinutes": "18.337874998333334",
+        "publishedDate": "2025-03-25T14:37:00Z",
+        "downloadClient": "SABnzbd",
+        "downloadClientName": "sab",
+        "size": "2648224379",
+        "downloadUrl": "http://prowlarr:9696/3/download?apikey=5f771c1869f94fec821832369384a70c&link=ODVDT2RKQjBuSHhyMjh5ZGZWRFoxNTdHT3RIcG9JT1k5VEphUi96cEpvTjd0WFpEcmVLcTZScS9taTdjcEdnVVFreFk2N1M4eFJ0Ty83VFA1MnZ4WU5ZVG1uTnRmUHBGQnBpaXIvbW4xOFdYVk9KUXJtaUZiM2ZXTWpobkxlYk1OaDBzcm16RHR3NUJObTY5Rk1Ec1B6RUVtZTN4Z3ZabUVWaTdSRkF3aEEwUmN1UGpwSHBTeXRxYjZMeGJhTkdW&file=the.man.in.the.high.castle.s04e08.1080p.WEBRip.HDR10.10Bit.DDP5.1.HEVC-d3g",
+        "guid": "https://nzbfinder.ws/details/77df2890-e483-465d-8074-a99e18b36eb3",
+        "tvdbId": "295829",
+        "tvRageId": "34577",
+        "imdbId": "tt1740299",
+        "protocol": "1",
+        "customFormatScore": "30",
+        "seriesMatchType": "Title",
+        "releaseSource": "Rss",
+        "indexerFlags": "0",
+        "releaseType": "SingleEpisode"
+      },
+      "episode": {
+        "seriesId": 1006,
+        "tvdbId": 7465737,
+        "episodeFileId": 1504431,
+        "seasonNumber": 4,
+        "episodeNumber": 8,
+        "title": "Hitler Has Only Got One Ball",
+        "airDate": "2019-11-15",
+        "airDateUtc": "2019-11-15T05:00:00Z",
+        "runtime": 50,
+        "overview": "Juliana’s instincts about Helen are put to the ultimate test. As San Francisco evacuates, Kido goes in search of his son, only to find himself a captive. A letter arrives, forever changing Childan and Yukiko’s lives. The BCR receives an unexpected offer of help from the Yakuza. Abendsen condemns Smith with his final prediction.",
+        "hasFile": true,
+        "monitored": true,
+        "absoluteEpisodeNumber": 38,
+        "unverifiedSceneNumbering": false,
+        "id": 69650
+      },
+      "series": {
+        "title": "The Man in the High Castle",
+        "sortTitle": "man in the high castle",
+        "status": "ended",
+        "ended": true,
+        "overview": "A glimpse into an alternate history of North America: what life after WWII might have been like if the Nazis had won the war. The Man in the High Castle explores daily life in 1962, fourteen years after the end of a longer Second World War (1939–1948 in this history). The victorious Axis Powers - Imperial Japan, Fascist Italy, and Nazi Germany - are conducting intrigues against each other in North America, specifically in the former U.S., which surrendered to them once they had conquered Eurasia and destroyed the populaces of Africa.",
+        "network": "Prime Video",
+        "airTime": "00:00",
+        "images": [
+          {
+            "coverType": "banner",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/graphical/295829-g8.jpg"
+          },
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/posters/295829-7.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/fanart/original/295829-3.jpg"
+          },
+          {
+            "coverType": "clearlogo",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/295829/clearlogo/611b882618b9b.png"
+          }
+        ],
+        "originalLanguage": {
+          "id": 1,
+          "name": "English"
+        },
+        "seasons": [
+          {
+            "seasonNumber": 0,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 1,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 2,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 3,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 4,
+            "monitored": true
+          }
+        ],
+        "year": 2015,
+        "path": "/tv/Tv Shows/the Man in the High Castle",
+        "qualityProfileId": 1,
+        "seasonFolder": true,
+        "monitored": true,
+        "monitorNewItems": "all",
+        "useSceneNumbering": false,
+        "runtime": 55,
+        "tvdbId": 295829,
+        "tvRageId": 34577,
+        "tvMazeId": 1804,
+        "tmdbId": 62017,
+        "firstAired": "2015-01-15T00:00:00Z",
+        "lastAired": "2019-11-15T00:00:00Z",
+        "seriesType": "standard",
+        "cleanTitle": "themaninhighcastle",
+        "imdbId": "tt1740299",
+        "titleSlug": "the-man-in-the-high-castle",
+        "certification": "TV-PG",
+        "genres": [
+          "Drama",
+          "Science Fiction",
+          "Thriller"
+        ],
+        "tags": [],
+        "added": "2020-02-09T10:44:22Z",
+        "ratings": {
+          "votes": 116238,
+          "value": 7.9
+        },
+        "languageProfileId": 1,
+        "id": 1006
+      },
+      "id": 356592
+    },
+    {
+      "episodeId": 69649,
+      "seriesId": 1006,
+      "sourceTitle": "the.man.in.the.high.castle.s04e07.1080p.WEBRip.HDR10.10Bit.DDP5.1.HEVC-d3g",
+      "languages": [
+        {
+          "id": 1,
+          "name": "English"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 15,
+          "name": "WEBRip-1080p",
+          "source": "webRip",
+          "resolution": 1080
+        },
+        "revision": {
+          "version": 1,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "customFormats": [
+        {
+          "id": 3,
+          "name": "english"
+        },
+        {
+          "id": 1,
+          "name": "english 265"
+        }
+      ],
+      "customFormatScore": 30,
+      "qualityCutoffNotMet": false,
+      "date": "2025-03-25T14:55:17Z",
+      "downloadId": "SABnzbd_nzo_t8rmf5s3",
+      "eventType": "grabbed",
+      "data": {
+        "indexer": "NZBFinder (yearly) (Prowlarr)",
+        "nzbInfoUrl": "https://nzbfinder.ws/details/5d5aaf00-7456-4d34-9c10-98c6a94e8f5d",
+        "releaseGroup": "d3g",
+        "age": "0",
+        "ageHours": "0.32574897383333334",
+        "ageMinutes": "19.544938463333335",
+        "publishedDate": "2025-03-25T14:35:45Z",
+        "downloadClient": "SABnzbd",
+        "downloadClientName": "sab",
+        "size": "2392979104",
+        "downloadUrl": "http://prowlarr:9696/3/download?apikey=5f771c1869f94fec821832369384a70c&link=VjFCQW5peWJZY0xxSHhDdnExem4rcUZTdTZ6cjV4NGxQd3BEVHYxQkUwQ216OEw5MEpsdkJlNTZwcVlOUXZCVThPYkhBNElMMCtGRSswMk9Od0dJUGFxZm9rOVJZbkFuanVTSGtOUlRpd292UHRLNngyMUFQNFNwQzdVd3BrL2FWTmpzczZOYmxFL2FDS1ovR2FUUmFOd0c3ZWZxaGlRNlNKOXZDcjlNaEtHWjRIakV5d2Y3SlBsU0JLeW9nQXM3&file=the.man.in.the.high.castle.s04e07.1080p.WEBRip.HDR10.10Bit.DDP5.1.HEVC-d3g",
+        "guid": "https://nzbfinder.ws/details/5d5aaf00-7456-4d34-9c10-98c6a94e8f5d",
+        "tvdbId": "295829",
+        "tvRageId": "34577",
+        "imdbId": "tt1740299",
+        "protocol": "1",
+        "customFormatScore": "30",
+        "seriesMatchType": "Title",
+        "releaseSource": "Rss",
+        "indexerFlags": "0",
+        "releaseType": "SingleEpisode"
+      },
+      "episode": {
+        "seriesId": 1006,
+        "tvdbId": 7465736,
+        "episodeFileId": 1504429,
+        "seasonNumber": 4,
+        "episodeNumber": 7,
+        "title": "No Masters But Ourselves",
+        "airDate": "2019-11-15",
+        "airDateUtc": "2019-11-15T05:00:00Z",
+        "runtime": 45,
+        "overview": "When the BCR launches a massive assault across the JPS, Kido finds the fate of the Empire in his hands. Childan becomes a captive of the Kempeitai. Helen resolves to support her husband by re-entering public life. Juliana and Wyatt arrive in New York to plan a daring new strategy against Smith.",
+        "hasFile": true,
+        "monitored": true,
+        "absoluteEpisodeNumber": 37,
+        "unverifiedSceneNumbering": false,
+        "id": 69649
+      },
+      "series": {
+        "title": "The Man in the High Castle",
+        "sortTitle": "man in the high castle",
+        "status": "ended",
+        "ended": true,
+        "overview": "A glimpse into an alternate history of North America: what life after WWII might have been like if the Nazis had won the war. The Man in the High Castle explores daily life in 1962, fourteen years after the end of a longer Second World War (1939–1948 in this history). The victorious Axis Powers - Imperial Japan, Fascist Italy, and Nazi Germany - are conducting intrigues against each other in North America, specifically in the former U.S., which surrendered to them once they had conquered Eurasia and destroyed the populaces of Africa.",
+        "network": "Prime Video",
+        "airTime": "00:00",
+        "images": [
+          {
+            "coverType": "banner",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/graphical/295829-g8.jpg"
+          },
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/posters/295829-7.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/fanart/original/295829-3.jpg"
+          },
+          {
+            "coverType": "clearlogo",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/295829/clearlogo/611b882618b9b.png"
+          }
+        ],
+        "originalLanguage": {
+          "id": 1,
+          "name": "English"
+        },
+        "seasons": [
+          {
+            "seasonNumber": 0,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 1,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 2,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 3,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 4,
+            "monitored": true
+          }
+        ],
+        "year": 2015,
+        "path": "/tv/Tv Shows/the Man in the High Castle",
+        "qualityProfileId": 1,
+        "seasonFolder": true,
+        "monitored": true,
+        "monitorNewItems": "all",
+        "useSceneNumbering": false,
+        "runtime": 55,
+        "tvdbId": 295829,
+        "tvRageId": 34577,
+        "tvMazeId": 1804,
+        "tmdbId": 62017,
+        "firstAired": "2015-01-15T00:00:00Z",
+        "lastAired": "2019-11-15T00:00:00Z",
+        "seriesType": "standard",
+        "cleanTitle": "themaninhighcastle",
+        "imdbId": "tt1740299",
+        "titleSlug": "the-man-in-the-high-castle",
+        "certification": "TV-PG",
+        "genres": [
+          "Drama",
+          "Science Fiction",
+          "Thriller"
+        ],
+        "tags": [],
+        "added": "2020-02-09T10:44:22Z",
+        "ratings": {
+          "votes": 116238,
+          "value": 7.9
+        },
+        "languageProfileId": 1,
+        "id": 1006
+      },
+      "id": 356591
+    },
+    {
+      "episodeId": 69648,
+      "seriesId": 1006,
+      "sourceTitle": "the.man.in.the.high.castle.s04e06.1080p.WEBRip.HDR10.10Bit.DDP5.1.HEVC-d3g",
+      "languages": [
+        {
+          "id": 1,
+          "name": "English"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 15,
+          "name": "WEBRip-1080p",
+          "source": "webRip",
+          "resolution": 1080
+        },
+        "revision": {
+          "version": 1,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "customFormats": [
+        {
+          "id": 3,
+          "name": "english"
+        },
+        {
+          "id": 1,
+          "name": "english 265"
+        }
+      ],
+      "customFormatScore": 30,
+      "qualityCutoffNotMet": false,
+      "date": "2025-03-25T14:55:16Z",
+      "downloadId": "SABnzbd_nzo_bnjru7au",
+      "eventType": "grabbed",
+      "data": {
+        "indexer": "NZBFinder (yearly) (Prowlarr)",
+        "nzbInfoUrl": "https://nzbfinder.ws/details/c4b4f6a4-917d-4627-a8b9-ffce4f1f77e5",
+        "releaseGroup": "d3g",
+        "age": "0",
+        "ageHours": "0.3676519038888889",
+        "ageMinutes": "22.05911426666667",
+        "publishedDate": "2025-03-25T14:33:13Z",
+        "downloadClient": "SABnzbd",
+        "downloadClientName": "sab",
+        "size": "2437018576",
+        "downloadUrl": "http://prowlarr:9696/3/download?apikey=5f771c1869f94fec821832369384a70c&link=eldmbTJQZ3o4cWdCQjIyZi9RK0FlMCtPMXRCUEV4MG9BeFJBZndRS2dFUmFBWHhCL0hzb2tISWowSGlZcFlSbEJkVi9NR2twcHFqUWNCUXhrQ1crVW5IZ0JVcUtoWGF2aUJ4ZUl1bENjdVk5aGdVNkZESE1KRTRUb0pSckovWVNqaUo0MUxPR1Rzbk15N1NMZ1VxVGhucUw2QXpTQWdNVkVrSEpFTXh2dm40UEtTa3M4aEFod3BsZWZ4a2FQYzBF&file=the.man.in.the.high.castle.s04e06.1080p.WEBRip.HDR10.10Bit.DDP5.1.HEVC-d3g",
+        "guid": "https://nzbfinder.ws/details/c4b4f6a4-917d-4627-a8b9-ffce4f1f77e5",
+        "tvdbId": "295829",
+        "tvRageId": "34577",
+        "imdbId": "tt1740299",
+        "protocol": "1",
+        "customFormatScore": "30",
+        "seriesMatchType": "Title",
+        "releaseSource": "Rss",
+        "indexerFlags": "0",
+        "releaseType": "SingleEpisode"
+      },
+      "episode": {
+        "seriesId": 1006,
+        "tvdbId": 7465735,
+        "episodeFileId": 1504430,
+        "seasonNumber": 4,
+        "episodeNumber": 6,
+        "title": "All Serious Daring",
+        "airDate": "2019-11-15",
+        "airDateUtc": "2019-11-15T05:00:00Z",
+        "runtime": 46,
+        "overview": "John Smith discovers that one can get lost on the path not taken. Juliana attempts to decode hidden messages from Abendsen. Amid voices of dissent, Bell devises a new strategy for the BCR. Kido must decide where his true loyalties lie, even if it costs him the Empire.",
+        "hasFile": true,
+        "monitored": true,
+        "absoluteEpisodeNumber": 36,
+        "unverifiedSceneNumbering": false,
+        "id": 69648
+      },
+      "series": {
+        "title": "The Man in the High Castle",
+        "sortTitle": "man in the high castle",
+        "status": "ended",
+        "ended": true,
+        "overview": "A glimpse into an alternate history of North America: what life after WWII might have been like if the Nazis had won the war. The Man in the High Castle explores daily life in 1962, fourteen years after the end of a longer Second World War (1939–1948 in this history). The victorious Axis Powers - Imperial Japan, Fascist Italy, and Nazi Germany - are conducting intrigues against each other in North America, specifically in the former U.S., which surrendered to them once they had conquered Eurasia and destroyed the populaces of Africa.",
+        "network": "Prime Video",
+        "airTime": "00:00",
+        "images": [
+          {
+            "coverType": "banner",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/graphical/295829-g8.jpg"
+          },
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/posters/295829-7.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/fanart/original/295829-3.jpg"
+          },
+          {
+            "coverType": "clearlogo",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/295829/clearlogo/611b882618b9b.png"
+          }
+        ],
+        "originalLanguage": {
+          "id": 1,
+          "name": "English"
+        },
+        "seasons": [
+          {
+            "seasonNumber": 0,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 1,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 2,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 3,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 4,
+            "monitored": true
+          }
+        ],
+        "year": 2015,
+        "path": "/tv/Tv Shows/the Man in the High Castle",
+        "qualityProfileId": 1,
+        "seasonFolder": true,
+        "monitored": true,
+        "monitorNewItems": "all",
+        "useSceneNumbering": false,
+        "runtime": 55,
+        "tvdbId": 295829,
+        "tvRageId": 34577,
+        "tvMazeId": 1804,
+        "tmdbId": 62017,
+        "firstAired": "2015-01-15T00:00:00Z",
+        "lastAired": "2019-11-15T00:00:00Z",
+        "seriesType": "standard",
+        "cleanTitle": "themaninhighcastle",
+        "imdbId": "tt1740299",
+        "titleSlug": "the-man-in-the-high-castle",
+        "certification": "TV-PG",
+        "genres": [
+          "Drama",
+          "Science Fiction",
+          "Thriller"
+        ],
+        "tags": [],
+        "added": "2020-02-09T10:44:22Z",
+        "ratings": {
+          "votes": 116238,
+          "value": 7.9
+        },
+        "languageProfileId": 1,
+        "id": 1006
+      },
+      "id": 356590
+    },
+    {
+      "episodeId": 69647,
+      "seriesId": 1006,
+      "sourceTitle": "the.man.in.the.high.castle.s04e05.1080p.WEBRip.HDR10.10Bit.DDP5.1.HEVC-d3g",
+      "languages": [
+        {
+          "id": 1,
+          "name": "English"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 15,
+          "name": "WEBRip-1080p",
+          "source": "webRip",
+          "resolution": 1080
+        },
+        "revision": {
+          "version": 1,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "customFormats": [
+        {
+          "id": 3,
+          "name": "english"
+        },
+        {
+          "id": 1,
+          "name": "english 265"
+        }
+      ],
+      "customFormatScore": 30,
+      "qualityCutoffNotMet": false,
+      "date": "2025-03-25T14:55:13Z",
+      "downloadId": "SABnzbd_nzo_k3hpcvrv",
+      "eventType": "grabbed",
+      "data": {
+        "indexer": "NZBFinder (yearly) (Prowlarr)",
+        "nzbInfoUrl": "https://nzbfinder.ws/details/37395e4a-b4f6-4274-851a-7741f82b418a",
+        "releaseGroup": "d3g",
+        "age": "0",
+        "ageHours": "0.33072024555555557",
+        "ageMinutes": "19.843214766666666",
+        "publishedDate": "2025-03-25T14:35:23Z",
+        "downloadClient": "SABnzbd",
+        "downloadClientName": "sab",
+        "size": "2672050178",
+        "downloadUrl": "http://prowlarr:9696/3/download?apikey=5f771c1869f94fec821832369384a70c&link=MFBQL0oxUytkUUYwR2tWbnEvUC9Ud2Jvd2xRQVgvUndDVG5GU250SnVIeG9wU0lrUlExdTJjb1J3ck9YWVQ4dXc5Y3lxRDM0RHh0Y1NVdldYd3ZTbmQ5U28wb1JodE01WDBPcHdZbWR4NGVDenpYMmVmRSsyTDd5bnBqbWhRYWxnV084R1l4TlJodzF5VEZtajMraE5ITENtVEMwMHhHY2lGSGpKOGpGdFdiM0FVZmVXWUpVUWNmTlRZQmNLVG55&file=the.man.in.the.high.castle.s04e05.1080p.WEBRip.HDR10.10Bit.DDP5.1.HEVC-d3g",
+        "guid": "https://nzbfinder.ws/details/37395e4a-b4f6-4274-851a-7741f82b418a",
+        "tvdbId": "295829",
+        "tvRageId": "34577",
+        "imdbId": "tt1740299",
+        "protocol": "1",
+        "customFormatScore": "30",
+        "seriesMatchType": "Title",
+        "releaseSource": "Rss",
+        "indexerFlags": "0",
+        "releaseType": "SingleEpisode"
+      },
+      "episode": {
+        "seriesId": 1006,
+        "tvdbId": 7465734,
+        "episodeFileId": 1504428,
+        "seasonNumber": 4,
+        "episodeNumber": 5,
+        "title": "Mauvaise Foi",
+        "airDate": "2019-11-15",
+        "airDateUtc": "2019-11-15T05:00:00Z",
+        "runtime": 50,
+        "finaleType": "midseason",
+        "overview": "John Smith is forced to confront the choices he’s made. The Empire attempts secret peace talks with the BCR. Kido arrests a traitor, threatening to divide the Japanese against themselves. Helen is assigned a new security minder. Juliana reunites with Wyatt to plan the fall of the American Reich.",
+        "hasFile": true,
+        "monitored": true,
+        "absoluteEpisodeNumber": 35,
+        "unverifiedSceneNumbering": false,
+        "id": 69647
+      },
+      "series": {
+        "title": "The Man in the High Castle",
+        "sortTitle": "man in the high castle",
+        "status": "ended",
+        "ended": true,
+        "overview": "A glimpse into an alternate history of North America: what life after WWII might have been like if the Nazis had won the war. The Man in the High Castle explores daily life in 1962, fourteen years after the end of a longer Second World War (1939–1948 in this history). The victorious Axis Powers - Imperial Japan, Fascist Italy, and Nazi Germany - are conducting intrigues against each other in North America, specifically in the former U.S., which surrendered to them once they had conquered Eurasia and destroyed the populaces of Africa.",
+        "network": "Prime Video",
+        "airTime": "00:00",
+        "images": [
+          {
+            "coverType": "banner",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/graphical/295829-g8.jpg"
+          },
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/posters/295829-7.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/fanart/original/295829-3.jpg"
+          },
+          {
+            "coverType": "clearlogo",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/295829/clearlogo/611b882618b9b.png"
+          }
+        ],
+        "originalLanguage": {
+          "id": 1,
+          "name": "English"
+        },
+        "seasons": [
+          {
+            "seasonNumber": 0,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 1,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 2,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 3,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 4,
+            "monitored": true
+          }
+        ],
+        "year": 2015,
+        "path": "/tv/Tv Shows/the Man in the High Castle",
+        "qualityProfileId": 1,
+        "seasonFolder": true,
+        "monitored": true,
+        "monitorNewItems": "all",
+        "useSceneNumbering": false,
+        "runtime": 55,
+        "tvdbId": 295829,
+        "tvRageId": 34577,
+        "tvMazeId": 1804,
+        "tmdbId": 62017,
+        "firstAired": "2015-01-15T00:00:00Z",
+        "lastAired": "2019-11-15T00:00:00Z",
+        "seriesType": "standard",
+        "cleanTitle": "themaninhighcastle",
+        "imdbId": "tt1740299",
+        "titleSlug": "the-man-in-the-high-castle",
+        "certification": "TV-PG",
+        "genres": [
+          "Drama",
+          "Science Fiction",
+          "Thriller"
+        ],
+        "tags": [],
+        "added": "2020-02-09T10:44:22Z",
+        "ratings": {
+          "votes": 116238,
+          "value": 7.9
+        },
+        "languageProfileId": 1,
+        "id": 1006
+      },
+      "id": 356589
+    },
+    {
+      "episodeId": 69646,
+      "seriesId": 1006,
+      "sourceTitle": "the.man.in.the.high.castle.s04e04.1080p.WEBRip.HDR10.10Bit.DDP5.1.HEVC-d3g",
+      "languages": [
+        {
+          "id": 1,
+          "name": "English"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 15,
+          "name": "WEBRip-1080p",
+          "source": "webRip",
+          "resolution": 1080
+        },
+        "revision": {
+          "version": 1,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "customFormats": [
+        {
+          "id": 3,
+          "name": "english"
+        },
+        {
+          "id": 1,
+          "name": "english 265"
+        }
+      ],
+      "customFormatScore": 30,
+      "qualityCutoffNotMet": false,
+      "date": "2025-03-25T14:55:11Z",
+      "downloadId": "SABnzbd_nzo_w65g8y3l",
+      "eventType": "grabbed",
+      "data": {
+        "indexer": "NZBFinder (yearly) (Prowlarr)",
+        "nzbInfoUrl": "https://nzbfinder.ws/details/c5b0e67e-b7ba-4eca-919a-c7ff84610ab3",
+        "releaseGroup": "d3g",
+        "age": "0",
+        "ageHours": "0.31791557405555554",
+        "ageMinutes": "19.074934485",
+        "publishedDate": "2025-03-25T14:36:07Z",
+        "downloadClient": "SABnzbd",
+        "downloadClientName": "sab",
+        "size": "2496655361",
+        "downloadUrl": "http://prowlarr:9696/3/download?apikey=5f771c1869f94fec821832369384a70c&link=dy9KM0l2Q0wrdTlGSnl1MHVhcElDVm9mWGVoVlh1a1FtRjNvaU1IQnRQTGFRWGhORkErZkNhelNya1RiakU2dEl3OG9iS3JBTDVySGFoZ2IxWldpYUdFOG5NTlZNWXF6dEZ2SS9aVWROUXZ3d2hSSE9LK002cXR0bTgwRG45UzJiQmVVSzB0bGZYdGd6VHo4ZG5lbUNYdnNXK1dsZ0xRMWtPbGFITTFmRVoxTmkvRTdaWjFxY28zV2FoMUJIQUYr&file=the.man.in.the.high.castle.s04e04.1080p.WEBRip.HDR10.10Bit.DDP5.1.HEVC-d3g",
+        "guid": "https://nzbfinder.ws/details/c5b0e67e-b7ba-4eca-919a-c7ff84610ab3",
+        "tvdbId": "295829",
+        "tvRageId": "34577",
+        "imdbId": "tt1740299",
+        "protocol": "1",
+        "customFormatScore": "30",
+        "seriesMatchType": "Title",
+        "releaseSource": "Rss",
+        "indexerFlags": "0",
+        "releaseType": "SingleEpisode"
+      },
+      "episode": {
+        "seriesId": 1006,
+        "tvdbId": 7465731,
+        "episodeFileId": 1504427,
+        "seasonNumber": 4,
+        "episodeNumber": 4,
+        "title": "Happy Trails",
+        "airDate": "2019-11-15",
+        "airDateUtc": "2019-11-15T05:00:00Z",
+        "runtime": 47,
+        "overview": "John and Helen host Himmler and his wife for dinner, along with a new and dangerous threat from Berlin. Juliana returns to the High Castle world, arriving in the ruins of what is now known as 'The District of Contamination'. Kido is forced to turn against the Crown Princess by his general. A captive Hawthorne Abendsen shares some new tales from the High Castle.",
+        "hasFile": true,
+        "monitored": true,
+        "absoluteEpisodeNumber": 34,
+        "unverifiedSceneNumbering": false,
+        "id": 69646
+      },
+      "series": {
+        "title": "The Man in the High Castle",
+        "sortTitle": "man in the high castle",
+        "status": "ended",
+        "ended": true,
+        "overview": "A glimpse into an alternate history of North America: what life after WWII might have been like if the Nazis had won the war. The Man in the High Castle explores daily life in 1962, fourteen years after the end of a longer Second World War (1939–1948 in this history). The victorious Axis Powers - Imperial Japan, Fascist Italy, and Nazi Germany - are conducting intrigues against each other in North America, specifically in the former U.S., which surrendered to them once they had conquered Eurasia and destroyed the populaces of Africa.",
+        "network": "Prime Video",
+        "airTime": "00:00",
+        "images": [
+          {
+            "coverType": "banner",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/graphical/295829-g8.jpg"
+          },
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/posters/295829-7.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/fanart/original/295829-3.jpg"
+          },
+          {
+            "coverType": "clearlogo",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/295829/clearlogo/611b882618b9b.png"
+          }
+        ],
+        "originalLanguage": {
+          "id": 1,
+          "name": "English"
+        },
+        "seasons": [
+          {
+            "seasonNumber": 0,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 1,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 2,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 3,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 4,
+            "monitored": true
+          }
+        ],
+        "year": 2015,
+        "path": "/tv/Tv Shows/the Man in the High Castle",
+        "qualityProfileId": 1,
+        "seasonFolder": true,
+        "monitored": true,
+        "monitorNewItems": "all",
+        "useSceneNumbering": false,
+        "runtime": 55,
+        "tvdbId": 295829,
+        "tvRageId": 34577,
+        "tvMazeId": 1804,
+        "tmdbId": 62017,
+        "firstAired": "2015-01-15T00:00:00Z",
+        "lastAired": "2019-11-15T00:00:00Z",
+        "seriesType": "standard",
+        "cleanTitle": "themaninhighcastle",
+        "imdbId": "tt1740299",
+        "titleSlug": "the-man-in-the-high-castle",
+        "certification": "TV-PG",
+        "genres": [
+          "Drama",
+          "Science Fiction",
+          "Thriller"
+        ],
+        "tags": [],
+        "added": "2020-02-09T10:44:22Z",
+        "ratings": {
+          "votes": 116238,
+          "value": 7.9
+        },
+        "languageProfileId": 1,
+        "id": 1006
+      },
+      "id": 356588
+    },
+    {
+      "episodeId": 69644,
+      "seriesId": 1006,
+      "sourceTitle": "the.man.in.the.high.castle.s04e02.1080p.WEBRip.HDR10.10Bit.DDP5.1.HEVC-d3g",
+      "languages": [
+        {
+          "id": 1,
+          "name": "English"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 15,
+          "name": "WEBRip-1080p",
+          "source": "webRip",
+          "resolution": 1080
+        },
+        "revision": {
+          "version": 1,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "customFormats": [
+        {
+          "id": 3,
+          "name": "english"
+        },
+        {
+          "id": 1,
+          "name": "english 265"
+        }
+      ],
+      "customFormatScore": 30,
+      "qualityCutoffNotMet": false,
+      "date": "2025-03-25T14:55:09Z",
+      "downloadId": "SABnzbd_nzo_9rpggh9t",
+      "eventType": "grabbed",
+      "data": {
+        "indexer": "NZBFinder (yearly) (Prowlarr)",
+        "nzbInfoUrl": "https://nzbfinder.ws/details/bdc0e2fa-ab55-43f8-9c3a-498b2a248225",
+        "releaseGroup": "d3g",
+        "age": "0",
+        "ageHours": "0.34424305791666665",
+        "ageMinutes": "20.65458350666667",
+        "publishedDate": "2025-03-25T14:34:30Z",
+        "downloadClient": "SABnzbd",
+        "downloadClientName": "sab",
+        "size": "3226120756",
+        "downloadUrl": "http://prowlarr:9696/3/download?apikey=5f771c1869f94fec821832369384a70c&link=OFB3bEdRNTIva2VuUlE3YkcvaG5wVUdIOTdyVW15T1NYaWgwZitrb1NjVDlFeVprTnNBcUtPckt2bm42OUgrcnhRR2RFeXBZWkdrVWVRZFFQcHZEcmd4Z0J1NUpNWWxYUmQ3Nm1XZis0L2pCQlBqcWNHajJEVExzR2tTblFsMW5FOFZFbE9pUUhtN1N5cjlJQnNGc25Pc2lxYmFyK3pOMFI0bFBOM3doeXE1a3VzanFHM013NVdUeFh1c2Nkakdi&file=the.man.in.the.high.castle.s04e02.1080p.WEBRip.HDR10.10Bit.DDP5.1.HEVC-d3g",
+        "guid": "https://nzbfinder.ws/details/bdc0e2fa-ab55-43f8-9c3a-498b2a248225",
+        "tvdbId": "295829",
+        "tvRageId": "34577",
+        "imdbId": "tt1740299",
+        "protocol": "1",
+        "customFormatScore": "30",
+        "seriesMatchType": "Title",
+        "releaseSource": "Rss",
+        "indexerFlags": "0",
+        "releaseType": "SingleEpisode"
+      },
+      "episode": {
+        "seriesId": 1006,
+        "tvdbId": 7465726,
+        "episodeFileId": 1504426,
+        "seasonNumber": 4,
+        "episodeNumber": 2,
+        "title": "Every Door Out...",
+        "airDate": "2019-11-15",
+        "airDateUtc": "2019-11-15T05:00:00Z",
+        "runtime": 60,
+        "overview": "John Smith receives key intelligence from his officers at the Die Nebenwelt complex, while back at home he struggles with the changing dynamics of his family. Bell Mallory and the BCR join forces with Wyatt Price's rebels. Kido tries to bond with his estranged son.  Childan makes a connection with his Japanese assistant.  Juliana discovers an enemy in one world can be a friend in another.",
+        "hasFile": true,
+        "monitored": true,
+        "absoluteEpisodeNumber": 32,
+        "unverifiedSceneNumbering": false,
+        "id": 69644
+      },
+      "series": {
+        "title": "The Man in the High Castle",
+        "sortTitle": "man in the high castle",
+        "status": "ended",
+        "ended": true,
+        "overview": "A glimpse into an alternate history of North America: what life after WWII might have been like if the Nazis had won the war. The Man in the High Castle explores daily life in 1962, fourteen years after the end of a longer Second World War (1939–1948 in this history). The victorious Axis Powers - Imperial Japan, Fascist Italy, and Nazi Germany - are conducting intrigues against each other in North America, specifically in the former U.S., which surrendered to them once they had conquered Eurasia and destroyed the populaces of Africa.",
+        "network": "Prime Video",
+        "airTime": "00:00",
+        "images": [
+          {
+            "coverType": "banner",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/graphical/295829-g8.jpg"
+          },
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/posters/295829-7.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/fanart/original/295829-3.jpg"
+          },
+          {
+            "coverType": "clearlogo",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/295829/clearlogo/611b882618b9b.png"
+          }
+        ],
+        "originalLanguage": {
+          "id": 1,
+          "name": "English"
+        },
+        "seasons": [
+          {
+            "seasonNumber": 0,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 1,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 2,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 3,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 4,
+            "monitored": true
+          }
+        ],
+        "year": 2015,
+        "path": "/tv/Tv Shows/the Man in the High Castle",
+        "qualityProfileId": 1,
+        "seasonFolder": true,
+        "monitored": true,
+        "monitorNewItems": "all",
+        "useSceneNumbering": false,
+        "runtime": 55,
+        "tvdbId": 295829,
+        "tvRageId": 34577,
+        "tvMazeId": 1804,
+        "tmdbId": 62017,
+        "firstAired": "2015-01-15T00:00:00Z",
+        "lastAired": "2019-11-15T00:00:00Z",
+        "seriesType": "standard",
+        "cleanTitle": "themaninhighcastle",
+        "imdbId": "tt1740299",
+        "titleSlug": "the-man-in-the-high-castle",
+        "certification": "TV-PG",
+        "genres": [
+          "Drama",
+          "Science Fiction",
+          "Thriller"
+        ],
+        "tags": [],
+        "added": "2020-02-09T10:44:22Z",
+        "ratings": {
+          "votes": 116238,
+          "value": 7.9
+        },
+        "languageProfileId": 1,
+        "id": 1006
+      },
+      "id": 356587
+    },
+    {
+      "episodeId": 69643,
+      "seriesId": 1006,
+      "sourceTitle": "the.man.in.the.high.castle.s04e01.1080p.WEBRip.HDR10.10Bit.DDP5.1.HEVC-d3g",
+      "languages": [
+        {
+          "id": 1,
+          "name": "English"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 15,
+          "name": "WEBRip-1080p",
+          "source": "webRip",
+          "resolution": 1080
+        },
+        "revision": {
+          "version": 1,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "customFormats": [
+        {
+          "id": 3,
+          "name": "english"
+        },
+        {
+          "id": 1,
+          "name": "english 265"
+        }
+      ],
+      "customFormatScore": 30,
+      "qualityCutoffNotMet": false,
+      "date": "2025-03-25T14:55:08Z",
+      "downloadId": "SABnzbd_nzo_l61i2mg0",
+      "eventType": "grabbed",
+      "data": {
+        "indexer": "NZBFinder (yearly) (Prowlarr)",
+        "nzbInfoUrl": "https://nzbfinder.ws/details/205d60e7-d519-427a-a4bf-3b20ff41ad62",
+        "releaseGroup": "d3g",
+        "age": "0",
+        "ageHours": "0.33613916616666667",
+        "ageMinutes": "20.168350003333334",
+        "publishedDate": "2025-03-25T14:34:58Z",
+        "downloadClient": "SABnzbd",
+        "downloadClientName": "sab",
+        "size": "3075325095",
+        "downloadUrl": "http://prowlarr:9696/3/download?apikey=5f771c1869f94fec821832369384a70c&link=YysrQjd2M09WMC9uRGNaS2Q5UzY3bWkybjRTZHFpTE9ENjFkTURFWmxTSDU3L0NvSGhYdzRaNU9UZ09SRVo1MVpSbGM5cSttQUpEWUFKd0h3Z2dRU1FybkFEUk5oWkFLbGc4TncwR3ViTERVYU5BdU9kQ3FnTzl5RUllQXJmRjVtNCtjSmkzejhFS1VtcE85WmtEYXVyMHpLMytrUXByYi9LbkdxbEhUK2Uyc3ByMjRjUXBrdXhJdHp0Y3hKdlBK&file=the.man.in.the.high.castle.s04e01.1080p.WEBRip.HDR10.10Bit.DDP5.1.HEVC-d3g",
+        "guid": "https://nzbfinder.ws/details/205d60e7-d519-427a-a4bf-3b20ff41ad62",
+        "tvdbId": "295829",
+        "tvRageId": "34577",
+        "imdbId": "tt1740299",
+        "protocol": "1",
+        "customFormatScore": "30",
+        "seriesMatchType": "Title",
+        "releaseSource": "Rss",
+        "indexerFlags": "0",
+        "releaseType": "SingleEpisode"
+      },
+      "episode": {
+        "seriesId": 1006,
+        "tvdbId": 7293190,
+        "episodeFileId": 1504425,
+        "seasonNumber": 4,
+        "episodeNumber": 1,
+        "title": "Hexagram 64",
+        "airDate": "2019-11-15",
+        "airDateUtc": "2019-11-15T05:00:00Z",
+        "runtime": 58,
+        "overview": "Juliana Crain finds herself in a new world. In the wake of an attack on Trade Minister Tagomi, Chief Inspector Kido begins a crackdown against the suspected culprits: the Black Communist Rebellion. John Smith leads a military incursion into the Neutral Zone to capture Wyatt Price and his rebel army. Helen Smith’s new independence is tested as John comes to claim his daughters.",
+        "hasFile": true,
+        "monitored": true,
+        "absoluteEpisodeNumber": 31,
+        "unverifiedSceneNumbering": false,
+        "id": 69643
+      },
+      "series": {
+        "title": "The Man in the High Castle",
+        "sortTitle": "man in the high castle",
+        "status": "ended",
+        "ended": true,
+        "overview": "A glimpse into an alternate history of North America: what life after WWII might have been like if the Nazis had won the war. The Man in the High Castle explores daily life in 1962, fourteen years after the end of a longer Second World War (1939–1948 in this history). The victorious Axis Powers - Imperial Japan, Fascist Italy, and Nazi Germany - are conducting intrigues against each other in North America, specifically in the former U.S., which surrendered to them once they had conquered Eurasia and destroyed the populaces of Africa.",
+        "network": "Prime Video",
+        "airTime": "00:00",
+        "images": [
+          {
+            "coverType": "banner",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/graphical/295829-g8.jpg"
+          },
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/posters/295829-7.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/fanart/original/295829-3.jpg"
+          },
+          {
+            "coverType": "clearlogo",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/295829/clearlogo/611b882618b9b.png"
+          }
+        ],
+        "originalLanguage": {
+          "id": 1,
+          "name": "English"
+        },
+        "seasons": [
+          {
+            "seasonNumber": 0,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 1,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 2,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 3,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 4,
+            "monitored": true
+          }
+        ],
+        "year": 2015,
+        "path": "/tv/Tv Shows/the Man in the High Castle",
+        "qualityProfileId": 1,
+        "seasonFolder": true,
+        "monitored": true,
+        "monitorNewItems": "all",
+        "useSceneNumbering": false,
+        "runtime": 55,
+        "tvdbId": 295829,
+        "tvRageId": 34577,
+        "tvMazeId": 1804,
+        "tmdbId": 62017,
+        "firstAired": "2015-01-15T00:00:00Z",
+        "lastAired": "2019-11-15T00:00:00Z",
+        "seriesType": "standard",
+        "cleanTitle": "themaninhighcastle",
+        "imdbId": "tt1740299",
+        "titleSlug": "the-man-in-the-high-castle",
+        "certification": "TV-PG",
+        "genres": [
+          "Drama",
+          "Science Fiction",
+          "Thriller"
+        ],
+        "tags": [],
+        "added": "2020-02-09T10:44:22Z",
+        "ratings": {
+          "votes": 116238,
+          "value": 7.9
+        },
+        "languageProfileId": 1,
+        "id": 1006
+      },
+      "id": 356586
+    },
+    {
+      "episodeId": 163467,
+      "seriesId": 812,
+      "sourceTitle": "NCIS.S22E15.Moonlit.1080p.AMZN.WEB-DL.DDP5.1.H.264-FLUX",
+      "languages": [
+        {
+          "id": 1,
+          "name": "English"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 3,
+          "name": "WEBDL-1080p",
+          "source": "web",
+          "resolution": 1080
+        },
+        "revision": {
+          "version": 1,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "customFormats": [
+        {
+          "id": 3,
+          "name": "english"
+        }
+      ],
+      "customFormatScore": 10,
+      "qualityCutoffNotMet": false,
+      "date": "2025-03-25T04:21:25Z",
+      "downloadId": "SABnzbd_nzo_i65ztijf",
+      "eventType": "downloadFolderImported",
+      "data": {
+        "fileId": "1504217",
+        "droppedPath": "/downloads/NCIS.S22E15.Moonlit.1080p.AMZN.WEB-DL.DDP5.1.H.264-FLUX/NCIS.S22E15.Moonlit.1080p.AMZN.WEB-DL.DDP5.1.H.264-FLUX.mkv",
+        "importedPath": "/tv/Tv Shows/NCIS/Season 22/NCIS.S22E15.Moonlit.mkv",
+        "downloadClient": "SABnzbd",
+        "downloadClientName": "sab",
+        "releaseGroup": "FLUX",
+        "customFormatScore": "10",
+        "size": "2573844051",
+        "indexerFlags": "0",
+        "releaseType": "SingleEpisode"
+      },
+      "episode": {
+        "seriesId": 812,
+        "tvdbId": 10996109,
+        "episodeFileId": 1504217,
+        "seasonNumber": 22,
+        "episodeNumber": 15,
+        "title": "Moonlit",
+        "airDate": "2025-03-24",
+        "airDateUtc": "2025-03-25T01:00:00Z",
+        "runtime": 43,
+        "overview": "After a Navy Lieutenant’s death reveals ties to Special Agent Sawyer, Torres and Knight uncover a murder linked to a wealthy family. Meanwhile, Parker discovers a shocking connection between his mother’s death and Lily.",
+        "hasFile": true,
+        "monitored": true,
+        "unverifiedSceneNumbering": false,
+        "id": 163467
+      },
+      "series": {
+        "title": "NCIS",
+        "sortTitle": "ncis",
+        "status": "continuing",
+        "ended": false,
+        "overview": "Explore the inner workings of the government agency that investigates all crimes involving Navy and Marine Corps personnel, regardless of rank or position.  Leading this team is NCIS Special Agent Leroy Jethro Gibbs, a skilled investigator and interrogator who is smart, tough and willing to bend the rules to get the job done.",
+        "network": "CBS",
+        "airTime": "21:00",
+        "images": [
+          {
+            "coverType": "banner",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/graphical/72108-g12.jpg"
+          },
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/posters/72108-5.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/fanart/original/72108-4.jpg"
+          },
+          {
+            "coverType": "clearlogo",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/72108/clearlogo/611b4f6f6e088.png"
+          }
+        ],
+        "originalLanguage": {
+          "id": 1,
+          "name": "English"
+        },
+        "seasons": [
+          {
+            "seasonNumber": 0,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 1,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 2,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 3,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 4,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 5,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 6,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 7,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 8,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 9,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 10,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 11,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 12,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 13,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 14,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 15,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 16,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 17,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 18,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 19,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 20,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 21,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 22,
+            "monitored": true
+          }
+        ],
+        "year": 2003,
+        "path": "/tv/Tv Shows/NCIS",
+        "qualityProfileId": 1,
+        "seasonFolder": true,
+        "monitored": true,
+        "monitorNewItems": "all",
+        "useSceneNumbering": false,
+        "runtime": 45,
+        "tvdbId": 72108,
+        "tvRageId": 4628,
+        "tvMazeId": 60,
+        "tmdbId": 4614,
+        "firstAired": "2003-09-23T00:00:00Z",
+        "lastAired": "2025-05-05T00:00:00Z",
+        "seriesType": "standard",
+        "cleanTitle": "ncis",
+        "imdbId": "tt0364845",
+        "titleSlug": "ncis",
+        "certification": "TV-14",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Crime",
+          "Drama",
+          "Mystery",
+          "Thriller"
+        ],
+        "tags": [],
+        "added": "2020-02-09T09:32:14Z",
+        "ratings": {
+          "votes": 169922,
+          "value": 7.8
+        },
+        "languageProfileId": 1,
+        "id": 812
+      },
+      "id": 356585
+    },
+    {
+      "episodeId": 163467,
+      "seriesId": 812,
+      "sourceTitle": "/tv/Tv Shows/NCIS/Season 22/NCIS.S22E15.Moonlit.mkv",
+      "languages": [
+        {
+          "id": 1,
+          "name": "English"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 4,
+          "name": "HDTV-720p",
+          "source": "television",
+          "resolution": 720
+        },
+        "revision": {
+          "version": 1,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "customFormats": [
+        {
+          "id": 3,
+          "name": "english"
+        }
+      ],
+      "customFormatScore": 10,
+      "qualityCutoffNotMet": true,
+      "date": "2025-03-25T04:21:22Z",
+      "eventType": "episodeFileDeleted",
+      "data": {
+        "reason": "Upgrade",
+        "releaseGroup": "SYNCOPY",
+        "size": "942885984",
+        "indexerFlags": "0",
+        "releaseType": "SingleEpisode"
+      },
+      "episode": {
+        "seriesId": 812,
+        "tvdbId": 10996109,
+        "episodeFileId": 1504217,
+        "seasonNumber": 22,
+        "episodeNumber": 15,
+        "title": "Moonlit",
+        "airDate": "2025-03-24",
+        "airDateUtc": "2025-03-25T01:00:00Z",
+        "runtime": 43,
+        "overview": "After a Navy Lieutenant’s death reveals ties to Special Agent Sawyer, Torres and Knight uncover a murder linked to a wealthy family. Meanwhile, Parker discovers a shocking connection between his mother’s death and Lily.",
+        "hasFile": true,
+        "monitored": true,
+        "unverifiedSceneNumbering": false,
+        "id": 163467
+      },
+      "series": {
+        "title": "NCIS",
+        "sortTitle": "ncis",
+        "status": "continuing",
+        "ended": false,
+        "overview": "Explore the inner workings of the government agency that investigates all crimes involving Navy and Marine Corps personnel, regardless of rank or position.  Leading this team is NCIS Special Agent Leroy Jethro Gibbs, a skilled investigator and interrogator who is smart, tough and willing to bend the rules to get the job done.",
+        "network": "CBS",
+        "airTime": "21:00",
+        "images": [
+          {
+            "coverType": "banner",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/graphical/72108-g12.jpg"
+          },
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/posters/72108-5.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/fanart/original/72108-4.jpg"
+          },
+          {
+            "coverType": "clearlogo",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/72108/clearlogo/611b4f6f6e088.png"
+          }
+        ],
+        "originalLanguage": {
+          "id": 1,
+          "name": "English"
+        },
+        "seasons": [
+          {
+            "seasonNumber": 0,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 1,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 2,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 3,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 4,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 5,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 6,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 7,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 8,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 9,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 10,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 11,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 12,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 13,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 14,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 15,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 16,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 17,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 18,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 19,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 20,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 21,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 22,
+            "monitored": true
+          }
+        ],
+        "year": 2003,
+        "path": "/tv/Tv Shows/NCIS",
+        "qualityProfileId": 1,
+        "seasonFolder": true,
+        "monitored": true,
+        "monitorNewItems": "all",
+        "useSceneNumbering": false,
+        "runtime": 45,
+        "tvdbId": 72108,
+        "tvRageId": 4628,
+        "tvMazeId": 60,
+        "tmdbId": 4614,
+        "firstAired": "2003-09-23T00:00:00Z",
+        "lastAired": "2025-05-05T00:00:00Z",
+        "seriesType": "standard",
+        "cleanTitle": "ncis",
+        "imdbId": "tt0364845",
+        "titleSlug": "ncis",
+        "certification": "TV-14",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Crime",
+          "Drama",
+          "Mystery",
+          "Thriller"
+        ],
+        "tags": [],
+        "added": "2020-02-09T09:32:14Z",
+        "ratings": {
+          "votes": 169922,
+          "value": 7.8
+        },
+        "languageProfileId": 1,
+        "id": 812
+      },
+      "id": 356584
+    }
+  ]
+}

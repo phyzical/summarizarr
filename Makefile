@@ -42,3 +42,6 @@ run-image-test:
 
 lint:
 	bundle exec rake lint_fix
+
+update-mocks:
+	bash update_mocks.sh

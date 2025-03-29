@@ -1,0 +1,2707 @@
+{
+  "page": 44,
+  "pageSize": 15,
+  "sortKey": "date",
+  "sortDirection": "descending",
+  "totalRecords": 344511,
+  "records": [
+    {
+      "episodeId": 61157,
+      "seriesId": 882,
+      "sourceTitle": "Scandal.S05E09.Baby.It’s.Cold.Outside.1080p.DSNP.WEB-DL.DD+5.1.H.264-playWEB",
+      "languages": [
+        {
+          "id": 1,
+          "name": "English"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 3,
+          "name": "WEBDL-1080p",
+          "source": "web",
+          "resolution": 1080
+        },
+        "revision": {
+          "version": 1,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "customFormats": [
+        {
+          "id": 3,
+          "name": "english"
+        }
+      ],
+      "customFormatScore": 10,
+      "qualityCutoffNotMet": false,
+      "date": "2025-03-21T23:21:04Z",
+      "downloadId": "SABnzbd_nzo_5ic1rro4",
+      "eventType": "downloadFolderImported",
+      "data": {
+        "fileId": "1502915",
+        "droppedPath": "/downloads/Scandal.S05E09.Baby.It’s.Cold.Outside.1080p.DSNP.WEB-DL.DD+5.1.H.264-playWEB/Scandal.S05E09.Baby.It’s.Cold.Outside.1080p.DSNP.WEB-DL.DD+5.1.H.264-playWEB.mkv",
+        "importedPath": "/tv/Tv Shows/Scandal (2012)/Season 5/Scandal.(2012).S05E09.Baby,.It's.Cold.Outside.mkv",
+        "downloadClient": "SABnzbd",
+        "downloadClientName": "sab",
+        "releaseGroup": "playWEB",
+        "customFormatScore": "10",
+        "size": "2834354174",
+        "indexerFlags": "0",
+        "releaseType": "SingleEpisode"
+      },
+      "episode": {
+        "seriesId": 882,
+        "tvdbId": 5355629,
+        "episodeFileId": 1502915,
+        "seasonNumber": 5,
+        "episodeNumber": 9,
+        "title": "Baby, It's Cold Outside",
+        "airDate": "2015-11-19",
+        "airDateUtc": "2015-11-20T03:00:00Z",
+        "runtime": 45,
+        "overview": "Olivia is feeling more and more frustrated as she takes on “First Lady” type responsibilities at the White House. Meanwhile, Mellie proves just how powerful she can be and Jake and Huck continue the hunt for Rowan.",
+        "hasFile": true,
+        "monitored": true,
+        "absoluteEpisodeNumber": 78,
+        "unverifiedSceneNumbering": false,
+        "id": 61157
+      },
+      "series": {
+        "title": "Scandal (2012)",
+        "sortTitle": "scandal 2012",
+        "status": "ended",
+        "ended": true,
+        "overview": "A former media relations consultant to the President, Olivia Pope dedicates her life to protecting and defending the public images of our nation's elite. After leaving the White House, the power consultant opened her own firm, hoping to start a new chapter -- both professionally and personally -- but she can't seem to completely cut ties with her past. Slowly it becomes apparent that her staff, who specialize in fixing the lives of other people, can't quite fix the ones closest at hand -- their own.",
+        "network": "ABC (US)",
+        "airTime": "22:00",
+        "images": [
+          {
+            "coverType": "banner",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/graphical/248841-g2.jpg"
+          },
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/posters/248841-1.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/fanart/original/248841-9.jpg"
+          },
+          {
+            "coverType": "clearlogo",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/248841/clearlogo/611b6c4808a4c.png"
+          }
+        ],
+        "originalLanguage": {
+          "id": 1,
+          "name": "English"
+        },
+        "seasons": [
+          {
+            "seasonNumber": 0,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 1,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 2,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 3,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 4,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 5,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 6,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 7,
+            "monitored": true
+          }
+        ],
+        "year": 2012,
+        "path": "/tv/Tv Shows/Scandal (2012)",
+        "qualityProfileId": 1,
+        "seasonFolder": true,
+        "monitored": true,
+        "monitorNewItems": "all",
+        "useSceneNumbering": false,
+        "runtime": 45,
+        "tvdbId": 248841,
+        "tvRageId": 28398,
+        "tvMazeId": 98,
+        "tmdbId": 39269,
+        "firstAired": "2012-04-05T00:00:00Z",
+        "lastAired": "2018-04-19T00:00:00Z",
+        "seriesType": "standard",
+        "cleanTitle": "scandal2012",
+        "imdbId": "tt1837576",
+        "titleSlug": "scandal-2012",
+        "certification": "TV-14",
+        "genres": [
+          "Drama",
+          "Thriller"
+        ],
+        "tags": [],
+        "added": "2020-02-09T10:23:02Z",
+        "ratings": {
+          "votes": 81445,
+          "value": 7.7
+        },
+        "languageProfileId": 1,
+        "id": 882
+      },
+      "id": 356403
+    },
+    {
+      "episodeId": 61157,
+      "seriesId": 882,
+      "sourceTitle": "/tv/Tv Shows/Scandal (2012)/Season 5/Scandal.(2012).S05E09.Baby,.It's.Cold.Outside.mkv",
+      "languages": [
+        {
+          "id": 1,
+          "name": "English"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 5,
+          "name": "WEBDL-720p",
+          "source": "web",
+          "resolution": 720
+        },
+        "revision": {
+          "version": 1,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "customFormats": [
+        {
+          "id": 3,
+          "name": "english"
+        }
+      ],
+      "customFormatScore": 10,
+      "qualityCutoffNotMet": true,
+      "date": "2025-03-21T23:21:00Z",
+      "eventType": "episodeFileDeleted",
+      "data": {
+        "reason": "Upgrade",
+        "releaseGroup": "playWEB",
+        "size": "1457777683",
+        "indexerFlags": "0",
+        "releaseType": "SingleEpisode"
+      },
+      "episode": {
+        "seriesId": 882,
+        "tvdbId": 5355629,
+        "episodeFileId": 1502915,
+        "seasonNumber": 5,
+        "episodeNumber": 9,
+        "title": "Baby, It's Cold Outside",
+        "airDate": "2015-11-19",
+        "airDateUtc": "2015-11-20T03:00:00Z",
+        "runtime": 45,
+        "overview": "Olivia is feeling more and more frustrated as she takes on “First Lady” type responsibilities at the White House. Meanwhile, Mellie proves just how powerful she can be and Jake and Huck continue the hunt for Rowan.",
+        "hasFile": true,
+        "monitored": true,
+        "absoluteEpisodeNumber": 78,
+        "unverifiedSceneNumbering": false,
+        "id": 61157
+      },
+      "series": {
+        "title": "Scandal (2012)",
+        "sortTitle": "scandal 2012",
+        "status": "ended",
+        "ended": true,
+        "overview": "A former media relations consultant to the President, Olivia Pope dedicates her life to protecting and defending the public images of our nation's elite. After leaving the White House, the power consultant opened her own firm, hoping to start a new chapter -- both professionally and personally -- but she can't seem to completely cut ties with her past. Slowly it becomes apparent that her staff, who specialize in fixing the lives of other people, can't quite fix the ones closest at hand -- their own.",
+        "network": "ABC (US)",
+        "airTime": "22:00",
+        "images": [
+          {
+            "coverType": "banner",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/graphical/248841-g2.jpg"
+          },
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/posters/248841-1.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/fanart/original/248841-9.jpg"
+          },
+          {
+            "coverType": "clearlogo",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/248841/clearlogo/611b6c4808a4c.png"
+          }
+        ],
+        "originalLanguage": {
+          "id": 1,
+          "name": "English"
+        },
+        "seasons": [
+          {
+            "seasonNumber": 0,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 1,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 2,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 3,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 4,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 5,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 6,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 7,
+            "monitored": true
+          }
+        ],
+        "year": 2012,
+        "path": "/tv/Tv Shows/Scandal (2012)",
+        "qualityProfileId": 1,
+        "seasonFolder": true,
+        "monitored": true,
+        "monitorNewItems": "all",
+        "useSceneNumbering": false,
+        "runtime": 45,
+        "tvdbId": 248841,
+        "tvRageId": 28398,
+        "tvMazeId": 98,
+        "tmdbId": 39269,
+        "firstAired": "2012-04-05T00:00:00Z",
+        "lastAired": "2018-04-19T00:00:00Z",
+        "seriesType": "standard",
+        "cleanTitle": "scandal2012",
+        "imdbId": "tt1837576",
+        "titleSlug": "scandal-2012",
+        "certification": "TV-14",
+        "genres": [
+          "Drama",
+          "Thriller"
+        ],
+        "tags": [],
+        "added": "2020-02-09T10:23:02Z",
+        "ratings": {
+          "votes": 81445,
+          "value": 7.7
+        },
+        "languageProfileId": 1,
+        "id": 882
+      },
+      "id": 356402
+    },
+    {
+      "episodeId": 61157,
+      "seriesId": 882,
+      "sourceTitle": "Scandal.S05E09.Baby.It’s.Cold.Outside.1080p.DSNP.WEB-DL.DD+5.1.H.264-playWEB",
+      "languages": [
+        {
+          "id": 1,
+          "name": "English"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 3,
+          "name": "WEBDL-1080p",
+          "source": "web",
+          "resolution": 1080
+        },
+        "revision": {
+          "version": 1,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "customFormats": [
+        {
+          "id": 3,
+          "name": "english"
+        }
+      ],
+      "customFormatScore": 10,
+      "qualityCutoffNotMet": false,
+      "date": "2025-03-21T23:19:31Z",
+      "downloadId": "SABnzbd_nzo_5ic1rro4",
+      "eventType": "grabbed",
+      "data": {
+        "indexer": "altHUB (Prowlarr)",
+        "nzbInfoUrl": "https://api.althub.co.za/details/18bf3d1bd8c2ea457b804fa739dd099a",
+        "releaseGroup": "playWEB",
+        "age": "0",
+        "ageHours": "0.18633393902777778",
+        "ageMinutes": "11.180036373333333",
+        "publishedDate": "2025-03-21T23:08:21Z",
+        "downloadClient": "SABnzbd",
+        "downloadClientName": "sab",
+        "size": "3023274112",
+        "downloadUrl": "http://prowlarr:9696/1/download?apikey=5f771c1869f94fec821832369384a70c&link=emNGeFBSYVdCQXNtVDNKbVhJcERsOE5RQnFUSm8xVnpBdHJQbXlFQ1BDYkhiSnE1L0tGTnJSU2pvYWY3dFgxQ3lyNGpyZmQzekl0QWtxaERMeG96ZWtyaDgwOTlPVTVWUTRuQUExV2tmcFRFVmpuZmlrYnVESk93d0RndHgybGt5b09kMVV0cnRlaS9UR1AwU2E4V1RuTTMzZFowZzdiOGowRThLMlFJekpzPQ&file=Scandal.S05E09.Baby.It%E2%80%99s.Cold.Outside.1080p.DSNP.WEB-DL.DD%2B5.1.H.264-playWEB",
+        "guid": "https://api.althub.co.za/details/18bf3d1bd8c2ea457b804fa739dd099a",
+        "tvdbId": "0",
+        "tvRageId": "0",
+        "imdbId": null,
+        "protocol": "1",
+        "customFormatScore": "10",
+        "seriesMatchType": "Alias",
+        "releaseSource": "Rss",
+        "indexerFlags": "0",
+        "releaseType": "SingleEpisode"
+      },
+      "episode": {
+        "seriesId": 882,
+        "tvdbId": 5355629,
+        "episodeFileId": 1502915,
+        "seasonNumber": 5,
+        "episodeNumber": 9,
+        "title": "Baby, It's Cold Outside",
+        "airDate": "2015-11-19",
+        "airDateUtc": "2015-11-20T03:00:00Z",
+        "runtime": 45,
+        "overview": "Olivia is feeling more and more frustrated as she takes on “First Lady” type responsibilities at the White House. Meanwhile, Mellie proves just how powerful she can be and Jake and Huck continue the hunt for Rowan.",
+        "hasFile": true,
+        "monitored": true,
+        "absoluteEpisodeNumber": 78,
+        "unverifiedSceneNumbering": false,
+        "id": 61157
+      },
+      "series": {
+        "title": "Scandal (2012)",
+        "sortTitle": "scandal 2012",
+        "status": "ended",
+        "ended": true,
+        "overview": "A former media relations consultant to the President, Olivia Pope dedicates her life to protecting and defending the public images of our nation's elite. After leaving the White House, the power consultant opened her own firm, hoping to start a new chapter -- both professionally and personally -- but she can't seem to completely cut ties with her past. Slowly it becomes apparent that her staff, who specialize in fixing the lives of other people, can't quite fix the ones closest at hand -- their own.",
+        "network": "ABC (US)",
+        "airTime": "22:00",
+        "images": [
+          {
+            "coverType": "banner",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/graphical/248841-g2.jpg"
+          },
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/posters/248841-1.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/fanart/original/248841-9.jpg"
+          },
+          {
+            "coverType": "clearlogo",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/248841/clearlogo/611b6c4808a4c.png"
+          }
+        ],
+        "originalLanguage": {
+          "id": 1,
+          "name": "English"
+        },
+        "seasons": [
+          {
+            "seasonNumber": 0,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 1,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 2,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 3,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 4,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 5,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 6,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 7,
+            "monitored": true
+          }
+        ],
+        "year": 2012,
+        "path": "/tv/Tv Shows/Scandal (2012)",
+        "qualityProfileId": 1,
+        "seasonFolder": true,
+        "monitored": true,
+        "monitorNewItems": "all",
+        "useSceneNumbering": false,
+        "runtime": 45,
+        "tvdbId": 248841,
+        "tvRageId": 28398,
+        "tvMazeId": 98,
+        "tmdbId": 39269,
+        "firstAired": "2012-04-05T00:00:00Z",
+        "lastAired": "2018-04-19T00:00:00Z",
+        "seriesType": "standard",
+        "cleanTitle": "scandal2012",
+        "imdbId": "tt1837576",
+        "titleSlug": "scandal-2012",
+        "certification": "TV-14",
+        "genres": [
+          "Drama",
+          "Thriller"
+        ],
+        "tags": [],
+        "added": "2020-02-09T10:23:02Z",
+        "ratings": {
+          "votes": 81445,
+          "value": 7.7
+        },
+        "languageProfileId": 1,
+        "id": 882
+      },
+      "id": 356401
+    },
+    {
+      "episodeId": 162768,
+      "seriesId": 654,
+      "sourceTitle": "Gogglebox.S25E06.1080p.ALL4.WEB-DL.AAC2.0.H.264-RAWR",
+      "languages": [
+        {
+          "id": 1,
+          "name": "English"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 3,
+          "name": "WEBDL-1080p",
+          "source": "web",
+          "resolution": 1080
+        },
+        "revision": {
+          "version": 1,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "customFormats": [
+        {
+          "id": 3,
+          "name": "english"
+        }
+      ],
+      "customFormatScore": 10,
+      "qualityCutoffNotMet": false,
+      "date": "2025-03-21T22:49:33Z",
+      "downloadId": "SABnzbd_nzo_fwvzeca2",
+      "eventType": "downloadFolderImported",
+      "data": {
+        "fileId": "1502914",
+        "droppedPath": "/downloads/Gogglebox.S25E06.1080p.ALL4.WEB-DL.AAC2.0.H.264-RAWR/7d4d04f89e9648f08d084b6a67b885c1.mkv",
+        "importedPath": "/tv/Documentaires/tv shows/Gogglebox/Season 25/Gogglebox.S25E06.Episode.6.mkv",
+        "downloadClient": "SABnzbd",
+        "downloadClientName": "sab",
+        "releaseGroup": "RAWR",
+        "customFormatScore": "10",
+        "size": "1795307044",
+        "indexerFlags": "0",
+        "releaseType": "SingleEpisode"
+      },
+      "episode": {
+        "seriesId": 654,
+        "tvdbId": 10937409,
+        "episodeFileId": 1502914,
+        "seasonNumber": 25,
+        "episodeNumber": 6,
+        "title": "Episode 6",
+        "airDate": "2025-03-21",
+        "airDateUtc": "2025-03-21T21:00:00Z",
+        "runtime": 47,
+        "overview": "It's The Great Celebrity Bake Off for Stand Up To Cancer this time. Also, With Love, Meghan, Tempting Fortune, Fear, Bradley Walsh: Egypt’s Cosmic Code, Last One Laughing, and This Morning (toenails).",
+        "hasFile": true,
+        "monitored": true,
+        "unverifiedSceneNumbering": false,
+        "id": 162768
+      },
+      "series": {
+        "title": "Gogglebox",
+        "sortTitle": "gogglebox",
+        "status": "continuing",
+        "ended": false,
+        "overview": "What do Britain's sharpest armchair critics think of our biggest and best TV programmes?",
+        "network": "Channel 4",
+        "airTime": "21:00",
+        "images": [
+          {
+            "coverType": "banner",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/graphical/268009-g.jpg"
+          },
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/series/268009/posters/62082407.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/fanart/original/268009-1.jpg"
+          },
+          {
+            "coverType": "clearlogo",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/268009/clearlogo/611cc331065fa.png"
+          }
+        ],
+        "originalLanguage": {
+          "id": 1,
+          "name": "English"
+        },
+        "seasons": [
+          {
+            "seasonNumber": 0,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 1,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 2,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 3,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 4,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 5,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 6,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 7,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 8,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 9,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 10,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 11,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 12,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 13,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 14,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 15,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 16,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 17,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 18,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 19,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 20,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 21,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 22,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 23,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 24,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 25,
+            "monitored": true
+          }
+        ],
+        "year": 2013,
+        "path": "/tv/Documentaires/tv shows/Gogglebox",
+        "qualityProfileId": 1,
+        "seasonFolder": true,
+        "monitored": true,
+        "monitorNewItems": "all",
+        "useSceneNumbering": false,
+        "runtime": 51,
+        "tvdbId": 268009,
+        "tvRageId": 34672,
+        "tvMazeId": 3508,
+        "tmdbId": 55808,
+        "firstAired": "2013-03-07T00:00:00Z",
+        "lastAired": "2025-05-30T00:00:00Z",
+        "seriesType": "standard",
+        "cleanTitle": "gogglebox",
+        "imdbId": "tt2762330",
+        "titleSlug": "gogglebox",
+        "certification": "TV-MA",
+        "genres": [
+          "Reality"
+        ],
+        "tags": [],
+        "added": "2020-02-09T08:53:32Z",
+        "ratings": {
+          "votes": 3133,
+          "value": 7.4
+        },
+        "languageProfileId": 1,
+        "id": 654
+      },
+      "id": 356400
+    },
+    {
+      "episodeId": 162768,
+      "seriesId": 654,
+      "sourceTitle": "/tv/Documentaires/tv shows/Gogglebox/Season 25/Gogglebox.S25E06.Episode.6.mkv",
+      "languages": [
+        {
+          "id": 1,
+          "name": "English"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 5,
+          "name": "WEBDL-720p",
+          "source": "web",
+          "resolution": 720
+        },
+        "revision": {
+          "version": 1,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "customFormats": [
+        {
+          "id": 3,
+          "name": "english"
+        }
+      ],
+      "customFormatScore": 10,
+      "qualityCutoffNotMet": true,
+      "date": "2025-03-21T22:49:32Z",
+      "eventType": "episodeFileDeleted",
+      "data": {
+        "reason": "Upgrade",
+        "releaseGroup": "RAWR",
+        "size": "752962857",
+        "indexerFlags": "0",
+        "releaseType": "SingleEpisode"
+      },
+      "episode": {
+        "seriesId": 654,
+        "tvdbId": 10937409,
+        "episodeFileId": 1502914,
+        "seasonNumber": 25,
+        "episodeNumber": 6,
+        "title": "Episode 6",
+        "airDate": "2025-03-21",
+        "airDateUtc": "2025-03-21T21:00:00Z",
+        "runtime": 47,
+        "overview": "It's The Great Celebrity Bake Off for Stand Up To Cancer this time. Also, With Love, Meghan, Tempting Fortune, Fear, Bradley Walsh: Egypt’s Cosmic Code, Last One Laughing, and This Morning (toenails).",
+        "hasFile": true,
+        "monitored": true,
+        "unverifiedSceneNumbering": false,
+        "id": 162768
+      },
+      "series": {
+        "title": "Gogglebox",
+        "sortTitle": "gogglebox",
+        "status": "continuing",
+        "ended": false,
+        "overview": "What do Britain's sharpest armchair critics think of our biggest and best TV programmes?",
+        "network": "Channel 4",
+        "airTime": "21:00",
+        "images": [
+          {
+            "coverType": "banner",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/graphical/268009-g.jpg"
+          },
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/series/268009/posters/62082407.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/fanart/original/268009-1.jpg"
+          },
+          {
+            "coverType": "clearlogo",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/268009/clearlogo/611cc331065fa.png"
+          }
+        ],
+        "originalLanguage": {
+          "id": 1,
+          "name": "English"
+        },
+        "seasons": [
+          {
+            "seasonNumber": 0,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 1,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 2,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 3,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 4,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 5,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 6,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 7,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 8,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 9,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 10,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 11,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 12,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 13,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 14,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 15,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 16,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 17,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 18,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 19,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 20,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 21,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 22,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 23,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 24,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 25,
+            "monitored": true
+          }
+        ],
+        "year": 2013,
+        "path": "/tv/Documentaires/tv shows/Gogglebox",
+        "qualityProfileId": 1,
+        "seasonFolder": true,
+        "monitored": true,
+        "monitorNewItems": "all",
+        "useSceneNumbering": false,
+        "runtime": 51,
+        "tvdbId": 268009,
+        "tvRageId": 34672,
+        "tvMazeId": 3508,
+        "tmdbId": 55808,
+        "firstAired": "2013-03-07T00:00:00Z",
+        "lastAired": "2025-05-30T00:00:00Z",
+        "seriesType": "standard",
+        "cleanTitle": "gogglebox",
+        "imdbId": "tt2762330",
+        "titleSlug": "gogglebox",
+        "certification": "TV-MA",
+        "genres": [
+          "Reality"
+        ],
+        "tags": [],
+        "added": "2020-02-09T08:53:32Z",
+        "ratings": {
+          "votes": 3133,
+          "value": 7.4
+        },
+        "languageProfileId": 1,
+        "id": 654
+      },
+      "id": 356399
+    },
+    {
+      "episodeId": 162768,
+      "seriesId": 654,
+      "sourceTitle": "Gogglebox.S25E06.1080p.ALL4.WEB-DL.AAC2.0.H.264-RAWR",
+      "languages": [
+        {
+          "id": 1,
+          "name": "English"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 3,
+          "name": "WEBDL-1080p",
+          "source": "web",
+          "resolution": 1080
+        },
+        "revision": {
+          "version": 1,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "customFormats": [
+        {
+          "id": 3,
+          "name": "english"
+        }
+      ],
+      "customFormatScore": 10,
+      "qualityCutoffNotMet": false,
+      "date": "2025-03-21T22:48:30Z",
+      "downloadId": "SABnzbd_nzo_fwvzeca2",
+      "eventType": "grabbed",
+      "data": {
+        "indexer": "NzbPlanet (Prowlarr)",
+        "nzbInfoUrl": "https://nzbplanet.org/details/9850e8a7041dca0059f1007ed2ceadab",
+        "releaseGroup": "RAWR",
+        "age": "0",
+        "ageHours": "0.19800349013888888",
+        "ageMinutes": "11.880209446666667",
+        "publishedDate": "2025-03-21T22:36:38Z",
+        "downloadClient": "SABnzbd",
+        "downloadClientName": "sab",
+        "size": "1976718071",
+        "downloadUrl": "http://prowlarr:9696/7/download?apikey=5f771c1869f94fec821832369384a70c&link=TndQL1hQT1JvNFRxQ2p2bHVkamMzNitaUnNQMDZTQldHR0M4VlFzOGIrNmw0RWwvZzhUU2ExY3JwNUdKeTBFajUxbFdTQUV1UGh4NXZkVjhQQzZuU3haQ1dHeGZVbFBPNGE4ODJMNDl3aXZSZHBJQnRwc2xBT2dqN1JoNlBDYk50dVI3TktlRmJhUEpBcTJIbk5ZL3RqNDEvSGNpZVFiUnhYczNySE9tYUFRPQ&file=Gogglebox.S25E06.1080p.ALL4.WEB-DL.AAC2.0.H.264-RAWR",
+        "guid": "https://nzbplanet.org/details/9850e8a7041dca0059f1007ed2ceadab",
+        "tvdbId": "0",
+        "tvRageId": "0",
+        "imdbId": null,
+        "protocol": "1",
+        "customFormatScore": "10",
+        "seriesMatchType": "Title",
+        "releaseSource": "Rss",
+        "indexerFlags": "0",
+        "releaseType": "SingleEpisode"
+      },
+      "episode": {
+        "seriesId": 654,
+        "tvdbId": 10937409,
+        "episodeFileId": 1502914,
+        "seasonNumber": 25,
+        "episodeNumber": 6,
+        "title": "Episode 6",
+        "airDate": "2025-03-21",
+        "airDateUtc": "2025-03-21T21:00:00Z",
+        "runtime": 47,
+        "overview": "It's The Great Celebrity Bake Off for Stand Up To Cancer this time. Also, With Love, Meghan, Tempting Fortune, Fear, Bradley Walsh: Egypt’s Cosmic Code, Last One Laughing, and This Morning (toenails).",
+        "hasFile": true,
+        "monitored": true,
+        "unverifiedSceneNumbering": false,
+        "id": 162768
+      },
+      "series": {
+        "title": "Gogglebox",
+        "sortTitle": "gogglebox",
+        "status": "continuing",
+        "ended": false,
+        "overview": "What do Britain's sharpest armchair critics think of our biggest and best TV programmes?",
+        "network": "Channel 4",
+        "airTime": "21:00",
+        "images": [
+          {
+            "coverType": "banner",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/graphical/268009-g.jpg"
+          },
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/series/268009/posters/62082407.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/fanart/original/268009-1.jpg"
+          },
+          {
+            "coverType": "clearlogo",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/268009/clearlogo/611cc331065fa.png"
+          }
+        ],
+        "originalLanguage": {
+          "id": 1,
+          "name": "English"
+        },
+        "seasons": [
+          {
+            "seasonNumber": 0,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 1,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 2,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 3,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 4,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 5,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 6,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 7,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 8,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 9,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 10,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 11,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 12,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 13,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 14,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 15,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 16,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 17,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 18,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 19,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 20,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 21,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 22,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 23,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 24,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 25,
+            "monitored": true
+          }
+        ],
+        "year": 2013,
+        "path": "/tv/Documentaires/tv shows/Gogglebox",
+        "qualityProfileId": 1,
+        "seasonFolder": true,
+        "monitored": true,
+        "monitorNewItems": "all",
+        "useSceneNumbering": false,
+        "runtime": 51,
+        "tvdbId": 268009,
+        "tvRageId": 34672,
+        "tvMazeId": 3508,
+        "tmdbId": 55808,
+        "firstAired": "2013-03-07T00:00:00Z",
+        "lastAired": "2025-05-30T00:00:00Z",
+        "seriesType": "standard",
+        "cleanTitle": "gogglebox",
+        "imdbId": "tt2762330",
+        "titleSlug": "gogglebox",
+        "certification": "TV-MA",
+        "genres": [
+          "Reality"
+        ],
+        "tags": [],
+        "added": "2020-02-09T08:53:32Z",
+        "ratings": {
+          "votes": 3133,
+          "value": 7.4
+        },
+        "languageProfileId": 1,
+        "id": 654
+      },
+      "id": 356398
+    },
+    {
+      "episodeId": 162768,
+      "seriesId": 654,
+      "sourceTitle": "Gogglebox.S25E06.720p.ALL4.WEB-DL.AAC2.0.H.264-RAWR",
+      "languages": [
+        {
+          "id": 1,
+          "name": "English"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 5,
+          "name": "WEBDL-720p",
+          "source": "web",
+          "resolution": 720
+        },
+        "revision": {
+          "version": 1,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "customFormats": [
+        {
+          "id": 3,
+          "name": "english"
+        }
+      ],
+      "customFormatScore": 10,
+      "qualityCutoffNotMet": true,
+      "date": "2025-03-21T22:34:07Z",
+      "downloadId": "SABnzbd_nzo_pg7kw44e",
+      "eventType": "downloadFolderImported",
+      "data": {
+        "fileId": "1502913",
+        "droppedPath": "/downloads/Gogglebox.S25E06.720p.ALL4.WEB-DL.AAC2.0.H.264-RAWR/c78d73b42ad44641b5847842780d1bab.mkv",
+        "importedPath": "/tv/Documentaires/tv shows/Gogglebox/Season 25/Gogglebox.S25E06.Episode.6.mkv",
+        "downloadClient": "SABnzbd",
+        "downloadClientName": "sab",
+        "releaseGroup": "RAWR",
+        "customFormatScore": "10",
+        "size": "752962857",
+        "indexerFlags": "0",
+        "releaseType": "SingleEpisode"
+      },
+      "episode": {
+        "seriesId": 654,
+        "tvdbId": 10937409,
+        "episodeFileId": 1502914,
+        "seasonNumber": 25,
+        "episodeNumber": 6,
+        "title": "Episode 6",
+        "airDate": "2025-03-21",
+        "airDateUtc": "2025-03-21T21:00:00Z",
+        "runtime": 47,
+        "overview": "It's The Great Celebrity Bake Off for Stand Up To Cancer this time. Also, With Love, Meghan, Tempting Fortune, Fear, Bradley Walsh: Egypt’s Cosmic Code, Last One Laughing, and This Morning (toenails).",
+        "hasFile": true,
+        "monitored": true,
+        "unverifiedSceneNumbering": false,
+        "id": 162768
+      },
+      "series": {
+        "title": "Gogglebox",
+        "sortTitle": "gogglebox",
+        "status": "continuing",
+        "ended": false,
+        "overview": "What do Britain's sharpest armchair critics think of our biggest and best TV programmes?",
+        "network": "Channel 4",
+        "airTime": "21:00",
+        "images": [
+          {
+            "coverType": "banner",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/graphical/268009-g.jpg"
+          },
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/series/268009/posters/62082407.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/fanart/original/268009-1.jpg"
+          },
+          {
+            "coverType": "clearlogo",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/268009/clearlogo/611cc331065fa.png"
+          }
+        ],
+        "originalLanguage": {
+          "id": 1,
+          "name": "English"
+        },
+        "seasons": [
+          {
+            "seasonNumber": 0,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 1,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 2,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 3,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 4,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 5,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 6,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 7,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 8,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 9,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 10,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 11,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 12,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 13,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 14,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 15,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 16,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 17,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 18,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 19,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 20,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 21,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 22,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 23,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 24,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 25,
+            "monitored": true
+          }
+        ],
+        "year": 2013,
+        "path": "/tv/Documentaires/tv shows/Gogglebox",
+        "qualityProfileId": 1,
+        "seasonFolder": true,
+        "monitored": true,
+        "monitorNewItems": "all",
+        "useSceneNumbering": false,
+        "runtime": 51,
+        "tvdbId": 268009,
+        "tvRageId": 34672,
+        "tvMazeId": 3508,
+        "tmdbId": 55808,
+        "firstAired": "2013-03-07T00:00:00Z",
+        "lastAired": "2025-05-30T00:00:00Z",
+        "seriesType": "standard",
+        "cleanTitle": "gogglebox",
+        "imdbId": "tt2762330",
+        "titleSlug": "gogglebox",
+        "certification": "TV-MA",
+        "genres": [
+          "Reality"
+        ],
+        "tags": [],
+        "added": "2020-02-09T08:53:32Z",
+        "ratings": {
+          "votes": 3133,
+          "value": 7.4
+        },
+        "languageProfileId": 1,
+        "id": 654
+      },
+      "id": 356397
+    },
+    {
+      "episodeId": 61157,
+      "seriesId": 882,
+      "sourceTitle": "Scandal.S05E09.Baby.It’s.Cold.Outside.720p.DSNP.WEB-DL.DD+5.1.H.264-playWEB",
+      "languages": [
+        {
+          "id": 1,
+          "name": "English"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 5,
+          "name": "WEBDL-720p",
+          "source": "web",
+          "resolution": 720
+        },
+        "revision": {
+          "version": 1,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "customFormats": [
+        {
+          "id": 3,
+          "name": "english"
+        }
+      ],
+      "customFormatScore": 10,
+      "qualityCutoffNotMet": true,
+      "date": "2025-03-21T22:34:01Z",
+      "downloadId": "SABnzbd_nzo_d8031qy5",
+      "eventType": "downloadFolderImported",
+      "data": {
+        "fileId": "1502912",
+        "droppedPath": "/downloads/Scandal.S05E09.Baby.It’s.Cold.Outside.720p.DSNP.WEB-DL.DD+5.1.H.264-playWEB/Scandal.S05E09.Baby.It’s.Cold.Outside.720p.DSNP.WEB-DL.DD+5.1.H.264-playWEB.mkv",
+        "importedPath": "/tv/Tv Shows/Scandal (2012)/Season 5/Scandal.(2012).S05E09.Baby,.It's.Cold.Outside.mkv",
+        "downloadClient": "SABnzbd",
+        "downloadClientName": "sab",
+        "releaseGroup": "playWEB",
+        "customFormatScore": "10",
+        "size": "1457777683",
+        "indexerFlags": "0",
+        "releaseType": "SingleEpisode"
+      },
+      "episode": {
+        "seriesId": 882,
+        "tvdbId": 5355629,
+        "episodeFileId": 1502915,
+        "seasonNumber": 5,
+        "episodeNumber": 9,
+        "title": "Baby, It's Cold Outside",
+        "airDate": "2015-11-19",
+        "airDateUtc": "2015-11-20T03:00:00Z",
+        "runtime": 45,
+        "overview": "Olivia is feeling more and more frustrated as she takes on “First Lady” type responsibilities at the White House. Meanwhile, Mellie proves just how powerful she can be and Jake and Huck continue the hunt for Rowan.",
+        "hasFile": true,
+        "monitored": true,
+        "absoluteEpisodeNumber": 78,
+        "unverifiedSceneNumbering": false,
+        "id": 61157
+      },
+      "series": {
+        "title": "Scandal (2012)",
+        "sortTitle": "scandal 2012",
+        "status": "ended",
+        "ended": true,
+        "overview": "A former media relations consultant to the President, Olivia Pope dedicates her life to protecting and defending the public images of our nation's elite. After leaving the White House, the power consultant opened her own firm, hoping to start a new chapter -- both professionally and personally -- but she can't seem to completely cut ties with her past. Slowly it becomes apparent that her staff, who specialize in fixing the lives of other people, can't quite fix the ones closest at hand -- their own.",
+        "network": "ABC (US)",
+        "airTime": "22:00",
+        "images": [
+          {
+            "coverType": "banner",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/graphical/248841-g2.jpg"
+          },
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/posters/248841-1.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/fanart/original/248841-9.jpg"
+          },
+          {
+            "coverType": "clearlogo",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/248841/clearlogo/611b6c4808a4c.png"
+          }
+        ],
+        "originalLanguage": {
+          "id": 1,
+          "name": "English"
+        },
+        "seasons": [
+          {
+            "seasonNumber": 0,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 1,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 2,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 3,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 4,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 5,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 6,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 7,
+            "monitored": true
+          }
+        ],
+        "year": 2012,
+        "path": "/tv/Tv Shows/Scandal (2012)",
+        "qualityProfileId": 1,
+        "seasonFolder": true,
+        "monitored": true,
+        "monitorNewItems": "all",
+        "useSceneNumbering": false,
+        "runtime": 45,
+        "tvdbId": 248841,
+        "tvRageId": 28398,
+        "tvMazeId": 98,
+        "tmdbId": 39269,
+        "firstAired": "2012-04-05T00:00:00Z",
+        "lastAired": "2018-04-19T00:00:00Z",
+        "seriesType": "standard",
+        "cleanTitle": "scandal2012",
+        "imdbId": "tt1837576",
+        "titleSlug": "scandal-2012",
+        "certification": "TV-14",
+        "genres": [
+          "Drama",
+          "Thriller"
+        ],
+        "tags": [],
+        "added": "2020-02-09T10:23:02Z",
+        "ratings": {
+          "votes": 81445,
+          "value": 7.7
+        },
+        "languageProfileId": 1,
+        "id": 882
+      },
+      "id": 356396
+    },
+    {
+      "episodeId": 61157,
+      "seriesId": 882,
+      "sourceTitle": "/tv/Tv Shows/Scandal (2012)/Season 5/Scandal.(2012).s05e09.mkv",
+      "languages": [
+        {
+          "id": 1,
+          "name": "English"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 1,
+          "name": "SDTV",
+          "source": "television",
+          "resolution": 480
+        },
+        "revision": {
+          "version": 1,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "customFormats": [
+        {
+          "id": 3,
+          "name": "english"
+        }
+      ],
+      "customFormatScore": 10,
+      "qualityCutoffNotMet": true,
+      "date": "2025-03-21T22:34:00Z",
+      "eventType": "episodeFileDeleted",
+      "data": {
+        "reason": "Upgrade",
+        "releaseGroup": null,
+        "size": "220064054",
+        "indexerFlags": "0",
+        "releaseType": "Unknown"
+      },
+      "episode": {
+        "seriesId": 882,
+        "tvdbId": 5355629,
+        "episodeFileId": 1502915,
+        "seasonNumber": 5,
+        "episodeNumber": 9,
+        "title": "Baby, It's Cold Outside",
+        "airDate": "2015-11-19",
+        "airDateUtc": "2015-11-20T03:00:00Z",
+        "runtime": 45,
+        "overview": "Olivia is feeling more and more frustrated as she takes on “First Lady” type responsibilities at the White House. Meanwhile, Mellie proves just how powerful she can be and Jake and Huck continue the hunt for Rowan.",
+        "hasFile": true,
+        "monitored": true,
+        "absoluteEpisodeNumber": 78,
+        "unverifiedSceneNumbering": false,
+        "id": 61157
+      },
+      "series": {
+        "title": "Scandal (2012)",
+        "sortTitle": "scandal 2012",
+        "status": "ended",
+        "ended": true,
+        "overview": "A former media relations consultant to the President, Olivia Pope dedicates her life to protecting and defending the public images of our nation's elite. After leaving the White House, the power consultant opened her own firm, hoping to start a new chapter -- both professionally and personally -- but she can't seem to completely cut ties with her past. Slowly it becomes apparent that her staff, who specialize in fixing the lives of other people, can't quite fix the ones closest at hand -- their own.",
+        "network": "ABC (US)",
+        "airTime": "22:00",
+        "images": [
+          {
+            "coverType": "banner",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/graphical/248841-g2.jpg"
+          },
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/posters/248841-1.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/fanart/original/248841-9.jpg"
+          },
+          {
+            "coverType": "clearlogo",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/248841/clearlogo/611b6c4808a4c.png"
+          }
+        ],
+        "originalLanguage": {
+          "id": 1,
+          "name": "English"
+        },
+        "seasons": [
+          {
+            "seasonNumber": 0,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 1,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 2,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 3,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 4,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 5,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 6,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 7,
+            "monitored": true
+          }
+        ],
+        "year": 2012,
+        "path": "/tv/Tv Shows/Scandal (2012)",
+        "qualityProfileId": 1,
+        "seasonFolder": true,
+        "monitored": true,
+        "monitorNewItems": "all",
+        "useSceneNumbering": false,
+        "runtime": 45,
+        "tvdbId": 248841,
+        "tvRageId": 28398,
+        "tvMazeId": 98,
+        "tmdbId": 39269,
+        "firstAired": "2012-04-05T00:00:00Z",
+        "lastAired": "2018-04-19T00:00:00Z",
+        "seriesType": "standard",
+        "cleanTitle": "scandal2012",
+        "imdbId": "tt1837576",
+        "titleSlug": "scandal-2012",
+        "certification": "TV-14",
+        "genres": [
+          "Drama",
+          "Thriller"
+        ],
+        "tags": [],
+        "added": "2020-02-09T10:23:02Z",
+        "ratings": {
+          "votes": 81445,
+          "value": 7.7
+        },
+        "languageProfileId": 1,
+        "id": 882
+      },
+      "id": 356395
+    },
+    {
+      "episodeId": 162768,
+      "seriesId": 654,
+      "sourceTitle": "Gogglebox.S25E06.720p.ALL4.WEB-DL.AAC2.0.H.264-RAWR",
+      "languages": [
+        {
+          "id": 1,
+          "name": "English"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 5,
+          "name": "WEBDL-720p",
+          "source": "web",
+          "resolution": 720
+        },
+        "revision": {
+          "version": 1,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "customFormats": [
+        {
+          "id": 3,
+          "name": "english"
+        }
+      ],
+      "customFormatScore": 10,
+      "qualityCutoffNotMet": true,
+      "date": "2025-03-21T22:33:03Z",
+      "downloadId": "SABnzbd_nzo_pg7kw44e",
+      "eventType": "grabbed",
+      "data": {
+        "indexer": "NzbPlanet (Prowlarr)",
+        "nzbInfoUrl": "https://nzbplanet.org/details/1a5e9aebe534c5843856b97e3fcefafe",
+        "releaseGroup": "RAWR",
+        "age": "0",
+        "ageHours": "0.23951992233333333",
+        "ageMinutes": "14.371195386666667",
+        "publishedDate": "2025-03-21T22:18:41Z",
+        "downloadClient": "SABnzbd",
+        "downloadClientName": "sab",
+        "size": "829727511",
+        "downloadUrl": "http://prowlarr:9696/7/download?apikey=5f771c1869f94fec821832369384a70c&link=SG5HSFZBeDBXbXNXbGdRT2diNG90NVhlY2RGeUhjK21BMytpOVZlM2tHMlI0VW13c0sxZmZSSEsrSkxtc0g2QTFlNExUc1R3UTJOQ1BsTHl5K0phamdNbnFmc3RnK1VadUhaaUl5Y0FmZld2V2lZUUVnd0xrbmZIS3MxOUVtK204V202MTFMazA0WCtGS1hRcWYydVhvV2tLZXQ0eFJmWmFIaFQ5NHp2UXBFPQ&file=Gogglebox.S25E06.720p.ALL4.WEB-DL.AAC2.0.H.264-RAWR",
+        "guid": "https://nzbplanet.org/details/1a5e9aebe534c5843856b97e3fcefafe",
+        "tvdbId": "0",
+        "tvRageId": "0",
+        "imdbId": null,
+        "protocol": "1",
+        "customFormatScore": "10",
+        "seriesMatchType": "Title",
+        "releaseSource": "Rss",
+        "indexerFlags": "0",
+        "releaseType": "SingleEpisode"
+      },
+      "episode": {
+        "seriesId": 654,
+        "tvdbId": 10937409,
+        "episodeFileId": 1502914,
+        "seasonNumber": 25,
+        "episodeNumber": 6,
+        "title": "Episode 6",
+        "airDate": "2025-03-21",
+        "airDateUtc": "2025-03-21T21:00:00Z",
+        "runtime": 47,
+        "overview": "It's The Great Celebrity Bake Off for Stand Up To Cancer this time. Also, With Love, Meghan, Tempting Fortune, Fear, Bradley Walsh: Egypt’s Cosmic Code, Last One Laughing, and This Morning (toenails).",
+        "hasFile": true,
+        "monitored": true,
+        "unverifiedSceneNumbering": false,
+        "id": 162768
+      },
+      "series": {
+        "title": "Gogglebox",
+        "sortTitle": "gogglebox",
+        "status": "continuing",
+        "ended": false,
+        "overview": "What do Britain's sharpest armchair critics think of our biggest and best TV programmes?",
+        "network": "Channel 4",
+        "airTime": "21:00",
+        "images": [
+          {
+            "coverType": "banner",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/graphical/268009-g.jpg"
+          },
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/series/268009/posters/62082407.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/fanart/original/268009-1.jpg"
+          },
+          {
+            "coverType": "clearlogo",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/268009/clearlogo/611cc331065fa.png"
+          }
+        ],
+        "originalLanguage": {
+          "id": 1,
+          "name": "English"
+        },
+        "seasons": [
+          {
+            "seasonNumber": 0,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 1,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 2,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 3,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 4,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 5,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 6,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 7,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 8,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 9,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 10,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 11,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 12,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 13,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 14,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 15,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 16,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 17,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 18,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 19,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 20,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 21,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 22,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 23,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 24,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 25,
+            "monitored": true
+          }
+        ],
+        "year": 2013,
+        "path": "/tv/Documentaires/tv shows/Gogglebox",
+        "qualityProfileId": 1,
+        "seasonFolder": true,
+        "monitored": true,
+        "monitorNewItems": "all",
+        "useSceneNumbering": false,
+        "runtime": 51,
+        "tvdbId": 268009,
+        "tvRageId": 34672,
+        "tvMazeId": 3508,
+        "tmdbId": 55808,
+        "firstAired": "2013-03-07T00:00:00Z",
+        "lastAired": "2025-05-30T00:00:00Z",
+        "seriesType": "standard",
+        "cleanTitle": "gogglebox",
+        "imdbId": "tt2762330",
+        "titleSlug": "gogglebox",
+        "certification": "TV-MA",
+        "genres": [
+          "Reality"
+        ],
+        "tags": [],
+        "added": "2020-02-09T08:53:32Z",
+        "ratings": {
+          "votes": 3133,
+          "value": 7.4
+        },
+        "languageProfileId": 1,
+        "id": 654
+      },
+      "id": 356394
+    },
+    {
+      "episodeId": 61157,
+      "seriesId": 882,
+      "sourceTitle": "Scandal.S05E09.Baby.It’s.Cold.Outside.720p.DSNP.WEB-DL.DD+5.1.H.264-playWEB",
+      "languages": [
+        {
+          "id": 1,
+          "name": "English"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 5,
+          "name": "WEBDL-720p",
+          "source": "web",
+          "resolution": 720
+        },
+        "revision": {
+          "version": 1,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "customFormats": [
+        {
+          "id": 3,
+          "name": "english"
+        }
+      ],
+      "customFormatScore": 10,
+      "qualityCutoffNotMet": true,
+      "date": "2025-03-21T22:33:01Z",
+      "downloadId": "SABnzbd_nzo_d8031qy5",
+      "eventType": "grabbed",
+      "data": {
+        "indexer": "altHUB (Prowlarr)",
+        "nzbInfoUrl": "https://api.althub.co.za/details/72b1f2511f50101fe4ec2f94d56cdb2c",
+        "releaseGroup": "playWEB",
+        "age": "0",
+        "ageHours": "0.16764628716666666",
+        "ageMinutes": "10.058777268333333",
+        "publishedDate": "2025-03-21T22:22:58Z",
+        "downloadClient": "SABnzbd",
+        "downloadClientName": "sab",
+        "size": "1567950713",
+        "downloadUrl": "http://prowlarr:9696/1/download?apikey=5f771c1869f94fec821832369384a70c&link=c0VzWm1EbWZPM29lcE5DZmNVQUFZSTBmTzQxT3B2RnVRSjlFLytRUldoRVE4bGYyODNickdCZWNKTU1YVkhscGpxVUpvcDZ0bEpTZk9lZkorSHhUMUgvWUpuV1Q4OVV1N2UyMEhpeDE4THlSQmsxT3NPMXhXOU80WlFSaVYrc1VqQ2xPTGd4aUVLcDVRbmdtWW9LUWpPdU5QaU16VW11bGxHL1ZGbWpjNFA0PQ&file=Scandal.S05E09.Baby.It%E2%80%99s.Cold.Outside.720p.DSNP.WEB-DL.DD%2B5.1.H.264-playWEB",
+        "guid": "https://api.althub.co.za/details/72b1f2511f50101fe4ec2f94d56cdb2c",
+        "tvdbId": "0",
+        "tvRageId": "0",
+        "imdbId": null,
+        "protocol": "1",
+        "customFormatScore": "10",
+        "seriesMatchType": "Alias",
+        "releaseSource": "Rss",
+        "indexerFlags": "0",
+        "releaseType": "SingleEpisode"
+      },
+      "episode": {
+        "seriesId": 882,
+        "tvdbId": 5355629,
+        "episodeFileId": 1502915,
+        "seasonNumber": 5,
+        "episodeNumber": 9,
+        "title": "Baby, It's Cold Outside",
+        "airDate": "2015-11-19",
+        "airDateUtc": "2015-11-20T03:00:00Z",
+        "runtime": 45,
+        "overview": "Olivia is feeling more and more frustrated as she takes on “First Lady” type responsibilities at the White House. Meanwhile, Mellie proves just how powerful she can be and Jake and Huck continue the hunt for Rowan.",
+        "hasFile": true,
+        "monitored": true,
+        "absoluteEpisodeNumber": 78,
+        "unverifiedSceneNumbering": false,
+        "id": 61157
+      },
+      "series": {
+        "title": "Scandal (2012)",
+        "sortTitle": "scandal 2012",
+        "status": "ended",
+        "ended": true,
+        "overview": "A former media relations consultant to the President, Olivia Pope dedicates her life to protecting and defending the public images of our nation's elite. After leaving the White House, the power consultant opened her own firm, hoping to start a new chapter -- both professionally and personally -- but she can't seem to completely cut ties with her past. Slowly it becomes apparent that her staff, who specialize in fixing the lives of other people, can't quite fix the ones closest at hand -- their own.",
+        "network": "ABC (US)",
+        "airTime": "22:00",
+        "images": [
+          {
+            "coverType": "banner",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/graphical/248841-g2.jpg"
+          },
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/posters/248841-1.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/fanart/original/248841-9.jpg"
+          },
+          {
+            "coverType": "clearlogo",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/248841/clearlogo/611b6c4808a4c.png"
+          }
+        ],
+        "originalLanguage": {
+          "id": 1,
+          "name": "English"
+        },
+        "seasons": [
+          {
+            "seasonNumber": 0,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 1,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 2,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 3,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 4,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 5,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 6,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 7,
+            "monitored": true
+          }
+        ],
+        "year": 2012,
+        "path": "/tv/Tv Shows/Scandal (2012)",
+        "qualityProfileId": 1,
+        "seasonFolder": true,
+        "monitored": true,
+        "monitorNewItems": "all",
+        "useSceneNumbering": false,
+        "runtime": 45,
+        "tvdbId": 248841,
+        "tvRageId": 28398,
+        "tvMazeId": 98,
+        "tmdbId": 39269,
+        "firstAired": "2012-04-05T00:00:00Z",
+        "lastAired": "2018-04-19T00:00:00Z",
+        "seriesType": "standard",
+        "cleanTitle": "scandal2012",
+        "imdbId": "tt1837576",
+        "titleSlug": "scandal-2012",
+        "certification": "TV-14",
+        "genres": [
+          "Drama",
+          "Thriller"
+        ],
+        "tags": [],
+        "added": "2020-02-09T10:23:02Z",
+        "ratings": {
+          "votes": 81445,
+          "value": 7.7
+        },
+        "languageProfileId": 1,
+        "id": 882
+      },
+      "id": 356393
+    },
+    {
+      "episodeId": 63054,
+      "seriesId": 910,
+      "sourceTitle": "/tv/Tv Shows/SONS OF ANARCHY/Season 7/Sons.of.Anarchy.S07E01.Black.Widower.ts",
+      "languages": [
+        {
+          "id": 1,
+          "name": "English"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 9,
+          "name": "HDTV-1080p",
+          "source": "television",
+          "resolution": 1080
+        },
+        "revision": {
+          "version": 1,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "customFormats": [
+        {
+          "id": 3,
+          "name": "english"
+        }
+      ],
+      "customFormatScore": 10,
+      "qualityCutoffNotMet": false,
+      "date": "2025-03-21T18:39:51Z",
+      "eventType": "episodeFileDeleted",
+      "data": {
+        "reason": "MissingFromDisk",
+        "releaseGroup": null,
+        "size": "1409202504",
+        "indexerFlags": "0",
+        "releaseType": "SingleEpisode"
+      },
+      "episode": {
+        "seriesId": 910,
+        "tvdbId": 4935940,
+        "episodeFileId": 1502835,
+        "seasonNumber": 7,
+        "episodeNumber": 1,
+        "title": "Black Widower",
+        "airDate": "2014-09-09",
+        "airDateUtc": "2014-09-10T02:00:00Z",
+        "runtime": 75,
+        "overview": "In the wake of Tara’s death, Jax makes vengeance a club priority.",
+        "hasFile": true,
+        "monitored": true,
+        "absoluteEpisodeNumber": 80,
+        "unverifiedSceneNumbering": false,
+        "id": 63054
+      },
+      "series": {
+        "title": "Sons of Anarchy",
+        "sortTitle": "sons of anarchy",
+        "status": "ended",
+        "ended": true,
+        "overview": "Single father Jax Teller finds his loyalty to his outlaw motorcycle club tested by his growing unease concerning the group's lawlessness. While the club protects and patrols the town of Charming, Calif., keeping drug dealers away, its activities also include a thriving -- and lucrative -- illegal arms business.",
+        "network": "FX",
+        "airTime": "22:00",
+        "images": [
+          {
+            "coverType": "banner",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/graphical/82696-g.jpg"
+          },
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/posters/82696-11.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/fanart/original/82696-66.jpg"
+          },
+          {
+            "coverType": "clearlogo",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/82696/clearlogo/611b53dd30c13.png"
+          }
+        ],
+        "originalLanguage": {
+          "id": 1,
+          "name": "English"
+        },
+        "seasons": [
+          {
+            "seasonNumber": 0,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 1,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 2,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 3,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 4,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 5,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 6,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 7,
+            "monitored": true
+          }
+        ],
+        "year": 2008,
+        "path": "/tv/Tv Shows/SONS OF ANARCHY",
+        "qualityProfileId": 1,
+        "seasonFolder": true,
+        "monitored": true,
+        "monitorNewItems": "all",
+        "useSceneNumbering": false,
+        "runtime": 52,
+        "tvdbId": 82696,
+        "tvRageId": 18174,
+        "tvMazeId": 76,
+        "tmdbId": 1409,
+        "firstAired": "2008-09-03T00:00:00Z",
+        "lastAired": "2014-12-09T00:00:00Z",
+        "seriesType": "standard",
+        "cleanTitle": "sonsanarchy",
+        "imdbId": "tt1124373",
+        "titleSlug": "sons-of-anarchy",
+        "certification": "TV-MA",
+        "genres": [
+          "Crime",
+          "Drama",
+          "Thriller"
+        ],
+        "tags": [],
+        "added": "2020-02-09T10:29:01Z",
+        "ratings": {
+          "votes": 337023,
+          "value": 8.5
+        },
+        "languageProfileId": 1,
+        "id": 910
+      },
+      "id": 356392
+    },
+    {
+      "episodeId": 163539,
+      "seriesId": 1417,
+      "sourceTitle": "Teen.Mom.The.Next.Chapter.S02E23.You.Got.Real.Mommy.Problems.1080p.AMZN.WEB-DL.DDP2.0.H.264-RAWR",
+      "languages": [
+        {
+          "id": 1,
+          "name": "English"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 3,
+          "name": "WEBDL-1080p",
+          "source": "web",
+          "resolution": 1080
+        },
+        "revision": {
+          "version": 1,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "customFormats": [
+        {
+          "id": 3,
+          "name": "english"
+        }
+      ],
+      "customFormatScore": 10,
+      "qualityCutoffNotMet": false,
+      "date": "2025-03-21T17:24:02Z",
+      "downloadId": "SABnzbd_nzo_58zt_xrn",
+      "eventType": "downloadFolderImported",
+      "data": {
+        "fileId": "1502703",
+        "droppedPath": "/downloads/Teen.Mom.The.Next.Chapter.S02E23.You.Got.Real.Mommy.Problems.1080p.AMZN.WEB-DL.DDP2.0.H.264-RAWR/Teen.Mom.The.Next.Chapter.S02E23.You.Got.Real.Mommy.Problems.1080p.AMZN.WEB-DL.DDP2.0.H.264-RAWR.mkv",
+        "importedPath": "/tv/Documentaires/tv shows/Teen Mom - The Next Chapter/Season 2/Teen.Mom-.The.Next.Chapter.S02E23.You.Got.Real.Mommy.Problems.mkv",
+        "downloadClient": "SABnzbd",
+        "downloadClientName": "sab",
+        "releaseGroup": "RAWR",
+        "customFormatScore": "10",
+        "size": "2949801618",
+        "indexerFlags": "0",
+        "releaseType": "SingleEpisode"
+      },
+      "episode": {
+        "seriesId": 1417,
+        "tvdbId": 11002034,
+        "episodeFileId": 1502703,
+        "seasonNumber": 2,
+        "episodeNumber": 23,
+        "title": "You Got Real Mommy Problems",
+        "airDate": "2025-03-20",
+        "airDateUtc": "2025-03-21T00:00:00Z",
+        "runtime": 42,
+        "overview": "The fallout from Jade's intervention with Christy continues. Ashley arranges a call for Holly with Bar from jail. Briana learns the impact of Devoin's move on Nova. Cheyenne sees a fertility specialist. Mackenzie undergoes an embryo transfer.",
+        "hasFile": true,
+        "monitored": true,
+        "unverifiedSceneNumbering": false,
+        "id": 163539
+      },
+      "series": {
+        "title": "Teen Mom: The Next Chapter",
+        "sortTitle": "teen mom the next chapter",
+        "status": "continuing",
+        "ended": false,
+        "overview": "The casts of Teen Mom OG and Teen Mom 2 are each currently in different stages of motherhood – some have kids in diapers, while others are now parenting teenagers! But they all share the unique experience of momming so young. For the first time, the moms and all their stories will be brought together in one supersized series that focuses on the unique bond they share as they face the reality of parenthood and adulting while entering new phases of life together.",
+        "network": "MTV",
+        "airTime": "20:00",
+        "images": [
+          {
+            "coverType": "banner",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/423373/banners/6318225038120.jpg"
+          },
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/423373/posters/67e38cd4734e9.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/423373/backgrounds/630b844a3821c.jpg"
+          }
+        ],
+        "originalLanguage": {
+          "id": 1,
+          "name": "English"
+        },
+        "seasons": [
+          {
+            "seasonNumber": 1,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 2,
+            "monitored": true
+          }
+        ],
+        "year": 2022,
+        "path": "/tv/Documentaires/tv shows/Teen Mom - The Next Chapter",
+        "qualityProfileId": 1,
+        "seasonFolder": true,
+        "monitored": true,
+        "monitorNewItems": "all",
+        "useSceneNumbering": false,
+        "runtime": 42,
+        "tvdbId": 423373,
+        "tvRageId": 0,
+        "tvMazeId": 63524,
+        "tmdbId": 205026,
+        "firstAired": "2022-09-06T00:00:00Z",
+        "lastAired": "2025-05-01T00:00:00Z",
+        "seriesType": "standard",
+        "cleanTitle": "teenmomnextchapter",
+        "imdbId": "tt21663658",
+        "titleSlug": "teen-mom-the-next-chapter",
+        "genres": [
+          "Reality"
+        ],
+        "tags": [],
+        "added": "2022-09-09T04:34:54Z",
+        "ratings": {
+          "votes": 141,
+          "value": 5.8
+        },
+        "languageProfileId": 1,
+        "id": 1417
+      },
+      "id": 356391
+    },
+    {
+      "episodeId": 163539,
+      "seriesId": 1417,
+      "sourceTitle": "/tv/Documentaires/tv shows/Teen Mom - The Next Chapter/Season 2/Teen.Mom-.The.Next.Chapter.S02E23.You.Got.Real.Mommy.Problems.mkv",
+      "languages": [
+        {
+          "id": 1,
+          "name": "English"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 5,
+          "name": "WEBDL-720p",
+          "source": "web",
+          "resolution": 720
+        },
+        "revision": {
+          "version": 1,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "customFormats": [
+        {
+          "id": 3,
+          "name": "english"
+        }
+      ],
+      "customFormatScore": 10,
+      "qualityCutoffNotMet": true,
+      "date": "2025-03-21T17:24:00Z",
+      "eventType": "episodeFileDeleted",
+      "data": {
+        "reason": "Upgrade",
+        "releaseGroup": "RAWR",
+        "size": "1546155263",
+        "indexerFlags": "0",
+        "releaseType": "SingleEpisode"
+      },
+      "episode": {
+        "seriesId": 1417,
+        "tvdbId": 11002034,
+        "episodeFileId": 1502703,
+        "seasonNumber": 2,
+        "episodeNumber": 23,
+        "title": "You Got Real Mommy Problems",
+        "airDate": "2025-03-20",
+        "airDateUtc": "2025-03-21T00:00:00Z",
+        "runtime": 42,
+        "overview": "The fallout from Jade's intervention with Christy continues. Ashley arranges a call for Holly with Bar from jail. Briana learns the impact of Devoin's move on Nova. Cheyenne sees a fertility specialist. Mackenzie undergoes an embryo transfer.",
+        "hasFile": true,
+        "monitored": true,
+        "unverifiedSceneNumbering": false,
+        "id": 163539
+      },
+      "series": {
+        "title": "Teen Mom: The Next Chapter",
+        "sortTitle": "teen mom the next chapter",
+        "status": "continuing",
+        "ended": false,
+        "overview": "The casts of Teen Mom OG and Teen Mom 2 are each currently in different stages of motherhood – some have kids in diapers, while others are now parenting teenagers! But they all share the unique experience of momming so young. For the first time, the moms and all their stories will be brought together in one supersized series that focuses on the unique bond they share as they face the reality of parenthood and adulting while entering new phases of life together.",
+        "network": "MTV",
+        "airTime": "20:00",
+        "images": [
+          {
+            "coverType": "banner",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/423373/banners/6318225038120.jpg"
+          },
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/423373/posters/67e38cd4734e9.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/423373/backgrounds/630b844a3821c.jpg"
+          }
+        ],
+        "originalLanguage": {
+          "id": 1,
+          "name": "English"
+        },
+        "seasons": [
+          {
+            "seasonNumber": 1,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 2,
+            "monitored": true
+          }
+        ],
+        "year": 2022,
+        "path": "/tv/Documentaires/tv shows/Teen Mom - The Next Chapter",
+        "qualityProfileId": 1,
+        "seasonFolder": true,
+        "monitored": true,
+        "monitorNewItems": "all",
+        "useSceneNumbering": false,
+        "runtime": 42,
+        "tvdbId": 423373,
+        "tvRageId": 0,
+        "tvMazeId": 63524,
+        "tmdbId": 205026,
+        "firstAired": "2022-09-06T00:00:00Z",
+        "lastAired": "2025-05-01T00:00:00Z",
+        "seriesType": "standard",
+        "cleanTitle": "teenmomnextchapter",
+        "imdbId": "tt21663658",
+        "titleSlug": "teen-mom-the-next-chapter",
+        "genres": [
+          "Reality"
+        ],
+        "tags": [],
+        "added": "2022-09-09T04:34:54Z",
+        "ratings": {
+          "votes": 141,
+          "value": 5.8
+        },
+        "languageProfileId": 1,
+        "id": 1417
+      },
+      "id": 356390
+    },
+    {
+      "episodeId": 163539,
+      "seriesId": 1417,
+      "sourceTitle": "Teen.Mom.The.Next.Chapter.S02E23.You.Got.Real.Mommy.Problems.1080p.AMZN.WEB-DL.DDP2.0.H.264-RAWR",
+      "languages": [
+        {
+          "id": 1,
+          "name": "English"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 3,
+          "name": "WEBDL-1080p",
+          "source": "web",
+          "resolution": 1080
+        },
+        "revision": {
+          "version": 1,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "customFormats": [
+        {
+          "id": 3,
+          "name": "english"
+        }
+      ],
+      "customFormatScore": 10,
+      "qualityCutoffNotMet": false,
+      "date": "2025-03-21T17:22:57Z",
+      "downloadId": "SABnzbd_nzo_58zt_xrn",
+      "eventType": "grabbed",
+      "data": {
+        "indexer": "NZBFinder (yearly) (Prowlarr)",
+        "nzbInfoUrl": "https://nzbfinder.ws/details/84c76a31-9d18-4f3d-afd8-b16b96c2dae6",
+        "releaseGroup": "RAWR",
+        "age": "0",
+        "ageHours": "0.12834247658333334",
+        "ageMinutes": "7.700548631666667",
+        "publishedDate": "2025-03-21T17:15:15Z",
+        "downloadClient": "SABnzbd",
+        "downloadClientName": "sab",
+        "size": "3352325437",
+        "downloadUrl": "http://prowlarr:9696/3/download?apikey=5f771c1869f94fec821832369384a70c&link=VVBUdGpTUEZwelBNMGNBbmNINDZHOUNNKy9sbVVCU050NC9oeU1UYWZuWnQzWGhRSGVXNUR5bTl3R0NhQ1VVZ082REFtam1xNXBtWkpaSlNrN05xTVNaeUdUdGY0em1oNFp1c2lSbU9hKzFrM3RFUFpLamE0T2xUNEhDNlRBeDRrNlQvcDN6QTRWd0UyMDdhbklDdXUydlMwUWNpZUFYQ0FlMHhtN3ZoRnBtVENUZFN5ZXdVNFFHa2JFcmpRQ09v&file=Teen.Mom.The.Next.Chapter.S02E23.You.Got.Real.Mommy.Problems.1080p.AMZN.WEB-DL.DDP2.0.H.264-RAWR",
+        "guid": "https://nzbfinder.ws/details/84c76a31-9d18-4f3d-afd8-b16b96c2dae6",
+        "tvdbId": "423373",
+        "tvRageId": "0",
+        "imdbId": "tt21663658",
+        "protocol": "1",
+        "customFormatScore": "10",
+        "seriesMatchType": "Title",
+        "releaseSource": "Rss",
+        "indexerFlags": "0",
+        "releaseType": "SingleEpisode"
+      },
+      "episode": {
+        "seriesId": 1417,
+        "tvdbId": 11002034,
+        "episodeFileId": 1502703,
+        "seasonNumber": 2,
+        "episodeNumber": 23,
+        "title": "You Got Real Mommy Problems",
+        "airDate": "2025-03-20",
+        "airDateUtc": "2025-03-21T00:00:00Z",
+        "runtime": 42,
+        "overview": "The fallout from Jade's intervention with Christy continues. Ashley arranges a call for Holly with Bar from jail. Briana learns the impact of Devoin's move on Nova. Cheyenne sees a fertility specialist. Mackenzie undergoes an embryo transfer.",
+        "hasFile": true,
+        "monitored": true,
+        "unverifiedSceneNumbering": false,
+        "id": 163539
+      },
+      "series": {
+        "title": "Teen Mom: The Next Chapter",
+        "sortTitle": "teen mom the next chapter",
+        "status": "continuing",
+        "ended": false,
+        "overview": "The casts of Teen Mom OG and Teen Mom 2 are each currently in different stages of motherhood – some have kids in diapers, while others are now parenting teenagers! But they all share the unique experience of momming so young. For the first time, the moms and all their stories will be brought together in one supersized series that focuses on the unique bond they share as they face the reality of parenthood and adulting while entering new phases of life together.",
+        "network": "MTV",
+        "airTime": "20:00",
+        "images": [
+          {
+            "coverType": "banner",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/423373/banners/6318225038120.jpg"
+          },
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/423373/posters/67e38cd4734e9.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/423373/backgrounds/630b844a3821c.jpg"
+          }
+        ],
+        "originalLanguage": {
+          "id": 1,
+          "name": "English"
+        },
+        "seasons": [
+          {
+            "seasonNumber": 1,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 2,
+            "monitored": true
+          }
+        ],
+        "year": 2022,
+        "path": "/tv/Documentaires/tv shows/Teen Mom - The Next Chapter",
+        "qualityProfileId": 1,
+        "seasonFolder": true,
+        "monitored": true,
+        "monitorNewItems": "all",
+        "useSceneNumbering": false,
+        "runtime": 42,
+        "tvdbId": 423373,
+        "tvRageId": 0,
+        "tvMazeId": 63524,
+        "tmdbId": 205026,
+        "firstAired": "2022-09-06T00:00:00Z",
+        "lastAired": "2025-05-01T00:00:00Z",
+        "seriesType": "standard",
+        "cleanTitle": "teenmomnextchapter",
+        "imdbId": "tt21663658",
+        "titleSlug": "teen-mom-the-next-chapter",
+        "genres": [
+          "Reality"
+        ],
+        "tags": [],
+        "added": "2022-09-09T04:34:54Z",
+        "ratings": {
+          "votes": 141,
+          "value": 5.8
+        },
+        "languageProfileId": 1,
+        "id": 1417
+      },
+      "id": 356389
+    }
+  ]
+}

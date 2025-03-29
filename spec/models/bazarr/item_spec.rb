@@ -22,12 +22,12 @@ module Bazarr
         it 'runs' do
           expect(from_json.to_h).to match(
             {
-              series: '1923',
+              series: 'Penn & Teller: Fool Us',
+              date: Date.parse('29/03/2025'),
               language: 'English',
-              episode_number: '2x5',
-              title: 'Only Gunshots to Guide Us',
+              episode_number: '11x10',
+              title: 'Gotcha!',
               description: 'English subtitles downloaded from whisperai with a score of 66.94%.',
-              date: Date.strptime('23/03/2025', '%d/%m/%Y'),
               score: '66.94%'
             }
           )
@@ -50,10 +50,10 @@ module Bazarr
               series: nil,
               language: 'English',
               episode_number: nil,
-              title: 'Snow White',
-              description: 'English subtitles downloaded from supersubtitles with a score of 75.83%.',
-              date: Date.strptime('23/03/2025', '%d/%m/%Y'),
-              score: '75.83%'
+              date: Date.parse('29/03/2025'),
+              title: 'Back in Action',
+              description: 'English HI subtitles downloaded from opensubtitlescom with a score of 85.0%.',
+              score: '85.0%'
             }
           )
         end
