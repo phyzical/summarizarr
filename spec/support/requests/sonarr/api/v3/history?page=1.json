@@ -1,0 +1,2824 @@
+{
+  "page": 1,
+  "pageSize": 15,
+  "sortKey": "date",
+  "sortDirection": "descending",
+  "totalRecords": 344511,
+  "records": [
+    {
+      "episodeId": 164058,
+      "seriesId": 834,
+      "sourceTitle": "Penn.and.Teller.Fool.Us.S11E10.1080p.WEB.h264-EDITH",
+      "languages": [
+        {
+          "id": 1,
+          "name": "English"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 3,
+          "name": "WEBDL-1080p",
+          "source": "web",
+          "resolution": 1080
+        },
+        "revision": {
+          "version": 1,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "customFormats": [
+        {
+          "id": 3,
+          "name": "english"
+        }
+      ],
+      "customFormatScore": 10,
+      "qualityCutoffNotMet": false,
+      "date": "2025-03-29T10:28:02Z",
+      "downloadId": "SABnzbd_nzo_944fghf9",
+      "eventType": "downloadFolderImported",
+      "data": {
+        "fileId": "1506246",
+        "droppedPath": "/downloads/Penn.and.Teller.Fool.Us.S11E10.1080p.WEB.h264-EDITH/Penn.and.Teller.Fool.Us.S11E10.1080p.WEB.h264-EDITH.mkv",
+        "importedPath": "/tv/Tv Shows/Penn & Teller- Fool Us/Season 11/Penn.&.Teller-.Fool.Us.S11E10.Gotcha!.mkv",
+        "downloadClient": "SABnzbd",
+        "downloadClientName": "sab",
+        "releaseGroup": "EDITH",
+        "customFormatScore": "10",
+        "size": "2563165991",
+        "indexerFlags": "0",
+        "releaseType": "SingleEpisode"
+      },
+      "episode": {
+        "seriesId": 834,
+        "tvdbId": 11021124,
+        "episodeFileId": 1506246,
+        "seasonNumber": 11,
+        "episodeNumber": 10,
+        "title": "Gotcha!",
+        "airDate": "2025-03-28",
+        "airDateUtc": "2025-03-29T00:00:00Z",
+        "runtime": 45,
+        "overview": "Magicians Vitaly Beckman, AnnaRose Einarsen, Goncalo Gil, and Ren X try to fool the veteran duo with their illusions.",
+        "hasFile": true,
+        "monitored": true,
+        "unverifiedSceneNumbering": false,
+        "id": 164058
+      },
+      "series": {
+        "title": "Penn & Teller: Fool Us",
+        "sortTitle": "penn teller fool us",
+        "status": "continuing",
+        "ended": false,
+        "overview": "Penn and Teller challenge magicians to perform in front of them and, if they can fool the famous duo, they'll win a 5-star trip to Las Vegas to perform as the opening act in Penn & Teller's world-famous show at the Rio Hotel & Casino.",
+        "network": "The CW",
+        "airTime": "20:00",
+        "images": [
+          {
+            "coverType": "banner",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/graphical/239851-g.jpg"
+          },
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/posters/239851-2.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/fanart/original/239851-4.jpg"
+          },
+          {
+            "coverType": "clearlogo",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/239851/clearlogo/611bbd7145767.png"
+          }
+        ],
+        "originalLanguage": {
+          "id": 1,
+          "name": "English"
+        },
+        "seasons": [
+          {
+            "seasonNumber": 0,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 1,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 2,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 3,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 4,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 5,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 6,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 7,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 8,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 9,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 10,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 11,
+            "monitored": true
+          }
+        ],
+        "year": 2011,
+        "path": "/tv/Tv Shows/Penn & Teller- Fool Us",
+        "qualityProfileId": 1,
+        "seasonFolder": true,
+        "monitored": true,
+        "monitorNewItems": "all",
+        "useSceneNumbering": false,
+        "runtime": 45,
+        "tvdbId": 239851,
+        "tvRageId": 27139,
+        "tvMazeId": 2370,
+        "tmdbId": 34607,
+        "firstAired": "2011-06-18T00:00:00Z",
+        "lastAired": "2025-04-11T00:00:00Z",
+        "seriesType": "standard",
+        "cleanTitle": "penntellerfoolus",
+        "imdbId": "tt1811179",
+        "titleSlug": "penn-and-teller-fool-us",
+        "certification": "TV-PG",
+        "genres": [
+          "Comedy",
+          "Game Show",
+          "Mystery",
+          "Reality"
+        ],
+        "tags": [],
+        "added": "2020-02-09T09:43:04Z",
+        "ratings": {
+          "votes": 4336,
+          "value": 8.0
+        },
+        "languageProfileId": 1,
+        "id": 834
+      },
+      "id": 357048
+    },
+    {
+      "episodeId": 164058,
+      "seriesId": 834,
+      "sourceTitle": "Penn.and.Teller.Fool.Us.S11E10.1080p.WEB.h264-EDITH",
+      "languages": [
+        {
+          "id": 1,
+          "name": "English"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 3,
+          "name": "WEBDL-1080p",
+          "source": "web",
+          "resolution": 1080
+        },
+        "revision": {
+          "version": 1,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "customFormats": [
+        {
+          "id": 3,
+          "name": "english"
+        }
+      ],
+      "customFormatScore": 10,
+      "qualityCutoffNotMet": false,
+      "date": "2025-03-29T10:26:57Z",
+      "downloadId": "SABnzbd_nzo_944fghf9",
+      "eventType": "grabbed",
+      "data": {
+        "indexer": "altHUB (Prowlarr)",
+        "nzbInfoUrl": "https://api.althub.co.za/details/e0843428e49e7bc2657abca04b74df2a",
+        "releaseGroup": "EDITH",
+        "age": "0",
+        "ageHours": "0.19057558263888888",
+        "ageMinutes": "11.434534995",
+        "publishedDate": "2025-03-29T10:15:31Z",
+        "downloadClient": "SABnzbd",
+        "downloadClientName": "sab",
+        "size": "2802539984",
+        "downloadUrl": "http://prowlarr:9696/1/download?apikey=5f771c1869f94fec821832369384a70c&link=Y21kcEIwOEFvN0pUZU4yM0tuaWNMTElmdy9lUVNnbUQ0VmM3WlBobEdZd3BpRkQvaDh0ZG0zazl4MjZFVm5jb2ZSWlNqaE9IZXEzMzRTdk5DdjYyWjBFMmhMOEdUU2paSXR3SVg5R0JXajZrTGRCR1o4enRhb1VTMkdjcGdnV05EKzR4bFlJNDYxK3BzY3lVZmlvNDJjOUx5cUpwamk4TE83QjFhT1hWaG5BPQ&file=Penn.and.Teller.Fool.Us.S11E10.1080p.WEB.h264-EDITH",
+        "guid": "https://api.althub.co.za/details/e0843428e49e7bc2657abca04b74df2a",
+        "tvdbId": "0",
+        "tvRageId": "0",
+        "imdbId": null,
+        "protocol": "1",
+        "customFormatScore": "10",
+        "seriesMatchType": "Title",
+        "releaseSource": "Rss",
+        "indexerFlags": "0",
+        "releaseType": "SingleEpisode"
+      },
+      "episode": {
+        "seriesId": 834,
+        "tvdbId": 11021124,
+        "episodeFileId": 1506246,
+        "seasonNumber": 11,
+        "episodeNumber": 10,
+        "title": "Gotcha!",
+        "airDate": "2025-03-28",
+        "airDateUtc": "2025-03-29T00:00:00Z",
+        "runtime": 45,
+        "overview": "Magicians Vitaly Beckman, AnnaRose Einarsen, Goncalo Gil, and Ren X try to fool the veteran duo with their illusions.",
+        "hasFile": true,
+        "monitored": true,
+        "unverifiedSceneNumbering": false,
+        "id": 164058
+      },
+      "series": {
+        "title": "Penn & Teller: Fool Us",
+        "sortTitle": "penn teller fool us",
+        "status": "continuing",
+        "ended": false,
+        "overview": "Penn and Teller challenge magicians to perform in front of them and, if they can fool the famous duo, they'll win a 5-star trip to Las Vegas to perform as the opening act in Penn & Teller's world-famous show at the Rio Hotel & Casino.",
+        "network": "The CW",
+        "airTime": "20:00",
+        "images": [
+          {
+            "coverType": "banner",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/graphical/239851-g.jpg"
+          },
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/posters/239851-2.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/fanart/original/239851-4.jpg"
+          },
+          {
+            "coverType": "clearlogo",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/239851/clearlogo/611bbd7145767.png"
+          }
+        ],
+        "originalLanguage": {
+          "id": 1,
+          "name": "English"
+        },
+        "seasons": [
+          {
+            "seasonNumber": 0,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 1,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 2,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 3,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 4,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 5,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 6,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 7,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 8,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 9,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 10,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 11,
+            "monitored": true
+          }
+        ],
+        "year": 2011,
+        "path": "/tv/Tv Shows/Penn & Teller- Fool Us",
+        "qualityProfileId": 1,
+        "seasonFolder": true,
+        "monitored": true,
+        "monitorNewItems": "all",
+        "useSceneNumbering": false,
+        "runtime": 45,
+        "tvdbId": 239851,
+        "tvRageId": 27139,
+        "tvMazeId": 2370,
+        "tmdbId": 34607,
+        "firstAired": "2011-06-18T00:00:00Z",
+        "lastAired": "2025-04-11T00:00:00Z",
+        "seriesType": "standard",
+        "cleanTitle": "penntellerfoolus",
+        "imdbId": "tt1811179",
+        "titleSlug": "penn-and-teller-fool-us",
+        "certification": "TV-PG",
+        "genres": [
+          "Comedy",
+          "Game Show",
+          "Mystery",
+          "Reality"
+        ],
+        "tags": [],
+        "added": "2020-02-09T09:43:04Z",
+        "ratings": {
+          "votes": 4336,
+          "value": 8.0
+        },
+        "languageProfileId": 1,
+        "id": 834
+      },
+      "id": 357047
+    },
+    {
+      "episodeId": 164005,
+      "seriesId": 1770,
+      "sourceTitle": "RuPauls.Drag.Race.S17E13.Drag.Baby.Mamas.1080p.AMZN.WEB-DL.DDP5.1.H.264-RAWR",
+      "languages": [
+        {
+          "id": 1,
+          "name": "English"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 3,
+          "name": "WEBDL-1080p",
+          "source": "web",
+          "resolution": 1080
+        },
+        "revision": {
+          "version": 1,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "customFormats": [
+        {
+          "id": 3,
+          "name": "english"
+        }
+      ],
+      "customFormatScore": 10,
+      "qualityCutoffNotMet": false,
+      "date": "2025-03-29T01:56:03Z",
+      "downloadId": "SABnzbd_nzo_c2vbj5dw",
+      "eventType": "downloadFolderImported",
+      "data": {
+        "fileId": "1506038",
+        "droppedPath": "/downloads/RuPauls.Drag.Race.S17E13.Drag.Baby.Mamas.1080p.AMZN.WEB-DL.DDP5.1.H.264-RAWR/RuPauls.Drag.Race.S17E13.Drag.Baby.Mamas.1080p.AMZN.WEB-DL.DDP5.1.H.264-RAWR.mkv",
+        "importedPath": "/tv/Documentaires/tv shows/RuPaul's Drag Race/Season 17/RuPaul's.Drag.Race.S17E13.Drag.Baby.Mamas.mkv",
+        "downloadClient": "SABnzbd",
+        "downloadClientName": "sab",
+        "releaseGroup": "RAWR",
+        "customFormatScore": "10",
+        "size": "4164022987",
+        "indexerFlags": "0",
+        "releaseType": "SingleEpisode"
+      },
+      "episode": {
+        "seriesId": 1770,
+        "tvdbId": 11012110,
+        "episodeFileId": 1506038,
+        "seasonNumber": 17,
+        "episodeNumber": 13,
+        "title": "Drag Baby Mamas",
+        "airDate": "2025-03-28",
+        "airDateUtc": "2025-03-29T00:00:00Z",
+        "runtime": 0,
+        "overview": "The queens make over some extra special drag newbies: their moms and dads. June Diane Raphael (Grace and Frankie) guest judges.",
+        "hasFile": true,
+        "monitored": true,
+        "unverifiedSceneNumbering": false,
+        "id": 164005
+      },
+      "series": {
+        "title": "RuPaul's Drag Race",
+        "sortTitle": "rupauls drag race",
+        "status": "continuing",
+        "ended": false,
+        "overview": "RuPaul's Drag Race and Untucked return with more sickening styles, fierce challenges and backstage drama. Michelle Visage, Carson Kressley, Ross Mathews and celeb guest judges join RuPaul as she sets out to crown America's Next Drag Superstar in this Emmy Award-winning show.",
+        "network": "MTV",
+        "airTime": "20:00",
+        "images": [
+          {
+            "coverType": "banner",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/graphical/85002-g6.jpg"
+          },
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/series/85002/posters/5febe17fa700d.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/series/85002/backgrounds/62073973.jpg"
+          },
+          {
+            "coverType": "clearlogo",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/85002/clearlogo/611ba34ae3a02.png"
+          }
+        ],
+        "originalLanguage": {
+          "id": 1,
+          "name": "English"
+        },
+        "seasons": [
+          {
+            "seasonNumber": 0,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 1,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 2,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 3,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 4,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 5,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 6,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 7,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 8,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 9,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 10,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 11,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 12,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 13,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 14,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 15,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 16,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 17,
+            "monitored": true
+          }
+        ],
+        "year": 2009,
+        "path": "/tv/Documentaires/tv shows/RuPaul's Drag Race",
+        "qualityProfileId": 1,
+        "seasonFolder": true,
+        "monitored": true,
+        "monitorNewItems": "all",
+        "useSceneNumbering": false,
+        "runtime": 52,
+        "tvdbId": 85002,
+        "tvRageId": 21652,
+        "tvMazeId": 1526,
+        "tmdbId": 8514,
+        "firstAired": "2009-02-02T00:00:00Z",
+        "lastAired": "2025-04-18T00:00:00Z",
+        "seriesType": "standard",
+        "cleanTitle": "rupaulsdragrace",
+        "imdbId": "tt1353056",
+        "titleSlug": "rupauls-drag-race",
+        "certification": "TV-14",
+        "genres": [
+          "Reality"
+        ],
+        "tags": [],
+        "added": "2024-10-26T09:08:00Z",
+        "ratings": {
+          "votes": 24482,
+          "value": 8.5
+        },
+        "languageProfileId": 1,
+        "id": 1770
+      },
+      "id": 357046
+    },
+    {
+      "episodeId": 164005,
+      "seriesId": 1770,
+      "sourceTitle": "RuPauls.Drag.Race.S17E13.Drag.Baby.Mamas.1080p.AMZN.WEB-DL.DDP5.1.H.264-RAWR",
+      "languages": [
+        {
+          "id": 1,
+          "name": "English"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 3,
+          "name": "WEBDL-1080p",
+          "source": "web",
+          "resolution": 1080
+        },
+        "revision": {
+          "version": 1,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "customFormats": [
+        {
+          "id": 3,
+          "name": "english"
+        }
+      ],
+      "customFormatScore": 10,
+      "qualityCutoffNotMet": false,
+      "date": "2025-03-29T01:53:52Z",
+      "downloadId": "SABnzbd_nzo_c2vbj5dw",
+      "eventType": "grabbed",
+      "data": {
+        "indexer": "NZBFinder (yearly) (Prowlarr)",
+        "nzbInfoUrl": "https://nzbfinder.ws/details/018bf6f6-a549-4704-b5dd-41e615e8dfb8",
+        "releaseGroup": "RAWR",
+        "age": "0",
+        "ageHours": "0.17315564311111112",
+        "ageMinutes": "10.389338633333333",
+        "publishedDate": "2025-03-29T01:43:29Z",
+        "downloadClient": "SABnzbd",
+        "downloadClientName": "sab",
+        "size": "4729620090",
+        "downloadUrl": "http://prowlarr:9696/3/download?apikey=5f771c1869f94fec821832369384a70c&link=cWdOOXRCWm16bXFkdVNrQ0ZTczFpRzhzcGlicUR2cS9UOTFLVkIxWmljKzQzdEF1LzlmRFBkUkQ5RDhZeUZBS2xBdjhZbjMzSzA0RExwTE9NUkluQ0lNcVpQaTNDaGpJYmd1Tms2Z0s5RHlvbVFUSVVnZVVLdU5ManFIbkU0dDRxdENvWVFiaGw1M1hPNDh0aDVJYmhwdWlHSG1VMERWQjgzbEJoZGVrSU9QU1EweGxnK1hkVy9TelVUbW5GYTJw&file=RuPauls.Drag.Race.S17E13.Drag.Baby.Mamas.1080p.AMZN.WEB-DL.DDP5.1.H.264-RAWR",
+        "guid": "https://nzbfinder.ws/details/018bf6f6-a549-4704-b5dd-41e615e8dfb8",
+        "tvdbId": "85002",
+        "tvRageId": "21652",
+        "imdbId": "tt1353056",
+        "protocol": "1",
+        "customFormatScore": "10",
+        "seriesMatchType": "Alias",
+        "releaseSource": "Rss",
+        "indexerFlags": "0",
+        "releaseType": "SingleEpisode"
+      },
+      "episode": {
+        "seriesId": 1770,
+        "tvdbId": 11012110,
+        "episodeFileId": 1506038,
+        "seasonNumber": 17,
+        "episodeNumber": 13,
+        "title": "Drag Baby Mamas",
+        "airDate": "2025-03-28",
+        "airDateUtc": "2025-03-29T00:00:00Z",
+        "runtime": 0,
+        "overview": "The queens make over some extra special drag newbies: their moms and dads. June Diane Raphael (Grace and Frankie) guest judges.",
+        "hasFile": true,
+        "monitored": true,
+        "unverifiedSceneNumbering": false,
+        "id": 164005
+      },
+      "series": {
+        "title": "RuPaul's Drag Race",
+        "sortTitle": "rupauls drag race",
+        "status": "continuing",
+        "ended": false,
+        "overview": "RuPaul's Drag Race and Untucked return with more sickening styles, fierce challenges and backstage drama. Michelle Visage, Carson Kressley, Ross Mathews and celeb guest judges join RuPaul as she sets out to crown America's Next Drag Superstar in this Emmy Award-winning show.",
+        "network": "MTV",
+        "airTime": "20:00",
+        "images": [
+          {
+            "coverType": "banner",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/graphical/85002-g6.jpg"
+          },
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/series/85002/posters/5febe17fa700d.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/series/85002/backgrounds/62073973.jpg"
+          },
+          {
+            "coverType": "clearlogo",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/85002/clearlogo/611ba34ae3a02.png"
+          }
+        ],
+        "originalLanguage": {
+          "id": 1,
+          "name": "English"
+        },
+        "seasons": [
+          {
+            "seasonNumber": 0,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 1,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 2,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 3,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 4,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 5,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 6,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 7,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 8,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 9,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 10,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 11,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 12,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 13,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 14,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 15,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 16,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 17,
+            "monitored": true
+          }
+        ],
+        "year": 2009,
+        "path": "/tv/Documentaires/tv shows/RuPaul's Drag Race",
+        "qualityProfileId": 1,
+        "seasonFolder": true,
+        "monitored": true,
+        "monitorNewItems": "all",
+        "useSceneNumbering": false,
+        "runtime": 52,
+        "tvdbId": 85002,
+        "tvRageId": 21652,
+        "tvMazeId": 1526,
+        "tmdbId": 8514,
+        "firstAired": "2009-02-02T00:00:00Z",
+        "lastAired": "2025-04-18T00:00:00Z",
+        "seriesType": "standard",
+        "cleanTitle": "rupaulsdragrace",
+        "imdbId": "tt1353056",
+        "titleSlug": "rupauls-drag-race",
+        "certification": "TV-14",
+        "genres": [
+          "Reality"
+        ],
+        "tags": [],
+        "added": "2024-10-26T09:08:00Z",
+        "ratings": {
+          "votes": 24482,
+          "value": 8.5
+        },
+        "languageProfileId": 1,
+        "id": 1770
+      },
+      "id": 357045
+    },
+    {
+      "episodeId": 162769,
+      "seriesId": 654,
+      "sourceTitle": "Gogglebox.S25E07.1080p.ALL4.WEB-DL.AAC2.0.H.264-RAWR",
+      "languages": [
+        {
+          "id": 1,
+          "name": "English"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 3,
+          "name": "WEBDL-1080p",
+          "source": "web",
+          "resolution": 1080
+        },
+        "revision": {
+          "version": 1,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "customFormats": [
+        {
+          "id": 3,
+          "name": "english"
+        }
+      ],
+      "customFormatScore": 10,
+      "qualityCutoffNotMet": false,
+      "date": "2025-03-28T22:33:24Z",
+      "downloadId": "SABnzbd_nzo_ysw_16hi",
+      "eventType": "downloadFolderImported",
+      "data": {
+        "fileId": "1506037",
+        "droppedPath": "/downloads/Gogglebox.S25E07.1080p.ALL4.WEB-DL.AAC2.0.H.264-RAWR/Gogglebox.S25E07.1080p.ALL4.WEB-DL.AAC2.0.H.264-RAWR.mkv",
+        "importedPath": "/tv/Documentaires/tv shows/Gogglebox/Season 25/Gogglebox.S25E07.Episode.7.mkv",
+        "downloadClient": "SABnzbd",
+        "downloadClientName": "sab",
+        "releaseGroup": "RAWR",
+        "customFormatScore": "10",
+        "size": "1793521981",
+        "indexerFlags": "0",
+        "releaseType": "SingleEpisode"
+      },
+      "episode": {
+        "seriesId": 654,
+        "tvdbId": 10937410,
+        "episodeFileId": 1506037,
+        "seasonNumber": 25,
+        "episodeNumber": 7,
+        "title": "Episode 7",
+        "airDate": "2025-03-28",
+        "airDateUtc": "2025-03-28T21:00:00Z",
+        "runtime": 47,
+        "overview": "With Adolescence, 99 to Beat, Coronation Street, David Blaine: Do Not Attempt, Big Night of Musicals by The National Lottery and Building Britain’s Superhomes.",
+        "hasFile": true,
+        "monitored": true,
+        "unverifiedSceneNumbering": false,
+        "id": 162769
+      },
+      "series": {
+        "title": "Gogglebox",
+        "sortTitle": "gogglebox",
+        "status": "continuing",
+        "ended": false,
+        "overview": "What do Britain's sharpest armchair critics think of our biggest and best TV programmes?",
+        "network": "Channel 4",
+        "airTime": "21:00",
+        "images": [
+          {
+            "coverType": "banner",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/graphical/268009-g.jpg"
+          },
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/series/268009/posters/62082407.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/fanart/original/268009-1.jpg"
+          },
+          {
+            "coverType": "clearlogo",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/268009/clearlogo/611cc331065fa.png"
+          }
+        ],
+        "originalLanguage": {
+          "id": 1,
+          "name": "English"
+        },
+        "seasons": [
+          {
+            "seasonNumber": 0,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 1,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 2,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 3,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 4,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 5,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 6,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 7,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 8,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 9,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 10,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 11,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 12,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 13,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 14,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 15,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 16,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 17,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 18,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 19,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 20,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 21,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 22,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 23,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 24,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 25,
+            "monitored": true
+          }
+        ],
+        "year": 2013,
+        "path": "/tv/Documentaires/tv shows/Gogglebox",
+        "qualityProfileId": 1,
+        "seasonFolder": true,
+        "monitored": true,
+        "monitorNewItems": "all",
+        "useSceneNumbering": false,
+        "runtime": 51,
+        "tvdbId": 268009,
+        "tvRageId": 34672,
+        "tvMazeId": 3508,
+        "tmdbId": 55808,
+        "firstAired": "2013-03-07T00:00:00Z",
+        "lastAired": "2025-05-30T00:00:00Z",
+        "seriesType": "standard",
+        "cleanTitle": "gogglebox",
+        "imdbId": "tt2762330",
+        "titleSlug": "gogglebox",
+        "certification": "TV-MA",
+        "genres": [
+          "Reality"
+        ],
+        "tags": [],
+        "added": "2020-02-09T08:53:32Z",
+        "ratings": {
+          "votes": 3133,
+          "value": 7.4
+        },
+        "languageProfileId": 1,
+        "id": 654
+      },
+      "id": 357044
+    },
+    {
+      "episodeId": 162769,
+      "seriesId": 654,
+      "sourceTitle": "Gogglebox.S25E07.1080p.ALL4.WEB-DL.AAC2.0.H.264-RAWR",
+      "languages": [
+        {
+          "id": 1,
+          "name": "English"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 3,
+          "name": "WEBDL-1080p",
+          "source": "web",
+          "resolution": 1080
+        },
+        "revision": {
+          "version": 1,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "customFormats": [
+        {
+          "id": 3,
+          "name": "english"
+        }
+      ],
+      "customFormatScore": 10,
+      "qualityCutoffNotMet": false,
+      "date": "2025-03-28T22:32:21Z",
+      "downloadId": "SABnzbd_nzo_ysw_16hi",
+      "eventType": "grabbed",
+      "data": {
+        "indexer": "NZBFinder (yearly) (Prowlarr)",
+        "nzbInfoUrl": "https://nzbfinder.ws/details/2236e170-fd8c-4bc2-b46a-40f472a3f0af",
+        "releaseGroup": "RAWR",
+        "age": "0",
+        "ageHours": "0.1795430841111111",
+        "ageMinutes": "10.772585085",
+        "publishedDate": "2025-03-28T22:21:35Z",
+        "downloadClient": "SABnzbd",
+        "downloadClientName": "sab",
+        "size": "2040180556",
+        "downloadUrl": "http://prowlarr:9696/3/download?apikey=5f771c1869f94fec821832369384a70c&link=MHVzaFZNNXV1VUJVaUpkbGhJN1RNV3VUQUlaTXpWSGZjelF5R1N3QkVRZ2JJcVUxTk9OY3lUUUFITUhSekt3dDRHWGVFalpkdEhqT0ZXRHl0bUM1OUF3L09reWg0c2Z0bU0zdFlqWDRBVDJadiszM0E5S2F5SUNWeHlUTDA5Nm9FbFpVdWNUN2x5OGZlOFhEZmZ2UnZtQWpaYWk2RDZzWC9kdFY0UGZHZ3REbHhSSTRVTlRhZkdZbENjaVNuSS9L&file=Gogglebox.S25E07.1080p.ALL4.WEB-DL.AAC2.0.H.264-RAWR",
+        "guid": "https://nzbfinder.ws/details/2236e170-fd8c-4bc2-b46a-40f472a3f0af",
+        "tvdbId": "268009",
+        "tvRageId": "34672",
+        "imdbId": "tt2762330",
+        "protocol": "1",
+        "customFormatScore": "10",
+        "seriesMatchType": "Title",
+        "releaseSource": "Rss",
+        "indexerFlags": "0",
+        "releaseType": "SingleEpisode"
+      },
+      "episode": {
+        "seriesId": 654,
+        "tvdbId": 10937410,
+        "episodeFileId": 1506037,
+        "seasonNumber": 25,
+        "episodeNumber": 7,
+        "title": "Episode 7",
+        "airDate": "2025-03-28",
+        "airDateUtc": "2025-03-28T21:00:00Z",
+        "runtime": 47,
+        "overview": "With Adolescence, 99 to Beat, Coronation Street, David Blaine: Do Not Attempt, Big Night of Musicals by The National Lottery and Building Britain’s Superhomes.",
+        "hasFile": true,
+        "monitored": true,
+        "unverifiedSceneNumbering": false,
+        "id": 162769
+      },
+      "series": {
+        "title": "Gogglebox",
+        "sortTitle": "gogglebox",
+        "status": "continuing",
+        "ended": false,
+        "overview": "What do Britain's sharpest armchair critics think of our biggest and best TV programmes?",
+        "network": "Channel 4",
+        "airTime": "21:00",
+        "images": [
+          {
+            "coverType": "banner",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/graphical/268009-g.jpg"
+          },
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/series/268009/posters/62082407.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/fanart/original/268009-1.jpg"
+          },
+          {
+            "coverType": "clearlogo",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/268009/clearlogo/611cc331065fa.png"
+          }
+        ],
+        "originalLanguage": {
+          "id": 1,
+          "name": "English"
+        },
+        "seasons": [
+          {
+            "seasonNumber": 0,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 1,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 2,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 3,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 4,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 5,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 6,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 7,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 8,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 9,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 10,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 11,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 12,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 13,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 14,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 15,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 16,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 17,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 18,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 19,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 20,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 21,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 22,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 23,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 24,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 25,
+            "monitored": true
+          }
+        ],
+        "year": 2013,
+        "path": "/tv/Documentaires/tv shows/Gogglebox",
+        "qualityProfileId": 1,
+        "seasonFolder": true,
+        "monitored": true,
+        "monitorNewItems": "all",
+        "useSceneNumbering": false,
+        "runtime": 51,
+        "tvdbId": 268009,
+        "tvRageId": 34672,
+        "tvMazeId": 3508,
+        "tmdbId": 55808,
+        "firstAired": "2013-03-07T00:00:00Z",
+        "lastAired": "2025-05-30T00:00:00Z",
+        "seriesType": "standard",
+        "cleanTitle": "gogglebox",
+        "imdbId": "tt2762330",
+        "titleSlug": "gogglebox",
+        "certification": "TV-MA",
+        "genres": [
+          "Reality"
+        ],
+        "tags": [],
+        "added": "2020-02-09T08:53:32Z",
+        "ratings": {
+          "votes": 3133,
+          "value": 7.4
+        },
+        "languageProfileId": 1,
+        "id": 654
+      },
+      "id": 357043
+    },
+    {
+      "episodeId": 164130,
+      "seriesId": 666,
+      "sourceTitle": "Great.British.Menu.S20E29.BANQUET.WEB-DL.x264-JiVE",
+      "languages": [
+        {
+          "id": 1,
+          "name": "English"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 8,
+          "name": "WEBDL-480p",
+          "source": "web",
+          "resolution": 480
+        },
+        "revision": {
+          "version": 1,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "customFormats": [
+        {
+          "id": 3,
+          "name": "english"
+        }
+      ],
+      "customFormatScore": 10,
+      "qualityCutoffNotMet": true,
+      "date": "2025-03-28T22:03:00Z",
+      "downloadId": "SABnzbd_nzo_5v0ih6mk",
+      "eventType": "downloadFolderImported",
+      "data": {
+        "fileId": "1506036",
+        "droppedPath": "/downloads/Great.British.Menu.S20E29.BANQUET.WEB-DL.x264-JiVE/uxljfzqFmtIV3aK1oqn9ggntjFLpFkhZ.mp4",
+        "importedPath": "/tv/Documentaires/tv shows/Great British Menu/Season 20/Great.British.Menu.S20E29.Banquet.Special.mp4",
+        "downloadClient": "SABnzbd",
+        "downloadClientName": "sab",
+        "releaseGroup": "JiVE",
+        "customFormatScore": "10",
+        "size": "774215280",
+        "indexerFlags": "0",
+        "releaseType": "SingleEpisode"
+      },
+      "episode": {
+        "seriesId": 666,
+        "tvdbId": 11028551,
+        "episodeFileId": 1506036,
+        "seasonNumber": 20,
+        "episodeNumber": 29,
+        "title": "Banquet Special",
+        "airDate": "2025-03-28",
+        "airDateUtc": "2025-03-28T20:00:00Z",
+        "runtime": 59,
+        "overview": "It’s the final of Great British Menu. The chefs cook a banquet for modern-day heroes at Blenheim Palace, with dishes celebrating historic Britons. Who will be voted 2025 champion of champions?",
+        "hasFile": true,
+        "monitored": true,
+        "unverifiedSceneNumbering": false,
+        "id": 164130
+      },
+      "series": {
+        "title": "Great British Menu",
+        "sortTitle": "great british menu",
+        "status": "continuing",
+        "ended": false,
+        "overview": "Britain's top chefs compete for the chance to cook at a celebratory four-course banquet.",
+        "network": "BBC Two",
+        "airTime": "20:00",
+        "images": [
+          {
+            "coverType": "banner",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/graphical/81561-g2.jpg"
+          },
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/posters/81561-1.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/fanart/original/81561-2.jpg"
+          }
+        ],
+        "originalLanguage": {
+          "id": 1,
+          "name": "English"
+        },
+        "seasons": [
+          {
+            "seasonNumber": 0,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 1,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 2,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 3,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 4,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 5,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 6,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 7,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 8,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 9,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 10,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 11,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 12,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 13,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 14,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 15,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 16,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 17,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 18,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 19,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 20,
+            "monitored": true
+          }
+        ],
+        "year": 2006,
+        "path": "/tv/Documentaires/tv shows/Great British Menu",
+        "qualityProfileId": 3,
+        "seasonFolder": true,
+        "monitored": true,
+        "monitorNewItems": "all",
+        "useSceneNumbering": false,
+        "runtime": 36,
+        "tvdbId": 81561,
+        "tvRageId": 10272,
+        "tvMazeId": 6155,
+        "tmdbId": 3431,
+        "firstAired": "2006-04-10T00:00:00Z",
+        "lastAired": "2025-03-28T00:00:00Z",
+        "seriesType": "standard",
+        "cleanTitle": "greatbritishmenu",
+        "imdbId": "tt0977628",
+        "titleSlug": "great-british-menu",
+        "genres": [
+          "Food",
+          "Reality"
+        ],
+        "tags": [],
+        "added": "2020-02-09T08:55:08Z",
+        "ratings": {
+          "votes": 489,
+          "value": 7.5
+        },
+        "languageProfileId": 1,
+        "id": 666
+      },
+      "id": 357042
+    },
+    {
+      "episodeId": 164130,
+      "seriesId": 666,
+      "sourceTitle": "Great.British.Menu.S20E29.BANQUET.WEB-DL.x264-JiVE",
+      "languages": [
+        {
+          "id": 1,
+          "name": "English"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 8,
+          "name": "WEBDL-480p",
+          "source": "web",
+          "resolution": 480
+        },
+        "revision": {
+          "version": 1,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "customFormats": [
+        {
+          "id": 3,
+          "name": "english"
+        }
+      ],
+      "customFormatScore": 10,
+      "qualityCutoffNotMet": true,
+      "date": "2025-03-28T22:01:41Z",
+      "downloadId": "SABnzbd_nzo_5v0ih6mk",
+      "eventType": "grabbed",
+      "data": {
+        "indexer": "NZBgeek (Prowlarr)",
+        "nzbInfoUrl": "https://nzbgeek.info/geekseek.php?guid=ba5ae5159682660bd7083d943f25db47",
+        "releaseGroup": "JiVE",
+        "age": "0",
+        "ageHours": "0.19820058252777778",
+        "ageMinutes": "11.892034995",
+        "publishedDate": "2025-03-28T21:49:48Z",
+        "downloadClient": "SABnzbd",
+        "downloadClientName": "sab",
+        "size": "815673000",
+        "downloadUrl": "http://prowlarr:9696/5/download?apikey=5f771c1869f94fec821832369384a70c&link=WktSeHdVbHAvY29YQXNUYjNIUVI3cFpZaThUY3A2STU4TnZxMlFHTGRqU0w2L1gzazA5ZmVKNnBnQlo5T3NrY3ByaUJ0RzYxTkorbmd6bGlmd3lqTEY2a1YxWWorOWY1N3k2N2VsNXZ5TitIVmNRTUV1MG1JOEppdDRDZk55aEx1dXFBZWFTNmQ5MGhMK3dIMUdpblRTM0pTZmJWN3dNSkFKZTk5SEZFZlJ3PQ&file=Great.British.Menu.S20E29.BANQUET.WEB-DL.x264-JiVE",
+        "guid": "https://nzbgeek.info/geekseek.php?guid=ba5ae5159682660bd7083d943f25db47",
+        "tvdbId": "81561",
+        "tvRageId": "0",
+        "imdbId": null,
+        "protocol": "1",
+        "customFormatScore": "10",
+        "seriesMatchType": "Title",
+        "releaseSource": "Rss",
+        "indexerFlags": "0",
+        "releaseType": "SingleEpisode"
+      },
+      "episode": {
+        "seriesId": 666,
+        "tvdbId": 11028551,
+        "episodeFileId": 1506036,
+        "seasonNumber": 20,
+        "episodeNumber": 29,
+        "title": "Banquet Special",
+        "airDate": "2025-03-28",
+        "airDateUtc": "2025-03-28T20:00:00Z",
+        "runtime": 59,
+        "overview": "It’s the final of Great British Menu. The chefs cook a banquet for modern-day heroes at Blenheim Palace, with dishes celebrating historic Britons. Who will be voted 2025 champion of champions?",
+        "hasFile": true,
+        "monitored": true,
+        "unverifiedSceneNumbering": false,
+        "id": 164130
+      },
+      "series": {
+        "title": "Great British Menu",
+        "sortTitle": "great british menu",
+        "status": "continuing",
+        "ended": false,
+        "overview": "Britain's top chefs compete for the chance to cook at a celebratory four-course banquet.",
+        "network": "BBC Two",
+        "airTime": "20:00",
+        "images": [
+          {
+            "coverType": "banner",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/graphical/81561-g2.jpg"
+          },
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/posters/81561-1.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/fanart/original/81561-2.jpg"
+          }
+        ],
+        "originalLanguage": {
+          "id": 1,
+          "name": "English"
+        },
+        "seasons": [
+          {
+            "seasonNumber": 0,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 1,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 2,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 3,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 4,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 5,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 6,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 7,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 8,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 9,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 10,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 11,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 12,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 13,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 14,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 15,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 16,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 17,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 18,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 19,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 20,
+            "monitored": true
+          }
+        ],
+        "year": 2006,
+        "path": "/tv/Documentaires/tv shows/Great British Menu",
+        "qualityProfileId": 3,
+        "seasonFolder": true,
+        "monitored": true,
+        "monitorNewItems": "all",
+        "useSceneNumbering": false,
+        "runtime": 36,
+        "tvdbId": 81561,
+        "tvRageId": 10272,
+        "tvMazeId": 6155,
+        "tmdbId": 3431,
+        "firstAired": "2006-04-10T00:00:00Z",
+        "lastAired": "2025-03-28T00:00:00Z",
+        "seriesType": "standard",
+        "cleanTitle": "greatbritishmenu",
+        "imdbId": "tt0977628",
+        "titleSlug": "great-british-menu",
+        "genres": [
+          "Food",
+          "Reality"
+        ],
+        "tags": [],
+        "added": "2020-02-09T08:55:08Z",
+        "ratings": {
+          "votes": 489,
+          "value": 7.5
+        },
+        "languageProfileId": 1,
+        "id": 666
+      },
+      "id": 357041
+    },
+    {
+      "episodeId": 164353,
+      "seriesId": 65,
+      "sourceTitle": "/tv/Documentaires/tv shows/Dateline- Secrets Uncovered/Season 14/Dateline-.Secrets.Uncovered.S14E20.The.Road.Trip.mp4",
+      "languages": [
+        {
+          "id": 1,
+          "name": "English"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 8,
+          "name": "WEBDL-480p",
+          "source": "web",
+          "resolution": 480
+        },
+        "revision": {
+          "version": 1,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "customFormats": [
+        {
+          "id": 3,
+          "name": "english"
+        }
+      ],
+      "customFormatScore": 10,
+      "qualityCutoffNotMet": true,
+      "date": "2025-03-28T21:06:39Z",
+      "eventType": "episodeFileDeleted",
+      "data": {
+        "reason": "MissingFromDisk",
+        "releaseGroup": "JiVE",
+        "size": "619744423",
+        "indexerFlags": "0",
+        "releaseType": "SingleEpisode"
+      },
+      "episode": {
+        "seriesId": 65,
+        "tvdbId": 11054334,
+        "episodeFileId": 1505885,
+        "seasonNumber": 14,
+        "episodeNumber": 20,
+        "title": "The Road Trip",
+        "airDate": "2025-03-26",
+        "airDateUtc": "2025-03-27T00:00:00Z",
+        "lastSearchTime": "2025-03-27T20:46:17Z",
+        "runtime": 0,
+        "overview": "When Dr. Teresa Sievers is found murdered in her kitchen, detectives struggle to find any leads until an unexpected tip changes everything; the woman who helped investigators speaks out.",
+        "hasFile": true,
+        "monitored": true,
+        "unverifiedSceneNumbering": false,
+        "id": 164353
+      },
+      "series": {
+        "title": "Dateline: Secrets Uncovered",
+        "sortTitle": "dateline secrets uncovered",
+        "status": "continuing",
+        "ended": false,
+        "overview": "For more than 25 years, ``Dateline'' has brought viewers investigations into some of biggest mysteries in America. This entry in the franchise takes a second look at some of the most mysterious cases of recent history. Hosted by Emmy-winning journalist Craig Melvin, the show explores the stories through firsthand accounts told by people who are close to the crime, including investigators who dedicated their time to the cases and family members who are still trying to confront the tragedies that befell their loved ones.",
+        "network": "Oxygen",
+        "airTime": "20:00",
+        "images": [
+          {
+            "coverType": "banner",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/332213/banners/673648afe76e9.jpg"
+          },
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/posters/332213-1.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/fanart/original/332213-1.jpg"
+          },
+          {
+            "coverType": "clearlogo",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/332213/clearlogo/611dc55dc5a08.png"
+          }
+        ],
+        "originalLanguage": {
+          "id": 1,
+          "name": "English"
+        },
+        "seasons": [
+          {
+            "seasonNumber": 1,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 2,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 3,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 4,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 5,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 6,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 7,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 8,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 9,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 10,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 11,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 12,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 13,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 14,
+            "monitored": true
+          }
+        ],
+        "year": 2017,
+        "path": "/tv/Documentaires/tv shows/Dateline- Secrets Uncovered",
+        "qualityProfileId": 1,
+        "seasonFolder": true,
+        "monitored": true,
+        "monitorNewItems": "all",
+        "useSceneNumbering": false,
+        "runtime": 58,
+        "tvdbId": 332213,
+        "tvRageId": 0,
+        "tvMazeId": 28183,
+        "tmdbId": 74284,
+        "firstAired": "2017-07-21T00:00:00Z",
+        "lastAired": "2025-03-26T00:00:00Z",
+        "seriesType": "standard",
+        "cleanTitle": "datelinesecretsuncovered",
+        "imdbId": "tt7178298",
+        "titleSlug": "dateline-secrets-uncovered",
+        "certification": "TV-PG",
+        "genres": [
+          "Crime",
+          "Documentary"
+        ],
+        "tags": [],
+        "added": "2020-02-09T02:46:35Z",
+        "ratings": {
+          "votes": 248,
+          "value": 7.8
+        },
+        "languageProfileId": 1,
+        "id": 65
+      },
+      "id": 357040
+    },
+    {
+      "episodeId": 75265,
+      "seriesId": 1101,
+      "sourceTitle": "Younger (2015) S05E03 The End of the Tour (1080p AMZN Webrip x265 10bit EAC3 5.1 - JBENT)[TAoE]",
+      "languages": [
+        {
+          "id": 1,
+          "name": "English"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 15,
+          "name": "WEBRip-1080p",
+          "source": "webRip",
+          "resolution": 1080
+        },
+        "revision": {
+          "version": 1,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "customFormats": [
+        {
+          "id": 3,
+          "name": "english"
+        },
+        {
+          "id": 1,
+          "name": "english 265"
+        }
+      ],
+      "customFormatScore": 30,
+      "qualityCutoffNotMet": false,
+      "date": "2025-03-28T21:02:01Z",
+      "downloadId": "SABnzbd_nzo_ex71rt27",
+      "eventType": "downloadFolderImported",
+      "data": {
+        "fileId": "1505827",
+        "droppedPath": "/downloads/Younger (2015) S05E03 The End of the Tour (1080p AMZN Webrip x265 10bit EAC3 5.1 - JBENT)[TAoE]/Younger (2015) S05E03 The End of the Tour (1080p AMZN Webrip x265 10bit EAC3 5.1 - JBENT)[TAoE].mkv",
+        "importedPath": "/tv/Tv Shows/Younger/Season 5/Younger.S05E03.The.End.of.the.Tour.mkv",
+        "downloadClient": "SABnzbd",
+        "downloadClientName": "sab",
+        "releaseGroup": null,
+        "customFormatScore": "30",
+        "size": "936039442",
+        "indexerFlags": "0",
+        "releaseType": "SingleEpisode"
+      },
+      "episode": {
+        "seriesId": 1101,
+        "tvdbId": 6697506,
+        "episodeFileId": 1505827,
+        "seasonNumber": 5,
+        "episodeNumber": 3,
+        "title": "The End of the Tour",
+        "airDate": "2018-06-19",
+        "airDateUtc": "2018-06-19T07:00:00Z",
+        "lastSearchTime": "2025-03-28T21:01:06Z",
+        "runtime": 25,
+        "overview": "Liza faces complications on the Marriage Vacation book tour. Kelsey and Zane head to Washington, D.C., to court a speechwriter’s prospective memoir.",
+        "hasFile": true,
+        "monitored": true,
+        "absoluteEpisodeNumber": 51,
+        "unverifiedSceneNumbering": false,
+        "id": 75265
+      },
+      "series": {
+        "title": "Younger",
+        "sortTitle": "younger",
+        "status": "ended",
+        "ended": true,
+        "overview": "The series follows 40-year old Liza Miller, a suddenly single mother who tries to get back into the working world, only to find it’s nearly impossible to start at the bottom at her age. When a chance encounter with a young guy at a bar convinces her she looks younger than she is, Liza tries to pass herself off as 26 – with the help of a makeover, courtesy of her best friend Maggie. Armed with new confidence, she lands a job as an assistant to the temperamental Diana and teams up with her new co-worker and twentysomething Kelsey to make it in the career of her dreams. Now she just has to make sure no one finds out the secret only she and Maggie share.",
+        "network": "Paramount+",
+        "airTime": "03:00",
+        "images": [
+          {
+            "coverType": "banner",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/graphical/280706-g5.jpg"
+          },
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/posters/280706-1.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/fanart/original/280706-6.jpg"
+          },
+          {
+            "coverType": "clearlogo",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/280706/clearlogo/611bcd47f2d8d.png"
+          }
+        ],
+        "originalLanguage": {
+          "id": 1,
+          "name": "English"
+        },
+        "seasons": [
+          {
+            "seasonNumber": 1,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 2,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 3,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 4,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 5,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 6,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 7,
+            "monitored": true
+          }
+        ],
+        "year": 2015,
+        "path": "/tv/Tv Shows/Younger",
+        "qualityProfileId": 1,
+        "seasonFolder": true,
+        "monitored": true,
+        "monitorNewItems": "all",
+        "useSceneNumbering": false,
+        "runtime": 26,
+        "tvdbId": 280706,
+        "tvRageId": 37246,
+        "tvMazeId": 623,
+        "tmdbId": 62117,
+        "firstAired": "2015-03-31T00:00:00Z",
+        "lastAired": "2021-06-10T00:00:00Z",
+        "seriesType": "standard",
+        "cleanTitle": "younger",
+        "imdbId": "tt3288518",
+        "titleSlug": "younger",
+        "certification": "TV-14",
+        "genres": [
+          "Comedy",
+          "Drama",
+          "Romance"
+        ],
+        "tags": [],
+        "added": "2020-02-09T10:55:51Z",
+        "ratings": {
+          "votes": 28078,
+          "value": 7.8
+        },
+        "languageProfileId": 1,
+        "id": 1101
+      },
+      "id": 357039
+    },
+    {
+      "episodeId": 75265,
+      "seriesId": 1101,
+      "sourceTitle": "/tv/Tv Shows/Younger/Season 5/Younger.s05e03.mkv",
+      "languages": [
+        {
+          "id": 1,
+          "name": "English"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 4,
+          "name": "HDTV-720p",
+          "source": "television",
+          "resolution": 720
+        },
+        "revision": {
+          "version": 1,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "customFormats": [
+        {
+          "id": 3,
+          "name": "english"
+        }
+      ],
+      "customFormatScore": 10,
+      "qualityCutoffNotMet": true,
+      "date": "2025-03-28T21:02:00Z",
+      "eventType": "episodeFileDeleted",
+      "data": {
+        "reason": "Upgrade",
+        "releaseGroup": null,
+        "size": "314858738",
+        "indexerFlags": "0",
+        "releaseType": "Unknown"
+      },
+      "episode": {
+        "seriesId": 1101,
+        "tvdbId": 6697506,
+        "episodeFileId": 1505827,
+        "seasonNumber": 5,
+        "episodeNumber": 3,
+        "title": "The End of the Tour",
+        "airDate": "2018-06-19",
+        "airDateUtc": "2018-06-19T07:00:00Z",
+        "lastSearchTime": "2025-03-28T21:01:06Z",
+        "runtime": 25,
+        "overview": "Liza faces complications on the Marriage Vacation book tour. Kelsey and Zane head to Washington, D.C., to court a speechwriter’s prospective memoir.",
+        "hasFile": true,
+        "monitored": true,
+        "absoluteEpisodeNumber": 51,
+        "unverifiedSceneNumbering": false,
+        "id": 75265
+      },
+      "series": {
+        "title": "Younger",
+        "sortTitle": "younger",
+        "status": "ended",
+        "ended": true,
+        "overview": "The series follows 40-year old Liza Miller, a suddenly single mother who tries to get back into the working world, only to find it’s nearly impossible to start at the bottom at her age. When a chance encounter with a young guy at a bar convinces her she looks younger than she is, Liza tries to pass herself off as 26 – with the help of a makeover, courtesy of her best friend Maggie. Armed with new confidence, she lands a job as an assistant to the temperamental Diana and teams up with her new co-worker and twentysomething Kelsey to make it in the career of her dreams. Now she just has to make sure no one finds out the secret only she and Maggie share.",
+        "network": "Paramount+",
+        "airTime": "03:00",
+        "images": [
+          {
+            "coverType": "banner",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/graphical/280706-g5.jpg"
+          },
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/posters/280706-1.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/fanart/original/280706-6.jpg"
+          },
+          {
+            "coverType": "clearlogo",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/280706/clearlogo/611bcd47f2d8d.png"
+          }
+        ],
+        "originalLanguage": {
+          "id": 1,
+          "name": "English"
+        },
+        "seasons": [
+          {
+            "seasonNumber": 1,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 2,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 3,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 4,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 5,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 6,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 7,
+            "monitored": true
+          }
+        ],
+        "year": 2015,
+        "path": "/tv/Tv Shows/Younger",
+        "qualityProfileId": 1,
+        "seasonFolder": true,
+        "monitored": true,
+        "monitorNewItems": "all",
+        "useSceneNumbering": false,
+        "runtime": 26,
+        "tvdbId": 280706,
+        "tvRageId": 37246,
+        "tvMazeId": 623,
+        "tmdbId": 62117,
+        "firstAired": "2015-03-31T00:00:00Z",
+        "lastAired": "2021-06-10T00:00:00Z",
+        "seriesType": "standard",
+        "cleanTitle": "younger",
+        "imdbId": "tt3288518",
+        "titleSlug": "younger",
+        "certification": "TV-14",
+        "genres": [
+          "Comedy",
+          "Drama",
+          "Romance"
+        ],
+        "tags": [],
+        "added": "2020-02-09T10:55:51Z",
+        "ratings": {
+          "votes": 28078,
+          "value": 7.8
+        },
+        "languageProfileId": 1,
+        "id": 1101
+      },
+      "id": 357038
+    },
+    {
+      "episodeId": 75265,
+      "seriesId": 1101,
+      "sourceTitle": "Younger (2015) S05E03 The End of the Tour (1080p AMZN Webrip x265 10bit EAC3 5.1 - JBENT)[TAoE]",
+      "languages": [
+        {
+          "id": 1,
+          "name": "English"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 15,
+          "name": "WEBRip-1080p",
+          "source": "webRip",
+          "resolution": 1080
+        },
+        "revision": {
+          "version": 1,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "customFormats": [
+        {
+          "id": 3,
+          "name": "english"
+        },
+        {
+          "id": 1,
+          "name": "english 265"
+        }
+      ],
+      "customFormatScore": 30,
+      "qualityCutoffNotMet": false,
+      "date": "2025-03-28T21:01:09Z",
+      "downloadId": "SABnzbd_nzo_ex71rt27",
+      "eventType": "grabbed",
+      "data": {
+        "indexer": "altHUB (Prowlarr)",
+        "nzbInfoUrl": "https://api.althub.co.za/details/f94ce856e8db1171c126f936a498040e",
+        "releaseGroup": null,
+        "age": "813",
+        "ageHours": "19513.010228427887",
+        "ageMinutes": "1170780.6137057084",
+        "publishedDate": "2023-01-05T20:00:33Z",
+        "downloadClient": "SABnzbd",
+        "downloadClientName": "sab",
+        "size": "936043407",
+        "downloadUrl": "http://prowlarr:9696/1/download?apikey=5f771c1869f94fec821832369384a70c&link=MmdNNTBtN2FFWHcwM1JhMGFqdzVQdTM4TTVoR1k2d0xGSjFMZE9ja2YwWWFNNGNjTk1oUUczQjBhNlJRNnV5Wm1CZGlnZUFNVnBYZ0NNb2hPM1RKNlRYZTQyMElZMWQxZ2NPRzVyUFNsVC9ZTDJaK3JiVWNOUUplT0xLZU1TNE10QmN1OGZLRUZjNjE5TFdXajZmSzNGS25ZdzRSSTBLQVBnOFFGcHFNM2RJPQ&file=Younger+(2015)+S05E03+The+End+of+the+Tour+(1080p+AMZN+Webrip+x265+10bit+EAC3+5.1+-+JBENT)%5BTAoE%5D",
+        "guid": "https://api.althub.co.za/details/f94ce856e8db1171c126f936a498040e",
+        "tvdbId": "0",
+        "tvRageId": "0",
+        "imdbId": null,
+        "protocol": "1",
+        "customFormatScore": "30",
+        "seriesMatchType": "Title",
+        "releaseSource": "Search",
+        "indexerFlags": "0",
+        "releaseType": "SingleEpisode"
+      },
+      "episode": {
+        "seriesId": 1101,
+        "tvdbId": 6697506,
+        "episodeFileId": 1505827,
+        "seasonNumber": 5,
+        "episodeNumber": 3,
+        "title": "The End of the Tour",
+        "airDate": "2018-06-19",
+        "airDateUtc": "2018-06-19T07:00:00Z",
+        "lastSearchTime": "2025-03-28T21:01:06Z",
+        "runtime": 25,
+        "overview": "Liza faces complications on the Marriage Vacation book tour. Kelsey and Zane head to Washington, D.C., to court a speechwriter’s prospective memoir.",
+        "hasFile": true,
+        "monitored": true,
+        "absoluteEpisodeNumber": 51,
+        "unverifiedSceneNumbering": false,
+        "id": 75265
+      },
+      "series": {
+        "title": "Younger",
+        "sortTitle": "younger",
+        "status": "ended",
+        "ended": true,
+        "overview": "The series follows 40-year old Liza Miller, a suddenly single mother who tries to get back into the working world, only to find it’s nearly impossible to start at the bottom at her age. When a chance encounter with a young guy at a bar convinces her she looks younger than she is, Liza tries to pass herself off as 26 – with the help of a makeover, courtesy of her best friend Maggie. Armed with new confidence, she lands a job as an assistant to the temperamental Diana and teams up with her new co-worker and twentysomething Kelsey to make it in the career of her dreams. Now she just has to make sure no one finds out the secret only she and Maggie share.",
+        "network": "Paramount+",
+        "airTime": "03:00",
+        "images": [
+          {
+            "coverType": "banner",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/graphical/280706-g5.jpg"
+          },
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/posters/280706-1.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/fanart/original/280706-6.jpg"
+          },
+          {
+            "coverType": "clearlogo",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/280706/clearlogo/611bcd47f2d8d.png"
+          }
+        ],
+        "originalLanguage": {
+          "id": 1,
+          "name": "English"
+        },
+        "seasons": [
+          {
+            "seasonNumber": 1,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 2,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 3,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 4,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 5,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 6,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 7,
+            "monitored": true
+          }
+        ],
+        "year": 2015,
+        "path": "/tv/Tv Shows/Younger",
+        "qualityProfileId": 1,
+        "seasonFolder": true,
+        "monitored": true,
+        "monitorNewItems": "all",
+        "useSceneNumbering": false,
+        "runtime": 26,
+        "tvdbId": 280706,
+        "tvRageId": 37246,
+        "tvMazeId": 623,
+        "tmdbId": 62117,
+        "firstAired": "2015-03-31T00:00:00Z",
+        "lastAired": "2021-06-10T00:00:00Z",
+        "seriesType": "standard",
+        "cleanTitle": "younger",
+        "imdbId": "tt3288518",
+        "titleSlug": "younger",
+        "certification": "TV-14",
+        "genres": [
+          "Comedy",
+          "Drama",
+          "Romance"
+        ],
+        "tags": [],
+        "added": "2020-02-09T10:55:51Z",
+        "ratings": {
+          "votes": 28078,
+          "value": 7.8
+        },
+        "languageProfileId": 1,
+        "id": 1101
+      },
+      "id": 357037
+    },
+    {
+      "episodeId": 75265,
+      "seriesId": 1101,
+      "sourceTitle": "Younger.2015.S05E03.1080p.AMZN.WEB-DL.H265.SDR.DDP.5.1.English-HONE",
+      "languages": [
+        {
+          "id": 1,
+          "name": "English"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 3,
+          "name": "WEBDL-1080p",
+          "source": "web",
+          "resolution": 1080
+        },
+        "revision": {
+          "version": 1,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "customFormats": [
+        {
+          "id": 3,
+          "name": "english"
+        },
+        {
+          "id": 1,
+          "name": "english 265"
+        }
+      ],
+      "customFormatScore": 30,
+      "qualityCutoffNotMet": false,
+      "date": "2025-03-28T21:01:02Z",
+      "downloadId": "SABnzbd_nzo_8w33ur3w",
+      "eventType": "downloadFailed",
+      "data": {
+        "downloadClient": "SABnzbd",
+        "downloadClientName": "sab",
+        "message": "Repair failed, not enough repair blocks (2 short)",
+        "releaseGroup": "HONE",
+        "size": "1677597442"
+      },
+      "episode": {
+        "seriesId": 1101,
+        "tvdbId": 6697506,
+        "episodeFileId": 1505827,
+        "seasonNumber": 5,
+        "episodeNumber": 3,
+        "title": "The End of the Tour",
+        "airDate": "2018-06-19",
+        "airDateUtc": "2018-06-19T07:00:00Z",
+        "lastSearchTime": "2025-03-28T21:01:06Z",
+        "runtime": 25,
+        "overview": "Liza faces complications on the Marriage Vacation book tour. Kelsey and Zane head to Washington, D.C., to court a speechwriter’s prospective memoir.",
+        "hasFile": true,
+        "monitored": true,
+        "absoluteEpisodeNumber": 51,
+        "unverifiedSceneNumbering": false,
+        "id": 75265
+      },
+      "series": {
+        "title": "Younger",
+        "sortTitle": "younger",
+        "status": "ended",
+        "ended": true,
+        "overview": "The series follows 40-year old Liza Miller, a suddenly single mother who tries to get back into the working world, only to find it’s nearly impossible to start at the bottom at her age. When a chance encounter with a young guy at a bar convinces her she looks younger than she is, Liza tries to pass herself off as 26 – with the help of a makeover, courtesy of her best friend Maggie. Armed with new confidence, she lands a job as an assistant to the temperamental Diana and teams up with her new co-worker and twentysomething Kelsey to make it in the career of her dreams. Now she just has to make sure no one finds out the secret only she and Maggie share.",
+        "network": "Paramount+",
+        "airTime": "03:00",
+        "images": [
+          {
+            "coverType": "banner",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/graphical/280706-g5.jpg"
+          },
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/posters/280706-1.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/fanart/original/280706-6.jpg"
+          },
+          {
+            "coverType": "clearlogo",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/280706/clearlogo/611bcd47f2d8d.png"
+          }
+        ],
+        "originalLanguage": {
+          "id": 1,
+          "name": "English"
+        },
+        "seasons": [
+          {
+            "seasonNumber": 1,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 2,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 3,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 4,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 5,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 6,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 7,
+            "monitored": true
+          }
+        ],
+        "year": 2015,
+        "path": "/tv/Tv Shows/Younger",
+        "qualityProfileId": 1,
+        "seasonFolder": true,
+        "monitored": true,
+        "monitorNewItems": "all",
+        "useSceneNumbering": false,
+        "runtime": 26,
+        "tvdbId": 280706,
+        "tvRageId": 37246,
+        "tvMazeId": 623,
+        "tmdbId": 62117,
+        "firstAired": "2015-03-31T00:00:00Z",
+        "lastAired": "2021-06-10T00:00:00Z",
+        "seriesType": "standard",
+        "cleanTitle": "younger",
+        "imdbId": "tt3288518",
+        "titleSlug": "younger",
+        "certification": "TV-14",
+        "genres": [
+          "Comedy",
+          "Drama",
+          "Romance"
+        ],
+        "tags": [],
+        "added": "2020-02-09T10:55:51Z",
+        "ratings": {
+          "votes": 28078,
+          "value": 7.8
+        },
+        "languageProfileId": 1,
+        "id": 1101
+      },
+      "id": 357036
+    },
+    {
+      "episodeId": 75272,
+      "seriesId": 1101,
+      "sourceTitle": "Younger.2015.S05E10.1080p.AMZN.WEB-DL.H265.SDR.DDP.5.1.English-HONE",
+      "languages": [
+        {
+          "id": 1,
+          "name": "English"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 3,
+          "name": "WEBDL-1080p",
+          "source": "web",
+          "resolution": 1080
+        },
+        "revision": {
+          "version": 1,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "customFormats": [
+        {
+          "id": 3,
+          "name": "english"
+        },
+        {
+          "id": 1,
+          "name": "english 265"
+        }
+      ],
+      "customFormatScore": 30,
+      "qualityCutoffNotMet": false,
+      "date": "2025-03-28T21:01:02Z",
+      "downloadId": "SABnzbd_nzo_17lfolsh",
+      "eventType": "downloadFolderImported",
+      "data": {
+        "fileId": "1505826",
+        "droppedPath": "/downloads/Younger.2015.S05E10.1080p.AMZN.WEB-DL.H265.SDR.DDP.5.1.English-HONE/Younger.2015.S05E10.1080p.AMZN.WEB-DL.H265.SDR.DDP.5.1.English-HONE.mkv",
+        "importedPath": "/tv/Tv Shows/Younger/Season 5/Younger.S05E10.Girls.on.the.Side.mkv",
+        "downloadClient": "SABnzbd",
+        "downloadClientName": "sab",
+        "releaseGroup": "HONE",
+        "customFormatScore": "30",
+        "size": "1663327147",
+        "indexerFlags": "0",
+        "releaseType": "SingleEpisode"
+      },
+      "episode": {
+        "seriesId": 1101,
+        "tvdbId": 6767418,
+        "episodeFileId": 1505826,
+        "seasonNumber": 5,
+        "episodeNumber": 10,
+        "title": "Girls on the Side",
+        "airDate": "2018-08-14",
+        "airDateUtc": "2018-08-14T07:00:00Z",
+        "runtime": 25,
+        "overview": "Liza is distressed when she meets Caitlin’s middle-aged boyfriend. Diana refuses to back down from a challenge; Josh rebrands.",
+        "hasFile": true,
+        "monitored": true,
+        "absoluteEpisodeNumber": 58,
+        "unverifiedSceneNumbering": false,
+        "id": 75272
+      },
+      "series": {
+        "title": "Younger",
+        "sortTitle": "younger",
+        "status": "ended",
+        "ended": true,
+        "overview": "The series follows 40-year old Liza Miller, a suddenly single mother who tries to get back into the working world, only to find it’s nearly impossible to start at the bottom at her age. When a chance encounter with a young guy at a bar convinces her she looks younger than she is, Liza tries to pass herself off as 26 – with the help of a makeover, courtesy of her best friend Maggie. Armed with new confidence, she lands a job as an assistant to the temperamental Diana and teams up with her new co-worker and twentysomething Kelsey to make it in the career of her dreams. Now she just has to make sure no one finds out the secret only she and Maggie share.",
+        "network": "Paramount+",
+        "airTime": "03:00",
+        "images": [
+          {
+            "coverType": "banner",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/graphical/280706-g5.jpg"
+          },
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/posters/280706-1.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/fanart/original/280706-6.jpg"
+          },
+          {
+            "coverType": "clearlogo",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/280706/clearlogo/611bcd47f2d8d.png"
+          }
+        ],
+        "originalLanguage": {
+          "id": 1,
+          "name": "English"
+        },
+        "seasons": [
+          {
+            "seasonNumber": 1,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 2,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 3,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 4,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 5,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 6,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 7,
+            "monitored": true
+          }
+        ],
+        "year": 2015,
+        "path": "/tv/Tv Shows/Younger",
+        "qualityProfileId": 1,
+        "seasonFolder": true,
+        "monitored": true,
+        "monitorNewItems": "all",
+        "useSceneNumbering": false,
+        "runtime": 26,
+        "tvdbId": 280706,
+        "tvRageId": 37246,
+        "tvMazeId": 623,
+        "tmdbId": 62117,
+        "firstAired": "2015-03-31T00:00:00Z",
+        "lastAired": "2021-06-10T00:00:00Z",
+        "seriesType": "standard",
+        "cleanTitle": "younger",
+        "imdbId": "tt3288518",
+        "titleSlug": "younger",
+        "certification": "TV-14",
+        "genres": [
+          "Comedy",
+          "Drama",
+          "Romance"
+        ],
+        "tags": [],
+        "added": "2020-02-09T10:55:51Z",
+        "ratings": {
+          "votes": 28078,
+          "value": 7.8
+        },
+        "languageProfileId": 1,
+        "id": 1101
+      },
+      "id": 357035
+    },
+    {
+      "episodeId": 75272,
+      "seriesId": 1101,
+      "sourceTitle": "/tv/Tv Shows/Younger/Season 5/Younger.s05e10.mkv",
+      "languages": [
+        {
+          "id": 1,
+          "name": "English"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 4,
+          "name": "HDTV-720p",
+          "source": "television",
+          "resolution": 720
+        },
+        "revision": {
+          "version": 1,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "customFormats": [
+        {
+          "id": 3,
+          "name": "english"
+        }
+      ],
+      "customFormatScore": 10,
+      "qualityCutoffNotMet": true,
+      "date": "2025-03-28T21:01:00Z",
+      "eventType": "episodeFileDeleted",
+      "data": {
+        "reason": "Upgrade",
+        "releaseGroup": null,
+        "size": "339951069",
+        "indexerFlags": "0",
+        "releaseType": "Unknown"
+      },
+      "episode": {
+        "seriesId": 1101,
+        "tvdbId": 6767418,
+        "episodeFileId": 1505826,
+        "seasonNumber": 5,
+        "episodeNumber": 10,
+        "title": "Girls on the Side",
+        "airDate": "2018-08-14",
+        "airDateUtc": "2018-08-14T07:00:00Z",
+        "runtime": 25,
+        "overview": "Liza is distressed when she meets Caitlin’s middle-aged boyfriend. Diana refuses to back down from a challenge; Josh rebrands.",
+        "hasFile": true,
+        "monitored": true,
+        "absoluteEpisodeNumber": 58,
+        "unverifiedSceneNumbering": false,
+        "id": 75272
+      },
+      "series": {
+        "title": "Younger",
+        "sortTitle": "younger",
+        "status": "ended",
+        "ended": true,
+        "overview": "The series follows 40-year old Liza Miller, a suddenly single mother who tries to get back into the working world, only to find it’s nearly impossible to start at the bottom at her age. When a chance encounter with a young guy at a bar convinces her she looks younger than she is, Liza tries to pass herself off as 26 – with the help of a makeover, courtesy of her best friend Maggie. Armed with new confidence, she lands a job as an assistant to the temperamental Diana and teams up with her new co-worker and twentysomething Kelsey to make it in the career of her dreams. Now she just has to make sure no one finds out the secret only she and Maggie share.",
+        "network": "Paramount+",
+        "airTime": "03:00",
+        "images": [
+          {
+            "coverType": "banner",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/graphical/280706-g5.jpg"
+          },
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/posters/280706-1.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/fanart/original/280706-6.jpg"
+          },
+          {
+            "coverType": "clearlogo",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/280706/clearlogo/611bcd47f2d8d.png"
+          }
+        ],
+        "originalLanguage": {
+          "id": 1,
+          "name": "English"
+        },
+        "seasons": [
+          {
+            "seasonNumber": 1,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 2,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 3,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 4,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 5,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 6,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 7,
+            "monitored": true
+          }
+        ],
+        "year": 2015,
+        "path": "/tv/Tv Shows/Younger",
+        "qualityProfileId": 1,
+        "seasonFolder": true,
+        "monitored": true,
+        "monitorNewItems": "all",
+        "useSceneNumbering": false,
+        "runtime": 26,
+        "tvdbId": 280706,
+        "tvRageId": 37246,
+        "tvMazeId": 623,
+        "tmdbId": 62117,
+        "firstAired": "2015-03-31T00:00:00Z",
+        "lastAired": "2021-06-10T00:00:00Z",
+        "seriesType": "standard",
+        "cleanTitle": "younger",
+        "imdbId": "tt3288518",
+        "titleSlug": "younger",
+        "certification": "TV-14",
+        "genres": [
+          "Comedy",
+          "Drama",
+          "Romance"
+        ],
+        "tags": [],
+        "added": "2020-02-09T10:55:51Z",
+        "ratings": {
+          "votes": 28078,
+          "value": 7.8
+        },
+        "languageProfileId": 1,
+        "id": 1101
+      },
+      "id": 357034
+    }
+  ]
+}

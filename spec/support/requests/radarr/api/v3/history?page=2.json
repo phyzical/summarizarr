@@ -1,0 +1,1972 @@
+{
+  "page": 2,
+  "pageSize": 15,
+  "sortKey": "date",
+  "sortDirection": "descending",
+  "totalRecords": 394570,
+  "records": [
+    {
+      "movieId": 2624,
+      "sourceTitle": "/movies/Movies/Peter Pan's Neverland Nightmare (2025)/Peter Pan's Neverland Nightmare (2025) WEBDL-480p.mp4",
+      "languages": [
+        {
+          "id": 1,
+          "name": "English"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 8,
+          "name": "WEBDL-480p",
+          "source": "webdl",
+          "resolution": 480,
+          "modifier": "none"
+        },
+        "revision": {
+          "version": 1,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "customFormats": [
+        {
+          "id": 5,
+          "name": "English"
+        }
+      ],
+      "customFormatScore": 10,
+      "qualityCutoffNotMet": true,
+      "date": "2025-03-27T21:19:00Z",
+      "eventType": "movieFileDeleted",
+      "data": {
+        "reason": "Upgrade",
+        "releaseGroup": "WRS",
+        "size": "798164192",
+        "indexerFlags": "0"
+      },
+      "movie": {
+        "title": "Peter Pan's Neverland Nightmare",
+        "originalTitle": "Peter Pan's Neverland Nightmare",
+        "originalLanguage": {
+          "id": 1,
+          "name": "English"
+        },
+        "alternateTitles": [],
+        "secondaryYearSourceId": 0,
+        "sortTitle": "peter pan s neverland nightmare",
+        "status": "released",
+        "overview": "Wendy Darling strikes out in an attempt to rescue her brother Michael from the clutches of the evil Peter Pan who intends to send him to Neverland. Along the way she meets a twisted Tinkerbell, who is hooked on what she thinks is fairy dust.",
+        "inCinemas": "2025-02-05T00:00:00Z",
+        "physicalRelease": "2025-04-28T00:00:00Z",
+        "digitalRelease": "2025-03-18T00:00:00Z",
+        "releaseDate": "2025-02-05T00:00:00Z",
+        "images": [
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://image.tmdb.org/t/p/original/mOR1Ks0EcXocwMV4EPv4letz0F5.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://image.tmdb.org/t/p/original/nhx0ttmAS2w8e6hyIcKoNvgHoix.jpg"
+          }
+        ],
+        "website": "https://www.itnfilms.net/catalog/peter-pan's-neverland-nightmare",
+        "year": 2025,
+        "youTubeTrailerId": "5Yg9i759Zg4",
+        "studio": "Jagged Edge Productions",
+        "path": "/movies/Movies/Peter Pan's Neverland Nightmare (2025)",
+        "qualityProfileId": 1,
+        "movieFileId": 50148,
+        "monitored": true,
+        "minimumAvailability": "announced",
+        "isAvailable": true,
+        "folderName": "/movies/Movies/Peter Pan's Neverland Nightmare (2025)",
+        "runtime": 89,
+        "cleanTitle": "peterpansneverlandnightmare",
+        "imdbId": "tt21955520",
+        "tmdbId": 1020414,
+        "titleSlug": "1020414",
+        "certification": "NR",
+        "genres": [
+          "Horror",
+          "Thriller",
+          "Fantasy"
+        ],
+        "tags": [
+          3
+        ],
+        "added": "2024-11-27T03:59:17Z",
+        "ratings": {
+          "imdb": {
+            "votes": 1188,
+            "value": 5.9,
+            "type": "user"
+          },
+          "tmdb": {
+            "votes": 18,
+            "value": 5.5,
+            "type": "user"
+          },
+          "metacritic": {
+            "votes": 0,
+            "value": 50,
+            "type": "user"
+          },
+          "rottenTomatoes": {
+            "votes": 0,
+            "value": 48,
+            "type": "user"
+          },
+          "trakt": {
+            "votes": 30,
+            "value": 6.16667,
+            "type": "user"
+          }
+        },
+        "popularity": 12.17,
+        "lastSearchTime": "2025-03-27T21:52:50Z",
+        "id": 2624
+      },
+      "id": 394608
+    },
+    {
+      "movieId": 2624,
+      "sourceTitle": "Peter.Pans.Neverland.Nightmare.2025.720p.WEBRip.x264.AAC-LAMA",
+      "languages": [
+        {
+          "id": 1,
+          "name": "English"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 14,
+          "name": "WEBRip-720p",
+          "source": "webrip",
+          "resolution": 720,
+          "modifier": "none"
+        },
+        "revision": {
+          "version": 1,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "customFormats": [
+        {
+          "id": 5,
+          "name": "English"
+        }
+      ],
+      "customFormatScore": 10,
+      "qualityCutoffNotMet": true,
+      "date": "2025-03-27T21:17:16Z",
+      "downloadId": "SABnzbd_nzo_m2m8nwfw",
+      "eventType": "grabbed",
+      "data": {
+        "indexer": "NzbPlanet (Prowlarr)",
+        "nzbInfoUrl": "https://nzbplanet.org/details/2e9f888789a01e069d6c1c3c97b83ac5",
+        "releaseGroup": "LAMA",
+        "age": "0",
+        "ageHours": "0.35643953747222223",
+        "ageMinutes": "21.386372286666667",
+        "publishedDate": "2025-03-27T20:55:53Z",
+        "downloadClient": "SABnzbd",
+        "downloadClientName": "sab",
+        "size": "949637045",
+        "downloadUrl": "http://prowlarr:9696/7/download?apikey=5f771c1869f94fec821832369384a70c&link=RGR1SkRBeEM5QzZaTDl4WmNLdEpWelFCMC9UeEZJWGdNWm9PeEFyd0JGcEFyMkhISmdTeUN3MUFkK2x0Wjk4dWRLWXBrVW84blV3ZmVYVEYwUDdCV2U5enlWeE8xTXFjejlxc1VNSG54UWhDUUlYZHU4RjBTRGp5WFFRMi9WT3ZySXMvc1lBdXJCNVAwSzdLN0EzRXlJbm5zbjFCbGhBTlk0RWpPNTNIK2VFPQ&file=Peter.Pans.Neverland.Nightmare.2025.720p.WEBRip.x264.AAC-LAMA",
+        "guid": "https://nzbplanet.org/details/2e9f888789a01e069d6c1c3c97b83ac5",
+        "tmdbId": "0",
+        "imdbId": "21955520",
+        "protocol": "1",
+        "customFormatScore": "10",
+        "movieMatchType": "Id",
+        "releaseSource": "Rss",
+        "indexerFlags": "0",
+        "indexerId": "19"
+      },
+      "movie": {
+        "title": "Peter Pan's Neverland Nightmare",
+        "originalTitle": "Peter Pan's Neverland Nightmare",
+        "originalLanguage": {
+          "id": 1,
+          "name": "English"
+        },
+        "alternateTitles": [],
+        "secondaryYearSourceId": 0,
+        "sortTitle": "peter pan s neverland nightmare",
+        "status": "released",
+        "overview": "Wendy Darling strikes out in an attempt to rescue her brother Michael from the clutches of the evil Peter Pan who intends to send him to Neverland. Along the way she meets a twisted Tinkerbell, who is hooked on what she thinks is fairy dust.",
+        "inCinemas": "2025-02-05T00:00:00Z",
+        "physicalRelease": "2025-04-28T00:00:00Z",
+        "digitalRelease": "2025-03-18T00:00:00Z",
+        "releaseDate": "2025-02-05T00:00:00Z",
+        "images": [
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://image.tmdb.org/t/p/original/mOR1Ks0EcXocwMV4EPv4letz0F5.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://image.tmdb.org/t/p/original/nhx0ttmAS2w8e6hyIcKoNvgHoix.jpg"
+          }
+        ],
+        "website": "https://www.itnfilms.net/catalog/peter-pan's-neverland-nightmare",
+        "year": 2025,
+        "youTubeTrailerId": "5Yg9i759Zg4",
+        "studio": "Jagged Edge Productions",
+        "path": "/movies/Movies/Peter Pan's Neverland Nightmare (2025)",
+        "qualityProfileId": 1,
+        "movieFileId": 50148,
+        "monitored": true,
+        "minimumAvailability": "announced",
+        "isAvailable": true,
+        "folderName": "/movies/Movies/Peter Pan's Neverland Nightmare (2025)",
+        "runtime": 89,
+        "cleanTitle": "peterpansneverlandnightmare",
+        "imdbId": "tt21955520",
+        "tmdbId": 1020414,
+        "titleSlug": "1020414",
+        "certification": "NR",
+        "genres": [
+          "Horror",
+          "Thriller",
+          "Fantasy"
+        ],
+        "tags": [
+          3
+        ],
+        "added": "2024-11-27T03:59:17Z",
+        "ratings": {
+          "imdb": {
+            "votes": 1188,
+            "value": 5.9,
+            "type": "user"
+          },
+          "tmdb": {
+            "votes": 18,
+            "value": 5.5,
+            "type": "user"
+          },
+          "metacritic": {
+            "votes": 0,
+            "value": 50,
+            "type": "user"
+          },
+          "rottenTomatoes": {
+            "votes": 0,
+            "value": 48,
+            "type": "user"
+          },
+          "trakt": {
+            "votes": 30,
+            "value": 6.16667,
+            "type": "user"
+          }
+        },
+        "popularity": 12.17,
+        "lastSearchTime": "2025-03-27T21:52:50Z",
+        "id": 2624
+      },
+      "id": 394607
+    },
+    {
+      "movieId": 2624,
+      "sourceTitle": "Peter.Pans.Neverland.Nightmare.2025.WEB-DL.1080p.H264-WRS",
+      "languages": [
+        {
+          "id": 1,
+          "name": "English"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 8,
+          "name": "WEBDL-480p",
+          "source": "webdl",
+          "resolution": 480,
+          "modifier": "none"
+        },
+        "revision": {
+          "version": 1,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "customFormats": [
+        {
+          "id": 5,
+          "name": "English"
+        }
+      ],
+      "customFormatScore": 10,
+      "qualityCutoffNotMet": true,
+      "date": "2025-03-27T19:47:00Z",
+      "downloadId": "SABnzbd_nzo_pn5gjqk1",
+      "eventType": "downloadFolderImported",
+      "data": {
+        "fileId": "50144",
+        "droppedPath": "/downloads/Peter.Pans.Neverland.Nightmare.2025.WEB-DL.1080p.H264-WRS/Ans3wiCkNGT2BWNYK51dC4y1gAgaEEgs.mp4",
+        "importedPath": "/movies/Movies/Peter Pan's Neverland Nightmare (2025)/Peter Pan's Neverland Nightmare (2025) WEBDL-480p.mp4",
+        "downloadClient": "SABnzbd",
+        "downloadClientName": "sab",
+        "releaseGroup": "WRS",
+        "customFormatScore": "10",
+        "size": "798164192",
+        "indexerFlags": "0"
+      },
+      "movie": {
+        "title": "Peter Pan's Neverland Nightmare",
+        "originalTitle": "Peter Pan's Neverland Nightmare",
+        "originalLanguage": {
+          "id": 1,
+          "name": "English"
+        },
+        "alternateTitles": [],
+        "secondaryYearSourceId": 0,
+        "sortTitle": "peter pan s neverland nightmare",
+        "status": "released",
+        "overview": "Wendy Darling strikes out in an attempt to rescue her brother Michael from the clutches of the evil Peter Pan who intends to send him to Neverland. Along the way she meets a twisted Tinkerbell, who is hooked on what she thinks is fairy dust.",
+        "inCinemas": "2025-02-05T00:00:00Z",
+        "physicalRelease": "2025-04-28T00:00:00Z",
+        "digitalRelease": "2025-03-18T00:00:00Z",
+        "releaseDate": "2025-02-05T00:00:00Z",
+        "images": [
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://image.tmdb.org/t/p/original/mOR1Ks0EcXocwMV4EPv4letz0F5.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://image.tmdb.org/t/p/original/nhx0ttmAS2w8e6hyIcKoNvgHoix.jpg"
+          }
+        ],
+        "website": "https://www.itnfilms.net/catalog/peter-pan's-neverland-nightmare",
+        "year": 2025,
+        "youTubeTrailerId": "5Yg9i759Zg4",
+        "studio": "Jagged Edge Productions",
+        "path": "/movies/Movies/Peter Pan's Neverland Nightmare (2025)",
+        "qualityProfileId": 1,
+        "movieFileId": 50148,
+        "monitored": true,
+        "minimumAvailability": "announced",
+        "isAvailable": true,
+        "folderName": "/movies/Movies/Peter Pan's Neverland Nightmare (2025)",
+        "runtime": 89,
+        "cleanTitle": "peterpansneverlandnightmare",
+        "imdbId": "tt21955520",
+        "tmdbId": 1020414,
+        "titleSlug": "1020414",
+        "certification": "NR",
+        "genres": [
+          "Horror",
+          "Thriller",
+          "Fantasy"
+        ],
+        "tags": [
+          3
+        ],
+        "added": "2024-11-27T03:59:17Z",
+        "ratings": {
+          "imdb": {
+            "votes": 1188,
+            "value": 5.9,
+            "type": "user"
+          },
+          "tmdb": {
+            "votes": 18,
+            "value": 5.5,
+            "type": "user"
+          },
+          "metacritic": {
+            "votes": 0,
+            "value": 50,
+            "type": "user"
+          },
+          "rottenTomatoes": {
+            "votes": 0,
+            "value": 48,
+            "type": "user"
+          },
+          "trakt": {
+            "votes": 30,
+            "value": 6.16667,
+            "type": "user"
+          }
+        },
+        "popularity": 12.17,
+        "lastSearchTime": "2025-03-27T21:52:50Z",
+        "id": 2624
+      },
+      "id": 394606
+    },
+    {
+      "movieId": 2624,
+      "sourceTitle": "/movies/Movies/Peter Pan's Neverland Nightmare (2025)/Peter Pan's Neverland Nightmare (2025) CAM.mkv",
+      "languages": [
+        {
+          "id": 1,
+          "name": "English"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 25,
+          "name": "CAM",
+          "source": "cam",
+          "resolution": 0,
+          "modifier": "none"
+        },
+        "revision": {
+          "version": 1,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "customFormats": [
+        {
+          "id": 5,
+          "name": "English"
+        }
+      ],
+      "customFormatScore": 10,
+      "qualityCutoffNotMet": true,
+      "date": "2025-03-27T19:47:00Z",
+      "eventType": "movieFileDeleted",
+      "data": {
+        "reason": "Upgrade",
+        "releaseGroup": null,
+        "size": "1322013218",
+        "indexerFlags": "0"
+      },
+      "movie": {
+        "title": "Peter Pan's Neverland Nightmare",
+        "originalTitle": "Peter Pan's Neverland Nightmare",
+        "originalLanguage": {
+          "id": 1,
+          "name": "English"
+        },
+        "alternateTitles": [],
+        "secondaryYearSourceId": 0,
+        "sortTitle": "peter pan s neverland nightmare",
+        "status": "released",
+        "overview": "Wendy Darling strikes out in an attempt to rescue her brother Michael from the clutches of the evil Peter Pan who intends to send him to Neverland. Along the way she meets a twisted Tinkerbell, who is hooked on what she thinks is fairy dust.",
+        "inCinemas": "2025-02-05T00:00:00Z",
+        "physicalRelease": "2025-04-28T00:00:00Z",
+        "digitalRelease": "2025-03-18T00:00:00Z",
+        "releaseDate": "2025-02-05T00:00:00Z",
+        "images": [
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://image.tmdb.org/t/p/original/mOR1Ks0EcXocwMV4EPv4letz0F5.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://image.tmdb.org/t/p/original/nhx0ttmAS2w8e6hyIcKoNvgHoix.jpg"
+          }
+        ],
+        "website": "https://www.itnfilms.net/catalog/peter-pan's-neverland-nightmare",
+        "year": 2025,
+        "youTubeTrailerId": "5Yg9i759Zg4",
+        "studio": "Jagged Edge Productions",
+        "path": "/movies/Movies/Peter Pan's Neverland Nightmare (2025)",
+        "qualityProfileId": 1,
+        "movieFileId": 50148,
+        "monitored": true,
+        "minimumAvailability": "announced",
+        "isAvailable": true,
+        "folderName": "/movies/Movies/Peter Pan's Neverland Nightmare (2025)",
+        "runtime": 89,
+        "cleanTitle": "peterpansneverlandnightmare",
+        "imdbId": "tt21955520",
+        "tmdbId": 1020414,
+        "titleSlug": "1020414",
+        "certification": "NR",
+        "genres": [
+          "Horror",
+          "Thriller",
+          "Fantasy"
+        ],
+        "tags": [
+          3
+        ],
+        "added": "2024-11-27T03:59:17Z",
+        "ratings": {
+          "imdb": {
+            "votes": 1188,
+            "value": 5.9,
+            "type": "user"
+          },
+          "tmdb": {
+            "votes": 18,
+            "value": 5.5,
+            "type": "user"
+          },
+          "metacritic": {
+            "votes": 0,
+            "value": 50,
+            "type": "user"
+          },
+          "rottenTomatoes": {
+            "votes": 0,
+            "value": 48,
+            "type": "user"
+          },
+          "trakt": {
+            "votes": 30,
+            "value": 6.16667,
+            "type": "user"
+          }
+        },
+        "popularity": 12.17,
+        "lastSearchTime": "2025-03-27T21:52:50Z",
+        "id": 2624
+      },
+      "id": 394605
+    },
+    {
+      "movieId": 2624,
+      "sourceTitle": "Peter.Pans.Neverland.Nightmare.2025.WEB-DL.1080p.H264-WRS",
+      "languages": [
+        {
+          "id": 1,
+          "name": "English"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 3,
+          "name": "WEBDL-1080p",
+          "source": "webdl",
+          "resolution": 1080,
+          "modifier": "none"
+        },
+        "revision": {
+          "version": 1,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "customFormats": [
+        {
+          "id": 5,
+          "name": "English"
+        }
+      ],
+      "customFormatScore": 10,
+      "qualityCutoffNotMet": false,
+      "date": "2025-03-27T19:45:46Z",
+      "downloadId": "SABnzbd_nzo_pn5gjqk1",
+      "eventType": "grabbed",
+      "data": {
+        "indexer": "NZBgeek (Prowlarr)",
+        "nzbInfoUrl": "https://nzbgeek.info/geekseek.php?guid=e3f01d5fbef037148976b444a63fe0de",
+        "releaseGroup": "WRS",
+        "age": "0",
+        "ageHours": "0.1336015134722222",
+        "ageMinutes": "8.016090843333334",
+        "publishedDate": "2025-03-27T19:37:46Z",
+        "downloadClient": "SABnzbd",
+        "downloadClientName": "sab",
+        "size": "841025000",
+        "downloadUrl": "http://prowlarr:9696/5/download?apikey=5f771c1869f94fec821832369384a70c&link=WExzSDVQeGU0Wm9ZOEpwT2pFU2V1QmlIODRBc0VWZDdpZHIxWDhySmk2bXZzREViR0Fyd3ZGcFhuaEFlK2d4RlRzZ3o4WHF2dWlueU1UQTE5WEU3VGsxYXdjWXdZOTJkUElnM1ZuTFgzWktzZTB6WGNhOFg1OFlnOU01RjhwaVRiNG1zMjAyaUxIZHN1VnV3Mkt4VDN4eFVvSGF1UWd2OE83U243Rmw2TnVZPQ&file=Peter.Pans.Neverland.Nightmare.2025.WEB-DL.1080p.H264-WRS",
+        "guid": "https://nzbgeek.info/geekseek.php?guid=e3f01d5fbef037148976b444a63fe0de",
+        "tmdbId": "0",
+        "imdbId": "21955520",
+        "protocol": "1",
+        "customFormatScore": "10",
+        "movieMatchType": "Id",
+        "releaseSource": "Rss",
+        "indexerFlags": "0",
+        "indexerId": "17"
+      },
+      "movie": {
+        "title": "Peter Pan's Neverland Nightmare",
+        "originalTitle": "Peter Pan's Neverland Nightmare",
+        "originalLanguage": {
+          "id": 1,
+          "name": "English"
+        },
+        "alternateTitles": [],
+        "secondaryYearSourceId": 0,
+        "sortTitle": "peter pan s neverland nightmare",
+        "status": "released",
+        "overview": "Wendy Darling strikes out in an attempt to rescue her brother Michael from the clutches of the evil Peter Pan who intends to send him to Neverland. Along the way she meets a twisted Tinkerbell, who is hooked on what she thinks is fairy dust.",
+        "inCinemas": "2025-02-05T00:00:00Z",
+        "physicalRelease": "2025-04-28T00:00:00Z",
+        "digitalRelease": "2025-03-18T00:00:00Z",
+        "releaseDate": "2025-02-05T00:00:00Z",
+        "images": [
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://image.tmdb.org/t/p/original/mOR1Ks0EcXocwMV4EPv4letz0F5.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://image.tmdb.org/t/p/original/nhx0ttmAS2w8e6hyIcKoNvgHoix.jpg"
+          }
+        ],
+        "website": "https://www.itnfilms.net/catalog/peter-pan's-neverland-nightmare",
+        "year": 2025,
+        "youTubeTrailerId": "5Yg9i759Zg4",
+        "studio": "Jagged Edge Productions",
+        "path": "/movies/Movies/Peter Pan's Neverland Nightmare (2025)",
+        "qualityProfileId": 1,
+        "movieFileId": 50148,
+        "monitored": true,
+        "minimumAvailability": "announced",
+        "isAvailable": true,
+        "folderName": "/movies/Movies/Peter Pan's Neverland Nightmare (2025)",
+        "runtime": 89,
+        "cleanTitle": "peterpansneverlandnightmare",
+        "imdbId": "tt21955520",
+        "tmdbId": 1020414,
+        "titleSlug": "1020414",
+        "certification": "NR",
+        "genres": [
+          "Horror",
+          "Thriller",
+          "Fantasy"
+        ],
+        "tags": [
+          3
+        ],
+        "added": "2024-11-27T03:59:17Z",
+        "ratings": {
+          "imdb": {
+            "votes": 1188,
+            "value": 5.9,
+            "type": "user"
+          },
+          "tmdb": {
+            "votes": 18,
+            "value": 5.5,
+            "type": "user"
+          },
+          "metacritic": {
+            "votes": 0,
+            "value": 50,
+            "type": "user"
+          },
+          "rottenTomatoes": {
+            "votes": 0,
+            "value": 48,
+            "type": "user"
+          },
+          "trakt": {
+            "votes": 30,
+            "value": 6.16667,
+            "type": "user"
+          }
+        },
+        "popularity": 12.17,
+        "lastSearchTime": "2025-03-27T21:52:50Z",
+        "id": 2624
+      },
+      "id": 394604
+    },
+    {
+      "movieId": 2623,
+      "sourceTitle": "The.Monkey.2025.1080p.Extended.WEB-DL.DD2.0.V5.Nl.SubZz",
+      "languages": [
+        {
+          "id": 3,
+          "name": "Spanish"
+        },
+        {
+          "id": 1,
+          "name": "English"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 3,
+          "name": "WEBDL-1080p",
+          "source": "webdl",
+          "resolution": 1080,
+          "modifier": "none"
+        },
+        "revision": {
+          "version": 5,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "customFormats": [
+        {
+          "id": 5,
+          "name": "English"
+        }
+      ],
+      "customFormatScore": 10,
+      "qualityCutoffNotMet": false,
+      "date": "2025-03-24T21:07:06Z",
+      "downloadId": "SABnzbd_nzo_gkonked6",
+      "eventType": "downloadFolderImported",
+      "data": {
+        "fileId": "50140",
+        "droppedPath": "/downloads/The.Monkey.2025.1080p.Extended.WEB-DL.DD2.0.V5.Nl.SubZz/The.Monkey.2025.1080p.Extended.WEB-DL.DD2.0.V5.Nl.SubZz/The.Monkey.2025.1080p.Extended.WEB-DL.DD2.0.V5.Nl.SubZz.mkv",
+        "importedPath": "/movies/Movies/The Monkey (2025)/The Monkey (2025) WEBDL-1080p Proper.mkv",
+        "downloadClient": "SABnzbd",
+        "downloadClientName": "sab",
+        "releaseGroup": null,
+        "customFormatScore": "10",
+        "size": "7334724753",
+        "indexerFlags": "0"
+      },
+      "movie": {
+        "title": "The Monkey",
+        "originalTitle": "The Monkey",
+        "originalLanguage": {
+          "id": 1,
+          "name": "English"
+        },
+        "alternateTitles": [],
+        "secondaryYearSourceId": 0,
+        "sortTitle": "monkey",
+        "status": "inCinemas",
+        "overview": "When twin brothers find a mysterious wind-up monkey, a series of outrageous deaths tear their family apart. Twenty-five years later, the monkey begins a new killing spree forcing the estranged brothers to confront the cursed toy.",
+        "inCinemas": "2025-02-19T00:00:00Z",
+        "physicalRelease": "2025-05-28T00:00:00Z",
+        "digitalRelease": "2025-04-04T00:00:00Z",
+        "releaseDate": "2025-02-19T00:00:00Z",
+        "images": [
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://image.tmdb.org/t/p/original/yYa8Onk9ow7ukcnfp2QWVvjWYel.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://image.tmdb.org/t/p/original/25CY0FggI3YXy7AS4xIfVBcRaMq.jpg"
+          }
+        ],
+        "website": "",
+        "year": 2025,
+        "youTubeTrailerId": "husMGbXEIho",
+        "studio": "Atomic Monster",
+        "path": "/movies/Movies/The Monkey (2025)",
+        "qualityProfileId": 1,
+        "movieFileId": 50140,
+        "monitored": true,
+        "minimumAvailability": "announced",
+        "isAvailable": true,
+        "folderName": "/movies/Movies/The Monkey (2025)",
+        "runtime": 98,
+        "cleanTitle": "themonkey",
+        "imdbId": "tt27714946",
+        "tmdbId": 1124620,
+        "titleSlug": "1124620",
+        "certification": "R",
+        "genres": [
+          "Horror",
+          "Comedy"
+        ],
+        "tags": [
+          3
+        ],
+        "added": "2024-11-27T03:58:30Z",
+        "ratings": {
+          "imdb": {
+            "votes": 22816,
+            "value": 6.3,
+            "type": "user"
+          },
+          "tmdb": {
+            "votes": 273,
+            "value": 5.9,
+            "type": "user"
+          },
+          "metacritic": {
+            "votes": 0,
+            "value": 67,
+            "type": "user"
+          },
+          "rottenTomatoes": {
+            "votes": 0,
+            "value": 78,
+            "type": "user"
+          },
+          "trakt": {
+            "votes": 954,
+            "value": 6.2652,
+            "type": "user"
+          }
+        },
+        "popularity": 115.5916,
+        "lastSearchTime": "2025-03-09T04:44:28Z",
+        "id": 2623
+      },
+      "id": 394603
+    },
+    {
+      "movieId": 2623,
+      "sourceTitle": "/movies/Movies/The Monkey (2025)/The Monkey (2025) WEBDL-1080p.mkv",
+      "languages": [
+        {
+          "id": 3,
+          "name": "Spanish"
+        },
+        {
+          "id": 1,
+          "name": "English"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 3,
+          "name": "WEBDL-1080p",
+          "source": "webdl",
+          "resolution": 1080,
+          "modifier": "none"
+        },
+        "revision": {
+          "version": 1,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "customFormats": [
+        {
+          "id": 5,
+          "name": "English"
+        }
+      ],
+      "customFormatScore": 10,
+      "qualityCutoffNotMet": false,
+      "date": "2025-03-24T21:07:00Z",
+      "eventType": "movieFileDeleted",
+      "data": {
+        "reason": "Upgrade",
+        "releaseGroup": null,
+        "size": "4815329306",
+        "indexerFlags": "0"
+      },
+      "movie": {
+        "title": "The Monkey",
+        "originalTitle": "The Monkey",
+        "originalLanguage": {
+          "id": 1,
+          "name": "English"
+        },
+        "alternateTitles": [],
+        "secondaryYearSourceId": 0,
+        "sortTitle": "monkey",
+        "status": "inCinemas",
+        "overview": "When twin brothers find a mysterious wind-up monkey, a series of outrageous deaths tear their family apart. Twenty-five years later, the monkey begins a new killing spree forcing the estranged brothers to confront the cursed toy.",
+        "inCinemas": "2025-02-19T00:00:00Z",
+        "physicalRelease": "2025-05-28T00:00:00Z",
+        "digitalRelease": "2025-04-04T00:00:00Z",
+        "releaseDate": "2025-02-19T00:00:00Z",
+        "images": [
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://image.tmdb.org/t/p/original/yYa8Onk9ow7ukcnfp2QWVvjWYel.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://image.tmdb.org/t/p/original/25CY0FggI3YXy7AS4xIfVBcRaMq.jpg"
+          }
+        ],
+        "website": "",
+        "year": 2025,
+        "youTubeTrailerId": "husMGbXEIho",
+        "studio": "Atomic Monster",
+        "path": "/movies/Movies/The Monkey (2025)",
+        "qualityProfileId": 1,
+        "movieFileId": 50140,
+        "monitored": true,
+        "minimumAvailability": "announced",
+        "isAvailable": true,
+        "folderName": "/movies/Movies/The Monkey (2025)",
+        "runtime": 98,
+        "cleanTitle": "themonkey",
+        "imdbId": "tt27714946",
+        "tmdbId": 1124620,
+        "titleSlug": "1124620",
+        "certification": "R",
+        "genres": [
+          "Horror",
+          "Comedy"
+        ],
+        "tags": [
+          3
+        ],
+        "added": "2024-11-27T03:58:30Z",
+        "ratings": {
+          "imdb": {
+            "votes": 22816,
+            "value": 6.3,
+            "type": "user"
+          },
+          "tmdb": {
+            "votes": 273,
+            "value": 5.9,
+            "type": "user"
+          },
+          "metacritic": {
+            "votes": 0,
+            "value": 67,
+            "type": "user"
+          },
+          "rottenTomatoes": {
+            "votes": 0,
+            "value": 78,
+            "type": "user"
+          },
+          "trakt": {
+            "votes": 954,
+            "value": 6.2652,
+            "type": "user"
+          }
+        },
+        "popularity": 115.5916,
+        "lastSearchTime": "2025-03-09T04:44:28Z",
+        "id": 2623
+      },
+      "id": 394602
+    },
+    {
+      "movieId": 2623,
+      "sourceTitle": "The.Monkey.2025.1080p.Extended.WEB-DL.DD2.0.V5.Nl.SubZz",
+      "languages": [
+        {
+          "id": 1,
+          "name": "English"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 3,
+          "name": "WEBDL-1080p",
+          "source": "webdl",
+          "resolution": 1080,
+          "modifier": "none"
+        },
+        "revision": {
+          "version": 5,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "customFormats": [
+        {
+          "id": 5,
+          "name": "English"
+        }
+      ],
+      "customFormatScore": 10,
+      "qualityCutoffNotMet": false,
+      "date": "2025-03-24T21:02:56Z",
+      "downloadId": "SABnzbd_nzo_gkonked6",
+      "eventType": "grabbed",
+      "data": {
+        "indexer": "NZBFinder (yearly) (Prowlarr)",
+        "nzbInfoUrl": "https://nzbfinder.ws/details/7aaefe99-7470-480b-8ff7-8d838703dc35",
+        "releaseGroup": null,
+        "age": "0",
+        "ageHours": "0.5383005815555556",
+        "ageMinutes": "32.298034933333334",
+        "publishedDate": "2025-03-24T20:30:39Z",
+        "downloadClient": "SABnzbd",
+        "downloadClientName": "sab",
+        "size": "9156082195",
+        "downloadUrl": "http://prowlarr:9696/3/download?apikey=5f771c1869f94fec821832369384a70c&link=ZzR2NXhEZGh1L2xHT3czZFo4TXk5cHllN3F5Ujl0Z3JnMHNDK3JHYk94azJDQlUxYnNRK0lmTXozazdHazVoUXhEN0pCeU9zV091c2RFbEFEMVM1TDllTWhUa2xOWkVjNCtwTjNZSFNkbHVETkE1QzZ3WW1XbjlqaDhJS0FhWVQzNlU5K2VRc2VxSnE5UlIxcFZmcnVId1pmays2NXVIRGJLRnhldGdEQ3pIdlVHWUdvbUdyUHpWeWF3TDRySHBs&file=The.Monkey.2025.1080p.Extended.WEB-DL.DD2.0.V5.Nl.SubZz",
+        "guid": "https://nzbfinder.ws/details/7aaefe99-7470-480b-8ff7-8d838703dc35",
+        "tmdbId": "0",
+        "imdbId": "0",
+        "protocol": "1",
+        "customFormatScore": "10",
+        "movieMatchType": "Title",
+        "releaseSource": "Rss",
+        "indexerFlags": "0",
+        "indexerId": "15"
+      },
+      "movie": {
+        "title": "The Monkey",
+        "originalTitle": "The Monkey",
+        "originalLanguage": {
+          "id": 1,
+          "name": "English"
+        },
+        "alternateTitles": [],
+        "secondaryYearSourceId": 0,
+        "sortTitle": "monkey",
+        "status": "inCinemas",
+        "overview": "When twin brothers find a mysterious wind-up monkey, a series of outrageous deaths tear their family apart. Twenty-five years later, the monkey begins a new killing spree forcing the estranged brothers to confront the cursed toy.",
+        "inCinemas": "2025-02-19T00:00:00Z",
+        "physicalRelease": "2025-05-28T00:00:00Z",
+        "digitalRelease": "2025-04-04T00:00:00Z",
+        "releaseDate": "2025-02-19T00:00:00Z",
+        "images": [
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://image.tmdb.org/t/p/original/yYa8Onk9ow7ukcnfp2QWVvjWYel.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://image.tmdb.org/t/p/original/25CY0FggI3YXy7AS4xIfVBcRaMq.jpg"
+          }
+        ],
+        "website": "",
+        "year": 2025,
+        "youTubeTrailerId": "husMGbXEIho",
+        "studio": "Atomic Monster",
+        "path": "/movies/Movies/The Monkey (2025)",
+        "qualityProfileId": 1,
+        "movieFileId": 50140,
+        "monitored": true,
+        "minimumAvailability": "announced",
+        "isAvailable": true,
+        "folderName": "/movies/Movies/The Monkey (2025)",
+        "runtime": 98,
+        "cleanTitle": "themonkey",
+        "imdbId": "tt27714946",
+        "tmdbId": 1124620,
+        "titleSlug": "1124620",
+        "certification": "R",
+        "genres": [
+          "Horror",
+          "Comedy"
+        ],
+        "tags": [
+          3
+        ],
+        "added": "2024-11-27T03:58:30Z",
+        "ratings": {
+          "imdb": {
+            "votes": 22816,
+            "value": 6.3,
+            "type": "user"
+          },
+          "tmdb": {
+            "votes": 273,
+            "value": 5.9,
+            "type": "user"
+          },
+          "metacritic": {
+            "votes": 0,
+            "value": 67,
+            "type": "user"
+          },
+          "rottenTomatoes": {
+            "votes": 0,
+            "value": 78,
+            "type": "user"
+          },
+          "trakt": {
+            "votes": 954,
+            "value": 6.2652,
+            "type": "user"
+          }
+        },
+        "popularity": 115.5916,
+        "lastSearchTime": "2025-03-09T04:44:28Z",
+        "id": 2623
+      },
+      "id": 394601
+    },
+    {
+      "movieId": 2737,
+      "sourceTitle": "Exame.2009.1080p.AMZN.WEB-DL.DDP5.1.H.264-FLY",
+      "languages": [
+        {
+          "id": 1,
+          "name": "English"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 3,
+          "name": "WEBDL-1080p",
+          "source": "webdl",
+          "resolution": 1080,
+          "modifier": "none"
+        },
+        "revision": {
+          "version": 1,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "customFormats": [
+        {
+          "id": 5,
+          "name": "English"
+        }
+      ],
+      "customFormatScore": 10,
+      "qualityCutoffNotMet": false,
+      "date": "2025-03-24T02:47:05Z",
+      "downloadId": "SABnzbd_nzo_ek6uiei9",
+      "eventType": "downloadFolderImported",
+      "data": {
+        "fileId": "50138",
+        "droppedPath": "/downloads/Exame.2009.1080p.AMZN.WEB-DL.DDP5.1.H.264-FLY/Exame.2009.1080p.AMZN.WEB-DL.DDP5.1.H.264-FLY.mkv",
+        "importedPath": "/movies/Movies/Exam (2009)/Exam (2009) WEBDL-1080p.mkv",
+        "downloadClient": "SABnzbd",
+        "downloadClientName": "sab",
+        "releaseGroup": "FLY",
+        "customFormatScore": "10",
+        "size": "7343270337",
+        "indexerFlags": "0"
+      },
+      "movie": {
+        "title": "Exam",
+        "originalTitle": "Exam",
+        "originalLanguage": {
+          "id": 1,
+          "name": "English"
+        },
+        "alternateTitles": [],
+        "secondaryYearSourceId": 0,
+        "sortTitle": "exam",
+        "status": "released",
+        "overview": "Eight talented candidates have reached the final stage of selection to join the ranks of a mysterious and powerful corporation. Entering a windowless room, where an armed guard keeps watch, they are given 80 minutes to answer one simple question.",
+        "inCinemas": "2009-06-19T00:00:00Z",
+        "digitalRelease": "2010-07-17T00:00:00Z",
+        "releaseDate": "2010-07-17T00:00:00Z",
+        "images": [
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://image.tmdb.org/t/p/original/i1J2zBCyOQJKsQipqJ0qXERC1Ma.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://image.tmdb.org/t/p/original/iAvGInZRRgLRnBioicdnStBtfiL.jpg"
+          }
+        ],
+        "website": "",
+        "year": 2009,
+        "youTubeTrailerId": "hbivC9ztGOE",
+        "studio": "Bedlam Productions",
+        "path": "/movies/Movies/Exam (2009)",
+        "qualityProfileId": 1,
+        "movieFileId": 50138,
+        "monitored": true,
+        "minimumAvailability": "released",
+        "isAvailable": true,
+        "folderName": "/movies/Movies/Exam (2009)",
+        "runtime": 97,
+        "cleanTitle": "exam",
+        "imdbId": "tt1258197",
+        "tmdbId": 29917,
+        "titleSlug": "29917",
+        "certification": "NR",
+        "genres": [
+          "Thriller",
+          "Mystery"
+        ],
+        "tags": [],
+        "added": "2025-03-24T02:43:32Z",
+        "ratings": {
+          "imdb": {
+            "votes": 129918,
+            "value": 6.7,
+            "type": "user"
+          },
+          "tmdb": {
+            "votes": 2081,
+            "value": 6.7,
+            "type": "user"
+          },
+          "rottenTomatoes": {
+            "votes": 0,
+            "value": 62,
+            "type": "user"
+          },
+          "trakt": {
+            "votes": 4216,
+            "value": 6.93548,
+            "type": "user"
+          }
+        },
+        "popularity": 4.079,
+        "lastSearchTime": "2025-03-24T02:43:35Z",
+        "id": 2737
+      },
+      "id": 394600
+    },
+    {
+      "movieId": 2737,
+      "sourceTitle": "Exame.2009.1080p.AMZN.WEB-DL.DDP5.1.H.264-FLY",
+      "languages": [
+        {
+          "id": 1,
+          "name": "English"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 3,
+          "name": "WEBDL-1080p",
+          "source": "webdl",
+          "resolution": 1080,
+          "modifier": "none"
+        },
+        "revision": {
+          "version": 1,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "customFormats": [
+        {
+          "id": 5,
+          "name": "English"
+        }
+      ],
+      "customFormatScore": 10,
+      "qualityCutoffNotMet": false,
+      "date": "2025-03-24T02:43:39Z",
+      "downloadId": "SABnzbd_nzo_ek6uiei9",
+      "eventType": "grabbed",
+      "data": {
+        "indexer": "NZBgeek (Prowlarr)",
+        "nzbInfoUrl": "https://nzbgeek.info/geekseek.php?guid=2888fdf808f66a5ff56bb17f71e5aa2f",
+        "releaseGroup": "FLY",
+        "age": "54",
+        "ageHours": "1297.9627484402222",
+        "ageMinutes": "77877.76490644833",
+        "publishedDate": "2025-01-29T00:45:54Z",
+        "downloadClient": "SABnzbd",
+        "downloadClientName": "sab",
+        "size": "7564421000",
+        "downloadUrl": "http://prowlarr:9696/5/download?apikey=5f771c1869f94fec821832369384a70c&link=ZVFKVHB5MGtORFpZL3Rub1pDZVpudGxQZit0NWxYWTRuTE9tV251enppajMzTkR0ZmJlZEtaUGJGZENBQU43cWNOU3BsRy8rZUdpSEUxa3Y3RUplRzlXbGR0SllvQzcwSFV6N0ZzUTQxd2hXQURGZjJlaHVmYWN0eDZObFNTVFArNjJ2eUdpVUgrMUFvUFZjd2hKMWpYc3hyVmcyaE5iRUZOUndleW5nUmRJPQ&file=Exame.2009.1080p.AMZN.WEB-DL.DDP5.1.H.264-FLY",
+        "guid": "https://nzbgeek.info/geekseek.php?guid=2888fdf808f66a5ff56bb17f71e5aa2f",
+        "tmdbId": "0",
+        "imdbId": "1258197",
+        "protocol": "1",
+        "customFormatScore": "10",
+        "movieMatchType": "Id",
+        "releaseSource": "Search",
+        "indexerFlags": "0",
+        "indexerId": "17"
+      },
+      "movie": {
+        "title": "Exam",
+        "originalTitle": "Exam",
+        "originalLanguage": {
+          "id": 1,
+          "name": "English"
+        },
+        "alternateTitles": [],
+        "secondaryYearSourceId": 0,
+        "sortTitle": "exam",
+        "status": "released",
+        "overview": "Eight talented candidates have reached the final stage of selection to join the ranks of a mysterious and powerful corporation. Entering a windowless room, where an armed guard keeps watch, they are given 80 minutes to answer one simple question.",
+        "inCinemas": "2009-06-19T00:00:00Z",
+        "digitalRelease": "2010-07-17T00:00:00Z",
+        "releaseDate": "2010-07-17T00:00:00Z",
+        "images": [
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://image.tmdb.org/t/p/original/i1J2zBCyOQJKsQipqJ0qXERC1Ma.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://image.tmdb.org/t/p/original/iAvGInZRRgLRnBioicdnStBtfiL.jpg"
+          }
+        ],
+        "website": "",
+        "year": 2009,
+        "youTubeTrailerId": "hbivC9ztGOE",
+        "studio": "Bedlam Productions",
+        "path": "/movies/Movies/Exam (2009)",
+        "qualityProfileId": 1,
+        "movieFileId": 50138,
+        "monitored": true,
+        "minimumAvailability": "released",
+        "isAvailable": true,
+        "folderName": "/movies/Movies/Exam (2009)",
+        "runtime": 97,
+        "cleanTitle": "exam",
+        "imdbId": "tt1258197",
+        "tmdbId": 29917,
+        "titleSlug": "29917",
+        "certification": "NR",
+        "genres": [
+          "Thriller",
+          "Mystery"
+        ],
+        "tags": [],
+        "added": "2025-03-24T02:43:32Z",
+        "ratings": {
+          "imdb": {
+            "votes": 129918,
+            "value": 6.7,
+            "type": "user"
+          },
+          "tmdb": {
+            "votes": 2081,
+            "value": 6.7,
+            "type": "user"
+          },
+          "rottenTomatoes": {
+            "votes": 0,
+            "value": 62,
+            "type": "user"
+          },
+          "trakt": {
+            "votes": 4216,
+            "value": 6.93548,
+            "type": "user"
+          }
+        },
+        "popularity": 4.079,
+        "lastSearchTime": "2025-03-24T02:43:35Z",
+        "id": 2737
+      },
+      "id": 394599
+    },
+    {
+      "movieId": 2736,
+      "sourceTitle": "Aftersun.2022.PROPER.1080p.WEBRip.x265-RARBG-xpost",
+      "languages": [
+        {
+          "id": 1,
+          "name": "English"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 15,
+          "name": "WEBRip-1080p",
+          "source": "webrip",
+          "resolution": 1080,
+          "modifier": "none"
+        },
+        "revision": {
+          "version": 2,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "customFormats": [
+        {
+          "id": 5,
+          "name": "English"
+        },
+        {
+          "id": 1,
+          "name": "English 265"
+        }
+      ],
+      "customFormatScore": 30,
+      "qualityCutoffNotMet": false,
+      "date": "2025-03-24T01:05:01Z",
+      "downloadId": "SABnzbd_nzo_nxhorxlj",
+      "eventType": "downloadFolderImported",
+      "data": {
+        "fileId": "50137",
+        "droppedPath": "/downloads/Aftersun.2022.PROPER.1080p.WEBRip.x265-RARBG-xpost/Aftersun.2022.PROPER.1080p.WEBRip.x265-RARBG.mp4",
+        "importedPath": "/movies/Movies/Aftersun (2022)/Aftersun (2022) WEBRip-1080p Proper.mp4",
+        "downloadClient": "SABnzbd",
+        "downloadClientName": "sab",
+        "releaseGroup": "RARBG",
+        "customFormatScore": "30",
+        "size": "1700950682",
+        "indexerFlags": "0"
+      },
+      "movie": {
+        "title": "Aftersun",
+        "originalTitle": "Aftersun",
+        "originalLanguage": {
+          "id": 1,
+          "name": "English"
+        },
+        "alternateTitles": [],
+        "secondaryYearSourceId": 0,
+        "sortTitle": "aftersun",
+        "status": "released",
+        "overview": "Sophie reflects on the shared joy and private melancholy of a holiday she took with her father twenty years earlier. Memories real and imagined fill the gaps between miniDV footage as she tries to reconcile the father she knew with the man she didn't.",
+        "inCinemas": "2022-11-17T00:00:00Z",
+        "physicalRelease": "2023-04-07T00:00:00Z",
+        "digitalRelease": "2022-12-13T00:00:00Z",
+        "releaseDate": "2022-12-13T00:00:00Z",
+        "images": [
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://image.tmdb.org/t/p/original/evKz85EKouVbIr51zy5fOtpNRPg.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://image.tmdb.org/t/p/original/d5l2ITQvpgP0dcWCAG6PUvp8YZw.jpg"
+          }
+        ],
+        "website": "https://a24films.com/films/aftersun",
+        "year": 2022,
+        "youTubeTrailerId": "4A34B1DIGl8",
+        "studio": "PASTEL",
+        "path": "/movies/Movies/Aftersun (2022)",
+        "qualityProfileId": 1,
+        "movieFileId": 50137,
+        "monitored": true,
+        "minimumAvailability": "released",
+        "isAvailable": true,
+        "folderName": "/movies/Movies/Aftersun (2022)",
+        "runtime": 101,
+        "cleanTitle": "aftersun",
+        "imdbId": "tt19770238",
+        "tmdbId": 965150,
+        "titleSlug": "965150",
+        "certification": "R",
+        "genres": [
+          "Drama"
+        ],
+        "tags": [],
+        "added": "2025-03-24T00:52:11Z",
+        "ratings": {
+          "imdb": {
+            "votes": 112252,
+            "value": 7.6,
+            "type": "user"
+          },
+          "tmdb": {
+            "votes": 1517,
+            "value": 7.7,
+            "type": "user"
+          },
+          "metacritic": {
+            "votes": 0,
+            "value": 95,
+            "type": "user"
+          },
+          "rottenTomatoes": {
+            "votes": 0,
+            "value": 95,
+            "type": "user"
+          }
+        },
+        "popularity": 5.3803,
+        "lastSearchTime": "2025-03-24T00:52:40Z",
+        "id": 2736
+      },
+      "id": 394598
+    },
+    {
+      "movieId": 2734,
+      "sourceTitle": "Before Midnight (2013) (1080p AMZN WEB-DL H265 SDR DDP 5.1 English - HONE)",
+      "languages": [
+        {
+          "id": 1,
+          "name": "English"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 3,
+          "name": "WEBDL-1080p",
+          "source": "webdl",
+          "resolution": 1080,
+          "modifier": "none"
+        },
+        "revision": {
+          "version": 1,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "customFormats": [
+        {
+          "id": 5,
+          "name": "English"
+        },
+        {
+          "id": 1,
+          "name": "English 265"
+        }
+      ],
+      "customFormatScore": 30,
+      "qualityCutoffNotMet": false,
+      "date": "2025-03-24T01:04:05Z",
+      "downloadId": "SABnzbd_nzo_fe4ap0ln",
+      "eventType": "downloadFolderImported",
+      "data": {
+        "fileId": "50136",
+        "droppedPath": "/downloads/Before Midnight (2013) (1080p AMZN WEB-DL H265 SDR DDP 5.1 English - HONE)/Before Midnight (2013) (1080p AMZN WEB-DL H265 SDR DDP 5.1 English - HONE).mkv",
+        "importedPath": "/movies/Movies/Before Midnight (2013)/Before Midnight (2013) WEBDL-1080p.mkv",
+        "downloadClient": "SABnzbd",
+        "downloadClientName": "sab",
+        "releaseGroup": "HONE",
+        "customFormatScore": "30",
+        "size": "6469257247",
+        "indexerFlags": "0"
+      },
+      "movie": {
+        "title": "Before Midnight",
+        "originalTitle": "Before Midnight",
+        "originalLanguage": {
+          "id": 1,
+          "name": "English"
+        },
+        "alternateTitles": [],
+        "secondaryYearSourceId": 0,
+        "sortTitle": "before midnight",
+        "status": "released",
+        "overview": "It has been nine years since we last met Jesse and Celine, the French-American couple who once met on a train in Vienna. They now live in Paris with twin daughters but have spent a summer in Greece at the invitation of an author colleague of Jesse's. When the vacation is over and Jesse must send his teenage son off to the States, he begins to question his life decisions, and his relationship with Celine is at risk.",
+        "inCinemas": "2013-04-05T00:00:00Z",
+        "physicalRelease": "2013-10-22T00:00:00Z",
+        "digitalRelease": "2013-06-21T00:00:00Z",
+        "releaseDate": "2013-06-21T00:00:00Z",
+        "images": [
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://image.tmdb.org/t/p/original/qbGKJmNUroDz75kh5Oafoall89e.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://image.tmdb.org/t/p/original/crdW75sDNYM0ddjFyrcg6V59qdP.jpg"
+          }
+        ],
+        "website": "https://www.sonyclassics.com/beforemidnight/",
+        "year": 2013,
+        "youTubeTrailerId": "NRVLVPWzeek",
+        "studio": "Castle Rock Entertainment",
+        "path": "/movies/Movies/Before Midnight (2013)",
+        "qualityProfileId": 1,
+        "movieFileId": 50136,
+        "monitored": true,
+        "minimumAvailability": "released",
+        "isAvailable": true,
+        "folderName": "/movies/Movies/Before Midnight (2013)",
+        "runtime": 109,
+        "cleanTitle": "beforemidnight",
+        "imdbId": "tt2209418",
+        "tmdbId": 132344,
+        "titleSlug": "132344",
+        "certification": "R",
+        "genres": [
+          "Romance",
+          "Drama"
+        ],
+        "tags": [],
+        "added": "2025-03-24T00:52:07Z",
+        "ratings": {
+          "imdb": {
+            "votes": 178388,
+            "value": 7.9,
+            "type": "user"
+          },
+          "tmdb": {
+            "votes": 2454,
+            "value": 7.51,
+            "type": "user"
+          },
+          "metacritic": {
+            "votes": 0,
+            "value": 94,
+            "type": "user"
+          },
+          "rottenTomatoes": {
+            "votes": 0,
+            "value": 98,
+            "type": "user"
+          }
+        },
+        "collection": {
+          "title": "Before... Collection",
+          "tmdbId": 123800
+        },
+        "popularity": 3.571,
+        "lastSearchTime": "2025-03-24T00:52:33Z",
+        "id": 2734
+      },
+      "id": 394597
+    },
+    {
+      "movieId": 2735,
+      "sourceTitle": "Before Sunset (2004) (1080p HMAX WEB-DL H265 SDR DDP 5.1 English - HONE)",
+      "languages": [
+        {
+          "id": 1,
+          "name": "English"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 3,
+          "name": "WEBDL-1080p",
+          "source": "webdl",
+          "resolution": 1080,
+          "modifier": "none"
+        },
+        "revision": {
+          "version": 1,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "customFormats": [
+        {
+          "id": 5,
+          "name": "English"
+        },
+        {
+          "id": 1,
+          "name": "English 265"
+        }
+      ],
+      "customFormatScore": 30,
+      "qualityCutoffNotMet": false,
+      "date": "2025-03-24T01:01:03Z",
+      "downloadId": "SABnzbd_nzo_wpanr6lm",
+      "eventType": "downloadFolderImported",
+      "data": {
+        "fileId": "50135",
+        "droppedPath": "/downloads/Before Sunset (2004) (1080p HMAX WEB-DL H265 SDR DDP 5.1 English - HONE)/Before Sunset (2004) (1080p HMAX WEB-DL H265 SDR DDP 5.1 English - HONE).mkv",
+        "importedPath": "/movies/Movies/Before Sunset (2004)/Before Sunset (2004) WEBDL-1080p.mkv",
+        "downloadClient": "SABnzbd",
+        "downloadClientName": "sab",
+        "releaseGroup": "HONE",
+        "customFormatScore": "30",
+        "size": "3642282601",
+        "indexerFlags": "0"
+      },
+      "movie": {
+        "title": "Before Sunset",
+        "originalTitle": "Before Sunset",
+        "originalLanguage": {
+          "id": 1,
+          "name": "English"
+        },
+        "alternateTitles": [],
+        "secondaryYearSourceId": 0,
+        "sortTitle": "before sunset",
+        "status": "released",
+        "overview": "Nine years later, Jesse travels across Europe giving readings from a book he wrote about the night he spent in Vienna with Celine. After his reading in Paris, Celine finds him, and they spend part of the day together before Jesse has to again leave for a flight. They are both in relationships now, and Jesse has a son, but as their strong feelings for each other start to return, both confess a longing for more.",
+        "inCinemas": "2004-06-16T00:00:00Z",
+        "digitalRelease": "2004-06-17T00:00:00Z",
+        "releaseDate": "2004-06-17T00:00:00Z",
+        "images": [
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://image.tmdb.org/t/p/original/94Yl2xVB7YIRK4IgA0RqYGiNgkB.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://image.tmdb.org/t/p/original/tcZi0LQc5iu2u6i5aOWyj9NBBvl.jpg"
+          }
+        ],
+        "website": "https://www.warnerbros.com/movies/sunset",
+        "year": 2004,
+        "youTubeTrailerId": "jx0UWbMMZOQ",
+        "studio": "Warner Independent Pictures",
+        "path": "/movies/Movies/Before Sunset (2004)",
+        "qualityProfileId": 1,
+        "movieFileId": 50135,
+        "monitored": true,
+        "minimumAvailability": "released",
+        "isAvailable": true,
+        "folderName": "/movies/Movies/Before Sunset (2004)",
+        "runtime": 80,
+        "cleanTitle": "beforesunset",
+        "imdbId": "tt0381681",
+        "tmdbId": 80,
+        "titleSlug": "80",
+        "certification": "R",
+        "genres": [
+          "Drama",
+          "Romance"
+        ],
+        "tags": [],
+        "added": "2025-03-24T00:52:09Z",
+        "ratings": {
+          "imdb": {
+            "votes": 300142,
+            "value": 8.1,
+            "type": "user"
+          },
+          "tmdb": {
+            "votes": 3460,
+            "value": 7.812,
+            "type": "user"
+          },
+          "metacritic": {
+            "votes": 0,
+            "value": 91,
+            "type": "user"
+          },
+          "rottenTomatoes": {
+            "votes": 0,
+            "value": 94,
+            "type": "user"
+          },
+          "trakt": {
+            "votes": 5804,
+            "value": 8.06495,
+            "type": "user"
+          }
+        },
+        "collection": {
+          "title": "Before... Collection",
+          "tmdbId": 123800
+        },
+        "popularity": 3.1977,
+        "lastSearchTime": "2025-03-24T00:52:30Z",
+        "id": 2735
+      },
+      "id": 394596
+    },
+    {
+      "movieId": 2733,
+      "sourceTitle": "Before Sunrise (1995) (1080p HMAX WEB-DL H265 SDR DDP 2.0 English - HONE)",
+      "languages": [
+        {
+          "id": 1,
+          "name": "English"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 3,
+          "name": "WEBDL-1080p",
+          "source": "webdl",
+          "resolution": 1080,
+          "modifier": "none"
+        },
+        "revision": {
+          "version": 1,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "customFormats": [
+        {
+          "id": 5,
+          "name": "English"
+        },
+        {
+          "id": 1,
+          "name": "English 265"
+        }
+      ],
+      "customFormatScore": 30,
+      "qualityCutoffNotMet": false,
+      "date": "2025-03-24T01:00:04Z",
+      "downloadId": "SABnzbd_nzo_j7lzweh2",
+      "eventType": "downloadFolderImported",
+      "data": {
+        "fileId": "50134",
+        "droppedPath": "/downloads/Before Sunrise (1995) (1080p HMAX WEB-DL H265 SDR DDP 2.0 English - HONE)/Before Sunrise (1995) (1080p HMAX WEB-DL H265 SDR DDP 2.0 English - HONE).mkv",
+        "importedPath": "/movies/Movies/Before Sunrise (1995)/Before Sunrise (1995) WEBDL-1080p.mkv",
+        "downloadClient": "SABnzbd",
+        "downloadClientName": "sab",
+        "releaseGroup": "HONE",
+        "customFormatScore": "30",
+        "size": "4577970686",
+        "indexerFlags": "0"
+      },
+      "movie": {
+        "title": "Before Sunrise",
+        "originalTitle": "Before Sunrise",
+        "originalLanguage": {
+          "id": 1,
+          "name": "English"
+        },
+        "alternateTitles": [],
+        "secondaryYearSourceId": 0,
+        "sortTitle": "before sunrise",
+        "status": "released",
+        "overview": "A young man and woman meet on a train in Europe, and wind up spending one evening together in Vienna. Unfortunately, both know that this will probably be their only night together.",
+        "inCinemas": "1995-01-27T00:00:00Z",
+        "physicalRelease": "1995-07-18T00:00:00Z",
+        "digitalRelease": "2010-10-02T00:00:00Z",
+        "releaseDate": "1995-07-18T00:00:00Z",
+        "images": [
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://image.tmdb.org/t/p/original/kf1Jb1c2JAOqjuzA3H4oDM263uB.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://image.tmdb.org/t/p/original/qA2TyqPldTtoTVY3LKrNIG5g6bH.jpg"
+          }
+        ],
+        "website": "https://www.warnerbros.com/movies/sunrise",
+        "year": 1995,
+        "youTubeTrailerId": "jGvcbSabADM",
+        "studio": "Castle Rock Entertainment",
+        "path": "/movies/Movies/Before Sunrise (1995)",
+        "qualityProfileId": 1,
+        "movieFileId": 50134,
+        "monitored": true,
+        "minimumAvailability": "released",
+        "isAvailable": true,
+        "folderName": "/movies/Movies/Before Sunrise (1995)",
+        "runtime": 101,
+        "cleanTitle": "beforesunrise",
+        "imdbId": "tt0112471",
+        "tmdbId": 76,
+        "titleSlug": "76",
+        "certification": "R",
+        "genres": [
+          "Drama",
+          "Romance"
+        ],
+        "tags": [],
+        "added": "2025-03-24T00:52:05Z",
+        "ratings": {
+          "imdb": {
+            "votes": 356475,
+            "value": 8.1,
+            "type": "user"
+          },
+          "tmdb": {
+            "votes": 4246,
+            "value": 8,
+            "type": "user"
+          },
+          "metacritic": {
+            "votes": 0,
+            "value": 78,
+            "type": "user"
+          },
+          "rottenTomatoes": {
+            "votes": 0,
+            "value": 100,
+            "type": "user"
+          },
+          "trakt": {
+            "votes": 7086,
+            "value": 8.16469,
+            "type": "user"
+          }
+        },
+        "collection": {
+          "title": "Before... Collection",
+          "tmdbId": 123800
+        },
+        "popularity": 5.8355,
+        "lastSearchTime": "2025-03-24T00:52:18Z",
+        "id": 2733
+      },
+      "id": 394595
+    },
+    {
+      "movieId": 2730,
+      "sourceTitle": "Whiplash-Em.Busca.da.Perfeicao.2014.1080p.NF.WEB-DL.DDP5.1.H.264.DUAL-FLY",
+      "languages": [
+        {
+          "id": 1,
+          "name": "English"
+        },
+        {
+          "id": 18,
+          "name": "Portuguese"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 3,
+          "name": "WEBDL-1080p",
+          "source": "webdl",
+          "resolution": 1080,
+          "modifier": "none"
+        },
+        "revision": {
+          "version": 1,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "customFormats": [
+        {
+          "id": 5,
+          "name": "English"
+        }
+      ],
+      "customFormatScore": 10,
+      "qualityCutoffNotMet": false,
+      "date": "2025-03-24T00:57:04Z",
+      "downloadId": "SABnzbd_nzo_7ihxpnuj",
+      "eventType": "downloadFolderImported",
+      "data": {
+        "fileId": "50133",
+        "droppedPath": "/downloads/Whiplash-Em.Busca.da.Perfeicao.2014.1080p.NF.WEB-DL.DDP5.1.H.264.DUAL-FLY/Whiplash.-.Em.Busca.da.Perfeicao.2014.1080p.NF.WEB-DL.DDP5.1.H.264.DUAL-FLY.mkv",
+        "importedPath": "/movies/Movies/Whiplash (2014)/Whiplash (2014) WEBDL-1080p.mkv",
+        "downloadClient": "SABnzbd",
+        "downloadClientName": "sab",
+        "releaseGroup": "FLY",
+        "customFormatScore": "10",
+        "size": "4965693249",
+        "indexerFlags": "0"
+      },
+      "movie": {
+        "title": "Whiplash",
+        "originalTitle": "Whiplash",
+        "originalLanguage": {
+          "id": 1,
+          "name": "English"
+        },
+        "alternateTitles": [],
+        "secondaryYearSourceId": 0,
+        "sortTitle": "whiplash",
+        "status": "released",
+        "overview": "Under the direction of a ruthless instructor, a talented young drummer begins to pursue perfection at any cost, even his humanity.",
+        "inCinemas": "2014-10-15T00:00:00Z",
+        "physicalRelease": "2015-06-17T00:00:00Z",
+        "digitalRelease": "2014-09-19T00:00:00Z",
+        "releaseDate": "2014-09-19T00:00:00Z",
+        "images": [
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://image.tmdb.org/t/p/original/7fn624j5lj3xTme2SgiLCeuedmO.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://image.tmdb.org/t/p/original/bF8eIIIJJoMZf2mFibAejqEGQcX.jpg"
+          }
+        ],
+        "website": "https://www.sonyclassics.com//film//whiplash#",
+        "year": 2014,
+        "youTubeTrailerId": "Q7kZy3T6vRM",
+        "studio": "Bold Films",
+        "path": "/movies/Movies/Whiplash (2014)",
+        "qualityProfileId": 1,
+        "movieFileId": 50133,
+        "monitored": true,
+        "minimumAvailability": "released",
+        "isAvailable": true,
+        "folderName": "/movies/Movies/Whiplash (2014)",
+        "runtime": 107,
+        "cleanTitle": "whiplash",
+        "imdbId": "tt2582802",
+        "tmdbId": 244786,
+        "titleSlug": "244786",
+        "certification": "R",
+        "genres": [
+          "Drama",
+          "Music"
+        ],
+        "tags": [],
+        "added": "2025-03-24T00:51:37Z",
+        "ratings": {
+          "imdb": {
+            "votes": 1061981,
+            "value": 8.5,
+            "type": "user"
+          },
+          "tmdb": {
+            "votes": 15486,
+            "value": 8.375,
+            "type": "user"
+          },
+          "metacritic": {
+            "votes": 0,
+            "value": 89,
+            "type": "user"
+          },
+          "rottenTomatoes": {
+            "votes": 0,
+            "value": 94,
+            "type": "user"
+          }
+        },
+        "popularity": 11.112065,
+        "lastSearchTime": "2025-03-24T00:51:45Z",
+        "id": 2730
+      },
+      "id": 394594
+    }
+  ]
+}

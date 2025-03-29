@@ -1,0 +1,2488 @@
+{
+  "page": 28,
+  "pageSize": 15,
+  "sortKey": "date",
+  "sortDirection": "descending",
+  "totalRecords": 344511,
+  "records": [
+    {
+      "episodeId": 47497,
+      "seriesId": 686,
+      "sourceTitle": "/tv/Tv Shows/Gotham/Season 2/Gotham.s02e13.mkv",
+      "languages": [
+        {
+          "id": 1,
+          "name": "English"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 4,
+          "name": "HDTV-720p",
+          "source": "television",
+          "resolution": 720
+        },
+        "revision": {
+          "version": 1,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "customFormats": [
+        {
+          "id": 3,
+          "name": "english"
+        }
+      ],
+      "customFormatScore": 10,
+      "qualityCutoffNotMet": true,
+      "date": "2025-03-25T17:34:00Z",
+      "eventType": "episodeFileDeleted",
+      "data": {
+        "reason": "Upgrade",
+        "releaseGroup": null,
+        "size": "933929729",
+        "indexerFlags": "0",
+        "releaseType": "Unknown"
+      },
+      "episode": {
+        "seriesId": 686,
+        "tvdbId": 5520715,
+        "episodeFileId": 1504442,
+        "seasonNumber": 2,
+        "episodeNumber": 13,
+        "title": "Wrath of the Villains: A Dead Man Feels No Cold",
+        "airDate": "2016-03-07",
+        "airDateUtc": "2016-03-08T01:00:00Z",
+        "runtime": 45,
+        "overview": "As Gordon, Bullock and Barnes continue the search for Victor Fries, they are forced to look to his wife, Nora, for help. Meanwhile, Penguin is introduced to Hugo Strange, and Alfred reveals some crucial information to Bruce about his parents' murderer.",
+        "hasFile": true,
+        "monitored": true,
+        "absoluteEpisodeNumber": 35,
+        "unverifiedSceneNumbering": false,
+        "id": 47497
+      },
+      "series": {
+        "title": "Gotham",
+        "sortTitle": "gotham",
+        "status": "ended",
+        "ended": true,
+        "overview": "The story behind Detective James Gordon's rise to prominence in Gotham City in the years before Batman's arrival.",
+        "network": "FOX",
+        "airTime": "20:00",
+        "images": [
+          {
+            "coverType": "banner",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/graphical/274431-g3.jpg"
+          },
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/posters/274431-26.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/fanart/original/274431-5.jpg"
+          },
+          {
+            "coverType": "clearlogo",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/274431/clearlogo/611b645d2a209.png"
+          }
+        ],
+        "originalLanguage": {
+          "id": 1,
+          "name": "English"
+        },
+        "seasons": [
+          {
+            "seasonNumber": 0,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 1,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 2,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 3,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 4,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 5,
+            "monitored": true
+          }
+        ],
+        "year": 2014,
+        "path": "/tv/Tv Shows/Gotham",
+        "qualityProfileId": 1,
+        "seasonFolder": true,
+        "monitored": true,
+        "monitorNewItems": "all",
+        "useSceneNumbering": false,
+        "runtime": 45,
+        "tvdbId": 274431,
+        "tvRageId": 38049,
+        "tvMazeId": 11,
+        "tmdbId": 60708,
+        "firstAired": "2014-09-22T00:00:00Z",
+        "lastAired": "2019-04-25T00:00:00Z",
+        "seriesType": "standard",
+        "cleanTitle": "gotham",
+        "imdbId": "tt3749900",
+        "titleSlug": "gotham",
+        "certification": "TV-14",
+        "genres": [
+          "Action",
+          "Crime",
+          "Drama",
+          "Mystery",
+          "Science Fiction",
+          "Suspense",
+          "Thriller"
+        ],
+        "tags": [],
+        "added": "2020-02-09T08:58:48Z",
+        "ratings": {
+          "votes": 246045,
+          "value": 7.8
+        },
+        "languageProfileId": 1,
+        "id": 686
+      },
+      "id": 356643
+    },
+    {
+      "episodeId": 47493,
+      "seriesId": 686,
+      "sourceTitle": "Gotham.2014.S02E09.1080p.BDRip.DDP5.1.x265-Vialle",
+      "languages": [
+        {
+          "id": 1,
+          "name": "English"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 7,
+          "name": "Bluray-1080p",
+          "source": "bluray",
+          "resolution": 1080
+        },
+        "revision": {
+          "version": 1,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "customFormats": [
+        {
+          "id": 3,
+          "name": "english"
+        },
+        {
+          "id": 1,
+          "name": "english 265"
+        }
+      ],
+      "customFormatScore": 30,
+      "qualityCutoffNotMet": false,
+      "date": "2025-03-25T17:33:01Z",
+      "downloadId": "SABnzbd_nzo_i8c01ujg",
+      "eventType": "downloadFolderImported",
+      "data": {
+        "fileId": "1504441",
+        "droppedPath": "/downloads/Gotham.2014.S02E09.1080p.BDRip.DDP5.1.x265-Vialle/Gotham.2014.S02E09.1080p.BDRip.DDP5.1.x265-Vialle.mkv",
+        "importedPath": "/tv/Tv Shows/Gotham/Season 2/Gotham.S02E09.Rise.of.the.Villains-.A.Bitter.Pill.to.Swallow.mkv",
+        "downloadClient": "SABnzbd",
+        "downloadClientName": "sab",
+        "releaseGroup": "Vialle",
+        "customFormatScore": "30",
+        "size": "1993951851",
+        "indexerFlags": "0",
+        "releaseType": "SingleEpisode"
+      },
+      "episode": {
+        "seriesId": 686,
+        "tvdbId": 5385485,
+        "episodeFileId": 1504441,
+        "seasonNumber": 2,
+        "episodeNumber": 9,
+        "title": "Rise of the Villains: A Bitter Pill to Swallow",
+        "airDate": "2015-11-16",
+        "airDateUtc": "2015-11-17T01:00:00Z",
+        "runtime": 45,
+        "overview": "Gordon and Barnes continue cleaning up Gotham, and Gordon comes face-to-face with one of the city's most dangerous hitmen, Eduardo Flamingo. Meanwhile, Nygma and Penguin cross paths again, and Bruce pressures Galavan into handing over the name of his parents' murderer.",
+        "hasFile": true,
+        "monitored": true,
+        "absoluteEpisodeNumber": 31,
+        "unverifiedSceneNumbering": false,
+        "id": 47493
+      },
+      "series": {
+        "title": "Gotham",
+        "sortTitle": "gotham",
+        "status": "ended",
+        "ended": true,
+        "overview": "The story behind Detective James Gordon's rise to prominence in Gotham City in the years before Batman's arrival.",
+        "network": "FOX",
+        "airTime": "20:00",
+        "images": [
+          {
+            "coverType": "banner",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/graphical/274431-g3.jpg"
+          },
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/posters/274431-26.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/fanart/original/274431-5.jpg"
+          },
+          {
+            "coverType": "clearlogo",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/274431/clearlogo/611b645d2a209.png"
+          }
+        ],
+        "originalLanguage": {
+          "id": 1,
+          "name": "English"
+        },
+        "seasons": [
+          {
+            "seasonNumber": 0,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 1,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 2,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 3,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 4,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 5,
+            "monitored": true
+          }
+        ],
+        "year": 2014,
+        "path": "/tv/Tv Shows/Gotham",
+        "qualityProfileId": 1,
+        "seasonFolder": true,
+        "monitored": true,
+        "monitorNewItems": "all",
+        "useSceneNumbering": false,
+        "runtime": 45,
+        "tvdbId": 274431,
+        "tvRageId": 38049,
+        "tvMazeId": 11,
+        "tmdbId": 60708,
+        "firstAired": "2014-09-22T00:00:00Z",
+        "lastAired": "2019-04-25T00:00:00Z",
+        "seriesType": "standard",
+        "cleanTitle": "gotham",
+        "imdbId": "tt3749900",
+        "titleSlug": "gotham",
+        "certification": "TV-14",
+        "genres": [
+          "Action",
+          "Crime",
+          "Drama",
+          "Mystery",
+          "Science Fiction",
+          "Suspense",
+          "Thriller"
+        ],
+        "tags": [],
+        "added": "2020-02-09T08:58:48Z",
+        "ratings": {
+          "votes": 246045,
+          "value": 7.8
+        },
+        "languageProfileId": 1,
+        "id": 686
+      },
+      "id": 356642
+    },
+    {
+      "episodeId": 47493,
+      "seriesId": 686,
+      "sourceTitle": "/tv/Tv Shows/Gotham/Season 2/Gotham.s02e09.mkv",
+      "languages": [
+        {
+          "id": 1,
+          "name": "English"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 4,
+          "name": "HDTV-720p",
+          "source": "television",
+          "resolution": 720
+        },
+        "revision": {
+          "version": 1,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "customFormats": [
+        {
+          "id": 3,
+          "name": "english"
+        }
+      ],
+      "customFormatScore": 10,
+      "qualityCutoffNotMet": true,
+      "date": "2025-03-25T17:33:00Z",
+      "eventType": "episodeFileDeleted",
+      "data": {
+        "reason": "Upgrade",
+        "releaseGroup": null,
+        "size": "1000738808",
+        "indexerFlags": "0",
+        "releaseType": "Unknown"
+      },
+      "episode": {
+        "seriesId": 686,
+        "tvdbId": 5385485,
+        "episodeFileId": 1504441,
+        "seasonNumber": 2,
+        "episodeNumber": 9,
+        "title": "Rise of the Villains: A Bitter Pill to Swallow",
+        "airDate": "2015-11-16",
+        "airDateUtc": "2015-11-17T01:00:00Z",
+        "runtime": 45,
+        "overview": "Gordon and Barnes continue cleaning up Gotham, and Gordon comes face-to-face with one of the city's most dangerous hitmen, Eduardo Flamingo. Meanwhile, Nygma and Penguin cross paths again, and Bruce pressures Galavan into handing over the name of his parents' murderer.",
+        "hasFile": true,
+        "monitored": true,
+        "absoluteEpisodeNumber": 31,
+        "unverifiedSceneNumbering": false,
+        "id": 47493
+      },
+      "series": {
+        "title": "Gotham",
+        "sortTitle": "gotham",
+        "status": "ended",
+        "ended": true,
+        "overview": "The story behind Detective James Gordon's rise to prominence in Gotham City in the years before Batman's arrival.",
+        "network": "FOX",
+        "airTime": "20:00",
+        "images": [
+          {
+            "coverType": "banner",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/graphical/274431-g3.jpg"
+          },
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/posters/274431-26.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/fanart/original/274431-5.jpg"
+          },
+          {
+            "coverType": "clearlogo",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/274431/clearlogo/611b645d2a209.png"
+          }
+        ],
+        "originalLanguage": {
+          "id": 1,
+          "name": "English"
+        },
+        "seasons": [
+          {
+            "seasonNumber": 0,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 1,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 2,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 3,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 4,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 5,
+            "monitored": true
+          }
+        ],
+        "year": 2014,
+        "path": "/tv/Tv Shows/Gotham",
+        "qualityProfileId": 1,
+        "seasonFolder": true,
+        "monitored": true,
+        "monitorNewItems": "all",
+        "useSceneNumbering": false,
+        "runtime": 45,
+        "tvdbId": 274431,
+        "tvRageId": 38049,
+        "tvMazeId": 11,
+        "tmdbId": 60708,
+        "firstAired": "2014-09-22T00:00:00Z",
+        "lastAired": "2019-04-25T00:00:00Z",
+        "seriesType": "standard",
+        "cleanTitle": "gotham",
+        "imdbId": "tt3749900",
+        "titleSlug": "gotham",
+        "certification": "TV-14",
+        "genres": [
+          "Action",
+          "Crime",
+          "Drama",
+          "Mystery",
+          "Science Fiction",
+          "Suspense",
+          "Thriller"
+        ],
+        "tags": [],
+        "added": "2020-02-09T08:58:48Z",
+        "ratings": {
+          "votes": 246045,
+          "value": 7.8
+        },
+        "languageProfileId": 1,
+        "id": 686
+      },
+      "id": 356641
+    },
+    {
+      "episodeId": 47492,
+      "seriesId": 686,
+      "sourceTitle": "Gotham.2014.S02E08.1080p.BDRip.DDP5.1.x265-Vialle",
+      "languages": [
+        {
+          "id": 1,
+          "name": "English"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 7,
+          "name": "Bluray-1080p",
+          "source": "bluray",
+          "resolution": 1080
+        },
+        "revision": {
+          "version": 1,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "customFormats": [
+        {
+          "id": 3,
+          "name": "english"
+        },
+        {
+          "id": 1,
+          "name": "english 265"
+        }
+      ],
+      "customFormatScore": 30,
+      "qualityCutoffNotMet": false,
+      "date": "2025-03-25T17:32:02Z",
+      "downloadId": "SABnzbd_nzo_9i2h6od2",
+      "eventType": "downloadFolderImported",
+      "data": {
+        "fileId": "1504440",
+        "droppedPath": "/downloads/Gotham.2014.S02E08.1080p.BDRip.DDP5.1.x265-Vialle/Gotham.2014.S02E08.1080p.BDRip.DDP5.1.x265-Vialle.mkv",
+        "importedPath": "/tv/Tv Shows/Gotham/Season 2/Gotham.S02E08.Rise.of.the.Villains-.Tonight's.the.Night.mkv",
+        "downloadClient": "SABnzbd",
+        "downloadClientName": "sab",
+        "releaseGroup": "Vialle",
+        "customFormatScore": "30",
+        "size": "2114097737",
+        "indexerFlags": "0",
+        "releaseType": "SingleEpisode"
+      },
+      "episode": {
+        "seriesId": 686,
+        "tvdbId": 5379147,
+        "episodeFileId": 1504440,
+        "seasonNumber": 2,
+        "episodeNumber": 8,
+        "title": "Rise of the Villains: Tonight's the Night",
+        "airDate": "2015-11-09",
+        "airDateUtc": "2015-11-10T01:00:00Z",
+        "runtime": 45,
+        "overview": "Galavan sends Barbara after Jim Gordon, while he tries to make a business deal with Bruce Wayne. Barnes and Bullock are hot on Barbara's trail, and Nygma has a run-in with a familiar face.",
+        "hasFile": true,
+        "monitored": true,
+        "absoluteEpisodeNumber": 30,
+        "unverifiedSceneNumbering": false,
+        "id": 47492
+      },
+      "series": {
+        "title": "Gotham",
+        "sortTitle": "gotham",
+        "status": "ended",
+        "ended": true,
+        "overview": "The story behind Detective James Gordon's rise to prominence in Gotham City in the years before Batman's arrival.",
+        "network": "FOX",
+        "airTime": "20:00",
+        "images": [
+          {
+            "coverType": "banner",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/graphical/274431-g3.jpg"
+          },
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/posters/274431-26.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/fanart/original/274431-5.jpg"
+          },
+          {
+            "coverType": "clearlogo",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/274431/clearlogo/611b645d2a209.png"
+          }
+        ],
+        "originalLanguage": {
+          "id": 1,
+          "name": "English"
+        },
+        "seasons": [
+          {
+            "seasonNumber": 0,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 1,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 2,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 3,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 4,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 5,
+            "monitored": true
+          }
+        ],
+        "year": 2014,
+        "path": "/tv/Tv Shows/Gotham",
+        "qualityProfileId": 1,
+        "seasonFolder": true,
+        "monitored": true,
+        "monitorNewItems": "all",
+        "useSceneNumbering": false,
+        "runtime": 45,
+        "tvdbId": 274431,
+        "tvRageId": 38049,
+        "tvMazeId": 11,
+        "tmdbId": 60708,
+        "firstAired": "2014-09-22T00:00:00Z",
+        "lastAired": "2019-04-25T00:00:00Z",
+        "seriesType": "standard",
+        "cleanTitle": "gotham",
+        "imdbId": "tt3749900",
+        "titleSlug": "gotham",
+        "certification": "TV-14",
+        "genres": [
+          "Action",
+          "Crime",
+          "Drama",
+          "Mystery",
+          "Science Fiction",
+          "Suspense",
+          "Thriller"
+        ],
+        "tags": [],
+        "added": "2020-02-09T08:58:48Z",
+        "ratings": {
+          "votes": 246045,
+          "value": 7.8
+        },
+        "languageProfileId": 1,
+        "id": 686
+      },
+      "id": 356640
+    },
+    {
+      "episodeId": 47492,
+      "seriesId": 686,
+      "sourceTitle": "/tv/Tv Shows/Gotham/Season 2/Gotham.s02e08.mkv",
+      "languages": [
+        {
+          "id": 1,
+          "name": "English"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 4,
+          "name": "HDTV-720p",
+          "source": "television",
+          "resolution": 720
+        },
+        "revision": {
+          "version": 1,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "customFormats": [
+        {
+          "id": 3,
+          "name": "english"
+        }
+      ],
+      "customFormatScore": 10,
+      "qualityCutoffNotMet": true,
+      "date": "2025-03-25T17:32:00Z",
+      "eventType": "episodeFileDeleted",
+      "data": {
+        "reason": "Upgrade",
+        "releaseGroup": null,
+        "size": "1008902184",
+        "indexerFlags": "0",
+        "releaseType": "Unknown"
+      },
+      "episode": {
+        "seriesId": 686,
+        "tvdbId": 5379147,
+        "episodeFileId": 1504440,
+        "seasonNumber": 2,
+        "episodeNumber": 8,
+        "title": "Rise of the Villains: Tonight's the Night",
+        "airDate": "2015-11-09",
+        "airDateUtc": "2015-11-10T01:00:00Z",
+        "runtime": 45,
+        "overview": "Galavan sends Barbara after Jim Gordon, while he tries to make a business deal with Bruce Wayne. Barnes and Bullock are hot on Barbara's trail, and Nygma has a run-in with a familiar face.",
+        "hasFile": true,
+        "monitored": true,
+        "absoluteEpisodeNumber": 30,
+        "unverifiedSceneNumbering": false,
+        "id": 47492
+      },
+      "series": {
+        "title": "Gotham",
+        "sortTitle": "gotham",
+        "status": "ended",
+        "ended": true,
+        "overview": "The story behind Detective James Gordon's rise to prominence in Gotham City in the years before Batman's arrival.",
+        "network": "FOX",
+        "airTime": "20:00",
+        "images": [
+          {
+            "coverType": "banner",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/graphical/274431-g3.jpg"
+          },
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/posters/274431-26.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/fanart/original/274431-5.jpg"
+          },
+          {
+            "coverType": "clearlogo",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/274431/clearlogo/611b645d2a209.png"
+          }
+        ],
+        "originalLanguage": {
+          "id": 1,
+          "name": "English"
+        },
+        "seasons": [
+          {
+            "seasonNumber": 0,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 1,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 2,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 3,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 4,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 5,
+            "monitored": true
+          }
+        ],
+        "year": 2014,
+        "path": "/tv/Tv Shows/Gotham",
+        "qualityProfileId": 1,
+        "seasonFolder": true,
+        "monitored": true,
+        "monitorNewItems": "all",
+        "useSceneNumbering": false,
+        "runtime": 45,
+        "tvdbId": 274431,
+        "tvRageId": 38049,
+        "tvMazeId": 11,
+        "tmdbId": 60708,
+        "firstAired": "2014-09-22T00:00:00Z",
+        "lastAired": "2019-04-25T00:00:00Z",
+        "seriesType": "standard",
+        "cleanTitle": "gotham",
+        "imdbId": "tt3749900",
+        "titleSlug": "gotham",
+        "certification": "TV-14",
+        "genres": [
+          "Action",
+          "Crime",
+          "Drama",
+          "Mystery",
+          "Science Fiction",
+          "Suspense",
+          "Thriller"
+        ],
+        "tags": [],
+        "added": "2020-02-09T08:58:48Z",
+        "ratings": {
+          "votes": 246045,
+          "value": 7.8
+        },
+        "languageProfileId": 1,
+        "id": 686
+      },
+      "id": 356639
+    },
+    {
+      "episodeId": 47491,
+      "seriesId": 686,
+      "sourceTitle": "Gotham.2014.S02E07.1080p.BDRip.DDP5.1.x265-Vialle",
+      "languages": [
+        {
+          "id": 1,
+          "name": "English"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 7,
+          "name": "Bluray-1080p",
+          "source": "bluray",
+          "resolution": 1080
+        },
+        "revision": {
+          "version": 1,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "customFormats": [
+        {
+          "id": 3,
+          "name": "english"
+        },
+        {
+          "id": 1,
+          "name": "english 265"
+        }
+      ],
+      "customFormatScore": 30,
+      "qualityCutoffNotMet": false,
+      "date": "2025-03-25T17:31:38Z",
+      "downloadId": "SABnzbd_nzo_8ju1ok2d",
+      "eventType": "downloadFolderImported",
+      "data": {
+        "fileId": "1504439",
+        "droppedPath": "/downloads/Gotham.2014.S02E07.1080p.BDRip.DDP5.1.x265-Vialle/Gotham.2014.S02E07.1080p.BDRip.DDP5.1.x265-Vialle.mkv",
+        "importedPath": "/tv/Tv Shows/Gotham/Season 2/Gotham.S02E07.Rise.of.the.Villains-.Mommy's.Little.Monster.mkv",
+        "downloadClient": "SABnzbd",
+        "downloadClientName": "sab",
+        "releaseGroup": "Vialle",
+        "customFormatScore": "30",
+        "size": "2013117977",
+        "indexerFlags": "0",
+        "releaseType": "SingleEpisode"
+      },
+      "episode": {
+        "seriesId": 686,
+        "tvdbId": 5371642,
+        "episodeFileId": 1504439,
+        "seasonNumber": 2,
+        "episodeNumber": 7,
+        "title": "Rise of the Villains: Mommy's Little Monster",
+        "airDate": "2015-11-02",
+        "airDateUtc": "2015-11-03T01:00:00Z",
+        "runtime": 45,
+        "overview": "Butch leads Penguin and his men to the warehouse where Gertrude is being held, as Penguin plots his revenge on Galavan for kidnapping his mother. Meanwhile, Nygma deals with the aftermath of a deadly accident.",
+        "hasFile": true,
+        "monitored": true,
+        "absoluteEpisodeNumber": 29,
+        "unverifiedSceneNumbering": false,
+        "id": 47491
+      },
+      "series": {
+        "title": "Gotham",
+        "sortTitle": "gotham",
+        "status": "ended",
+        "ended": true,
+        "overview": "The story behind Detective James Gordon's rise to prominence in Gotham City in the years before Batman's arrival.",
+        "network": "FOX",
+        "airTime": "20:00",
+        "images": [
+          {
+            "coverType": "banner",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/graphical/274431-g3.jpg"
+          },
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/posters/274431-26.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/fanart/original/274431-5.jpg"
+          },
+          {
+            "coverType": "clearlogo",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/274431/clearlogo/611b645d2a209.png"
+          }
+        ],
+        "originalLanguage": {
+          "id": 1,
+          "name": "English"
+        },
+        "seasons": [
+          {
+            "seasonNumber": 0,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 1,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 2,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 3,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 4,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 5,
+            "monitored": true
+          }
+        ],
+        "year": 2014,
+        "path": "/tv/Tv Shows/Gotham",
+        "qualityProfileId": 1,
+        "seasonFolder": true,
+        "monitored": true,
+        "monitorNewItems": "all",
+        "useSceneNumbering": false,
+        "runtime": 45,
+        "tvdbId": 274431,
+        "tvRageId": 38049,
+        "tvMazeId": 11,
+        "tmdbId": 60708,
+        "firstAired": "2014-09-22T00:00:00Z",
+        "lastAired": "2019-04-25T00:00:00Z",
+        "seriesType": "standard",
+        "cleanTitle": "gotham",
+        "imdbId": "tt3749900",
+        "titleSlug": "gotham",
+        "certification": "TV-14",
+        "genres": [
+          "Action",
+          "Crime",
+          "Drama",
+          "Mystery",
+          "Science Fiction",
+          "Suspense",
+          "Thriller"
+        ],
+        "tags": [],
+        "added": "2020-02-09T08:58:48Z",
+        "ratings": {
+          "votes": 246045,
+          "value": 7.8
+        },
+        "languageProfileId": 1,
+        "id": 686
+      },
+      "id": 356638
+    },
+    {
+      "episodeId": 47491,
+      "seriesId": 686,
+      "sourceTitle": "/tv/Tv Shows/Gotham/Season 2/Gotham.s02e07.mkv",
+      "languages": [
+        {
+          "id": 1,
+          "name": "English"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 4,
+          "name": "HDTV-720p",
+          "source": "television",
+          "resolution": 720
+        },
+        "revision": {
+          "version": 1,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "customFormats": [
+        {
+          "id": 3,
+          "name": "english"
+        }
+      ],
+      "customFormatScore": 10,
+      "qualityCutoffNotMet": true,
+      "date": "2025-03-25T17:31:36Z",
+      "eventType": "episodeFileDeleted",
+      "data": {
+        "reason": "Upgrade",
+        "releaseGroup": null,
+        "size": "993673948",
+        "indexerFlags": "0",
+        "releaseType": "Unknown"
+      },
+      "episode": {
+        "seriesId": 686,
+        "tvdbId": 5371642,
+        "episodeFileId": 1504439,
+        "seasonNumber": 2,
+        "episodeNumber": 7,
+        "title": "Rise of the Villains: Mommy's Little Monster",
+        "airDate": "2015-11-02",
+        "airDateUtc": "2015-11-03T01:00:00Z",
+        "runtime": 45,
+        "overview": "Butch leads Penguin and his men to the warehouse where Gertrude is being held, as Penguin plots his revenge on Galavan for kidnapping his mother. Meanwhile, Nygma deals with the aftermath of a deadly accident.",
+        "hasFile": true,
+        "monitored": true,
+        "absoluteEpisodeNumber": 29,
+        "unverifiedSceneNumbering": false,
+        "id": 47491
+      },
+      "series": {
+        "title": "Gotham",
+        "sortTitle": "gotham",
+        "status": "ended",
+        "ended": true,
+        "overview": "The story behind Detective James Gordon's rise to prominence in Gotham City in the years before Batman's arrival.",
+        "network": "FOX",
+        "airTime": "20:00",
+        "images": [
+          {
+            "coverType": "banner",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/graphical/274431-g3.jpg"
+          },
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/posters/274431-26.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/fanart/original/274431-5.jpg"
+          },
+          {
+            "coverType": "clearlogo",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/274431/clearlogo/611b645d2a209.png"
+          }
+        ],
+        "originalLanguage": {
+          "id": 1,
+          "name": "English"
+        },
+        "seasons": [
+          {
+            "seasonNumber": 0,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 1,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 2,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 3,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 4,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 5,
+            "monitored": true
+          }
+        ],
+        "year": 2014,
+        "path": "/tv/Tv Shows/Gotham",
+        "qualityProfileId": 1,
+        "seasonFolder": true,
+        "monitored": true,
+        "monitorNewItems": "all",
+        "useSceneNumbering": false,
+        "runtime": 45,
+        "tvdbId": 274431,
+        "tvRageId": 38049,
+        "tvMazeId": 11,
+        "tmdbId": 60708,
+        "firstAired": "2014-09-22T00:00:00Z",
+        "lastAired": "2019-04-25T00:00:00Z",
+        "seriesType": "standard",
+        "cleanTitle": "gotham",
+        "imdbId": "tt3749900",
+        "titleSlug": "gotham",
+        "certification": "TV-14",
+        "genres": [
+          "Action",
+          "Crime",
+          "Drama",
+          "Mystery",
+          "Science Fiction",
+          "Suspense",
+          "Thriller"
+        ],
+        "tags": [],
+        "added": "2020-02-09T08:58:48Z",
+        "ratings": {
+          "votes": 246045,
+          "value": 7.8
+        },
+        "languageProfileId": 1,
+        "id": 686
+      },
+      "id": 356637
+    },
+    {
+      "episodeId": 47506,
+      "seriesId": 686,
+      "sourceTitle": "Gotham.2014.S02E22.1080p.BDRip.DDP5.1.x265-Vialle",
+      "languages": [
+        {
+          "id": 1,
+          "name": "English"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 7,
+          "name": "Bluray-1080p",
+          "source": "bluray",
+          "resolution": 1080
+        },
+        "revision": {
+          "version": 1,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "customFormats": [
+        {
+          "id": 3,
+          "name": "english"
+        },
+        {
+          "id": 1,
+          "name": "english 265"
+        }
+      ],
+      "customFormatScore": 30,
+      "qualityCutoffNotMet": false,
+      "date": "2025-03-25T17:30:23Z",
+      "downloadId": "SABnzbd_nzo_oqj0cs1c",
+      "eventType": "grabbed",
+      "data": {
+        "indexer": "abNZB (Prowlarr)",
+        "nzbInfoUrl": "https://abnzb.com/details/ea70ce0ca66986045c186b6a953f90d2",
+        "releaseGroup": "Vialle",
+        "age": "0",
+        "ageHours": "0.19177359363888888",
+        "ageMinutes": "11.506415656666666",
+        "publishedDate": "2025-03-25T17:18:53Z",
+        "downloadClient": "SABnzbd",
+        "downloadClientName": "sab",
+        "size": "1897820230",
+        "downloadUrl": "http://prowlarr:9696/29/download?apikey=5f771c1869f94fec821832369384a70c&link=eEVMWE9PV0N2Q2I1TDh0YkpIM1JWNWpNZzQ0Q2JrdHBPUmQxUFdHSGkvRHF5Y1h0NGZYVk5mYkhlRkV1SmFQa2dXTmN1N0sxZEpTbG5uYnZxajBzNE80d3hvdkxScHkwSXU4eUxmSlhqWnFlSXF0OGNFaVRCeXg2VGRjck5aZ3BId1Ixa0FqaWtiR0tFNFd2K29aa3NFVXVidkxkSnlFcHdlbDlhREJuMnZvPQ&file=Gotham.2014.S02E22.1080p.BDRip.DDP5.1.x265-Vialle",
+        "guid": "https://abnzb.com/details/ea70ce0ca66986045c186b6a953f90d2",
+        "tvdbId": "0",
+        "tvRageId": "0",
+        "imdbId": null,
+        "protocol": "1",
+        "customFormatScore": "30",
+        "seriesMatchType": "Title",
+        "releaseSource": "Rss",
+        "indexerFlags": "0",
+        "releaseType": "SingleEpisode"
+      },
+      "episode": {
+        "seriesId": 686,
+        "tvdbId": 5615978,
+        "episodeFileId": 1504446,
+        "seasonNumber": 2,
+        "episodeNumber": 22,
+        "title": "Wrath of the Villains: Transference",
+        "airDate": "2016-05-23",
+        "airDateUtc": "2016-05-24T00:00:00Z",
+        "runtime": 45,
+        "finaleType": "season",
+        "overview": "While Gordon, Bruce and Lucius remain at Indian Hill, the city of Gotham will be met with a new threat as Hugo Strange's inmates devise a plan to escape and start their new lives.",
+        "hasFile": true,
+        "monitored": true,
+        "absoluteEpisodeNumber": 44,
+        "unverifiedSceneNumbering": false,
+        "id": 47506
+      },
+      "series": {
+        "title": "Gotham",
+        "sortTitle": "gotham",
+        "status": "ended",
+        "ended": true,
+        "overview": "The story behind Detective James Gordon's rise to prominence in Gotham City in the years before Batman's arrival.",
+        "network": "FOX",
+        "airTime": "20:00",
+        "images": [
+          {
+            "coverType": "banner",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/graphical/274431-g3.jpg"
+          },
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/posters/274431-26.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/fanart/original/274431-5.jpg"
+          },
+          {
+            "coverType": "clearlogo",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/274431/clearlogo/611b645d2a209.png"
+          }
+        ],
+        "originalLanguage": {
+          "id": 1,
+          "name": "English"
+        },
+        "seasons": [
+          {
+            "seasonNumber": 0,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 1,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 2,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 3,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 4,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 5,
+            "monitored": true
+          }
+        ],
+        "year": 2014,
+        "path": "/tv/Tv Shows/Gotham",
+        "qualityProfileId": 1,
+        "seasonFolder": true,
+        "monitored": true,
+        "monitorNewItems": "all",
+        "useSceneNumbering": false,
+        "runtime": 45,
+        "tvdbId": 274431,
+        "tvRageId": 38049,
+        "tvMazeId": 11,
+        "tmdbId": 60708,
+        "firstAired": "2014-09-22T00:00:00Z",
+        "lastAired": "2019-04-25T00:00:00Z",
+        "seriesType": "standard",
+        "cleanTitle": "gotham",
+        "imdbId": "tt3749900",
+        "titleSlug": "gotham",
+        "certification": "TV-14",
+        "genres": [
+          "Action",
+          "Crime",
+          "Drama",
+          "Mystery",
+          "Science Fiction",
+          "Suspense",
+          "Thriller"
+        ],
+        "tags": [],
+        "added": "2020-02-09T08:58:48Z",
+        "ratings": {
+          "votes": 246045,
+          "value": 7.8
+        },
+        "languageProfileId": 1,
+        "id": 686
+      },
+      "id": 356636
+    },
+    {
+      "episodeId": 47505,
+      "seriesId": 686,
+      "sourceTitle": "Gotham.2014.S02E21.1080p.BDRip.DDP5.1.x265-Vialle",
+      "languages": [
+        {
+          "id": 1,
+          "name": "English"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 7,
+          "name": "Bluray-1080p",
+          "source": "bluray",
+          "resolution": 1080
+        },
+        "revision": {
+          "version": 1,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "customFormats": [
+        {
+          "id": 3,
+          "name": "english"
+        },
+        {
+          "id": 1,
+          "name": "english 265"
+        }
+      ],
+      "customFormatScore": 30,
+      "qualityCutoffNotMet": false,
+      "date": "2025-03-25T17:30:20Z",
+      "downloadId": "SABnzbd_nzo_slozc84q",
+      "eventType": "grabbed",
+      "data": {
+        "indexer": "abNZB (Prowlarr)",
+        "nzbInfoUrl": "https://abnzb.com/details/84a43ff8e9fc4e68781e9a568ef26d89",
+        "releaseGroup": "Vialle",
+        "age": "0",
+        "ageHours": "0.16885412241666667",
+        "ageMinutes": "10.131247396666666",
+        "publishedDate": "2025-03-25T17:20:13Z",
+        "downloadClient": "SABnzbd",
+        "downloadClientName": "sab",
+        "size": "1890065994",
+        "downloadUrl": "http://prowlarr:9696/29/download?apikey=5f771c1869f94fec821832369384a70c&link=RTJqTG1uWXFIZ3pvemxCQ05zM0hrSDlXMUZBZzhjaVJObldkL3FjSmxvakNla1U2OVVCdTNkQ3BnbTA4dkRmaVNzaFlaVzdrNG5ndVRUSm41aWpEN0xEaitZWWg4RE9CVEFGdlBtbFBVZ0dWY2l4bWVyUzNYdGYwVURUUWdWb3V6T2t5Z1RmS2Uvb05FQlJBcE01dGxQVjUzRHlLU0Z1QWZjNjVLN042a2VvPQ&file=Gotham.2014.S02E21.1080p.BDRip.DDP5.1.x265-Vialle",
+        "guid": "https://abnzb.com/details/84a43ff8e9fc4e68781e9a568ef26d89",
+        "tvdbId": "0",
+        "tvRageId": "0",
+        "imdbId": null,
+        "protocol": "1",
+        "customFormatScore": "30",
+        "seriesMatchType": "Title",
+        "releaseSource": "Rss",
+        "indexerFlags": "0",
+        "releaseType": "SingleEpisode"
+      },
+      "episode": {
+        "seriesId": 686,
+        "tvdbId": 5599594,
+        "episodeFileId": 1504447,
+        "seasonNumber": 2,
+        "episodeNumber": 21,
+        "title": "Wrath of the Villains: A Legion of Horribles",
+        "airDate": "2016-05-16",
+        "airDateUtc": "2016-05-17T00:00:00Z",
+        "runtime": 45,
+        "overview": "Hugo Strange welcomes a familiar face to Gotham after he resurrects Fish Mooney in Indian Hill. Later, Bruce discovers a friend is in danger and teams up with Gordon, Alfred and Lucius, while uncovering more of Strange's experiments.",
+        "hasFile": true,
+        "monitored": true,
+        "absoluteEpisodeNumber": 43,
+        "unverifiedSceneNumbering": false,
+        "id": 47505
+      },
+      "series": {
+        "title": "Gotham",
+        "sortTitle": "gotham",
+        "status": "ended",
+        "ended": true,
+        "overview": "The story behind Detective James Gordon's rise to prominence in Gotham City in the years before Batman's arrival.",
+        "network": "FOX",
+        "airTime": "20:00",
+        "images": [
+          {
+            "coverType": "banner",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/graphical/274431-g3.jpg"
+          },
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/posters/274431-26.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/fanart/original/274431-5.jpg"
+          },
+          {
+            "coverType": "clearlogo",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/274431/clearlogo/611b645d2a209.png"
+          }
+        ],
+        "originalLanguage": {
+          "id": 1,
+          "name": "English"
+        },
+        "seasons": [
+          {
+            "seasonNumber": 0,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 1,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 2,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 3,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 4,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 5,
+            "monitored": true
+          }
+        ],
+        "year": 2014,
+        "path": "/tv/Tv Shows/Gotham",
+        "qualityProfileId": 1,
+        "seasonFolder": true,
+        "monitored": true,
+        "monitorNewItems": "all",
+        "useSceneNumbering": false,
+        "runtime": 45,
+        "tvdbId": 274431,
+        "tvRageId": 38049,
+        "tvMazeId": 11,
+        "tmdbId": 60708,
+        "firstAired": "2014-09-22T00:00:00Z",
+        "lastAired": "2019-04-25T00:00:00Z",
+        "seriesType": "standard",
+        "cleanTitle": "gotham",
+        "imdbId": "tt3749900",
+        "titleSlug": "gotham",
+        "certification": "TV-14",
+        "genres": [
+          "Action",
+          "Crime",
+          "Drama",
+          "Mystery",
+          "Science Fiction",
+          "Suspense",
+          "Thriller"
+        ],
+        "tags": [],
+        "added": "2020-02-09T08:58:48Z",
+        "ratings": {
+          "votes": 246045,
+          "value": 7.8
+        },
+        "languageProfileId": 1,
+        "id": 686
+      },
+      "id": 356635
+    },
+    {
+      "episodeId": 47503,
+      "seriesId": 686,
+      "sourceTitle": "Gotham.2014.S02E19.1080p.BDRip.DDP5.1.x265-Vialle",
+      "languages": [
+        {
+          "id": 1,
+          "name": "English"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 7,
+          "name": "Bluray-1080p",
+          "source": "bluray",
+          "resolution": 1080
+        },
+        "revision": {
+          "version": 1,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "customFormats": [
+        {
+          "id": 3,
+          "name": "english"
+        },
+        {
+          "id": 1,
+          "name": "english 265"
+        }
+      ],
+      "customFormatScore": 30,
+      "qualityCutoffNotMet": false,
+      "date": "2025-03-25T17:30:19Z",
+      "downloadId": "SABnzbd_nzo_yyfi3hpy",
+      "eventType": "grabbed",
+      "data": {
+        "indexer": "abNZB (Prowlarr)",
+        "nzbInfoUrl": "https://abnzb.com/details/1ee175c2801bb176d21aa291c554a587",
+        "releaseGroup": "Vialle",
+        "age": "0",
+        "ageHours": "0.16119183969444445",
+        "ageMinutes": "9.671510441666667",
+        "publishedDate": "2025-03-25T17:20:39Z",
+        "downloadClient": "SABnzbd",
+        "downloadClientName": "sab",
+        "size": "2263343134",
+        "downloadUrl": "http://prowlarr:9696/29/download?apikey=5f771c1869f94fec821832369384a70c&link=TksxU2E5d3I4S2VLRXpTZEJIQUtINWxUMHBnTWJ2TWkyaXgvaC9xRUxPNXVmWUQyNW9kNVBScThYanRoSy9DYmFzcGFhUVI4K0pkNnFnRUQ4d3pua1N5UUVFQmtUd2dLdStTUy8yZ25ubm1ISmpVUmpFUTkwUTlHMTNidGUyU1NlQUl6NG5LeEtyWUVNTjNySnZoWDVvTlRBQTFVVmVPUlA0NzlwZThLOHBJPQ&file=Gotham.2014.S02E19.1080p.BDRip.DDP5.1.x265-Vialle",
+        "guid": "https://abnzb.com/details/1ee175c2801bb176d21aa291c554a587",
+        "tvdbId": "0",
+        "tvRageId": "0",
+        "imdbId": null,
+        "protocol": "1",
+        "customFormatScore": "30",
+        "seriesMatchType": "Title",
+        "releaseSource": "Rss",
+        "indexerFlags": "0",
+        "releaseType": "SingleEpisode"
+      },
+      "episode": {
+        "seriesId": 686,
+        "tvdbId": 5577090,
+        "episodeFileId": 1504445,
+        "seasonNumber": 2,
+        "episodeNumber": 19,
+        "title": "Wrath of the Villains: Azrael",
+        "airDate": "2016-05-02",
+        "airDateUtc": "2016-05-03T00:00:00Z",
+        "runtime": 45,
+        "overview": "Gordon and Bruce question Professor Strange about Project Chimera, which leads Strange to send the newly resurrected Galavan to confront Gordon. Meanwhile, Nygma investigates who Professor Strange is.",
+        "hasFile": true,
+        "monitored": true,
+        "absoluteEpisodeNumber": 41,
+        "unverifiedSceneNumbering": false,
+        "id": 47503
+      },
+      "series": {
+        "title": "Gotham",
+        "sortTitle": "gotham",
+        "status": "ended",
+        "ended": true,
+        "overview": "The story behind Detective James Gordon's rise to prominence in Gotham City in the years before Batman's arrival.",
+        "network": "FOX",
+        "airTime": "20:00",
+        "images": [
+          {
+            "coverType": "banner",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/graphical/274431-g3.jpg"
+          },
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/posters/274431-26.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/fanart/original/274431-5.jpg"
+          },
+          {
+            "coverType": "clearlogo",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/274431/clearlogo/611b645d2a209.png"
+          }
+        ],
+        "originalLanguage": {
+          "id": 1,
+          "name": "English"
+        },
+        "seasons": [
+          {
+            "seasonNumber": 0,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 1,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 2,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 3,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 4,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 5,
+            "monitored": true
+          }
+        ],
+        "year": 2014,
+        "path": "/tv/Tv Shows/Gotham",
+        "qualityProfileId": 1,
+        "seasonFolder": true,
+        "monitored": true,
+        "monitorNewItems": "all",
+        "useSceneNumbering": false,
+        "runtime": 45,
+        "tvdbId": 274431,
+        "tvRageId": 38049,
+        "tvMazeId": 11,
+        "tmdbId": 60708,
+        "firstAired": "2014-09-22T00:00:00Z",
+        "lastAired": "2019-04-25T00:00:00Z",
+        "seriesType": "standard",
+        "cleanTitle": "gotham",
+        "imdbId": "tt3749900",
+        "titleSlug": "gotham",
+        "certification": "TV-14",
+        "genres": [
+          "Action",
+          "Crime",
+          "Drama",
+          "Mystery",
+          "Science Fiction",
+          "Suspense",
+          "Thriller"
+        ],
+        "tags": [],
+        "added": "2020-02-09T08:58:48Z",
+        "ratings": {
+          "votes": 246045,
+          "value": 7.8
+        },
+        "languageProfileId": 1,
+        "id": 686
+      },
+      "id": 356634
+    },
+    {
+      "episodeId": 47500,
+      "seriesId": 686,
+      "sourceTitle": "Gotham.2014.S02E16.1080p.BDRip.DDP5.1.x265-Vialle",
+      "languages": [
+        {
+          "id": 1,
+          "name": "English"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 7,
+          "name": "Bluray-1080p",
+          "source": "bluray",
+          "resolution": 1080
+        },
+        "revision": {
+          "version": 1,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "customFormats": [
+        {
+          "id": 3,
+          "name": "english"
+        },
+        {
+          "id": 1,
+          "name": "english 265"
+        }
+      ],
+      "customFormatScore": 30,
+      "qualityCutoffNotMet": false,
+      "date": "2025-03-25T17:30:17Z",
+      "downloadId": "SABnzbd_nzo_l88x9fxd",
+      "eventType": "grabbed",
+      "data": {
+        "indexer": "abNZB (Prowlarr)",
+        "nzbInfoUrl": "https://abnzb.com/details/9090c3f89abdb16df6982d6a84f3162c",
+        "releaseGroup": "Vialle",
+        "age": "0",
+        "ageHours": "0.2042374416111111",
+        "ageMinutes": "12.254246531666666",
+        "publishedDate": "2025-03-25T17:18:02Z",
+        "downloadClient": "SABnzbd",
+        "downloadClientName": "sab",
+        "size": "2184491694",
+        "downloadUrl": "http://prowlarr:9696/29/download?apikey=5f771c1869f94fec821832369384a70c&link=SzI3cEdydTYzV09GdE16b1hPeW01TkRCQVNadC95MXhlR3RQaURVYytjUFcwQWJmMEhqTVAzK2hsVUhObEtZOThra2paWi9iUjZkMVZqYURBSDV4b3pSdlFGeS9xQVJuTG14QmlkZmI5am81Wk1uVDRRYTBQZHoxYWIrSjI0Y2ZLeEtvb1Z0UjdISm5rbExxK2JJQ2dwVFVRY01aNnZnM1k3MnlRY2t0Wm4wPQ&file=Gotham.2014.S02E16.1080p.BDRip.DDP5.1.x265-Vialle",
+        "guid": "https://abnzb.com/details/9090c3f89abdb16df6982d6a84f3162c",
+        "tvdbId": "0",
+        "tvRageId": "0",
+        "imdbId": null,
+        "protocol": "1",
+        "customFormatScore": "30",
+        "seriesMatchType": "Title",
+        "releaseSource": "Rss",
+        "indexerFlags": "0",
+        "releaseType": "SingleEpisode"
+      },
+      "episode": {
+        "seriesId": 686,
+        "tvdbId": 5544454,
+        "episodeFileId": 1504444,
+        "seasonNumber": 2,
+        "episodeNumber": 16,
+        "title": "Wrath of the Villains: Prisoners",
+        "airDate": "2016-03-28",
+        "airDateUtc": "2016-03-29T00:00:00Z",
+        "runtime": 45,
+        "overview": "After Gordon is removed from protective custody, he begins to face new threats and dangers inside prison walls. In order to survive, he must rely on a new friend, as well as Bullock and other outside help. Meanwhile, Penguin grows closer to his father, while his step-mother and step-siblings move forward with their own plans for the family.",
+        "hasFile": true,
+        "monitored": true,
+        "absoluteEpisodeNumber": 38,
+        "unverifiedSceneNumbering": false,
+        "id": 47500
+      },
+      "series": {
+        "title": "Gotham",
+        "sortTitle": "gotham",
+        "status": "ended",
+        "ended": true,
+        "overview": "The story behind Detective James Gordon's rise to prominence in Gotham City in the years before Batman's arrival.",
+        "network": "FOX",
+        "airTime": "20:00",
+        "images": [
+          {
+            "coverType": "banner",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/graphical/274431-g3.jpg"
+          },
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/posters/274431-26.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/fanart/original/274431-5.jpg"
+          },
+          {
+            "coverType": "clearlogo",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/274431/clearlogo/611b645d2a209.png"
+          }
+        ],
+        "originalLanguage": {
+          "id": 1,
+          "name": "English"
+        },
+        "seasons": [
+          {
+            "seasonNumber": 0,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 1,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 2,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 3,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 4,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 5,
+            "monitored": true
+          }
+        ],
+        "year": 2014,
+        "path": "/tv/Tv Shows/Gotham",
+        "qualityProfileId": 1,
+        "seasonFolder": true,
+        "monitored": true,
+        "monitorNewItems": "all",
+        "useSceneNumbering": false,
+        "runtime": 45,
+        "tvdbId": 274431,
+        "tvRageId": 38049,
+        "tvMazeId": 11,
+        "tmdbId": 60708,
+        "firstAired": "2014-09-22T00:00:00Z",
+        "lastAired": "2019-04-25T00:00:00Z",
+        "seriesType": "standard",
+        "cleanTitle": "gotham",
+        "imdbId": "tt3749900",
+        "titleSlug": "gotham",
+        "certification": "TV-14",
+        "genres": [
+          "Action",
+          "Crime",
+          "Drama",
+          "Mystery",
+          "Science Fiction",
+          "Suspense",
+          "Thriller"
+        ],
+        "tags": [],
+        "added": "2020-02-09T08:58:48Z",
+        "ratings": {
+          "votes": 246045,
+          "value": 7.8
+        },
+        "languageProfileId": 1,
+        "id": 686
+      },
+      "id": 356633
+    },
+    {
+      "episodeId": 47499,
+      "seriesId": 686,
+      "sourceTitle": "Gotham.2014.S02E15.1080p.BDRip.DDP5.1.x265-Vialle",
+      "languages": [
+        {
+          "id": 1,
+          "name": "English"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 7,
+          "name": "Bluray-1080p",
+          "source": "bluray",
+          "resolution": 1080
+        },
+        "revision": {
+          "version": 1,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "customFormats": [
+        {
+          "id": 3,
+          "name": "english"
+        },
+        {
+          "id": 1,
+          "name": "english 265"
+        }
+      ],
+      "customFormatScore": 30,
+      "qualityCutoffNotMet": false,
+      "date": "2025-03-25T17:30:15Z",
+      "downloadId": "SABnzbd_nzo_fb10itx8",
+      "eventType": "grabbed",
+      "data": {
+        "indexer": "abNZB (Prowlarr)",
+        "nzbInfoUrl": "https://abnzb.com/details/2c2d5623237537fd801f04a701956af6",
+        "releaseGroup": "Vialle",
+        "age": "0",
+        "ageHours": "0.18204146727777779",
+        "ageMinutes": "10.922488081666666",
+        "publishedDate": "2025-03-25T17:19:20Z",
+        "downloadClient": "SABnzbd",
+        "downloadClientName": "sab",
+        "size": "2219396286",
+        "downloadUrl": "http://prowlarr:9696/29/download?apikey=5f771c1869f94fec821832369384a70c&link=MWp6cnpUN2lwTmxXWGRkSHlNME5GK1kyTExoRXNUR1g5SjZ0ZWV6dEZwbDgzcHViVWdDQmFhSjBWL2g2aUhmNEZaQkhYSGljcWZTblZQbDZUSGx6SFBNVldvNWJ3YllrMUtkNWt4YVZPZ3c1c0FpUWZ3clJnclJQSG1WcVBNbDZoZTNTdjNiRTg4Z2I3TVFXbzBlNldncEVwQlRkcWtSTExyb3h1aVJxcXNJPQ&file=Gotham.2014.S02E15.1080p.BDRip.DDP5.1.x265-Vialle",
+        "guid": "https://abnzb.com/details/2c2d5623237537fd801f04a701956af6",
+        "tvdbId": "0",
+        "tvRageId": "0",
+        "imdbId": null,
+        "protocol": "1",
+        "customFormatScore": "30",
+        "seriesMatchType": "Title",
+        "releaseSource": "Rss",
+        "indexerFlags": "0",
+        "releaseType": "SingleEpisode"
+      },
+      "episode": {
+        "seriesId": 686,
+        "tvdbId": 5540022,
+        "episodeFileId": 1504443,
+        "seasonNumber": 2,
+        "episodeNumber": 15,
+        "title": "Wrath of the Villains: Mad Grey Dawn",
+        "airDate": "2016-03-21",
+        "airDateUtc": "2016-03-22T00:00:00Z",
+        "runtime": 45,
+        "overview": "Gordon and Bullock investigate a trail of clues left in a museum robbery, which, unbeknownst to them, were left by Nygma in a dangerous game of cat-and-mouse. Meanwhile, Gordon's past comes back to haunt him when an anonymous person threatens to expose his hand in Galavan's murder. Also, Penguin's visit to some old friends leads him to meet his father, Elijah Van Dalh, and Bruce practices his street smarts.",
+        "hasFile": true,
+        "monitored": true,
+        "absoluteEpisodeNumber": 37,
+        "unverifiedSceneNumbering": false,
+        "id": 47499
+      },
+      "series": {
+        "title": "Gotham",
+        "sortTitle": "gotham",
+        "status": "ended",
+        "ended": true,
+        "overview": "The story behind Detective James Gordon's rise to prominence in Gotham City in the years before Batman's arrival.",
+        "network": "FOX",
+        "airTime": "20:00",
+        "images": [
+          {
+            "coverType": "banner",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/graphical/274431-g3.jpg"
+          },
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/posters/274431-26.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/fanart/original/274431-5.jpg"
+          },
+          {
+            "coverType": "clearlogo",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/274431/clearlogo/611b645d2a209.png"
+          }
+        ],
+        "originalLanguage": {
+          "id": 1,
+          "name": "English"
+        },
+        "seasons": [
+          {
+            "seasonNumber": 0,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 1,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 2,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 3,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 4,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 5,
+            "monitored": true
+          }
+        ],
+        "year": 2014,
+        "path": "/tv/Tv Shows/Gotham",
+        "qualityProfileId": 1,
+        "seasonFolder": true,
+        "monitored": true,
+        "monitorNewItems": "all",
+        "useSceneNumbering": false,
+        "runtime": 45,
+        "tvdbId": 274431,
+        "tvRageId": 38049,
+        "tvMazeId": 11,
+        "tmdbId": 60708,
+        "firstAired": "2014-09-22T00:00:00Z",
+        "lastAired": "2019-04-25T00:00:00Z",
+        "seriesType": "standard",
+        "cleanTitle": "gotham",
+        "imdbId": "tt3749900",
+        "titleSlug": "gotham",
+        "certification": "TV-14",
+        "genres": [
+          "Action",
+          "Crime",
+          "Drama",
+          "Mystery",
+          "Science Fiction",
+          "Suspense",
+          "Thriller"
+        ],
+        "tags": [],
+        "added": "2020-02-09T08:58:48Z",
+        "ratings": {
+          "votes": 246045,
+          "value": 7.8
+        },
+        "languageProfileId": 1,
+        "id": 686
+      },
+      "id": 356632
+    },
+    {
+      "episodeId": 47497,
+      "seriesId": 686,
+      "sourceTitle": "Gotham.2014.S02E13.1080p.BDRip.DDP5.1.x265-Vialle",
+      "languages": [
+        {
+          "id": 1,
+          "name": "English"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 7,
+          "name": "Bluray-1080p",
+          "source": "bluray",
+          "resolution": 1080
+        },
+        "revision": {
+          "version": 1,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "customFormats": [
+        {
+          "id": 3,
+          "name": "english"
+        },
+        {
+          "id": 1,
+          "name": "english 265"
+        }
+      ],
+      "customFormatScore": 30,
+      "qualityCutoffNotMet": false,
+      "date": "2025-03-25T17:30:13Z",
+      "downloadId": "SABnzbd_nzo_tm5xw5eb",
+      "eventType": "grabbed",
+      "data": {
+        "indexer": "abNZB (Prowlarr)",
+        "nzbInfoUrl": "https://abnzb.com/details/ddce330e134259eb69c1aa36f702e117",
+        "releaseGroup": "Vialle",
+        "age": "0",
+        "ageHours": "0.26223285183333334",
+        "ageMinutes": "15.733971145",
+        "publishedDate": "2025-03-25T17:14:29Z",
+        "downloadClient": "SABnzbd",
+        "downloadClientName": "sab",
+        "size": "2111462986",
+        "downloadUrl": "http://prowlarr:9696/29/download?apikey=5f771c1869f94fec821832369384a70c&link=bGRXOXNmNGtNZWFWVkZlMDh0UlJ0azJxZ01YTmFFcmc0ZktIVm1JbDVDWlFubXBMamlpRUZaVXRER0x3bDEycGcxSFZaKzdOWlJGUyswalBTVnBhbHhHRnRJR2s2RDB4L3RBdnNJbjJVSVdUeDBNV0FoRVdoeDd4WkV4WXMxd2RTdGpGa3pVNytQSURvVlFBVmNMaytrL0VBTDNXSkwyZ1JsdExHWWFQTGdNPQ&file=Gotham.2014.S02E13.1080p.BDRip.DDP5.1.x265-Vialle",
+        "guid": "https://abnzb.com/details/ddce330e134259eb69c1aa36f702e117",
+        "tvdbId": "0",
+        "tvRageId": "0",
+        "imdbId": null,
+        "protocol": "1",
+        "customFormatScore": "30",
+        "seriesMatchType": "Title",
+        "releaseSource": "Rss",
+        "indexerFlags": "0",
+        "releaseType": "SingleEpisode"
+      },
+      "episode": {
+        "seriesId": 686,
+        "tvdbId": 5520715,
+        "episodeFileId": 1504442,
+        "seasonNumber": 2,
+        "episodeNumber": 13,
+        "title": "Wrath of the Villains: A Dead Man Feels No Cold",
+        "airDate": "2016-03-07",
+        "airDateUtc": "2016-03-08T01:00:00Z",
+        "runtime": 45,
+        "overview": "As Gordon, Bullock and Barnes continue the search for Victor Fries, they are forced to look to his wife, Nora, for help. Meanwhile, Penguin is introduced to Hugo Strange, and Alfred reveals some crucial information to Bruce about his parents' murderer.",
+        "hasFile": true,
+        "monitored": true,
+        "absoluteEpisodeNumber": 35,
+        "unverifiedSceneNumbering": false,
+        "id": 47497
+      },
+      "series": {
+        "title": "Gotham",
+        "sortTitle": "gotham",
+        "status": "ended",
+        "ended": true,
+        "overview": "The story behind Detective James Gordon's rise to prominence in Gotham City in the years before Batman's arrival.",
+        "network": "FOX",
+        "airTime": "20:00",
+        "images": [
+          {
+            "coverType": "banner",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/graphical/274431-g3.jpg"
+          },
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/posters/274431-26.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/fanart/original/274431-5.jpg"
+          },
+          {
+            "coverType": "clearlogo",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/274431/clearlogo/611b645d2a209.png"
+          }
+        ],
+        "originalLanguage": {
+          "id": 1,
+          "name": "English"
+        },
+        "seasons": [
+          {
+            "seasonNumber": 0,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 1,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 2,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 3,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 4,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 5,
+            "monitored": true
+          }
+        ],
+        "year": 2014,
+        "path": "/tv/Tv Shows/Gotham",
+        "qualityProfileId": 1,
+        "seasonFolder": true,
+        "monitored": true,
+        "monitorNewItems": "all",
+        "useSceneNumbering": false,
+        "runtime": 45,
+        "tvdbId": 274431,
+        "tvRageId": 38049,
+        "tvMazeId": 11,
+        "tmdbId": 60708,
+        "firstAired": "2014-09-22T00:00:00Z",
+        "lastAired": "2019-04-25T00:00:00Z",
+        "seriesType": "standard",
+        "cleanTitle": "gotham",
+        "imdbId": "tt3749900",
+        "titleSlug": "gotham",
+        "certification": "TV-14",
+        "genres": [
+          "Action",
+          "Crime",
+          "Drama",
+          "Mystery",
+          "Science Fiction",
+          "Suspense",
+          "Thriller"
+        ],
+        "tags": [],
+        "added": "2020-02-09T08:58:48Z",
+        "ratings": {
+          "votes": 246045,
+          "value": 7.8
+        },
+        "languageProfileId": 1,
+        "id": 686
+      },
+      "id": 356631
+    },
+    {
+      "episodeId": 47493,
+      "seriesId": 686,
+      "sourceTitle": "Gotham.2014.S02E09.1080p.BDRip.DDP5.1.x265-Vialle",
+      "languages": [
+        {
+          "id": 1,
+          "name": "English"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 7,
+          "name": "Bluray-1080p",
+          "source": "bluray",
+          "resolution": 1080
+        },
+        "revision": {
+          "version": 1,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "customFormats": [
+        {
+          "id": 3,
+          "name": "english"
+        },
+        {
+          "id": 1,
+          "name": "english 265"
+        }
+      ],
+      "customFormatScore": 30,
+      "qualityCutoffNotMet": false,
+      "date": "2025-03-25T17:30:11Z",
+      "downloadId": "SABnzbd_nzo_i8c01ujg",
+      "eventType": "grabbed",
+      "data": {
+        "indexer": "abNZB (Prowlarr)",
+        "nzbInfoUrl": "https://abnzb.com/details/9715e66567c482af27241860c7f76f1f",
+        "releaseGroup": "Vialle",
+        "age": "0",
+        "ageHours": "0.2247487721111111",
+        "ageMinutes": "13.48492636",
+        "publishedDate": "2025-03-25T17:16:42Z",
+        "downloadClient": "SABnzbd",
+        "downloadClientName": "sab",
+        "size": "2135677146",
+        "downloadUrl": "http://prowlarr:9696/29/download?apikey=5f771c1869f94fec821832369384a70c&link=V2RzV3I4OXROc1A0a0hDSmsveW1TRnhUQ2MzR1dVblRhZzIrSjdVa0drM3hDSm95OExWRnhlL09PNHJxZ0tzVGJyb1FERHMwNkJvWGlIQjEzT2lXYjc4ZkFTRytvNjdxSXhLMlEzT29jMkEvMkhnTjlEUHZEV1R6Si9tazRlRTVmVDQ3elJDTDltQnlhM2hiN3ZMOXB1N3JIVVo1cmdZY2prMW5kZFZzYnRBPQ&file=Gotham.2014.S02E09.1080p.BDRip.DDP5.1.x265-Vialle",
+        "guid": "https://abnzb.com/details/9715e66567c482af27241860c7f76f1f",
+        "tvdbId": "0",
+        "tvRageId": "0",
+        "imdbId": null,
+        "protocol": "1",
+        "customFormatScore": "30",
+        "seriesMatchType": "Title",
+        "releaseSource": "Rss",
+        "indexerFlags": "0",
+        "releaseType": "SingleEpisode"
+      },
+      "episode": {
+        "seriesId": 686,
+        "tvdbId": 5385485,
+        "episodeFileId": 1504441,
+        "seasonNumber": 2,
+        "episodeNumber": 9,
+        "title": "Rise of the Villains: A Bitter Pill to Swallow",
+        "airDate": "2015-11-16",
+        "airDateUtc": "2015-11-17T01:00:00Z",
+        "runtime": 45,
+        "overview": "Gordon and Barnes continue cleaning up Gotham, and Gordon comes face-to-face with one of the city's most dangerous hitmen, Eduardo Flamingo. Meanwhile, Nygma and Penguin cross paths again, and Bruce pressures Galavan into handing over the name of his parents' murderer.",
+        "hasFile": true,
+        "monitored": true,
+        "absoluteEpisodeNumber": 31,
+        "unverifiedSceneNumbering": false,
+        "id": 47493
+      },
+      "series": {
+        "title": "Gotham",
+        "sortTitle": "gotham",
+        "status": "ended",
+        "ended": true,
+        "overview": "The story behind Detective James Gordon's rise to prominence in Gotham City in the years before Batman's arrival.",
+        "network": "FOX",
+        "airTime": "20:00",
+        "images": [
+          {
+            "coverType": "banner",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/graphical/274431-g3.jpg"
+          },
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/posters/274431-26.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/fanart/original/274431-5.jpg"
+          },
+          {
+            "coverType": "clearlogo",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/274431/clearlogo/611b645d2a209.png"
+          }
+        ],
+        "originalLanguage": {
+          "id": 1,
+          "name": "English"
+        },
+        "seasons": [
+          {
+            "seasonNumber": 0,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 1,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 2,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 3,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 4,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 5,
+            "monitored": true
+          }
+        ],
+        "year": 2014,
+        "path": "/tv/Tv Shows/Gotham",
+        "qualityProfileId": 1,
+        "seasonFolder": true,
+        "monitored": true,
+        "monitorNewItems": "all",
+        "useSceneNumbering": false,
+        "runtime": 45,
+        "tvdbId": 274431,
+        "tvRageId": 38049,
+        "tvMazeId": 11,
+        "tmdbId": 60708,
+        "firstAired": "2014-09-22T00:00:00Z",
+        "lastAired": "2019-04-25T00:00:00Z",
+        "seriesType": "standard",
+        "cleanTitle": "gotham",
+        "imdbId": "tt3749900",
+        "titleSlug": "gotham",
+        "certification": "TV-14",
+        "genres": [
+          "Action",
+          "Crime",
+          "Drama",
+          "Mystery",
+          "Science Fiction",
+          "Suspense",
+          "Thriller"
+        ],
+        "tags": [],
+        "added": "2020-02-09T08:58:48Z",
+        "ratings": {
+          "votes": 246045,
+          "value": 7.8
+        },
+        "languageProfileId": 1,
+        "id": 686
+      },
+      "id": 356630
+    },
+    {
+      "episodeId": 47492,
+      "seriesId": 686,
+      "sourceTitle": "Gotham.2014.S02E08.1080p.BDRip.DDP5.1.x265-Vialle",
+      "languages": [
+        {
+          "id": 1,
+          "name": "English"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 7,
+          "name": "Bluray-1080p",
+          "source": "bluray",
+          "resolution": 1080
+        },
+        "revision": {
+          "version": 1,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "customFormats": [
+        {
+          "id": 3,
+          "name": "english"
+        },
+        {
+          "id": 1,
+          "name": "english 265"
+        }
+      ],
+      "customFormatScore": 30,
+      "qualityCutoffNotMet": false,
+      "date": "2025-03-25T17:30:09Z",
+      "downloadId": "SABnzbd_nzo_9i2h6od2",
+      "eventType": "grabbed",
+      "data": {
+        "indexer": "abNZB (Prowlarr)",
+        "nzbInfoUrl": "https://abnzb.com/details/fb411334816e04b3225d93b7a542989c",
+        "releaseGroup": "Vialle",
+        "age": "0",
+        "ageHours": "0.24696465316666666",
+        "ageMinutes": "14.817879223333334",
+        "publishedDate": "2025-03-25T17:15:20Z",
+        "downloadClient": "SABnzbd",
+        "downloadClientName": "sab",
+        "size": "2261075134",
+        "downloadUrl": "http://prowlarr:9696/29/download?apikey=5f771c1869f94fec821832369384a70c&link=TnZjdVZ2Umt0TFN4Z0x3ODlENzdha0VQeVp3cldoNEdJMk5XN09zd1lYWnl0N0ZscFNsZDVreVI0TEtiUkdLSURxZEJXWmltOGoxZnBid3diWTBEelFXZ3ErNzZlK3hKVVRRa2plOHpVTkJmRHlYWVM2RFp6OGpQSENTTnkrMkpTbXloUmpRTTBIc1duQ0hUNVpWUnJwWHg0Q3V0M3VhZk1nYndiWVVQNGg4PQ&file=Gotham.2014.S02E08.1080p.BDRip.DDP5.1.x265-Vialle",
+        "guid": "https://abnzb.com/details/fb411334816e04b3225d93b7a542989c",
+        "tvdbId": "0",
+        "tvRageId": "0",
+        "imdbId": null,
+        "protocol": "1",
+        "customFormatScore": "30",
+        "seriesMatchType": "Title",
+        "releaseSource": "Rss",
+        "indexerFlags": "0",
+        "releaseType": "SingleEpisode"
+      },
+      "episode": {
+        "seriesId": 686,
+        "tvdbId": 5379147,
+        "episodeFileId": 1504440,
+        "seasonNumber": 2,
+        "episodeNumber": 8,
+        "title": "Rise of the Villains: Tonight's the Night",
+        "airDate": "2015-11-09",
+        "airDateUtc": "2015-11-10T01:00:00Z",
+        "runtime": 45,
+        "overview": "Galavan sends Barbara after Jim Gordon, while he tries to make a business deal with Bruce Wayne. Barnes and Bullock are hot on Barbara's trail, and Nygma has a run-in with a familiar face.",
+        "hasFile": true,
+        "monitored": true,
+        "absoluteEpisodeNumber": 30,
+        "unverifiedSceneNumbering": false,
+        "id": 47492
+      },
+      "series": {
+        "title": "Gotham",
+        "sortTitle": "gotham",
+        "status": "ended",
+        "ended": true,
+        "overview": "The story behind Detective James Gordon's rise to prominence in Gotham City in the years before Batman's arrival.",
+        "network": "FOX",
+        "airTime": "20:00",
+        "images": [
+          {
+            "coverType": "banner",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/graphical/274431-g3.jpg"
+          },
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/posters/274431-26.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/fanart/original/274431-5.jpg"
+          },
+          {
+            "coverType": "clearlogo",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/274431/clearlogo/611b645d2a209.png"
+          }
+        ],
+        "originalLanguage": {
+          "id": 1,
+          "name": "English"
+        },
+        "seasons": [
+          {
+            "seasonNumber": 0,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 1,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 2,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 3,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 4,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 5,
+            "monitored": true
+          }
+        ],
+        "year": 2014,
+        "path": "/tv/Tv Shows/Gotham",
+        "qualityProfileId": 1,
+        "seasonFolder": true,
+        "monitored": true,
+        "monitorNewItems": "all",
+        "useSceneNumbering": false,
+        "runtime": 45,
+        "tvdbId": 274431,
+        "tvRageId": 38049,
+        "tvMazeId": 11,
+        "tmdbId": 60708,
+        "firstAired": "2014-09-22T00:00:00Z",
+        "lastAired": "2019-04-25T00:00:00Z",
+        "seriesType": "standard",
+        "cleanTitle": "gotham",
+        "imdbId": "tt3749900",
+        "titleSlug": "gotham",
+        "certification": "TV-14",
+        "genres": [
+          "Action",
+          "Crime",
+          "Drama",
+          "Mystery",
+          "Science Fiction",
+          "Suspense",
+          "Thriller"
+        ],
+        "tags": [],
+        "added": "2020-02-09T08:58:48Z",
+        "ratings": {
+          "votes": 246045,
+          "value": 7.8
+        },
+        "languageProfileId": 1,
+        "id": 686
+      },
+      "id": 356629
+    }
+  ]
+}

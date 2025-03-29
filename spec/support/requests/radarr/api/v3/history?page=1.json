@@ -1,0 +1,1907 @@
+{
+  "page": 1,
+  "pageSize": 15,
+  "sortKey": "date",
+  "sortDirection": "descending",
+  "totalRecords": 394570,
+  "records": [
+    {
+      "movieId": 2729,
+      "sourceTitle": "Back.In.Action.2025.PROPER.SPANISH.1080p.WEB.H264-MIERDA-xpost",
+      "languages": [
+        {
+          "id": 3,
+          "name": "Spanish"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 3,
+          "name": "WEBDL-1080p",
+          "source": "webdl",
+          "resolution": 1080,
+          "modifier": "none"
+        },
+        "revision": {
+          "version": 2,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "customFormats": [],
+      "customFormatScore": 0,
+      "qualityCutoffNotMet": false,
+      "date": "2025-03-29T01:10:04Z",
+      "downloadId": "SABnzbd_nzo_0u0g8974",
+      "eventType": "downloadFolderImported",
+      "data": {
+        "fileId": "50151",
+        "droppedPath": "/downloads/Back.In.Action.2025.PROPER.SPANISH.1080p.WEB.H264-MIERDA-xpost/back.in.action.2025.proper.spanish.1080p.web.h264-mierda.mkv",
+        "importedPath": "/movies/Movies/Back in Action (2025)/Back in Action (2025) WEBDL-1080p Proper.mkv",
+        "downloadClient": "SABnzbd",
+        "downloadClientName": "sab",
+        "releaseGroup": "MIERDA",
+        "customFormatScore": "0",
+        "size": "4862444277",
+        "indexerFlags": "0"
+      },
+      "movie": {
+        "title": "Back in Action",
+        "originalTitle": "Back in Action",
+        "originalLanguage": {
+          "id": 1,
+          "name": "English"
+        },
+        "alternateTitles": [],
+        "secondaryYearSourceId": 0,
+        "sortTitle": "back in action",
+        "status": "released",
+        "overview": "Fifteen years after vanishing from the CIA to start a family, elite spies Matt and Emily jump back into the world of espionage when their cover is blown.",
+        "digitalRelease": "2025-01-16T00:00:00Z",
+        "releaseDate": "2025-01-16T00:00:00Z",
+        "images": [
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://image.tmdb.org/t/p/original/3L3l6LsiLGHkTG4RFB2aBA6BttB.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://image.tmdb.org/t/p/original/mkxGpqh4yOYqtENv01IrDcesFRf.jpg"
+          }
+        ],
+        "website": "https://www.netflix.com/title/81307099",
+        "year": 2025,
+        "youTubeTrailerId": "MV2nYw6gL_w",
+        "studio": "Chernin Entertainment",
+        "path": "/movies/Movies/Back in Action (2025)",
+        "qualityProfileId": 1,
+        "movieFileId": 50151,
+        "monitored": true,
+        "minimumAvailability": "released",
+        "isAvailable": true,
+        "folderName": "/movies/Movies/Back in Action (2025)",
+        "runtime": 114,
+        "cleanTitle": "backinaction",
+        "imdbId": "tt21191806",
+        "tmdbId": 993710,
+        "titleSlug": "993710",
+        "certification": "PG-13",
+        "genres": [
+          "Action",
+          "Comedy"
+        ],
+        "tags": [],
+        "added": "2025-03-20T12:13:58Z",
+        "ratings": {
+          "imdb": {
+            "votes": 49911,
+            "value": 5.9,
+            "type": "user"
+          },
+          "tmdb": {
+            "votes": 1094,
+            "value": 6.461,
+            "type": "user"
+          },
+          "rottenTomatoes": {
+            "votes": 0,
+            "value": 29,
+            "type": "user"
+          }
+        },
+        "popularity": 5.147,
+        "lastSearchTime": "2025-03-29T01:07:35Z",
+        "id": 2729
+      },
+      "id": 394623
+    },
+    {
+      "movieId": 2458,
+      "sourceTitle": "Moana.2.2024.NORDiC.ENG.REPACK.1080p.WEB-DL.DDP5.1.Atmos.H.264-BANDOLEROS",
+      "languages": [
+        {
+          "id": 6,
+          "name": "Danish"
+        },
+        {
+          "id": 1,
+          "name": "English"
+        },
+        {
+          "id": 16,
+          "name": "Finnish"
+        },
+        {
+          "id": 15,
+          "name": "Norwegian"
+        },
+        {
+          "id": 14,
+          "name": "Swedish"
+        },
+        {
+          "id": 9,
+          "name": "Icelandic"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 3,
+          "name": "WEBDL-1080p",
+          "source": "webdl",
+          "resolution": 1080,
+          "modifier": "none"
+        },
+        "revision": {
+          "version": 2,
+          "real": 0,
+          "isRepack": true
+        }
+      },
+      "customFormats": [
+        {
+          "id": 5,
+          "name": "English"
+        }
+      ],
+      "customFormatScore": 10,
+      "qualityCutoffNotMet": false,
+      "date": "2025-03-29T01:07:56Z",
+      "downloadId": "SABnzbd_nzo_t2zod2eo",
+      "eventType": "downloadFolderImported",
+      "data": {
+        "fileId": "50150",
+        "droppedPath": "/downloads/Moana.2.2024.NORDiC.ENG.REPACK.1080p.WEB-DL.DDP5.1.Atmos.H.264-BANDOLEROS/Moana.2.2024.NORDiC.ENG.REPACK.1080p.WEB-DL.DDP5.1.Atmos.H.264-BANDOLEROS.mkv",
+        "importedPath": "/movies/Movies/Moana 2 (2024)/Moana 2 (2024) WEBDL-1080p Proper.mkv",
+        "downloadClient": "SABnzbd",
+        "downloadClientName": "sab",
+        "releaseGroup": "BANDOLEROS",
+        "customFormatScore": "10",
+        "size": "8671637608",
+        "indexerFlags": "0"
+      },
+      "movie": {
+        "title": "Moana 2",
+        "originalTitle": "Moana 2",
+        "originalLanguage": {
+          "id": 1,
+          "name": "English"
+        },
+        "alternateTitles": [],
+        "secondaryYearSourceId": 0,
+        "sortTitle": "moana 2",
+        "status": "released",
+        "overview": "After receiving an unexpected call from her wayfinding ancestors, Moana journeys alongside Maui and a new crew to the far seas of Oceania and into dangerous, long-lost waters for an adventure unlike anything she's ever faced.",
+        "inCinemas": "2024-11-21T00:00:00Z",
+        "physicalRelease": "2025-03-17T00:00:00Z",
+        "digitalRelease": "2025-01-27T00:00:00Z",
+        "releaseDate": "2024-11-21T00:00:00Z",
+        "images": [
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://image.tmdb.org/t/p/original/aLVkiINlIeCkcZIzb7XHzPYgO6L.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://image.tmdb.org/t/p/original/zo8CIjJ2nfNOevqNajwMRO6Hwka.jpg"
+          }
+        ],
+        "website": "https://movies.disney.com/moana-2",
+        "year": 2024,
+        "youTubeTrailerId": "JdSl4RMNtGE",
+        "studio": "Walt Disney Pictures",
+        "path": "/movies/Movies/Moana 2 (2024)",
+        "qualityProfileId": 1,
+        "movieFileId": 50150,
+        "monitored": true,
+        "minimumAvailability": "inCinemas",
+        "isAvailable": true,
+        "folderName": "/movies/Movies/Moana 2 (2024)",
+        "runtime": 99,
+        "cleanTitle": "moana2",
+        "imdbId": "tt13622970",
+        "tmdbId": 1241982,
+        "titleSlug": "1241982",
+        "certification": "PG",
+        "genres": [
+          "Animation",
+          "Adventure",
+          "Family",
+          "Comedy"
+        ],
+        "tags": [],
+        "added": "2024-06-11T10:46:56Z",
+        "ratings": {
+          "imdb": {
+            "votes": 88470,
+            "value": 6.7,
+            "type": "user"
+          },
+          "tmdb": {
+            "votes": 2059,
+            "value": 7.1,
+            "type": "user"
+          },
+          "metacritic": {
+            "votes": 0,
+            "value": 58,
+            "type": "user"
+          },
+          "rottenTomatoes": {
+            "votes": 0,
+            "value": 61,
+            "type": "user"
+          },
+          "trakt": {
+            "votes": 5733,
+            "value": 7.1603,
+            "type": "user"
+          }
+        },
+        "collection": {
+          "title": "Moana Collection",
+          "tmdbId": 1241984
+        },
+        "popularity": 190.9832,
+        "lastSearchTime": "2025-03-29T01:03:51Z",
+        "id": 2458
+      },
+      "id": 394622
+    },
+    {
+      "movieId": 2729,
+      "sourceTitle": "Back.In.Action.2025.PROPER.SPANISH.1080p.WEB.H264-MIERDA-xpost",
+      "languages": [
+        {
+          "id": 3,
+          "name": "Spanish"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 3,
+          "name": "WEBDL-1080p",
+          "source": "webdl",
+          "resolution": 1080,
+          "modifier": "none"
+        },
+        "revision": {
+          "version": 2,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "customFormats": [],
+      "customFormatScore": 0,
+      "qualityCutoffNotMet": false,
+      "date": "2025-03-29T01:07:43Z",
+      "downloadId": "SABnzbd_nzo_0u0g8974",
+      "eventType": "grabbed",
+      "data": {
+        "indexer": "Nzb.su (yearly) (Prowlarr)",
+        "nzbInfoUrl": "https://api.nzb.su/details/42021c2f24d24575ddd8465c81aab999",
+        "releaseGroup": "MIERDA",
+        "age": "39",
+        "ageHours": "953.3946400938333",
+        "ageMinutes": "57203.67840567333",
+        "publishedDate": "2025-02-17T07:44:03Z",
+        "downloadClient": "SABnzbd",
+        "downloadClientName": "sab",
+        "size": "5061785932",
+        "downloadUrl": "http://prowlarr:9696/4/download?apikey=5f771c1869f94fec821832369384a70c&link=SHEzL0pDY2tDdzl4Slc3MDRMV2JQNGI1QVBDRzNEbGQ0dkNXVG5pVjNLSmgxVm80azBmOGlPV1pRbFNOdlZLRlJWdmxwcW5CTE1hZEUzdFR4YTRIQllLVlc0NEtHUlhLYnAxeEI0K2FuL1NxWDB2aDVzOUg3SGpIb0o2dEcyZW1URUw5UVJlcHRxVGdUZFRhV2VlSlJJM0MzNEpMNzh3UEI3VzJXQVoxK0pNPQ&file=Back.In.Action.2025.PROPER.SPANISH.1080p.WEB.H264-MIERDA-xpost",
+        "guid": "https://api.nzb.su/details/42021c2f24d24575ddd8465c81aab999",
+        "tmdbId": "0",
+        "imdbId": "21191806",
+        "protocol": "1",
+        "customFormatScore": "0",
+        "movieMatchType": "Id",
+        "releaseSource": "UserInvokedSearch",
+        "indexerFlags": "0",
+        "indexerId": "16"
+      },
+      "movie": {
+        "title": "Back in Action",
+        "originalTitle": "Back in Action",
+        "originalLanguage": {
+          "id": 1,
+          "name": "English"
+        },
+        "alternateTitles": [],
+        "secondaryYearSourceId": 0,
+        "sortTitle": "back in action",
+        "status": "released",
+        "overview": "Fifteen years after vanishing from the CIA to start a family, elite spies Matt and Emily jump back into the world of espionage when their cover is blown.",
+        "digitalRelease": "2025-01-16T00:00:00Z",
+        "releaseDate": "2025-01-16T00:00:00Z",
+        "images": [
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://image.tmdb.org/t/p/original/3L3l6LsiLGHkTG4RFB2aBA6BttB.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://image.tmdb.org/t/p/original/mkxGpqh4yOYqtENv01IrDcesFRf.jpg"
+          }
+        ],
+        "website": "https://www.netflix.com/title/81307099",
+        "year": 2025,
+        "youTubeTrailerId": "MV2nYw6gL_w",
+        "studio": "Chernin Entertainment",
+        "path": "/movies/Movies/Back in Action (2025)",
+        "qualityProfileId": 1,
+        "movieFileId": 50151,
+        "monitored": true,
+        "minimumAvailability": "released",
+        "isAvailable": true,
+        "folderName": "/movies/Movies/Back in Action (2025)",
+        "runtime": 114,
+        "cleanTitle": "backinaction",
+        "imdbId": "tt21191806",
+        "tmdbId": 993710,
+        "titleSlug": "993710",
+        "certification": "PG-13",
+        "genres": [
+          "Action",
+          "Comedy"
+        ],
+        "tags": [],
+        "added": "2025-03-20T12:13:58Z",
+        "ratings": {
+          "imdb": {
+            "votes": 49911,
+            "value": 5.9,
+            "type": "user"
+          },
+          "tmdb": {
+            "votes": 1094,
+            "value": 6.461,
+            "type": "user"
+          },
+          "rottenTomatoes": {
+            "votes": 0,
+            "value": 29,
+            "type": "user"
+          }
+        },
+        "popularity": 5.147,
+        "lastSearchTime": "2025-03-29T01:07:35Z",
+        "id": 2729
+      },
+      "id": 394621
+    },
+    {
+      "movieId": 2729,
+      "sourceTitle": "/movies/Movies/Back in Action (2025)/Back in Action (2025) WEBDL-1080p Proper.mkv",
+      "languages": [
+        {
+          "id": 3,
+          "name": "Spanish"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 3,
+          "name": "WEBDL-1080p",
+          "source": "webdl",
+          "resolution": 1080,
+          "modifier": "none"
+        },
+        "revision": {
+          "version": 2,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "customFormats": [],
+      "customFormatScore": 0,
+      "qualityCutoffNotMet": false,
+      "date": "2025-03-29T01:07:30Z",
+      "eventType": "movieFileDeleted",
+      "data": {
+        "reason": "Manual",
+        "releaseGroup": "MIERDA",
+        "size": "3536026252",
+        "indexerFlags": "0"
+      },
+      "movie": {
+        "title": "Back in Action",
+        "originalTitle": "Back in Action",
+        "originalLanguage": {
+          "id": 1,
+          "name": "English"
+        },
+        "alternateTitles": [],
+        "secondaryYearSourceId": 0,
+        "sortTitle": "back in action",
+        "status": "released",
+        "overview": "Fifteen years after vanishing from the CIA to start a family, elite spies Matt and Emily jump back into the world of espionage when their cover is blown.",
+        "digitalRelease": "2025-01-16T00:00:00Z",
+        "releaseDate": "2025-01-16T00:00:00Z",
+        "images": [
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://image.tmdb.org/t/p/original/3L3l6LsiLGHkTG4RFB2aBA6BttB.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://image.tmdb.org/t/p/original/mkxGpqh4yOYqtENv01IrDcesFRf.jpg"
+          }
+        ],
+        "website": "https://www.netflix.com/title/81307099",
+        "year": 2025,
+        "youTubeTrailerId": "MV2nYw6gL_w",
+        "studio": "Chernin Entertainment",
+        "path": "/movies/Movies/Back in Action (2025)",
+        "qualityProfileId": 1,
+        "movieFileId": 50151,
+        "monitored": true,
+        "minimumAvailability": "released",
+        "isAvailable": true,
+        "folderName": "/movies/Movies/Back in Action (2025)",
+        "runtime": 114,
+        "cleanTitle": "backinaction",
+        "imdbId": "tt21191806",
+        "tmdbId": 993710,
+        "titleSlug": "993710",
+        "certification": "PG-13",
+        "genres": [
+          "Action",
+          "Comedy"
+        ],
+        "tags": [],
+        "added": "2025-03-20T12:13:58Z",
+        "ratings": {
+          "imdb": {
+            "votes": 49911,
+            "value": 5.9,
+            "type": "user"
+          },
+          "tmdb": {
+            "votes": 1094,
+            "value": 6.461,
+            "type": "user"
+          },
+          "rottenTomatoes": {
+            "votes": 0,
+            "value": 29,
+            "type": "user"
+          }
+        },
+        "popularity": 5.147,
+        "lastSearchTime": "2025-03-29T01:07:35Z",
+        "id": 2729
+      },
+      "id": 394620
+    },
+    {
+      "movieId": 2458,
+      "sourceTitle": "Moana.2.2024.NORDiC.ENG.REPACK.1080p.WEB-DL.DDP5.1.Atmos.H.264-BANDOLEROS",
+      "languages": [
+        {
+          "id": 1,
+          "name": "English"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 3,
+          "name": "WEBDL-1080p",
+          "source": "webdl",
+          "resolution": 1080,
+          "modifier": "none"
+        },
+        "revision": {
+          "version": 2,
+          "real": 0,
+          "isRepack": true
+        }
+      },
+      "customFormats": [
+        {
+          "id": 5,
+          "name": "English"
+        }
+      ],
+      "customFormatScore": 10,
+      "qualityCutoffNotMet": false,
+      "date": "2025-03-29T01:04:00Z",
+      "downloadId": "SABnzbd_nzo_t2zod2eo",
+      "eventType": "grabbed",
+      "data": {
+        "indexer": "NZBFinder (yearly) (Prowlarr)",
+        "nzbInfoUrl": "https://nzbfinder.ws/details/13c02d5a-697a-450e-9ab9-2f529803da19",
+        "releaseGroup": "BANDOLEROS",
+        "age": "52",
+        "ageHours": "1259.36302555825",
+        "ageMinutes": "75561.78153352333",
+        "publishedDate": "2025-02-04T13:42:14Z",
+        "downloadClient": "SABnzbd",
+        "downloadClientName": "sab",
+        "size": "9847916143",
+        "downloadUrl": "http://prowlarr:9696/3/download?apikey=5f771c1869f94fec821832369384a70c&link=TXFBSUFzMlY1dGszV2dDMXNOQzNpZlRBYk9MbWVZQXE0WWtPc09Pczk5RkRWUXpEaEE2YXB0Zk9IMjJjRi8zbndkR09qcThFWXloWGRFMUtFNlBLRG92TUZxbUlYZjZhNXcrSit2RmFRTStmbGRJT1FxZmwrT1dDMjdZK05uaGpGOVZSWW1xU05mN2VwQVNBZ3dXdFlCUU5mM3o1d0IxUm9kMUxYU0RPa2FXWW5tdGVWcmZMT1dXTjd0MGErcDgw&file=Moana.2.2024.NORDiC.ENG.REPACK.1080p.WEB-DL.DDP5.1.Atmos.H.264-BANDOLEROS",
+        "guid": "https://nzbfinder.ws/details/13c02d5a-697a-450e-9ab9-2f529803da19",
+        "tmdbId": "0",
+        "imdbId": "13622970",
+        "protocol": "1",
+        "customFormatScore": "10",
+        "movieMatchType": "Id",
+        "releaseSource": "UserInvokedSearch",
+        "indexerFlags": "0",
+        "indexerId": "15"
+      },
+      "movie": {
+        "title": "Moana 2",
+        "originalTitle": "Moana 2",
+        "originalLanguage": {
+          "id": 1,
+          "name": "English"
+        },
+        "alternateTitles": [],
+        "secondaryYearSourceId": 0,
+        "sortTitle": "moana 2",
+        "status": "released",
+        "overview": "After receiving an unexpected call from her wayfinding ancestors, Moana journeys alongside Maui and a new crew to the far seas of Oceania and into dangerous, long-lost waters for an adventure unlike anything she's ever faced.",
+        "inCinemas": "2024-11-21T00:00:00Z",
+        "physicalRelease": "2025-03-17T00:00:00Z",
+        "digitalRelease": "2025-01-27T00:00:00Z",
+        "releaseDate": "2024-11-21T00:00:00Z",
+        "images": [
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://image.tmdb.org/t/p/original/aLVkiINlIeCkcZIzb7XHzPYgO6L.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://image.tmdb.org/t/p/original/zo8CIjJ2nfNOevqNajwMRO6Hwka.jpg"
+          }
+        ],
+        "website": "https://movies.disney.com/moana-2",
+        "year": 2024,
+        "youTubeTrailerId": "JdSl4RMNtGE",
+        "studio": "Walt Disney Pictures",
+        "path": "/movies/Movies/Moana 2 (2024)",
+        "qualityProfileId": 1,
+        "movieFileId": 50150,
+        "monitored": true,
+        "minimumAvailability": "inCinemas",
+        "isAvailable": true,
+        "folderName": "/movies/Movies/Moana 2 (2024)",
+        "runtime": 99,
+        "cleanTitle": "moana2",
+        "imdbId": "tt13622970",
+        "tmdbId": 1241982,
+        "titleSlug": "1241982",
+        "certification": "PG",
+        "genres": [
+          "Animation",
+          "Adventure",
+          "Family",
+          "Comedy"
+        ],
+        "tags": [],
+        "added": "2024-06-11T10:46:56Z",
+        "ratings": {
+          "imdb": {
+            "votes": 88470,
+            "value": 6.7,
+            "type": "user"
+          },
+          "tmdb": {
+            "votes": 2059,
+            "value": 7.1,
+            "type": "user"
+          },
+          "metacritic": {
+            "votes": 0,
+            "value": 58,
+            "type": "user"
+          },
+          "rottenTomatoes": {
+            "votes": 0,
+            "value": 61,
+            "type": "user"
+          },
+          "trakt": {
+            "votes": 5733,
+            "value": 7.1603,
+            "type": "user"
+          }
+        },
+        "collection": {
+          "title": "Moana Collection",
+          "tmdbId": 1241984
+        },
+        "popularity": 190.9832,
+        "lastSearchTime": "2025-03-29T01:03:51Z",
+        "id": 2458
+      },
+      "id": 394619
+    },
+    {
+      "movieId": 2458,
+      "sourceTitle": "/movies/Movies/Moana 2 (2024)/Moana 2 (2024) WEBRip-1080p.mkv",
+      "languages": [
+        {
+          "id": 1,
+          "name": "English"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 15,
+          "name": "WEBRip-1080p",
+          "source": "webrip",
+          "resolution": 1080,
+          "modifier": "none"
+        },
+        "revision": {
+          "version": 1,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "customFormats": [
+        {
+          "id": 5,
+          "name": "English"
+        }
+      ],
+      "customFormatScore": 10,
+      "qualityCutoffNotMet": false,
+      "date": "2025-03-29T01:03:43Z",
+      "eventType": "movieFileDeleted",
+      "data": {
+        "reason": "Manual",
+        "releaseGroup": null,
+        "size": "1491073539",
+        "indexerFlags": "0"
+      },
+      "movie": {
+        "title": "Moana 2",
+        "originalTitle": "Moana 2",
+        "originalLanguage": {
+          "id": 1,
+          "name": "English"
+        },
+        "alternateTitles": [],
+        "secondaryYearSourceId": 0,
+        "sortTitle": "moana 2",
+        "status": "released",
+        "overview": "After receiving an unexpected call from her wayfinding ancestors, Moana journeys alongside Maui and a new crew to the far seas of Oceania and into dangerous, long-lost waters for an adventure unlike anything she's ever faced.",
+        "inCinemas": "2024-11-21T00:00:00Z",
+        "physicalRelease": "2025-03-17T00:00:00Z",
+        "digitalRelease": "2025-01-27T00:00:00Z",
+        "releaseDate": "2024-11-21T00:00:00Z",
+        "images": [
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://image.tmdb.org/t/p/original/aLVkiINlIeCkcZIzb7XHzPYgO6L.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://image.tmdb.org/t/p/original/zo8CIjJ2nfNOevqNajwMRO6Hwka.jpg"
+          }
+        ],
+        "website": "https://movies.disney.com/moana-2",
+        "year": 2024,
+        "youTubeTrailerId": "JdSl4RMNtGE",
+        "studio": "Walt Disney Pictures",
+        "path": "/movies/Movies/Moana 2 (2024)",
+        "qualityProfileId": 1,
+        "movieFileId": 50150,
+        "monitored": true,
+        "minimumAvailability": "inCinemas",
+        "isAvailable": true,
+        "folderName": "/movies/Movies/Moana 2 (2024)",
+        "runtime": 99,
+        "cleanTitle": "moana2",
+        "imdbId": "tt13622970",
+        "tmdbId": 1241982,
+        "titleSlug": "1241982",
+        "certification": "PG",
+        "genres": [
+          "Animation",
+          "Adventure",
+          "Family",
+          "Comedy"
+        ],
+        "tags": [],
+        "added": "2024-06-11T10:46:56Z",
+        "ratings": {
+          "imdb": {
+            "votes": 88470,
+            "value": 6.7,
+            "type": "user"
+          },
+          "tmdb": {
+            "votes": 2059,
+            "value": 7.1,
+            "type": "user"
+          },
+          "metacritic": {
+            "votes": 0,
+            "value": 58,
+            "type": "user"
+          },
+          "rottenTomatoes": {
+            "votes": 0,
+            "value": 61,
+            "type": "user"
+          },
+          "trakt": {
+            "votes": 5733,
+            "value": 7.1603,
+            "type": "user"
+          }
+        },
+        "collection": {
+          "title": "Moana Collection",
+          "tmdbId": 1241984
+        },
+        "popularity": 190.9832,
+        "lastSearchTime": "2025-03-29T01:03:51Z",
+        "id": 2458
+      },
+      "id": 394618
+    },
+    {
+      "movieId": 2624,
+      "sourceTitle": "/movies/Movies/Peter Pan's Neverland Nightmare (2025)/Peter Pan's Neverland Nightmare (2025) WEBRip-1080p.mp4",
+      "languages": [
+        {
+          "id": 1,
+          "name": "English"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 15,
+          "name": "WEBRip-1080p",
+          "source": "webrip",
+          "resolution": 1080,
+          "modifier": "none"
+        },
+        "revision": {
+          "version": 1,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "customFormats": [
+        {
+          "id": 5,
+          "name": "English"
+        }
+      ],
+      "customFormatScore": 10,
+      "qualityCutoffNotMet": false,
+      "date": "2025-03-28T11:58:24Z",
+      "eventType": "movieFileDeleted",
+      "data": {
+        "reason": "MissingFromDisk",
+        "releaseGroup": "LAMA",
+        "size": "1770499509",
+        "indexerFlags": "0"
+      },
+      "movie": {
+        "title": "Peter Pan's Neverland Nightmare",
+        "originalTitle": "Peter Pan's Neverland Nightmare",
+        "originalLanguage": {
+          "id": 1,
+          "name": "English"
+        },
+        "alternateTitles": [],
+        "secondaryYearSourceId": 0,
+        "sortTitle": "peter pan s neverland nightmare",
+        "status": "released",
+        "overview": "Wendy Darling strikes out in an attempt to rescue her brother Michael from the clutches of the evil Peter Pan who intends to send him to Neverland. Along the way she meets a twisted Tinkerbell, who is hooked on what she thinks is fairy dust.",
+        "inCinemas": "2025-02-05T00:00:00Z",
+        "physicalRelease": "2025-04-28T00:00:00Z",
+        "digitalRelease": "2025-03-18T00:00:00Z",
+        "releaseDate": "2025-02-05T00:00:00Z",
+        "images": [
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://image.tmdb.org/t/p/original/mOR1Ks0EcXocwMV4EPv4letz0F5.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://image.tmdb.org/t/p/original/nhx0ttmAS2w8e6hyIcKoNvgHoix.jpg"
+          }
+        ],
+        "website": "https://www.itnfilms.net/catalog/peter-pan's-neverland-nightmare",
+        "year": 2025,
+        "youTubeTrailerId": "5Yg9i759Zg4",
+        "studio": "Jagged Edge Productions",
+        "path": "/movies/Movies/Peter Pan's Neverland Nightmare (2025)",
+        "qualityProfileId": 1,
+        "movieFileId": 50148,
+        "monitored": true,
+        "minimumAvailability": "announced",
+        "isAvailable": true,
+        "folderName": "/movies/Movies/Peter Pan's Neverland Nightmare (2025)",
+        "runtime": 89,
+        "cleanTitle": "peterpansneverlandnightmare",
+        "imdbId": "tt21955520",
+        "tmdbId": 1020414,
+        "titleSlug": "1020414",
+        "certification": "NR",
+        "genres": [
+          "Horror",
+          "Thriller",
+          "Fantasy"
+        ],
+        "tags": [
+          3
+        ],
+        "added": "2024-11-27T03:59:17Z",
+        "ratings": {
+          "imdb": {
+            "votes": 1188,
+            "value": 5.9,
+            "type": "user"
+          },
+          "tmdb": {
+            "votes": 18,
+            "value": 5.5,
+            "type": "user"
+          },
+          "metacritic": {
+            "votes": 0,
+            "value": 50,
+            "type": "user"
+          },
+          "rottenTomatoes": {
+            "votes": 0,
+            "value": 48,
+            "type": "user"
+          },
+          "trakt": {
+            "votes": 30,
+            "value": 6.16667,
+            "type": "user"
+          }
+        },
+        "popularity": 12.17,
+        "lastSearchTime": "2025-03-27T21:52:50Z",
+        "id": 2624
+      },
+      "id": 394617
+    },
+    {
+      "movieId": 2706,
+      "sourceTitle": "The.Life.List.2025.1080p.WEB.H264-AccomplishedYak",
+      "languages": [
+        {
+          "id": 1,
+          "name": "English"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 3,
+          "name": "WEBDL-1080p",
+          "source": "webdl",
+          "resolution": 1080,
+          "modifier": "none"
+        },
+        "revision": {
+          "version": 1,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "customFormats": [
+        {
+          "id": 5,
+          "name": "English"
+        }
+      ],
+      "customFormatScore": 0,
+      "qualityCutoffNotMet": true,
+      "date": "2025-03-28T07:30:04Z",
+      "downloadId": "SABnzbd_nzo_re0736wi",
+      "eventType": "downloadFolderImported",
+      "data": {
+        "fileId": "50147",
+        "droppedPath": "/downloads/The.Life.List.2025.1080p.WEB.H264-AccomplishedYak/the.life.list.2025.1080p.web.h264-accomplishedyak.mkv",
+        "importedPath": "/movies/Documentaires/movies/The Life List (2025)/The Life List (2025) WEBDL-1080p.mkv",
+        "downloadClient": "SABnzbd",
+        "downloadClientName": "sab",
+        "releaseGroup": "AccomplishedYak",
+        "customFormatScore": "0",
+        "size": "5957863376",
+        "indexerFlags": "0"
+      },
+      "movie": {
+        "title": "The Life List",
+        "originalTitle": "The Life List",
+        "originalLanguage": {
+          "id": 1,
+          "name": "English"
+        },
+        "alternateTitles": [],
+        "secondaryYearSourceId": 0,
+        "sortTitle": "life list",
+        "status": "released",
+        "overview": "When her mother sends her on a quest to complete a childhood bucket list, a young woman uncovers family secrets, finds romance — and rediscovers herself.",
+        "digitalRelease": "2025-03-28T00:00:00Z",
+        "releaseDate": "2025-03-28T00:00:00Z",
+        "images": [
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://image.tmdb.org/t/p/original/5fg98cVo7da7OIK45csdLSd4NaU.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://image.tmdb.org/t/p/original/sulUXRukzh7WSK34y8mnaUcHo3y.jpg"
+          }
+        ],
+        "website": "https://www.netflix.com/title/81246107",
+        "year": 2025,
+        "youTubeTrailerId": "_BJiDHA6pRI",
+        "studio": "3dot Productions",
+        "path": "/movies/Documentaires/movies/The Life List (2025)",
+        "qualityProfileId": 4,
+        "movieFileId": 50147,
+        "monitored": true,
+        "minimumAvailability": "released",
+        "isAvailable": true,
+        "folderName": "/movies/Documentaires/movies/The Life List (2025)",
+        "runtime": 123,
+        "cleanTitle": "thelifelist",
+        "imdbId": "tt2172954",
+        "tmdbId": 1254786,
+        "titleSlug": "1254786",
+        "genres": [
+          "Drama",
+          "Romance",
+          "Comedy"
+        ],
+        "tags": [
+          3
+        ],
+        "added": "2025-02-23T05:28:34Z",
+        "ratings": {
+          "tmdb": {
+            "votes": 1,
+            "value": 4,
+            "type": "user"
+          }
+        },
+        "popularity": 2.5715,
+        "id": 2706
+      },
+      "id": 394616
+    },
+    {
+      "movieId": 2706,
+      "sourceTitle": "The.Life.List.2025.1080p.WEB.H264-AccomplishedYak",
+      "languages": [
+        {
+          "id": 1,
+          "name": "English"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 3,
+          "name": "WEBDL-1080p",
+          "source": "webdl",
+          "resolution": 1080,
+          "modifier": "none"
+        },
+        "revision": {
+          "version": 1,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "customFormats": [
+        {
+          "id": 5,
+          "name": "English"
+        }
+      ],
+      "customFormatScore": 0,
+      "qualityCutoffNotMet": true,
+      "date": "2025-03-28T07:27:19Z",
+      "downloadId": "SABnzbd_nzo_re0736wi",
+      "eventType": "grabbed",
+      "data": {
+        "indexer": "altHUB (Prowlarr)",
+        "nzbInfoUrl": "https://api.althub.co.za/details/30dee45def16eadcb1120f412951dae6",
+        "releaseGroup": "AccomplishedYak",
+        "age": "0",
+        "ageHours": "0.24509376280555556",
+        "ageMinutes": "14.705625803333334",
+        "publishedDate": "2025-03-28T07:12:37Z",
+        "downloadClient": "SABnzbd",
+        "downloadClientName": "sab",
+        "size": "6392929750",
+        "downloadUrl": "http://prowlarr:9696/1/download?apikey=5f771c1869f94fec821832369384a70c&link=a2I3UjRUUHhUaWEvdXNyRk5YWVZEN3d3VEZuMzRoSjZwRWdwVXo0a0VScFNGR1BEWUJKTGYxcmpqRVc3R2ZqeDVwaU8rZWFvUlBvWVRUNlFQY0duUGJpRVdtbVJkNVBqRlFUK1FITzR0UXNjQWp2L0sxc2dFWDNOZEF1VDhaQmwrYnZmb0E0TDdTSVdyZDhwVitBMWdNTVJtaVRXdG9WeHNJK1E4TGNIa0tzPQ&file=The.Life.List.2025.1080p.WEB.H264-AccomplishedYak",
+        "guid": "https://api.althub.co.za/details/30dee45def16eadcb1120f412951dae6",
+        "tmdbId": "0",
+        "imdbId": "2172954",
+        "protocol": "1",
+        "customFormatScore": "0",
+        "movieMatchType": "Id",
+        "releaseSource": "Rss",
+        "indexerFlags": "0",
+        "indexerId": "13"
+      },
+      "movie": {
+        "title": "The Life List",
+        "originalTitle": "The Life List",
+        "originalLanguage": {
+          "id": 1,
+          "name": "English"
+        },
+        "alternateTitles": [],
+        "secondaryYearSourceId": 0,
+        "sortTitle": "life list",
+        "status": "released",
+        "overview": "When her mother sends her on a quest to complete a childhood bucket list, a young woman uncovers family secrets, finds romance — and rediscovers herself.",
+        "digitalRelease": "2025-03-28T00:00:00Z",
+        "releaseDate": "2025-03-28T00:00:00Z",
+        "images": [
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://image.tmdb.org/t/p/original/5fg98cVo7da7OIK45csdLSd4NaU.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://image.tmdb.org/t/p/original/sulUXRukzh7WSK34y8mnaUcHo3y.jpg"
+          }
+        ],
+        "website": "https://www.netflix.com/title/81246107",
+        "year": 2025,
+        "youTubeTrailerId": "_BJiDHA6pRI",
+        "studio": "3dot Productions",
+        "path": "/movies/Documentaires/movies/The Life List (2025)",
+        "qualityProfileId": 4,
+        "movieFileId": 50147,
+        "monitored": true,
+        "minimumAvailability": "released",
+        "isAvailable": true,
+        "folderName": "/movies/Documentaires/movies/The Life List (2025)",
+        "runtime": 123,
+        "cleanTitle": "thelifelist",
+        "imdbId": "tt2172954",
+        "tmdbId": 1254786,
+        "titleSlug": "1254786",
+        "genres": [
+          "Drama",
+          "Romance",
+          "Comedy"
+        ],
+        "tags": [
+          3
+        ],
+        "added": "2025-02-23T05:28:34Z",
+        "ratings": {
+          "tmdb": {
+            "votes": 1,
+            "value": 4,
+            "type": "user"
+          }
+        },
+        "popularity": 2.5715,
+        "id": 2706
+      },
+      "id": 394615
+    },
+    {
+      "movieId": 2624,
+      "sourceTitle": "Peter.Pans.Neverland.Nightmare.2025.1080p.WEBRip.5.1-LAMA",
+      "languages": [
+        {
+          "id": 1,
+          "name": "English"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 15,
+          "name": "WEBRip-1080p",
+          "source": "webrip",
+          "resolution": 1080,
+          "modifier": "none"
+        },
+        "revision": {
+          "version": 1,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "customFormats": [
+        {
+          "id": 5,
+          "name": "English"
+        }
+      ],
+      "customFormatScore": 10,
+      "qualityCutoffNotMet": false,
+      "date": "2025-03-27T22:20:01Z",
+      "downloadId": "SABnzbd_nzo_rw5_n2te",
+      "eventType": "downloadFolderImported",
+      "data": {
+        "fileId": "50146",
+        "droppedPath": "/downloads/Peter.Pans.Neverland.Nightmare.2025.1080p.WEBRip.5.1-LAMA/JAxJnAGzoCABTppvg15u8pL8xKWelSRD.mp4",
+        "importedPath": "/movies/Movies/Peter Pan's Neverland Nightmare (2025)/Peter Pan's Neverland Nightmare (2025) WEBRip-1080p.mp4",
+        "downloadClient": "SABnzbd",
+        "downloadClientName": "sab",
+        "releaseGroup": "LAMA",
+        "customFormatScore": "10",
+        "size": "1770499509",
+        "indexerFlags": "0"
+      },
+      "movie": {
+        "title": "Peter Pan's Neverland Nightmare",
+        "originalTitle": "Peter Pan's Neverland Nightmare",
+        "originalLanguage": {
+          "id": 1,
+          "name": "English"
+        },
+        "alternateTitles": [],
+        "secondaryYearSourceId": 0,
+        "sortTitle": "peter pan s neverland nightmare",
+        "status": "released",
+        "overview": "Wendy Darling strikes out in an attempt to rescue her brother Michael from the clutches of the evil Peter Pan who intends to send him to Neverland. Along the way she meets a twisted Tinkerbell, who is hooked on what she thinks is fairy dust.",
+        "inCinemas": "2025-02-05T00:00:00Z",
+        "physicalRelease": "2025-04-28T00:00:00Z",
+        "digitalRelease": "2025-03-18T00:00:00Z",
+        "releaseDate": "2025-02-05T00:00:00Z",
+        "images": [
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://image.tmdb.org/t/p/original/mOR1Ks0EcXocwMV4EPv4letz0F5.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://image.tmdb.org/t/p/original/nhx0ttmAS2w8e6hyIcKoNvgHoix.jpg"
+          }
+        ],
+        "website": "https://www.itnfilms.net/catalog/peter-pan's-neverland-nightmare",
+        "year": 2025,
+        "youTubeTrailerId": "5Yg9i759Zg4",
+        "studio": "Jagged Edge Productions",
+        "path": "/movies/Movies/Peter Pan's Neverland Nightmare (2025)",
+        "qualityProfileId": 1,
+        "movieFileId": 50148,
+        "monitored": true,
+        "minimumAvailability": "announced",
+        "isAvailable": true,
+        "folderName": "/movies/Movies/Peter Pan's Neverland Nightmare (2025)",
+        "runtime": 89,
+        "cleanTitle": "peterpansneverlandnightmare",
+        "imdbId": "tt21955520",
+        "tmdbId": 1020414,
+        "titleSlug": "1020414",
+        "certification": "NR",
+        "genres": [
+          "Horror",
+          "Thriller",
+          "Fantasy"
+        ],
+        "tags": [
+          3
+        ],
+        "added": "2024-11-27T03:59:17Z",
+        "ratings": {
+          "imdb": {
+            "votes": 1188,
+            "value": 5.9,
+            "type": "user"
+          },
+          "tmdb": {
+            "votes": 18,
+            "value": 5.5,
+            "type": "user"
+          },
+          "metacritic": {
+            "votes": 0,
+            "value": 50,
+            "type": "user"
+          },
+          "rottenTomatoes": {
+            "votes": 0,
+            "value": 48,
+            "type": "user"
+          },
+          "trakt": {
+            "votes": 30,
+            "value": 6.16667,
+            "type": "user"
+          }
+        },
+        "popularity": 12.17,
+        "lastSearchTime": "2025-03-27T21:52:50Z",
+        "id": 2624
+      },
+      "id": 394614
+    },
+    {
+      "movieId": 2624,
+      "sourceTitle": "/movies/Movies/Peter Pan's Neverland Nightmare (2025)/Peter Pan's Neverland Nightmare (2025) WEBRip-720p.mp4",
+      "languages": [
+        {
+          "id": 1,
+          "name": "English"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 14,
+          "name": "WEBRip-720p",
+          "source": "webrip",
+          "resolution": 720,
+          "modifier": "none"
+        },
+        "revision": {
+          "version": 1,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "customFormats": [
+        {
+          "id": 5,
+          "name": "English"
+        }
+      ],
+      "customFormatScore": 10,
+      "qualityCutoffNotMet": true,
+      "date": "2025-03-27T22:20:00Z",
+      "eventType": "movieFileDeleted",
+      "data": {
+        "reason": "Upgrade",
+        "releaseGroup": "LAMA",
+        "size": "861978772",
+        "indexerFlags": "0"
+      },
+      "movie": {
+        "title": "Peter Pan's Neverland Nightmare",
+        "originalTitle": "Peter Pan's Neverland Nightmare",
+        "originalLanguage": {
+          "id": 1,
+          "name": "English"
+        },
+        "alternateTitles": [],
+        "secondaryYearSourceId": 0,
+        "sortTitle": "peter pan s neverland nightmare",
+        "status": "released",
+        "overview": "Wendy Darling strikes out in an attempt to rescue her brother Michael from the clutches of the evil Peter Pan who intends to send him to Neverland. Along the way she meets a twisted Tinkerbell, who is hooked on what she thinks is fairy dust.",
+        "inCinemas": "2025-02-05T00:00:00Z",
+        "physicalRelease": "2025-04-28T00:00:00Z",
+        "digitalRelease": "2025-03-18T00:00:00Z",
+        "releaseDate": "2025-02-05T00:00:00Z",
+        "images": [
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://image.tmdb.org/t/p/original/mOR1Ks0EcXocwMV4EPv4letz0F5.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://image.tmdb.org/t/p/original/nhx0ttmAS2w8e6hyIcKoNvgHoix.jpg"
+          }
+        ],
+        "website": "https://www.itnfilms.net/catalog/peter-pan's-neverland-nightmare",
+        "year": 2025,
+        "youTubeTrailerId": "5Yg9i759Zg4",
+        "studio": "Jagged Edge Productions",
+        "path": "/movies/Movies/Peter Pan's Neverland Nightmare (2025)",
+        "qualityProfileId": 1,
+        "movieFileId": 50148,
+        "monitored": true,
+        "minimumAvailability": "announced",
+        "isAvailable": true,
+        "folderName": "/movies/Movies/Peter Pan's Neverland Nightmare (2025)",
+        "runtime": 89,
+        "cleanTitle": "peterpansneverlandnightmare",
+        "imdbId": "tt21955520",
+        "tmdbId": 1020414,
+        "titleSlug": "1020414",
+        "certification": "NR",
+        "genres": [
+          "Horror",
+          "Thriller",
+          "Fantasy"
+        ],
+        "tags": [
+          3
+        ],
+        "added": "2024-11-27T03:59:17Z",
+        "ratings": {
+          "imdb": {
+            "votes": 1188,
+            "value": 5.9,
+            "type": "user"
+          },
+          "tmdb": {
+            "votes": 18,
+            "value": 5.5,
+            "type": "user"
+          },
+          "metacritic": {
+            "votes": 0,
+            "value": 50,
+            "type": "user"
+          },
+          "rottenTomatoes": {
+            "votes": 0,
+            "value": 48,
+            "type": "user"
+          },
+          "trakt": {
+            "votes": 30,
+            "value": 6.16667,
+            "type": "user"
+          }
+        },
+        "popularity": 12.17,
+        "lastSearchTime": "2025-03-27T21:52:50Z",
+        "id": 2624
+      },
+      "id": 394613
+    },
+    {
+      "movieId": 2624,
+      "sourceTitle": "Peter.Pans.Neverland.Nightmare.2025.1080p.WEBRip.5.1-LAMA",
+      "languages": [
+        {
+          "id": 1,
+          "name": "English"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 15,
+          "name": "WEBRip-1080p",
+          "source": "webrip",
+          "resolution": 1080,
+          "modifier": "none"
+        },
+        "revision": {
+          "version": 1,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "customFormats": [
+        {
+          "id": 5,
+          "name": "English"
+        }
+      ],
+      "customFormatScore": 10,
+      "qualityCutoffNotMet": false,
+      "date": "2025-03-27T22:18:18Z",
+      "downloadId": "SABnzbd_nzo_rw5_n2te",
+      "eventType": "grabbed",
+      "data": {
+        "indexer": "NZBgeek (Prowlarr)",
+        "nzbInfoUrl": "https://nzbgeek.info/geekseek.php?guid=5251f8844a8f0edb161f158a4c929f74",
+        "releaseGroup": "LAMA",
+        "age": "0",
+        "ageHours": "0.08637582586111112",
+        "ageMinutes": "5.182549591666667",
+        "publishedDate": "2025-03-27T22:13:08Z",
+        "downloadClient": "SABnzbd",
+        "downloadClientName": "sab",
+        "size": "1864164000",
+        "downloadUrl": "http://prowlarr:9696/5/download?apikey=5f771c1869f94fec821832369384a70c&link=MmZPby9Fd1VLZ3JSOTBWY2dZMTRwMXd3MEcxWU5GYlR2MllwakRnblV2WEZDakQ1Z3lGM1JtdmROV005ZTB0cW1nQnB6ZEllTnpFMGV3bmtxOFd2dUgwMVNpdTdKOXZEbVdTUTlxUEdJb2xFM2VaSDM3bm4zbkY0OUlnYzJYbHUxOEV0eHhrSkZHRXhhNnpSRnlQczc5YzRQdFp3Ty9kTXJWdzZ6TERPV2V3PQ&file=Peter.Pans.Neverland.Nightmare.2025.1080p.WEBRip.5.1-LAMA",
+        "guid": "https://nzbgeek.info/geekseek.php?guid=5251f8844a8f0edb161f158a4c929f74",
+        "tmdbId": "0",
+        "imdbId": "21955520",
+        "protocol": "1",
+        "customFormatScore": "10",
+        "movieMatchType": "Id",
+        "releaseSource": "Rss",
+        "indexerFlags": "0",
+        "indexerId": "17"
+      },
+      "movie": {
+        "title": "Peter Pan's Neverland Nightmare",
+        "originalTitle": "Peter Pan's Neverland Nightmare",
+        "originalLanguage": {
+          "id": 1,
+          "name": "English"
+        },
+        "alternateTitles": [],
+        "secondaryYearSourceId": 0,
+        "sortTitle": "peter pan s neverland nightmare",
+        "status": "released",
+        "overview": "Wendy Darling strikes out in an attempt to rescue her brother Michael from the clutches of the evil Peter Pan who intends to send him to Neverland. Along the way she meets a twisted Tinkerbell, who is hooked on what she thinks is fairy dust.",
+        "inCinemas": "2025-02-05T00:00:00Z",
+        "physicalRelease": "2025-04-28T00:00:00Z",
+        "digitalRelease": "2025-03-18T00:00:00Z",
+        "releaseDate": "2025-02-05T00:00:00Z",
+        "images": [
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://image.tmdb.org/t/p/original/mOR1Ks0EcXocwMV4EPv4letz0F5.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://image.tmdb.org/t/p/original/nhx0ttmAS2w8e6hyIcKoNvgHoix.jpg"
+          }
+        ],
+        "website": "https://www.itnfilms.net/catalog/peter-pan's-neverland-nightmare",
+        "year": 2025,
+        "youTubeTrailerId": "5Yg9i759Zg4",
+        "studio": "Jagged Edge Productions",
+        "path": "/movies/Movies/Peter Pan's Neverland Nightmare (2025)",
+        "qualityProfileId": 1,
+        "movieFileId": 50148,
+        "monitored": true,
+        "minimumAvailability": "announced",
+        "isAvailable": true,
+        "folderName": "/movies/Movies/Peter Pan's Neverland Nightmare (2025)",
+        "runtime": 89,
+        "cleanTitle": "peterpansneverlandnightmare",
+        "imdbId": "tt21955520",
+        "tmdbId": 1020414,
+        "titleSlug": "1020414",
+        "certification": "NR",
+        "genres": [
+          "Horror",
+          "Thriller",
+          "Fantasy"
+        ],
+        "tags": [
+          3
+        ],
+        "added": "2024-11-27T03:59:17Z",
+        "ratings": {
+          "imdb": {
+            "votes": 1188,
+            "value": 5.9,
+            "type": "user"
+          },
+          "tmdb": {
+            "votes": 18,
+            "value": 5.5,
+            "type": "user"
+          },
+          "metacritic": {
+            "votes": 0,
+            "value": 50,
+            "type": "user"
+          },
+          "rottenTomatoes": {
+            "votes": 0,
+            "value": 48,
+            "type": "user"
+          },
+          "trakt": {
+            "votes": 30,
+            "value": 6.16667,
+            "type": "user"
+          }
+        },
+        "popularity": 12.17,
+        "lastSearchTime": "2025-03-27T21:52:50Z",
+        "id": 2624
+      },
+      "id": 394612
+    },
+    {
+      "movieId": 2624,
+      "sourceTitle": "Peter.Pans.Neverland.Nightmare.2025.WEB-DL.1080p.H264-WRS",
+      "languages": [
+        {
+          "id": 1,
+          "name": "English"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 3,
+          "name": "WEBDL-1080p",
+          "source": "webdl",
+          "resolution": 1080,
+          "modifier": "none"
+        },
+        "revision": {
+          "version": 1,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "customFormats": [
+        {
+          "id": 5,
+          "name": "English"
+        }
+      ],
+      "customFormatScore": 10,
+      "qualityCutoffNotMet": false,
+      "date": "2025-03-27T21:52:47Z",
+      "downloadId": "SABnzbd_nzo_wsa2dld2",
+      "eventType": "downloadFailed",
+      "data": {
+        "downloadClient": "SABnzbd",
+        "downloadClientName": "sab",
+        "message": "Manually marked as failed",
+        "releaseGroup": "WRS",
+        "size": "827910150"
+      },
+      "movie": {
+        "title": "Peter Pan's Neverland Nightmare",
+        "originalTitle": "Peter Pan's Neverland Nightmare",
+        "originalLanguage": {
+          "id": 1,
+          "name": "English"
+        },
+        "alternateTitles": [],
+        "secondaryYearSourceId": 0,
+        "sortTitle": "peter pan s neverland nightmare",
+        "status": "released",
+        "overview": "Wendy Darling strikes out in an attempt to rescue her brother Michael from the clutches of the evil Peter Pan who intends to send him to Neverland. Along the way she meets a twisted Tinkerbell, who is hooked on what she thinks is fairy dust.",
+        "inCinemas": "2025-02-05T00:00:00Z",
+        "physicalRelease": "2025-04-28T00:00:00Z",
+        "digitalRelease": "2025-03-18T00:00:00Z",
+        "releaseDate": "2025-02-05T00:00:00Z",
+        "images": [
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://image.tmdb.org/t/p/original/mOR1Ks0EcXocwMV4EPv4letz0F5.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://image.tmdb.org/t/p/original/nhx0ttmAS2w8e6hyIcKoNvgHoix.jpg"
+          }
+        ],
+        "website": "https://www.itnfilms.net/catalog/peter-pan's-neverland-nightmare",
+        "year": 2025,
+        "youTubeTrailerId": "5Yg9i759Zg4",
+        "studio": "Jagged Edge Productions",
+        "path": "/movies/Movies/Peter Pan's Neverland Nightmare (2025)",
+        "qualityProfileId": 1,
+        "movieFileId": 50148,
+        "monitored": true,
+        "minimumAvailability": "announced",
+        "isAvailable": true,
+        "folderName": "/movies/Movies/Peter Pan's Neverland Nightmare (2025)",
+        "runtime": 89,
+        "cleanTitle": "peterpansneverlandnightmare",
+        "imdbId": "tt21955520",
+        "tmdbId": 1020414,
+        "titleSlug": "1020414",
+        "certification": "NR",
+        "genres": [
+          "Horror",
+          "Thriller",
+          "Fantasy"
+        ],
+        "tags": [
+          3
+        ],
+        "added": "2024-11-27T03:59:17Z",
+        "ratings": {
+          "imdb": {
+            "votes": 1188,
+            "value": 5.9,
+            "type": "user"
+          },
+          "tmdb": {
+            "votes": 18,
+            "value": 5.5,
+            "type": "user"
+          },
+          "metacritic": {
+            "votes": 0,
+            "value": 50,
+            "type": "user"
+          },
+          "rottenTomatoes": {
+            "votes": 0,
+            "value": 48,
+            "type": "user"
+          },
+          "trakt": {
+            "votes": 30,
+            "value": 6.16667,
+            "type": "user"
+          }
+        },
+        "popularity": 12.17,
+        "lastSearchTime": "2025-03-27T21:52:50Z",
+        "id": 2624
+      },
+      "id": 394611
+    },
+    {
+      "movieId": 2624,
+      "sourceTitle": "Peter.Pans.Neverland.Nightmare.2025.WEB-DL.1080p.H264-WRS",
+      "languages": [
+        {
+          "id": 1,
+          "name": "English"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 3,
+          "name": "WEBDL-1080p",
+          "source": "webdl",
+          "resolution": 1080,
+          "modifier": "none"
+        },
+        "revision": {
+          "version": 1,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "customFormats": [
+        {
+          "id": 5,
+          "name": "English"
+        }
+      ],
+      "customFormatScore": 10,
+      "qualityCutoffNotMet": false,
+      "date": "2025-03-27T21:47:49Z",
+      "downloadId": "SABnzbd_nzo_wsa2dld2",
+      "eventType": "grabbed",
+      "data": {
+        "indexer": "NZBgeek (Prowlarr)",
+        "nzbInfoUrl": "https://nzbgeek.info/geekseek.php?guid=e3f01d5fbef037148976b444a63fe0de",
+        "releaseGroup": "WRS",
+        "age": "0",
+        "ageHours": "2.1677097058055557",
+        "ageMinutes": "130.06258239",
+        "publishedDate": "2025-03-27T19:37:46Z",
+        "downloadClient": "SABnzbd",
+        "downloadClientName": "sab",
+        "size": "841025000",
+        "downloadUrl": "http://prowlarr:9696/5/download?apikey=5f771c1869f94fec821832369384a70c&link=anBWSm1UanZSR0FCaHhUU2Uwb2tDQ0ZLZkNDQlZNRUNQaDlMcFcrcS9TTE9PZXB2UVk2T0NBNGhaTnp4ZzFTTHo1K2dZdnhEek1lWm0wY1d1MENwVm9POFdOSkkwaFkzMmh1RlNrNkxLYWRSOE50dExCdWZYOWRFTTduY0NkdGx0RTI0Yks1RFp3dWNXWFJpbTZyZHQ5dmplU0l5UzJyRjNtbG1GMGVvclZFPQ&file=Peter.Pans.Neverland.Nightmare.2025.WEB-DL.1080p.H264-WRS",
+        "guid": "https://nzbgeek.info/geekseek.php?guid=e3f01d5fbef037148976b444a63fe0de",
+        "tmdbId": "0",
+        "imdbId": "21955520",
+        "protocol": "1",
+        "customFormatScore": "10",
+        "movieMatchType": "Id",
+        "releaseSource": "Rss",
+        "indexerFlags": "0",
+        "indexerId": "17"
+      },
+      "movie": {
+        "title": "Peter Pan's Neverland Nightmare",
+        "originalTitle": "Peter Pan's Neverland Nightmare",
+        "originalLanguage": {
+          "id": 1,
+          "name": "English"
+        },
+        "alternateTitles": [],
+        "secondaryYearSourceId": 0,
+        "sortTitle": "peter pan s neverland nightmare",
+        "status": "released",
+        "overview": "Wendy Darling strikes out in an attempt to rescue her brother Michael from the clutches of the evil Peter Pan who intends to send him to Neverland. Along the way she meets a twisted Tinkerbell, who is hooked on what she thinks is fairy dust.",
+        "inCinemas": "2025-02-05T00:00:00Z",
+        "physicalRelease": "2025-04-28T00:00:00Z",
+        "digitalRelease": "2025-03-18T00:00:00Z",
+        "releaseDate": "2025-02-05T00:00:00Z",
+        "images": [
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://image.tmdb.org/t/p/original/mOR1Ks0EcXocwMV4EPv4letz0F5.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://image.tmdb.org/t/p/original/nhx0ttmAS2w8e6hyIcKoNvgHoix.jpg"
+          }
+        ],
+        "website": "https://www.itnfilms.net/catalog/peter-pan's-neverland-nightmare",
+        "year": 2025,
+        "youTubeTrailerId": "5Yg9i759Zg4",
+        "studio": "Jagged Edge Productions",
+        "path": "/movies/Movies/Peter Pan's Neverland Nightmare (2025)",
+        "qualityProfileId": 1,
+        "movieFileId": 50148,
+        "monitored": true,
+        "minimumAvailability": "announced",
+        "isAvailable": true,
+        "folderName": "/movies/Movies/Peter Pan's Neverland Nightmare (2025)",
+        "runtime": 89,
+        "cleanTitle": "peterpansneverlandnightmare",
+        "imdbId": "tt21955520",
+        "tmdbId": 1020414,
+        "titleSlug": "1020414",
+        "certification": "NR",
+        "genres": [
+          "Horror",
+          "Thriller",
+          "Fantasy"
+        ],
+        "tags": [
+          3
+        ],
+        "added": "2024-11-27T03:59:17Z",
+        "ratings": {
+          "imdb": {
+            "votes": 1188,
+            "value": 5.9,
+            "type": "user"
+          },
+          "tmdb": {
+            "votes": 18,
+            "value": 5.5,
+            "type": "user"
+          },
+          "metacritic": {
+            "votes": 0,
+            "value": 50,
+            "type": "user"
+          },
+          "rottenTomatoes": {
+            "votes": 0,
+            "value": 48,
+            "type": "user"
+          },
+          "trakt": {
+            "votes": 30,
+            "value": 6.16667,
+            "type": "user"
+          }
+        },
+        "popularity": 12.17,
+        "lastSearchTime": "2025-03-27T21:52:50Z",
+        "id": 2624
+      },
+      "id": 394610
+    },
+    {
+      "movieId": 2624,
+      "sourceTitle": "Peter.Pans.Neverland.Nightmare.2025.720p.WEBRip.x264.AAC-LAMA",
+      "languages": [
+        {
+          "id": 1,
+          "name": "English"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 14,
+          "name": "WEBRip-720p",
+          "source": "webrip",
+          "resolution": 720,
+          "modifier": "none"
+        },
+        "revision": {
+          "version": 1,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "customFormats": [
+        {
+          "id": 5,
+          "name": "English"
+        }
+      ],
+      "customFormatScore": 10,
+      "qualityCutoffNotMet": true,
+      "date": "2025-03-27T21:19:00Z",
+      "downloadId": "SABnzbd_nzo_m2m8nwfw",
+      "eventType": "downloadFolderImported",
+      "data": {
+        "fileId": "50145",
+        "droppedPath": "/downloads/Peter.Pans.Neverland.Nightmare.2025.720p.WEBRip.x264.AAC-LAMA/f81ce6d169c24353ab36455d1e926b5f.mp4",
+        "importedPath": "/movies/Movies/Peter Pan's Neverland Nightmare (2025)/Peter Pan's Neverland Nightmare (2025) WEBRip-720p.mp4",
+        "downloadClient": "SABnzbd",
+        "downloadClientName": "sab",
+        "releaseGroup": "LAMA",
+        "customFormatScore": "10",
+        "size": "861978772",
+        "indexerFlags": "0"
+      },
+      "movie": {
+        "title": "Peter Pan's Neverland Nightmare",
+        "originalTitle": "Peter Pan's Neverland Nightmare",
+        "originalLanguage": {
+          "id": 1,
+          "name": "English"
+        },
+        "alternateTitles": [],
+        "secondaryYearSourceId": 0,
+        "sortTitle": "peter pan s neverland nightmare",
+        "status": "released",
+        "overview": "Wendy Darling strikes out in an attempt to rescue her brother Michael from the clutches of the evil Peter Pan who intends to send him to Neverland. Along the way she meets a twisted Tinkerbell, who is hooked on what she thinks is fairy dust.",
+        "inCinemas": "2025-02-05T00:00:00Z",
+        "physicalRelease": "2025-04-28T00:00:00Z",
+        "digitalRelease": "2025-03-18T00:00:00Z",
+        "releaseDate": "2025-02-05T00:00:00Z",
+        "images": [
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://image.tmdb.org/t/p/original/mOR1Ks0EcXocwMV4EPv4letz0F5.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://image.tmdb.org/t/p/original/nhx0ttmAS2w8e6hyIcKoNvgHoix.jpg"
+          }
+        ],
+        "website": "https://www.itnfilms.net/catalog/peter-pan's-neverland-nightmare",
+        "year": 2025,
+        "youTubeTrailerId": "5Yg9i759Zg4",
+        "studio": "Jagged Edge Productions",
+        "path": "/movies/Movies/Peter Pan's Neverland Nightmare (2025)",
+        "qualityProfileId": 1,
+        "movieFileId": 50148,
+        "monitored": true,
+        "minimumAvailability": "announced",
+        "isAvailable": true,
+        "folderName": "/movies/Movies/Peter Pan's Neverland Nightmare (2025)",
+        "runtime": 89,
+        "cleanTitle": "peterpansneverlandnightmare",
+        "imdbId": "tt21955520",
+        "tmdbId": 1020414,
+        "titleSlug": "1020414",
+        "certification": "NR",
+        "genres": [
+          "Horror",
+          "Thriller",
+          "Fantasy"
+        ],
+        "tags": [
+          3
+        ],
+        "added": "2024-11-27T03:59:17Z",
+        "ratings": {
+          "imdb": {
+            "votes": 1188,
+            "value": 5.9,
+            "type": "user"
+          },
+          "tmdb": {
+            "votes": 18,
+            "value": 5.5,
+            "type": "user"
+          },
+          "metacritic": {
+            "votes": 0,
+            "value": 50,
+            "type": "user"
+          },
+          "rottenTomatoes": {
+            "votes": 0,
+            "value": 48,
+            "type": "user"
+          },
+          "trakt": {
+            "votes": 30,
+            "value": 6.16667,
+            "type": "user"
+          }
+        },
+        "popularity": 12.17,
+        "lastSearchTime": "2025-03-27T21:52:50Z",
+        "id": 2624
+      },
+      "id": 394609
+    }
+  ]
+}

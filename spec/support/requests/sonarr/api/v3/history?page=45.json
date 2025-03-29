@@ -1,0 +1,2519 @@
+{
+  "page": 45,
+  "pageSize": 15,
+  "sortKey": "date",
+  "sortDirection": "descending",
+  "totalRecords": 344511,
+  "records": [
+    {
+      "episodeId": 51180,
+      "seriesId": 742,
+      "sourceTitle": "Kitchen.Nightmares.2023.S02E04.Kindred.1080p.AMZN.WEB-DL.DDP5.1.H.264-FLUX",
+      "languages": [
+        {
+          "id": 1,
+          "name": "English"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 3,
+          "name": "WEBDL-1080p",
+          "source": "web",
+          "resolution": 1080
+        },
+        "revision": {
+          "version": 1,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "customFormats": [
+        {
+          "id": 3,
+          "name": "english"
+        }
+      ],
+      "customFormatScore": 10,
+      "qualityCutoffNotMet": false,
+      "date": "2025-03-21T17:11:03Z",
+      "downloadId": "SABnzbd_nzo_yknzvkw0",
+      "eventType": "downloadFolderImported",
+      "data": {
+        "fileId": "1502702",
+        "droppedPath": "/downloads/Kitchen.Nightmares.2023.S02E04.Kindred.1080p.AMZN.WEB-DL.DDP5.1.H.264-FLUX/Kitchen.Nightmares.2023.S02E04.Kindred.1080p.AMZN.WEB-DL.DDP5.1.H.264-FLUX.mkv",
+        "importedPath": "/tv/Documentaires/tv shows/Kitchen Nightmares (US)/Season 1/Kitchen.Nightmares.(US).S01E14.Trobiano's.mkv",
+        "downloadClient": "SABnzbd",
+        "downloadClientName": "sab",
+        "releaseGroup": "FLUX",
+        "customFormatScore": "10",
+        "size": "3338036900",
+        "indexerFlags": "0",
+        "releaseType": "SingleEpisode"
+      },
+      "episode": {
+        "seriesId": 742,
+        "tvdbId": 390353,
+        "episodeFileId": 1502702,
+        "seasonNumber": 1,
+        "episodeNumber": 14,
+        "title": "Trobiano's",
+        "airDate": "2008-09-25",
+        "airDateUtc": "2008-09-26T00:00:00Z",
+        "lastSearchTime": "2025-03-21T17:09:31Z",
+        "runtime": 60,
+        "overview": "Chef Gordan Ramsey visits an Italian restaurant in Great Neck, New York, that is a half-million dollars in debt, but a confrontation over kitchen cleanliness and the food between Ramsey and the owner leaves the future of the eatery uncertain.",
+        "hasFile": true,
+        "monitored": true,
+        "sceneAbsoluteEpisodeNumber": 14,
+        "sceneEpisodeNumber": 4,
+        "sceneSeasonNumber": 2,
+        "unverifiedSceneNumbering": false,
+        "id": 51180
+      },
+      "series": {
+        "title": "Kitchen Nightmares (US)",
+        "sortTitle": "kitchen nightmares us",
+        "status": "continuing",
+        "ended": false,
+        "overview": "Gordon Ramsay's British series gets made over for American Television. In this series, Ramsay will hit the road to help many a struggling restaurant find the path to success in just one week.",
+        "network": "FOX",
+        "airTime": "20:00",
+        "images": [
+          {
+            "coverType": "banner",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/graphical/80552-g3.jpg"
+          },
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/posters/80552-1.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/fanart/original/80552-1.jpg"
+          },
+          {
+            "coverType": "clearlogo",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/80552/clearlogo/611b896e722c7.png"
+          }
+        ],
+        "originalLanguage": {
+          "id": 1,
+          "name": "English"
+        },
+        "seasons": [
+          {
+            "seasonNumber": 0,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 1,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 2,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 3,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 4,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 5,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 6,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 7,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 8,
+            "monitored": true
+          }
+        ],
+        "year": 2007,
+        "path": "/tv/Documentaires/tv shows/Kitchen Nightmares (US)",
+        "qualityProfileId": 1,
+        "seasonFolder": true,
+        "monitored": true,
+        "monitorNewItems": "all",
+        "useSceneNumbering": true,
+        "runtime": 57,
+        "tvdbId": 80552,
+        "tvRageId": 15769,
+        "tvMazeId": 805,
+        "tmdbId": 11294,
+        "firstAired": "2007-09-19T00:00:00Z",
+        "lastAired": "2025-03-18T00:00:00Z",
+        "seriesType": "standard",
+        "cleanTitle": "kitchennightmaresus",
+        "imdbId": "tt0983514",
+        "titleSlug": "kitchen-nightmares-us",
+        "certification": "TV-14",
+        "genres": [
+          "Reality"
+        ],
+        "tags": [],
+        "added": "2020-02-09T09:13:09Z",
+        "ratings": {
+          "votes": 15100,
+          "value": 7.5
+        },
+        "languageProfileId": 1,
+        "id": 742
+      },
+      "id": 356388
+    },
+    {
+      "episodeId": 51180,
+      "seriesId": 742,
+      "sourceTitle": "/tv/Documentaires/tv shows/Kitchen Nightmares (US)/Season 1/Kitchen.Nightmares.(US).s01e14.mkv",
+      "languages": [
+        {
+          "id": 1,
+          "name": "English"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 1,
+          "name": "SDTV",
+          "source": "television",
+          "resolution": 480
+        },
+        "revision": {
+          "version": 1,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "customFormats": [
+        {
+          "id": 3,
+          "name": "english"
+        }
+      ],
+      "customFormatScore": 10,
+      "qualityCutoffNotMet": true,
+      "date": "2025-03-21T17:11:00Z",
+      "eventType": "episodeFileDeleted",
+      "data": {
+        "reason": "Upgrade",
+        "releaseGroup": null,
+        "size": "219655979",
+        "indexerFlags": "0",
+        "releaseType": "Unknown"
+      },
+      "episode": {
+        "seriesId": 742,
+        "tvdbId": 390353,
+        "episodeFileId": 1502702,
+        "seasonNumber": 1,
+        "episodeNumber": 14,
+        "title": "Trobiano's",
+        "airDate": "2008-09-25",
+        "airDateUtc": "2008-09-26T00:00:00Z",
+        "lastSearchTime": "2025-03-21T17:09:31Z",
+        "runtime": 60,
+        "overview": "Chef Gordan Ramsey visits an Italian restaurant in Great Neck, New York, that is a half-million dollars in debt, but a confrontation over kitchen cleanliness and the food between Ramsey and the owner leaves the future of the eatery uncertain.",
+        "hasFile": true,
+        "monitored": true,
+        "sceneAbsoluteEpisodeNumber": 14,
+        "sceneEpisodeNumber": 4,
+        "sceneSeasonNumber": 2,
+        "unverifiedSceneNumbering": false,
+        "id": 51180
+      },
+      "series": {
+        "title": "Kitchen Nightmares (US)",
+        "sortTitle": "kitchen nightmares us",
+        "status": "continuing",
+        "ended": false,
+        "overview": "Gordon Ramsay's British series gets made over for American Television. In this series, Ramsay will hit the road to help many a struggling restaurant find the path to success in just one week.",
+        "network": "FOX",
+        "airTime": "20:00",
+        "images": [
+          {
+            "coverType": "banner",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/graphical/80552-g3.jpg"
+          },
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/posters/80552-1.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/fanart/original/80552-1.jpg"
+          },
+          {
+            "coverType": "clearlogo",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/80552/clearlogo/611b896e722c7.png"
+          }
+        ],
+        "originalLanguage": {
+          "id": 1,
+          "name": "English"
+        },
+        "seasons": [
+          {
+            "seasonNumber": 0,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 1,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 2,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 3,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 4,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 5,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 6,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 7,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 8,
+            "monitored": true
+          }
+        ],
+        "year": 2007,
+        "path": "/tv/Documentaires/tv shows/Kitchen Nightmares (US)",
+        "qualityProfileId": 1,
+        "seasonFolder": true,
+        "monitored": true,
+        "monitorNewItems": "all",
+        "useSceneNumbering": true,
+        "runtime": 57,
+        "tvdbId": 80552,
+        "tvRageId": 15769,
+        "tvMazeId": 805,
+        "tmdbId": 11294,
+        "firstAired": "2007-09-19T00:00:00Z",
+        "lastAired": "2025-03-18T00:00:00Z",
+        "seriesType": "standard",
+        "cleanTitle": "kitchennightmaresus",
+        "imdbId": "tt0983514",
+        "titleSlug": "kitchen-nightmares-us",
+        "certification": "TV-14",
+        "genres": [
+          "Reality"
+        ],
+        "tags": [],
+        "added": "2020-02-09T09:13:09Z",
+        "ratings": {
+          "votes": 15100,
+          "value": 7.5
+        },
+        "languageProfileId": 1,
+        "id": 742
+      },
+      "id": 356387
+    },
+    {
+      "episodeId": 51180,
+      "seriesId": 742,
+      "sourceTitle": "Kitchen.Nightmares.2023.S02E04.Kindred.1080p.AMZN.WEB-DL.DDP5.1.H.264-FLUX",
+      "languages": [
+        {
+          "id": 1,
+          "name": "English"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 3,
+          "name": "WEBDL-1080p",
+          "source": "web",
+          "resolution": 1080
+        },
+        "revision": {
+          "version": 1,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "customFormats": [
+        {
+          "id": 3,
+          "name": "english"
+        }
+      ],
+      "customFormatScore": 10,
+      "qualityCutoffNotMet": false,
+      "date": "2025-03-21T17:09:36Z",
+      "downloadId": "SABnzbd_nzo_yknzvkw0",
+      "eventType": "grabbed",
+      "data": {
+        "indexer": "altHUB (Prowlarr)",
+        "nzbInfoUrl": "https://api.althub.co.za/details/988486712c5a95606d2b46489c485a45",
+        "releaseGroup": "FLUX",
+        "age": "0",
+        "ageHours": "0.12762805741666666",
+        "ageMinutes": "7.657683481666667",
+        "publishedDate": "2025-03-21T17:01:57Z",
+        "downloadClient": "SABnzbd",
+        "downloadClientName": "sab",
+        "size": "3558459262",
+        "downloadUrl": "http://prowlarr:9696/1/download?apikey=5f771c1869f94fec821832369384a70c&link=dkFqUTMrRDFtTWNobEtTaDNCbWtidkJWbElsc2hpMVRvbFByeXI2RnQxbUpSalJQR0ZVc3hGdTd4S3hTY20vS0ZiNnpKU3VaRHdWcGprYUpUQkFVZGRYWVBvNGxPYzFESG05bGo4ZGlMY0cxNGJ6ZDQxdldyd3FITFpnOGNORG5WNjNPb2VyeWZqeFNHQTltQXpQcjEwejlGZHlSRjhPV1IzOU5JZ1l0TGxzPQ&file=Kitchen.Nightmares.2023.S02E04.Kindred.1080p.AMZN.WEB-DL.DDP5.1.H.264-FLUX",
+        "guid": "https://api.althub.co.za/details/988486712c5a95606d2b46489c485a45",
+        "tvdbId": "0",
+        "tvRageId": "0",
+        "imdbId": null,
+        "protocol": "1",
+        "customFormatScore": "10",
+        "seriesMatchType": "Alias",
+        "releaseSource": "Search",
+        "indexerFlags": "0",
+        "releaseType": "SingleEpisode"
+      },
+      "episode": {
+        "seriesId": 742,
+        "tvdbId": 390353,
+        "episodeFileId": 1502702,
+        "seasonNumber": 1,
+        "episodeNumber": 14,
+        "title": "Trobiano's",
+        "airDate": "2008-09-25",
+        "airDateUtc": "2008-09-26T00:00:00Z",
+        "lastSearchTime": "2025-03-21T17:09:31Z",
+        "runtime": 60,
+        "overview": "Chef Gordan Ramsey visits an Italian restaurant in Great Neck, New York, that is a half-million dollars in debt, but a confrontation over kitchen cleanliness and the food between Ramsey and the owner leaves the future of the eatery uncertain.",
+        "hasFile": true,
+        "monitored": true,
+        "sceneAbsoluteEpisodeNumber": 14,
+        "sceneEpisodeNumber": 4,
+        "sceneSeasonNumber": 2,
+        "unverifiedSceneNumbering": false,
+        "id": 51180
+      },
+      "series": {
+        "title": "Kitchen Nightmares (US)",
+        "sortTitle": "kitchen nightmares us",
+        "status": "continuing",
+        "ended": false,
+        "overview": "Gordon Ramsay's British series gets made over for American Television. In this series, Ramsay will hit the road to help many a struggling restaurant find the path to success in just one week.",
+        "network": "FOX",
+        "airTime": "20:00",
+        "images": [
+          {
+            "coverType": "banner",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/graphical/80552-g3.jpg"
+          },
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/posters/80552-1.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/fanart/original/80552-1.jpg"
+          },
+          {
+            "coverType": "clearlogo",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/80552/clearlogo/611b896e722c7.png"
+          }
+        ],
+        "originalLanguage": {
+          "id": 1,
+          "name": "English"
+        },
+        "seasons": [
+          {
+            "seasonNumber": 0,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 1,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 2,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 3,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 4,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 5,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 6,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 7,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 8,
+            "monitored": true
+          }
+        ],
+        "year": 2007,
+        "path": "/tv/Documentaires/tv shows/Kitchen Nightmares (US)",
+        "qualityProfileId": 1,
+        "seasonFolder": true,
+        "monitored": true,
+        "monitorNewItems": "all",
+        "useSceneNumbering": true,
+        "runtime": 57,
+        "tvdbId": 80552,
+        "tvRageId": 15769,
+        "tvMazeId": 805,
+        "tmdbId": 11294,
+        "firstAired": "2007-09-19T00:00:00Z",
+        "lastAired": "2025-03-18T00:00:00Z",
+        "seriesType": "standard",
+        "cleanTitle": "kitchennightmaresus",
+        "imdbId": "tt0983514",
+        "titleSlug": "kitchen-nightmares-us",
+        "certification": "TV-14",
+        "genres": [
+          "Reality"
+        ],
+        "tags": [],
+        "added": "2020-02-09T09:13:09Z",
+        "ratings": {
+          "votes": 15100,
+          "value": 7.5
+        },
+        "languageProfileId": 1,
+        "id": 742
+      },
+      "id": 356386
+    },
+    {
+      "episodeId": 163539,
+      "seriesId": 1417,
+      "sourceTitle": "Teen.Mom.The.Next.Chapter.S02E23.You.Got.Real.Mommy.Problems.720p.AMZN.WEB-DL.DDP2.0.H.264-RAWR",
+      "languages": [
+        {
+          "id": 1,
+          "name": "English"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 5,
+          "name": "WEBDL-720p",
+          "source": "web",
+          "resolution": 720
+        },
+        "revision": {
+          "version": 1,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "customFormats": [
+        {
+          "id": 3,
+          "name": "english"
+        }
+      ],
+      "customFormatScore": 10,
+      "qualityCutoffNotMet": true,
+      "date": "2025-03-21T17:09:26Z",
+      "downloadId": "SABnzbd_nzo_jcutwmh4",
+      "eventType": "downloadFolderImported",
+      "data": {
+        "fileId": "1502701",
+        "droppedPath": "/downloads/Teen.Mom.The.Next.Chapter.S02E23.You.Got.Real.Mommy.Problems.720p.AMZN.WEB-DL.DDP2.0.H.264-RAWR/28cd00457cbb47c2b540de45b2eb3909.mkv",
+        "importedPath": "/tv/Documentaires/tv shows/Teen Mom - The Next Chapter/Season 2/Teen.Mom-.The.Next.Chapter.S02E23.You.Got.Real.Mommy.Problems.mkv",
+        "downloadClient": "SABnzbd",
+        "downloadClientName": "sab",
+        "releaseGroup": "RAWR",
+        "customFormatScore": "10",
+        "size": "1546155263",
+        "indexerFlags": "0",
+        "releaseType": "SingleEpisode"
+      },
+      "episode": {
+        "seriesId": 1417,
+        "tvdbId": 11002034,
+        "episodeFileId": 1502703,
+        "seasonNumber": 2,
+        "episodeNumber": 23,
+        "title": "You Got Real Mommy Problems",
+        "airDate": "2025-03-20",
+        "airDateUtc": "2025-03-21T00:00:00Z",
+        "runtime": 42,
+        "overview": "The fallout from Jade's intervention with Christy continues. Ashley arranges a call for Holly with Bar from jail. Briana learns the impact of Devoin's move on Nova. Cheyenne sees a fertility specialist. Mackenzie undergoes an embryo transfer.",
+        "hasFile": true,
+        "monitored": true,
+        "unverifiedSceneNumbering": false,
+        "id": 163539
+      },
+      "series": {
+        "title": "Teen Mom: The Next Chapter",
+        "sortTitle": "teen mom the next chapter",
+        "status": "continuing",
+        "ended": false,
+        "overview": "The casts of Teen Mom OG and Teen Mom 2 are each currently in different stages of motherhood – some have kids in diapers, while others are now parenting teenagers! But they all share the unique experience of momming so young. For the first time, the moms and all their stories will be brought together in one supersized series that focuses on the unique bond they share as they face the reality of parenthood and adulting while entering new phases of life together.",
+        "network": "MTV",
+        "airTime": "20:00",
+        "images": [
+          {
+            "coverType": "banner",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/423373/banners/6318225038120.jpg"
+          },
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/423373/posters/67e38cd4734e9.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/423373/backgrounds/630b844a3821c.jpg"
+          }
+        ],
+        "originalLanguage": {
+          "id": 1,
+          "name": "English"
+        },
+        "seasons": [
+          {
+            "seasonNumber": 1,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 2,
+            "monitored": true
+          }
+        ],
+        "year": 2022,
+        "path": "/tv/Documentaires/tv shows/Teen Mom - The Next Chapter",
+        "qualityProfileId": 1,
+        "seasonFolder": true,
+        "monitored": true,
+        "monitorNewItems": "all",
+        "useSceneNumbering": false,
+        "runtime": 42,
+        "tvdbId": 423373,
+        "tvRageId": 0,
+        "tvMazeId": 63524,
+        "tmdbId": 205026,
+        "firstAired": "2022-09-06T00:00:00Z",
+        "lastAired": "2025-05-01T00:00:00Z",
+        "seriesType": "standard",
+        "cleanTitle": "teenmomnextchapter",
+        "imdbId": "tt21663658",
+        "titleSlug": "teen-mom-the-next-chapter",
+        "genres": [
+          "Reality"
+        ],
+        "tags": [],
+        "added": "2022-09-09T04:34:54Z",
+        "ratings": {
+          "votes": 141,
+          "value": 5.8
+        },
+        "languageProfileId": 1,
+        "id": 1417
+      },
+      "id": 356385
+    },
+    {
+      "episodeId": 51180,
+      "seriesId": 742,
+      "sourceTitle": "Kitchen.Nightmares.2023.S02E04.Kindred.1080p.AMZN.WEB-DL.DDP5.1.H.264-FLUX",
+      "languages": [
+        {
+          "id": 1,
+          "name": "English"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 3,
+          "name": "WEBDL-1080p",
+          "source": "web",
+          "resolution": 1080
+        },
+        "revision": {
+          "version": 1,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "customFormats": [
+        {
+          "id": 3,
+          "name": "english"
+        }
+      ],
+      "customFormatScore": 10,
+      "qualityCutoffNotMet": false,
+      "date": "2025-03-21T17:09:00Z",
+      "downloadId": "SABnzbd_nzo_4d_ecijk",
+      "eventType": "downloadFailed",
+      "data": {
+        "downloadClient": "SABnzbd",
+        "downloadClientName": "sab",
+        "message": "Repair failed, not enough repair blocks (40 short)",
+        "releaseGroup": "FLUX",
+        "size": "3498964862"
+      },
+      "episode": {
+        "seriesId": 742,
+        "tvdbId": 390353,
+        "episodeFileId": 1502702,
+        "seasonNumber": 1,
+        "episodeNumber": 14,
+        "title": "Trobiano's",
+        "airDate": "2008-09-25",
+        "airDateUtc": "2008-09-26T00:00:00Z",
+        "lastSearchTime": "2025-03-21T17:09:31Z",
+        "runtime": 60,
+        "overview": "Chef Gordan Ramsey visits an Italian restaurant in Great Neck, New York, that is a half-million dollars in debt, but a confrontation over kitchen cleanliness and the food between Ramsey and the owner leaves the future of the eatery uncertain.",
+        "hasFile": true,
+        "monitored": true,
+        "sceneAbsoluteEpisodeNumber": 14,
+        "sceneEpisodeNumber": 4,
+        "sceneSeasonNumber": 2,
+        "unverifiedSceneNumbering": false,
+        "id": 51180
+      },
+      "series": {
+        "title": "Kitchen Nightmares (US)",
+        "sortTitle": "kitchen nightmares us",
+        "status": "continuing",
+        "ended": false,
+        "overview": "Gordon Ramsay's British series gets made over for American Television. In this series, Ramsay will hit the road to help many a struggling restaurant find the path to success in just one week.",
+        "network": "FOX",
+        "airTime": "20:00",
+        "images": [
+          {
+            "coverType": "banner",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/graphical/80552-g3.jpg"
+          },
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/posters/80552-1.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/fanart/original/80552-1.jpg"
+          },
+          {
+            "coverType": "clearlogo",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/80552/clearlogo/611b896e722c7.png"
+          }
+        ],
+        "originalLanguage": {
+          "id": 1,
+          "name": "English"
+        },
+        "seasons": [
+          {
+            "seasonNumber": 0,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 1,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 2,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 3,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 4,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 5,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 6,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 7,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 8,
+            "monitored": true
+          }
+        ],
+        "year": 2007,
+        "path": "/tv/Documentaires/tv shows/Kitchen Nightmares (US)",
+        "qualityProfileId": 1,
+        "seasonFolder": true,
+        "monitored": true,
+        "monitorNewItems": "all",
+        "useSceneNumbering": true,
+        "runtime": 57,
+        "tvdbId": 80552,
+        "tvRageId": 15769,
+        "tvMazeId": 805,
+        "tmdbId": 11294,
+        "firstAired": "2007-09-19T00:00:00Z",
+        "lastAired": "2025-03-18T00:00:00Z",
+        "seriesType": "standard",
+        "cleanTitle": "kitchennightmaresus",
+        "imdbId": "tt0983514",
+        "titleSlug": "kitchen-nightmares-us",
+        "certification": "TV-14",
+        "genres": [
+          "Reality"
+        ],
+        "tags": [],
+        "added": "2020-02-09T09:13:09Z",
+        "ratings": {
+          "votes": 15100,
+          "value": 7.5
+        },
+        "languageProfileId": 1,
+        "id": 742
+      },
+      "id": 356384
+    },
+    {
+      "episodeId": 163539,
+      "seriesId": 1417,
+      "sourceTitle": "Teen.Mom.The.Next.Chapter.S02E23.You.Got.Real.Mommy.Problems.720p.AMZN.WEB-DL.DDP2.0.H.264-RAWR",
+      "languages": [
+        {
+          "id": 1,
+          "name": "English"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 5,
+          "name": "WEBDL-720p",
+          "source": "web",
+          "resolution": 720
+        },
+        "revision": {
+          "version": 1,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "customFormats": [
+        {
+          "id": 3,
+          "name": "english"
+        }
+      ],
+      "customFormatScore": 10,
+      "qualityCutoffNotMet": true,
+      "date": "2025-03-21T17:07:29Z",
+      "downloadId": "SABnzbd_nzo_jcutwmh4",
+      "eventType": "grabbed",
+      "data": {
+        "indexer": "NzbPlanet (Prowlarr)",
+        "nzbInfoUrl": "https://nzbplanet.org/details/7f9f8f3802afce46d5fc75bf2d86476c",
+        "releaseGroup": "RAWR",
+        "age": "0",
+        "ageHours": "0.27733044630555553",
+        "ageMinutes": "16.639826818333333",
+        "publishedDate": "2025-03-21T16:50:51Z",
+        "downloadClient": "SABnzbd",
+        "downloadClientName": "sab",
+        "size": "1702705993",
+        "downloadUrl": "http://prowlarr:9696/7/download?apikey=5f771c1869f94fec821832369384a70c&link=clhKKzM0cTdaV2VXcDQva3hib1pmbCtpS1ZFUGVqVWY0ZnBpKzlnZ0dzQ0pWR2NTc3h3UVEyaGFka2czRnI3aXQ5RWp2bUQza3JoNVl4dGtvMHhpdjBKcnhxQ2NUa3dwWEtNdzhadWd0ck4zY1B6N3E0ekpWQU5ZMjNkQTV2bWVFZm0vTGc5eTUyK1VmNGx1UXNEaXFZdVU4Y20wd09Tcjh4T3FOc01vdVlZPQ&file=Teen.Mom.The.Next.Chapter.S02E23.You.Got.Real.Mommy.Problems.720p.AMZN.WEB-DL.DDP2.0.H.264-RAWR",
+        "guid": "https://nzbplanet.org/details/7f9f8f3802afce46d5fc75bf2d86476c",
+        "tvdbId": "0",
+        "tvRageId": "0",
+        "imdbId": null,
+        "protocol": "1",
+        "customFormatScore": "10",
+        "seriesMatchType": "Title",
+        "releaseSource": "Rss",
+        "indexerFlags": "0",
+        "releaseType": "SingleEpisode"
+      },
+      "episode": {
+        "seriesId": 1417,
+        "tvdbId": 11002034,
+        "episodeFileId": 1502703,
+        "seasonNumber": 2,
+        "episodeNumber": 23,
+        "title": "You Got Real Mommy Problems",
+        "airDate": "2025-03-20",
+        "airDateUtc": "2025-03-21T00:00:00Z",
+        "runtime": 42,
+        "overview": "The fallout from Jade's intervention with Christy continues. Ashley arranges a call for Holly with Bar from jail. Briana learns the impact of Devoin's move on Nova. Cheyenne sees a fertility specialist. Mackenzie undergoes an embryo transfer.",
+        "hasFile": true,
+        "monitored": true,
+        "unverifiedSceneNumbering": false,
+        "id": 163539
+      },
+      "series": {
+        "title": "Teen Mom: The Next Chapter",
+        "sortTitle": "teen mom the next chapter",
+        "status": "continuing",
+        "ended": false,
+        "overview": "The casts of Teen Mom OG and Teen Mom 2 are each currently in different stages of motherhood – some have kids in diapers, while others are now parenting teenagers! But they all share the unique experience of momming so young. For the first time, the moms and all their stories will be brought together in one supersized series that focuses on the unique bond they share as they face the reality of parenthood and adulting while entering new phases of life together.",
+        "network": "MTV",
+        "airTime": "20:00",
+        "images": [
+          {
+            "coverType": "banner",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/423373/banners/6318225038120.jpg"
+          },
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/423373/posters/67e38cd4734e9.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/423373/backgrounds/630b844a3821c.jpg"
+          }
+        ],
+        "originalLanguage": {
+          "id": 1,
+          "name": "English"
+        },
+        "seasons": [
+          {
+            "seasonNumber": 1,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 2,
+            "monitored": true
+          }
+        ],
+        "year": 2022,
+        "path": "/tv/Documentaires/tv shows/Teen Mom - The Next Chapter",
+        "qualityProfileId": 1,
+        "seasonFolder": true,
+        "monitored": true,
+        "monitorNewItems": "all",
+        "useSceneNumbering": false,
+        "runtime": 42,
+        "tvdbId": 423373,
+        "tvRageId": 0,
+        "tvMazeId": 63524,
+        "tmdbId": 205026,
+        "firstAired": "2022-09-06T00:00:00Z",
+        "lastAired": "2025-05-01T00:00:00Z",
+        "seriesType": "standard",
+        "cleanTitle": "teenmomnextchapter",
+        "imdbId": "tt21663658",
+        "titleSlug": "teen-mom-the-next-chapter",
+        "genres": [
+          "Reality"
+        ],
+        "tags": [],
+        "added": "2022-09-09T04:34:54Z",
+        "ratings": {
+          "votes": 141,
+          "value": 5.8
+        },
+        "languageProfileId": 1,
+        "id": 1417
+      },
+      "id": 356383
+    },
+    {
+      "episodeId": 51180,
+      "seriesId": 742,
+      "sourceTitle": "Kitchen.Nightmares.2023.S02E04.Kindred.1080p.AMZN.WEB-DL.DDP5.1.H.264-FLUX",
+      "languages": [
+        {
+          "id": 1,
+          "name": "English"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 3,
+          "name": "WEBDL-1080p",
+          "source": "web",
+          "resolution": 1080
+        },
+        "revision": {
+          "version": 1,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "customFormats": [
+        {
+          "id": 3,
+          "name": "english"
+        }
+      ],
+      "customFormatScore": 10,
+      "qualityCutoffNotMet": false,
+      "date": "2025-03-21T17:07:27Z",
+      "downloadId": "SABnzbd_nzo_4d_ecijk",
+      "eventType": "grabbed",
+      "data": {
+        "indexer": "altHUB (Prowlarr)",
+        "nzbInfoUrl": "https://api.althub.co.za/details/276ac5ebac9b828f430f787db86c68c2",
+        "releaseGroup": "FLUX",
+        "age": "0",
+        "ageHours": "0.043690062083333335",
+        "ageMinutes": "2.621403765",
+        "publishedDate": "2025-03-21T17:04:50Z",
+        "downloadClient": "SABnzbd",
+        "downloadClientName": "sab",
+        "size": "3558459262",
+        "downloadUrl": "http://prowlarr:9696/1/download?apikey=5f771c1869f94fec821832369384a70c&link=M2JJSlNpZlo5ckFueE5UZjhDOXIveVpOZnNnQTlLc0E4a2U1dGxjQnpEYStOdEoycXVRTGJJL1RsQUJTNlhXREh5SllQMyt2eWVKbmwyK1ViSXRJOVpvVjRGVU9TTWs1WmJnVU9hMXcwaDQwS3FidU50SmxyNXloZW52UmRMTmUxeTNGdnQ2RlF4R3lkR0EyakRjT1NkdldjRm91TnNMbXlYSmtqZWRHb2tZPQ&file=Kitchen.Nightmares.2023.S02E04.Kindred.1080p.AMZN.WEB-DL.DDP5.1.H.264-FLUX",
+        "guid": "https://api.althub.co.za/details/276ac5ebac9b828f430f787db86c68c2",
+        "tvdbId": "0",
+        "tvRageId": "0",
+        "imdbId": null,
+        "protocol": "1",
+        "customFormatScore": "10",
+        "seriesMatchType": "Alias",
+        "releaseSource": "Rss",
+        "indexerFlags": "0",
+        "releaseType": "SingleEpisode"
+      },
+      "episode": {
+        "seriesId": 742,
+        "tvdbId": 390353,
+        "episodeFileId": 1502702,
+        "seasonNumber": 1,
+        "episodeNumber": 14,
+        "title": "Trobiano's",
+        "airDate": "2008-09-25",
+        "airDateUtc": "2008-09-26T00:00:00Z",
+        "lastSearchTime": "2025-03-21T17:09:31Z",
+        "runtime": 60,
+        "overview": "Chef Gordan Ramsey visits an Italian restaurant in Great Neck, New York, that is a half-million dollars in debt, but a confrontation over kitchen cleanliness and the food between Ramsey and the owner leaves the future of the eatery uncertain.",
+        "hasFile": true,
+        "monitored": true,
+        "sceneAbsoluteEpisodeNumber": 14,
+        "sceneEpisodeNumber": 4,
+        "sceneSeasonNumber": 2,
+        "unverifiedSceneNumbering": false,
+        "id": 51180
+      },
+      "series": {
+        "title": "Kitchen Nightmares (US)",
+        "sortTitle": "kitchen nightmares us",
+        "status": "continuing",
+        "ended": false,
+        "overview": "Gordon Ramsay's British series gets made over for American Television. In this series, Ramsay will hit the road to help many a struggling restaurant find the path to success in just one week.",
+        "network": "FOX",
+        "airTime": "20:00",
+        "images": [
+          {
+            "coverType": "banner",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/graphical/80552-g3.jpg"
+          },
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/posters/80552-1.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/fanart/original/80552-1.jpg"
+          },
+          {
+            "coverType": "clearlogo",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/80552/clearlogo/611b896e722c7.png"
+          }
+        ],
+        "originalLanguage": {
+          "id": 1,
+          "name": "English"
+        },
+        "seasons": [
+          {
+            "seasonNumber": 0,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 1,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 2,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 3,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 4,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 5,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 6,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 7,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 8,
+            "monitored": true
+          }
+        ],
+        "year": 2007,
+        "path": "/tv/Documentaires/tv shows/Kitchen Nightmares (US)",
+        "qualityProfileId": 1,
+        "seasonFolder": true,
+        "monitored": true,
+        "monitorNewItems": "all",
+        "useSceneNumbering": true,
+        "runtime": 57,
+        "tvdbId": 80552,
+        "tvRageId": 15769,
+        "tvMazeId": 805,
+        "tmdbId": 11294,
+        "firstAired": "2007-09-19T00:00:00Z",
+        "lastAired": "2025-03-18T00:00:00Z",
+        "seriesType": "standard",
+        "cleanTitle": "kitchennightmaresus",
+        "imdbId": "tt0983514",
+        "titleSlug": "kitchen-nightmares-us",
+        "certification": "TV-14",
+        "genres": [
+          "Reality"
+        ],
+        "tags": [],
+        "added": "2020-02-09T09:13:09Z",
+        "ratings": {
+          "votes": 15100,
+          "value": 7.5
+        },
+        "languageProfileId": 1,
+        "id": 742
+      },
+      "id": 356382
+    },
+    {
+      "episodeId": 26338,
+      "seriesId": 384,
+      "sourceTitle": "One-Punch.Man.2015.S01E07.1080p.BluRay.EAC3.AV1-TiZU",
+      "languages": [
+        {
+          "id": 1,
+          "name": "English"
+        },
+        {
+          "id": 8,
+          "name": "Japanese"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 7,
+          "name": "Bluray-1080p",
+          "source": "bluray",
+          "resolution": 1080
+        },
+        "revision": {
+          "version": 1,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "customFormats": [
+        {
+          "id": 3,
+          "name": "english"
+        }
+      ],
+      "customFormatScore": 10,
+      "qualityCutoffNotMet": false,
+      "date": "2025-03-21T13:32:01Z",
+      "downloadId": "SABnzbd_nzo_8foqo6rj",
+      "eventType": "downloadFolderImported",
+      "data": {
+        "fileId": "1502700",
+        "droppedPath": "/downloads/One-Punch.Man.2015.S01E07.1080p.BluRay.EAC3.AV1-TiZU/One-Punch.Man.2015.S01E07.1080p.BluRay.EAC3.AV1-TiZU.mkv",
+        "importedPath": "/tv/Cartoons/One-Punch Man/Season 1/One-Punch.Man.S01E07.The.Ultimate.Disciple.mkv",
+        "downloadClient": "SABnzbd",
+        "downloadClientName": "sab",
+        "releaseGroup": "TiZU",
+        "customFormatScore": "10",
+        "size": "841603515",
+        "indexerFlags": "0",
+        "releaseType": "SingleEpisode"
+      },
+      "episode": {
+        "seriesId": 384,
+        "tvdbId": 5355672,
+        "episodeFileId": 1502700,
+        "seasonNumber": 1,
+        "episodeNumber": 7,
+        "title": "The Ultimate Disciple",
+        "airDate": "2015-11-15",
+        "airDateUtc": "2015-11-14T16:30:00Z",
+        "runtime": 25,
+        "overview": "An enormous meteor hurtles toward City Z, forcing the Hero Association to ask its S Class heroes to respond. When all their efforts prove in vain, Genos decides it's up to him to protect the home of his master and stop the meteor, no matter what the cost.",
+        "hasFile": true,
+        "monitored": true,
+        "absoluteEpisodeNumber": 10,
+        "sceneAbsoluteEpisodeNumber": 7,
+        "sceneEpisodeNumber": 7,
+        "sceneSeasonNumber": 1,
+        "unverifiedSceneNumbering": false,
+        "id": 26338
+      },
+      "series": {
+        "title": "One-Punch Man",
+        "sortTitle": "onepunch man",
+        "status": "ended",
+        "ended": true,
+        "overview": "Saitama is a superhero who has trained so hard that his hair has fallen out, and who can overcome any enemy with one punch. However, because he is so strong, he has become bored and frustrated that he wins all of his battles too easily.",
+        "network": "TV Tokyo",
+        "airTime": "01:30",
+        "images": [
+          {
+            "coverType": "banner",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/graphical/293088-g2.jpg"
+          },
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/293088/posters/60a38fe89e639.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/fanart/original/293088-2.jpg"
+          },
+          {
+            "coverType": "clearlogo",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/293088/clearlogo/611bb0fee38ac.png"
+          }
+        ],
+        "originalLanguage": {
+          "id": 8,
+          "name": "Japanese"
+        },
+        "seasons": [
+          {
+            "seasonNumber": 0,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 1,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 2,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 3,
+            "monitored": true
+          }
+        ],
+        "year": 2015,
+        "path": "/tv/Cartoons/One-Punch Man",
+        "qualityProfileId": 1,
+        "seasonFolder": true,
+        "monitored": true,
+        "monitorNewItems": "all",
+        "useSceneNumbering": true,
+        "runtime": 25,
+        "tvdbId": 293088,
+        "tvRageId": 25941,
+        "tvMazeId": 4201,
+        "tmdbId": 63926,
+        "firstAired": "2015-10-04T00:00:00Z",
+        "lastAired": "2019-07-03T00:00:00Z",
+        "seriesType": "standard",
+        "cleanTitle": "onepunchman",
+        "imdbId": "tt4508902",
+        "titleSlug": "one-punch-man",
+        "certification": "TV-14",
+        "genres": [
+          "Action",
+          "Animation",
+          "Anime",
+          "Comedy",
+          "Fantasy",
+          "Science Fiction"
+        ],
+        "tags": [],
+        "added": "2020-02-09T03:17:10Z",
+        "ratings": {
+          "votes": 198259,
+          "value": 8.7
+        },
+        "languageProfileId": 1,
+        "id": 384
+      },
+      "id": 356381
+    },
+    {
+      "episodeId": 26338,
+      "seriesId": 384,
+      "sourceTitle": "/tv/Cartoons/One-Punch Man/Season 1/One-Punch.Man.s01e07.mkv",
+      "languages": [
+        {
+          "id": 1,
+          "name": "English"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 1,
+          "name": "SDTV",
+          "source": "television",
+          "resolution": 480
+        },
+        "revision": {
+          "version": 1,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "customFormats": [
+        {
+          "id": 3,
+          "name": "english"
+        }
+      ],
+      "customFormatScore": 10,
+      "qualityCutoffNotMet": true,
+      "date": "2025-03-21T13:32:00Z",
+      "eventType": "episodeFileDeleted",
+      "data": {
+        "reason": "Upgrade",
+        "releaseGroup": "Punch",
+        "size": "127773400",
+        "indexerFlags": "0",
+        "releaseType": "Unknown"
+      },
+      "episode": {
+        "seriesId": 384,
+        "tvdbId": 5355672,
+        "episodeFileId": 1502700,
+        "seasonNumber": 1,
+        "episodeNumber": 7,
+        "title": "The Ultimate Disciple",
+        "airDate": "2015-11-15",
+        "airDateUtc": "2015-11-14T16:30:00Z",
+        "runtime": 25,
+        "overview": "An enormous meteor hurtles toward City Z, forcing the Hero Association to ask its S Class heroes to respond. When all their efforts prove in vain, Genos decides it's up to him to protect the home of his master and stop the meteor, no matter what the cost.",
+        "hasFile": true,
+        "monitored": true,
+        "absoluteEpisodeNumber": 10,
+        "sceneAbsoluteEpisodeNumber": 7,
+        "sceneEpisodeNumber": 7,
+        "sceneSeasonNumber": 1,
+        "unverifiedSceneNumbering": false,
+        "id": 26338
+      },
+      "series": {
+        "title": "One-Punch Man",
+        "sortTitle": "onepunch man",
+        "status": "ended",
+        "ended": true,
+        "overview": "Saitama is a superhero who has trained so hard that his hair has fallen out, and who can overcome any enemy with one punch. However, because he is so strong, he has become bored and frustrated that he wins all of his battles too easily.",
+        "network": "TV Tokyo",
+        "airTime": "01:30",
+        "images": [
+          {
+            "coverType": "banner",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/graphical/293088-g2.jpg"
+          },
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/293088/posters/60a38fe89e639.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/fanart/original/293088-2.jpg"
+          },
+          {
+            "coverType": "clearlogo",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/293088/clearlogo/611bb0fee38ac.png"
+          }
+        ],
+        "originalLanguage": {
+          "id": 8,
+          "name": "Japanese"
+        },
+        "seasons": [
+          {
+            "seasonNumber": 0,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 1,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 2,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 3,
+            "monitored": true
+          }
+        ],
+        "year": 2015,
+        "path": "/tv/Cartoons/One-Punch Man",
+        "qualityProfileId": 1,
+        "seasonFolder": true,
+        "monitored": true,
+        "monitorNewItems": "all",
+        "useSceneNumbering": true,
+        "runtime": 25,
+        "tvdbId": 293088,
+        "tvRageId": 25941,
+        "tvMazeId": 4201,
+        "tmdbId": 63926,
+        "firstAired": "2015-10-04T00:00:00Z",
+        "lastAired": "2019-07-03T00:00:00Z",
+        "seriesType": "standard",
+        "cleanTitle": "onepunchman",
+        "imdbId": "tt4508902",
+        "titleSlug": "one-punch-man",
+        "certification": "TV-14",
+        "genres": [
+          "Action",
+          "Animation",
+          "Anime",
+          "Comedy",
+          "Fantasy",
+          "Science Fiction"
+        ],
+        "tags": [],
+        "added": "2020-02-09T03:17:10Z",
+        "ratings": {
+          "votes": 198259,
+          "value": 8.7
+        },
+        "languageProfileId": 1,
+        "id": 384
+      },
+      "id": 356380
+    },
+    {
+      "episodeId": 26338,
+      "seriesId": 384,
+      "sourceTitle": "One-Punch.Man.2015.S01E07.1080p.BluRay.EAC3.AV1-TiZU",
+      "languages": [
+        {
+          "id": 8,
+          "name": "Japanese"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 7,
+          "name": "Bluray-1080p",
+          "source": "bluray",
+          "resolution": 1080
+        },
+        "revision": {
+          "version": 1,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "customFormats": [],
+      "customFormatScore": 0,
+      "qualityCutoffNotMet": false,
+      "date": "2025-03-21T13:30:27Z",
+      "downloadId": "SABnzbd_nzo_8foqo6rj",
+      "eventType": "grabbed",
+      "data": {
+        "indexer": "abNZB (Prowlarr)",
+        "nzbInfoUrl": "https://abnzb.com/details/3768b8f6b0363d6507d27348a919dd3c",
+        "releaseGroup": "TiZU",
+        "age": "0",
+        "ageHours": "0.12468284763888889",
+        "ageMinutes": "7.480970895",
+        "publishedDate": "2025-03-21T13:22:59Z",
+        "downloadClient": "SABnzbd",
+        "downloadClientName": "sab",
+        "size": "915055358",
+        "downloadUrl": "http://prowlarr:9696/29/download?apikey=5f771c1869f94fec821832369384a70c&link=T0RYSVFPL1p6dXZuaVVValZ0Rk03dnFLcGlCaU9ONVlXbHQxMzJ6T0FuY01mSmY0YlFNYUpHK2JENkwrMXNPNDBIdUx6cVhSbjc2b0x0QWR6a2xydEdhYjFnOHNDVkdZMFNCUVptK09HalFqSzJCc2FHZGE5WmVsWkFzSDZab0lVVXNSVXFodWQveTFOQWpLM3lqQUEwSWxYS3lLQTcwbGowTTZMK01ETmE4PQ&file=One-Punch.Man.2015.S01E07.1080p.BluRay.EAC3.AV1-TiZU",
+        "guid": "https://abnzb.com/details/3768b8f6b0363d6507d27348a919dd3c",
+        "tvdbId": "0",
+        "tvRageId": "0",
+        "imdbId": null,
+        "protocol": "1",
+        "customFormatScore": "0",
+        "seriesMatchType": "Title",
+        "releaseSource": "Rss",
+        "indexerFlags": "0",
+        "releaseType": "SingleEpisode"
+      },
+      "episode": {
+        "seriesId": 384,
+        "tvdbId": 5355672,
+        "episodeFileId": 1502700,
+        "seasonNumber": 1,
+        "episodeNumber": 7,
+        "title": "The Ultimate Disciple",
+        "airDate": "2015-11-15",
+        "airDateUtc": "2015-11-14T16:30:00Z",
+        "runtime": 25,
+        "overview": "An enormous meteor hurtles toward City Z, forcing the Hero Association to ask its S Class heroes to respond. When all their efforts prove in vain, Genos decides it's up to him to protect the home of his master and stop the meteor, no matter what the cost.",
+        "hasFile": true,
+        "monitored": true,
+        "absoluteEpisodeNumber": 10,
+        "sceneAbsoluteEpisodeNumber": 7,
+        "sceneEpisodeNumber": 7,
+        "sceneSeasonNumber": 1,
+        "unverifiedSceneNumbering": false,
+        "id": 26338
+      },
+      "series": {
+        "title": "One-Punch Man",
+        "sortTitle": "onepunch man",
+        "status": "ended",
+        "ended": true,
+        "overview": "Saitama is a superhero who has trained so hard that his hair has fallen out, and who can overcome any enemy with one punch. However, because he is so strong, he has become bored and frustrated that he wins all of his battles too easily.",
+        "network": "TV Tokyo",
+        "airTime": "01:30",
+        "images": [
+          {
+            "coverType": "banner",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/graphical/293088-g2.jpg"
+          },
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/293088/posters/60a38fe89e639.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/fanart/original/293088-2.jpg"
+          },
+          {
+            "coverType": "clearlogo",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/293088/clearlogo/611bb0fee38ac.png"
+          }
+        ],
+        "originalLanguage": {
+          "id": 8,
+          "name": "Japanese"
+        },
+        "seasons": [
+          {
+            "seasonNumber": 0,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 1,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 2,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 3,
+            "monitored": true
+          }
+        ],
+        "year": 2015,
+        "path": "/tv/Cartoons/One-Punch Man",
+        "qualityProfileId": 1,
+        "seasonFolder": true,
+        "monitored": true,
+        "monitorNewItems": "all",
+        "useSceneNumbering": true,
+        "runtime": 25,
+        "tvdbId": 293088,
+        "tvRageId": 25941,
+        "tvMazeId": 4201,
+        "tmdbId": 63926,
+        "firstAired": "2015-10-04T00:00:00Z",
+        "lastAired": "2019-07-03T00:00:00Z",
+        "seriesType": "standard",
+        "cleanTitle": "onepunchman",
+        "imdbId": "tt4508902",
+        "titleSlug": "one-punch-man",
+        "certification": "TV-14",
+        "genres": [
+          "Action",
+          "Animation",
+          "Anime",
+          "Comedy",
+          "Fantasy",
+          "Science Fiction"
+        ],
+        "tags": [],
+        "added": "2020-02-09T03:17:10Z",
+        "ratings": {
+          "votes": 198259,
+          "value": 8.7
+        },
+        "languageProfileId": 1,
+        "id": 384
+      },
+      "id": 356379
+    },
+    {
+      "episodeId": 163495,
+      "seriesId": 389,
+      "sourceTitle": "[NanakoRaws] Pocket Monsters (2023) - 089 (TX 1920x1080 x265 AAC)",
+      "languages": [
+        {
+          "id": 8,
+          "name": "Japanese"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 9,
+          "name": "HDTV-1080p",
+          "source": "television",
+          "resolution": 1080
+        },
+        "revision": {
+          "version": 1,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "customFormats": [],
+      "customFormatScore": 0,
+      "qualityCutoffNotMet": false,
+      "date": "2025-03-21T10:43:00Z",
+      "downloadId": "C65AD47F70FF6C1CCEB76385A64C64030EF65B66",
+      "eventType": "downloadFolderImported",
+      "data": {
+        "fileId": "1502699",
+        "droppedPath": "/torrents/[NanakoRaws] Pocket Monsters (2023) - 089 (TX 1920x1080 x265 AAC).mkv",
+        "importedPath": "/tv/Kids/Pokémon/Season 20/Pokémon.S20E89.Beyond.the.Adventure.mkv",
+        "downloadClient": "qBittorrent",
+        "downloadClientName": "qBittorrent",
+        "releaseGroup": "NanakoRaws",
+        "customFormatScore": "0",
+        "size": "636124265",
+        "indexerFlags": "Freeleech",
+        "releaseType": "SingleEpisode"
+      },
+      "episode": {
+        "seriesId": 389,
+        "tvdbId": 10998876,
+        "episodeFileId": 1502699,
+        "seasonNumber": 20,
+        "episodeNumber": 89,
+        "title": "Beyond the Adventure",
+        "airDate": "2025-03-21",
+        "airDateUtc": "2025-03-21T09:45:00Z",
+        "runtime": 25,
+        "finaleType": "season",
+        "hasFile": true,
+        "monitored": true,
+        "sceneAbsoluteEpisodeNumber": 1309,
+        "sceneEpisodeNumber": 89,
+        "sceneSeasonNumber": 25,
+        "unverifiedSceneNumbering": false,
+        "id": 163495
+      },
+      "series": {
+        "title": "Pokémon",
+        "sortTitle": "pokémon",
+        "status": "continuing",
+        "ended": false,
+        "overview": "A young boy named Ash Ketchum embarks on a journey to become a \"Pokemon Master\" with his first Pokemon, Pikachu. Joining him on his travels are Brock, a girl-obsessed Rock Pokemon Trainer, and Misty, a tomboyish Water Pokemon Trainer who may have a crush on him. Ash and Co. end up traveling through various regions, including Kanto, the Orange Islands, and Johto, and then enter the Pokemon League competitions there. Along the way, they run into many confrontations with Jessie, James, and Meowth, a trio of Pokemon thieves who are apart of an evil organization called \"Team Rocket\". But everytime Team Rocket try to do their evil deeds, they fail thanks to Ash and his Pokemon.",
+        "network": "TV Tokyo",
+        "airTime": "18:45",
+        "images": [
+          {
+            "coverType": "banner",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/graphical/76703-g2.jpg"
+          },
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/posters/76703-6.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/fanart/original/76703-8.jpg"
+          },
+          {
+            "coverType": "clearlogo",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/76703/clearlogo/611b6cdf4830d.png"
+          }
+        ],
+        "originalLanguage": {
+          "id": 8,
+          "name": "Japanese"
+        },
+        "seasons": [
+          {
+            "seasonNumber": 0,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 1,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 2,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 3,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 4,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 5,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 6,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 7,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 8,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 9,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 10,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 11,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 12,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 13,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 14,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 15,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 16,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 17,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 18,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 19,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 20,
+            "monitored": true
+          }
+        ],
+        "year": 1997,
+        "path": "/tv/Kids/Pokémon",
+        "qualityProfileId": 3,
+        "seasonFolder": true,
+        "monitored": true,
+        "monitorNewItems": "all",
+        "useSceneNumbering": true,
+        "runtime": 25,
+        "tvdbId": 76703,
+        "tvRageId": 31,
+        "tvMazeId": 590,
+        "tmdbId": 60572,
+        "firstAired": "1997-04-01T00:00:00Z",
+        "lastAired": "2025-03-21T00:00:00Z",
+        "seriesType": "standard",
+        "cleanTitle": "pokemon",
+        "imdbId": "tt0168366",
+        "titleSlug": "pokemon",
+        "certification": "TV-PG",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Animation",
+          "Anime",
+          "Comedy",
+          "Family",
+          "Fantasy"
+        ],
+        "tags": [],
+        "added": "2020-02-09T03:17:32Z",
+        "ratings": {
+          "votes": 50778,
+          "value": 7.6
+        },
+        "languageProfileId": 1,
+        "id": 389
+      },
+      "id": 356378
+    },
+    {
+      "episodeId": 163495,
+      "seriesId": 389,
+      "sourceTitle": "[NanakoRaws] Pocket Monsters (2023) - 089 (TX 1920x1080 x265 AAC).mkv",
+      "languages": [
+        {
+          "id": 8,
+          "name": "Japanese"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 9,
+          "name": "HDTV-1080p",
+          "source": "television",
+          "resolution": 1080
+        },
+        "revision": {
+          "version": 1,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "customFormats": [],
+      "customFormatScore": 0,
+      "qualityCutoffNotMet": false,
+      "date": "2025-03-21T10:39:54Z",
+      "downloadId": "C65AD47F70FF6C1CCEB76385A64C64030EF65B66",
+      "eventType": "grabbed",
+      "data": {
+        "indexer": "Nyaa.si (Prowlarr)",
+        "nzbInfoUrl": "https://nyaa.si/view/1950396",
+        "releaseGroup": "NanakoRaws",
+        "age": "0",
+        "ageHours": "0.19853708491666666",
+        "ageMinutes": "11.912225128333333",
+        "publishedDate": "2025-03-21T10:28:00Z",
+        "downloadClient": "qBittorrent",
+        "downloadClientName": "qBittorrent",
+        "size": "636171072",
+        "downloadUrl": "http://prowlarr:9696/28/download?apikey=5f771c1869f94fec821832369384a70c&link=eEcwSUthVzYxZEF0VlNEcWNuRW1hVnJYQWxDMEJIZVRhS3VKcHFjSzZjd1NKWURpWnZWVFdnVjJHVk8zd0grc0I4cEVZYlZFV2ZOWUZUUS9PWUR2Vks3d2RTTEVGQW5BOVdPcThHZTg3VnZ5V2RldFArUG9tRVJUdWZuUWVvZS8zeEV3RWtmM2U1YzZVSFF5aTRxcVppNi9UbXowTFZSTENQcmVSRWNPTklmWm1wdHg3K0tnaHl6RVk2NGM5N21rWUxiNm9Zd3U4ZjNTRFZVeUpjWU52TlY5aUM1WExhZTEzTjlVdUZBSm1mb0VUMnRxdVhoMHNKRFgvdG1zZDR4VGo0bUhJQXRFRWtYYjVaNVZWZWZjbGVvNlVPMzVTMmh1c3pNbzhSeXJMcG9WNzJyclBuNUtpdEJMbFVqUDlraVN2cTc1YlV0WStBeVIweUw0VkF5aTZJS3JHbDR5SFVwaGFwVmN0djV4dTdnN2tDYXN1bzlDMzNJSmpuY0U0Q1pPK3JLUXZUa2E4ZUpkcGoxRzd0cnV3VVlQZDRaUG9QcFZGSGxJUXV4ZjBzTHZrbGJROGR6ekxrMXJGcm1YOGRmMFpmVlMxZXBpelNEbG8zNGFxaXltNTdXd2VLQTBwN0twVlZUY3JzUXpMTzVsT1FIQW92eU8ycnFiNEF6TUQwWkwxVEpjcXdMazkwREFLdDh2a1ZBYlVBSHp6Q0taMEdMbWNTQ1liWlI1SFdBYnozUHhpdDFsL1k1NWZLaWV6eHFk&file=%5BNanakoRaws%5D+Pocket+Monsters+(2023)+-+089+(TX+1920x1080+x265+AAC).mkv",
+        "guid": "magnet:?xt=urn:btih:c65ad47f70ff6c1cceb76385a64c64030ef65b66&dn=%5BNanakoRaws%5D%20Pocket%20Monsters%20%282023%29%20-%20089%20%28TX%201920x1080%20x265%20AAC%29.mkv&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
+        "tvdbId": "0",
+        "tvRageId": "0",
+        "imdbId": null,
+        "protocol": "2",
+        "customFormatScore": "0",
+        "seriesMatchType": "Alias",
+        "releaseSource": "Rss",
+        "indexerFlags": "Freeleech",
+        "releaseType": "SingleEpisode",
+        "torrentInfoHash": "c65ad47f70ff6c1cceb76385a64c64030ef65b66"
+      },
+      "episode": {
+        "seriesId": 389,
+        "tvdbId": 10998876,
+        "episodeFileId": 1502699,
+        "seasonNumber": 20,
+        "episodeNumber": 89,
+        "title": "Beyond the Adventure",
+        "airDate": "2025-03-21",
+        "airDateUtc": "2025-03-21T09:45:00Z",
+        "runtime": 25,
+        "finaleType": "season",
+        "hasFile": true,
+        "monitored": true,
+        "sceneAbsoluteEpisodeNumber": 1309,
+        "sceneEpisodeNumber": 89,
+        "sceneSeasonNumber": 25,
+        "unverifiedSceneNumbering": false,
+        "id": 163495
+      },
+      "series": {
+        "title": "Pokémon",
+        "sortTitle": "pokémon",
+        "status": "continuing",
+        "ended": false,
+        "overview": "A young boy named Ash Ketchum embarks on a journey to become a \"Pokemon Master\" with his first Pokemon, Pikachu. Joining him on his travels are Brock, a girl-obsessed Rock Pokemon Trainer, and Misty, a tomboyish Water Pokemon Trainer who may have a crush on him. Ash and Co. end up traveling through various regions, including Kanto, the Orange Islands, and Johto, and then enter the Pokemon League competitions there. Along the way, they run into many confrontations with Jessie, James, and Meowth, a trio of Pokemon thieves who are apart of an evil organization called \"Team Rocket\". But everytime Team Rocket try to do their evil deeds, they fail thanks to Ash and his Pokemon.",
+        "network": "TV Tokyo",
+        "airTime": "18:45",
+        "images": [
+          {
+            "coverType": "banner",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/graphical/76703-g2.jpg"
+          },
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/posters/76703-6.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/fanart/original/76703-8.jpg"
+          },
+          {
+            "coverType": "clearlogo",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/76703/clearlogo/611b6cdf4830d.png"
+          }
+        ],
+        "originalLanguage": {
+          "id": 8,
+          "name": "Japanese"
+        },
+        "seasons": [
+          {
+            "seasonNumber": 0,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 1,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 2,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 3,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 4,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 5,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 6,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 7,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 8,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 9,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 10,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 11,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 12,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 13,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 14,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 15,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 16,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 17,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 18,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 19,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 20,
+            "monitored": true
+          }
+        ],
+        "year": 1997,
+        "path": "/tv/Kids/Pokémon",
+        "qualityProfileId": 3,
+        "seasonFolder": true,
+        "monitored": true,
+        "monitorNewItems": "all",
+        "useSceneNumbering": true,
+        "runtime": 25,
+        "tvdbId": 76703,
+        "tvRageId": 31,
+        "tvMazeId": 590,
+        "tmdbId": 60572,
+        "firstAired": "1997-04-01T00:00:00Z",
+        "lastAired": "2025-03-21T00:00:00Z",
+        "seriesType": "standard",
+        "cleanTitle": "pokemon",
+        "imdbId": "tt0168366",
+        "titleSlug": "pokemon",
+        "certification": "TV-PG",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Animation",
+          "Anime",
+          "Comedy",
+          "Family",
+          "Fantasy"
+        ],
+        "tags": [],
+        "added": "2020-02-09T03:17:32Z",
+        "ratings": {
+          "votes": 50778,
+          "value": 7.6
+        },
+        "languageProfileId": 1,
+        "id": 389
+      },
+      "id": 356377
+    },
+    {
+      "episodeId": 163058,
+      "seriesId": 1404,
+      "sourceTitle": "9-1-1.S08E11.Holy.Mother.of.God.1080p.AMZN.WEB-DL.DDP5.1.H.264-FLUX",
+      "languages": [
+        {
+          "id": 1,
+          "name": "English"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 3,
+          "name": "WEBDL-1080p",
+          "source": "web",
+          "resolution": 1080
+        },
+        "revision": {
+          "version": 1,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "customFormats": [
+        {
+          "id": 3,
+          "name": "english"
+        }
+      ],
+      "customFormatScore": 10,
+      "qualityCutoffNotMet": false,
+      "date": "2025-03-21T09:09:02Z",
+      "downloadId": "SABnzbd_nzo_nquc2c7a",
+      "eventType": "downloadFolderImported",
+      "data": {
+        "fileId": "1502698",
+        "droppedPath": "/downloads/9-1-1.S08E11.Holy.Mother.of.God.1080p.AMZN.WEB-DL.DDP5.1.H.264-FLUX/9-1-1.S08E11.Holy.Mother.of.God.1080p.AMZN.WEB-DL.DDP5.1.H.264-FLUX.mkv",
+        "importedPath": "/tv/Tv Shows/9-1-1/Season 8/9-1-1.S08E11.Holy.Mother.of.God.mkv",
+        "downloadClient": "SABnzbd",
+        "downloadClientName": "sab",
+        "releaseGroup": "FLUX",
+        "customFormatScore": "10",
+        "size": "3292638320",
+        "indexerFlags": "0",
+        "releaseType": "SingleEpisode"
+      },
+      "episode": {
+        "seriesId": 1404,
+        "tvdbId": 10964860,
+        "episodeFileId": 1502698,
+        "seasonNumber": 8,
+        "episodeNumber": 11,
+        "title": "Holy Mother of God",
+        "airDate": "2025-03-20",
+        "airDateUtc": "2025-03-21T00:00:00Z",
+        "runtime": 43,
+        "overview": "The 118 responds to a call at a mega-church, where Bobby runs into his estranged mother. Also, the 118 unexpectedly uncover hidden secrets at a garden rescue, Buck attempts to expand his social circle in the wake of losing Eddie, and Athena gets called away to assist on a high stakes case on a cruise ship called The Odyssey.",
+        "hasFile": true,
+        "monitored": true,
+        "absoluteEpisodeNumber": 117,
+        "unverifiedSceneNumbering": false,
+        "id": 163058
+      },
+      "series": {
+        "title": "9-1-1",
+        "sortTitle": "911",
+        "status": "continuing",
+        "ended": false,
+        "overview": "Explores the high-pressure experiences of the first responders who are thrust into the most frightening, shocking and heart-stopping situations.",
+        "network": "ABC (US)",
+        "airTime": "20:00",
+        "images": [
+          {
+            "coverType": "banner",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/graphical/5b8741bd31262.jpg"
+          },
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/series/337907/posters/62107763.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/fanart/original/337907-4.jpg"
+          },
+          {
+            "coverType": "clearlogo",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/337907/clearlogo/611bbfba9ac70.png"
+          }
+        ],
+        "originalLanguage": {
+          "id": 1,
+          "name": "English"
+        },
+        "seasons": [
+          {
+            "seasonNumber": 1,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 2,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 3,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 4,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 5,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 6,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 7,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 8,
+            "monitored": true
+          }
+        ],
+        "year": 2018,
+        "path": "/tv/Tv Shows/9-1-1",
+        "qualityProfileId": 1,
+        "seasonFolder": true,
+        "monitored": true,
+        "monitorNewItems": "all",
+        "useSceneNumbering": false,
+        "runtime": 43,
+        "tvdbId": 337907,
+        "tvRageId": 0,
+        "tvMazeId": 28152,
+        "tmdbId": 75219,
+        "firstAired": "2018-01-03T00:00:00Z",
+        "lastAired": "2025-05-08T00:00:00Z",
+        "seriesType": "standard",
+        "cleanTitle": "911",
+        "imdbId": "tt7235466",
+        "titleSlug": "9-1-1",
+        "certification": "TV-14",
+        "genres": [
+          "Action",
+          "Drama",
+          "Thriller"
+        ],
+        "tags": [],
+        "added": "2022-08-13T00:18:58Z",
+        "ratings": {
+          "votes": 54252,
+          "value": 7.9
+        },
+        "languageProfileId": 1,
+        "id": 1404
+      },
+      "id": 356376
+    },
+    {
+      "episodeId": 163058,
+      "seriesId": 1404,
+      "sourceTitle": "/tv/Tv Shows/9-1-1/Season 8/9-1-1.S08E11.Holy.Mother.of.God.mkv",
+      "languages": [
+        {
+          "id": 1,
+          "name": "English"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 4,
+          "name": "HDTV-720p",
+          "source": "television",
+          "resolution": 720
+        },
+        "revision": {
+          "version": 1,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "customFormats": [
+        {
+          "id": 3,
+          "name": "english"
+        }
+      ],
+      "customFormatScore": 10,
+      "qualityCutoffNotMet": true,
+      "date": "2025-03-21T09:09:00Z",
+      "eventType": "episodeFileDeleted",
+      "data": {
+        "reason": "Upgrade",
+        "releaseGroup": "SYNCOPY",
+        "size": "1201847003",
+        "indexerFlags": "0",
+        "releaseType": "SingleEpisode"
+      },
+      "episode": {
+        "seriesId": 1404,
+        "tvdbId": 10964860,
+        "episodeFileId": 1502698,
+        "seasonNumber": 8,
+        "episodeNumber": 11,
+        "title": "Holy Mother of God",
+        "airDate": "2025-03-20",
+        "airDateUtc": "2025-03-21T00:00:00Z",
+        "runtime": 43,
+        "overview": "The 118 responds to a call at a mega-church, where Bobby runs into his estranged mother. Also, the 118 unexpectedly uncover hidden secrets at a garden rescue, Buck attempts to expand his social circle in the wake of losing Eddie, and Athena gets called away to assist on a high stakes case on a cruise ship called The Odyssey.",
+        "hasFile": true,
+        "monitored": true,
+        "absoluteEpisodeNumber": 117,
+        "unverifiedSceneNumbering": false,
+        "id": 163058
+      },
+      "series": {
+        "title": "9-1-1",
+        "sortTitle": "911",
+        "status": "continuing",
+        "ended": false,
+        "overview": "Explores the high-pressure experiences of the first responders who are thrust into the most frightening, shocking and heart-stopping situations.",
+        "network": "ABC (US)",
+        "airTime": "20:00",
+        "images": [
+          {
+            "coverType": "banner",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/graphical/5b8741bd31262.jpg"
+          },
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/series/337907/posters/62107763.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/fanart/original/337907-4.jpg"
+          },
+          {
+            "coverType": "clearlogo",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/337907/clearlogo/611bbfba9ac70.png"
+          }
+        ],
+        "originalLanguage": {
+          "id": 1,
+          "name": "English"
+        },
+        "seasons": [
+          {
+            "seasonNumber": 1,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 2,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 3,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 4,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 5,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 6,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 7,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 8,
+            "monitored": true
+          }
+        ],
+        "year": 2018,
+        "path": "/tv/Tv Shows/9-1-1",
+        "qualityProfileId": 1,
+        "seasonFolder": true,
+        "monitored": true,
+        "monitorNewItems": "all",
+        "useSceneNumbering": false,
+        "runtime": 43,
+        "tvdbId": 337907,
+        "tvRageId": 0,
+        "tvMazeId": 28152,
+        "tmdbId": 75219,
+        "firstAired": "2018-01-03T00:00:00Z",
+        "lastAired": "2025-05-08T00:00:00Z",
+        "seriesType": "standard",
+        "cleanTitle": "911",
+        "imdbId": "tt7235466",
+        "titleSlug": "9-1-1",
+        "certification": "TV-14",
+        "genres": [
+          "Action",
+          "Drama",
+          "Thriller"
+        ],
+        "tags": [],
+        "added": "2022-08-13T00:18:58Z",
+        "ratings": {
+          "votes": 54252,
+          "value": 7.9
+        },
+        "languageProfileId": 1,
+        "id": 1404
+      },
+      "id": 356375
+    },
+    {
+      "episodeId": 163058,
+      "seriesId": 1404,
+      "sourceTitle": "9-1-1.S08E11.Holy.Mother.of.God.1080p.AMZN.WEB-DL.DDP5.1.H.264-FLUX",
+      "languages": [
+        {
+          "id": 1,
+          "name": "English"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 3,
+          "name": "WEBDL-1080p",
+          "source": "web",
+          "resolution": 1080
+        },
+        "revision": {
+          "version": 1,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "customFormats": [
+        {
+          "id": 3,
+          "name": "english"
+        }
+      ],
+      "customFormatScore": 10,
+      "qualityCutoffNotMet": false,
+      "date": "2025-03-21T09:06:56Z",
+      "downloadId": "SABnzbd_nzo_nquc2c7a",
+      "eventType": "grabbed",
+      "data": {
+        "indexer": "NZBFinder (yearly) (Prowlarr)",
+        "nzbInfoUrl": "https://nzbfinder.ws/details/68cec523-1e85-410c-a54c-43139f5d3c11",
+        "releaseGroup": "FLUX",
+        "age": "0",
+        "ageHours": "0.23554508822222223",
+        "ageMinutes": "14.13270533",
+        "publishedDate": "2025-03-21T08:52:49Z",
+        "downloadClient": "SABnzbd",
+        "downloadClientName": "sab",
+        "size": "3738441825",
+        "downloadUrl": "http://prowlarr:9696/3/download?apikey=5f771c1869f94fec821832369384a70c&link=VTZkQ3RVYnFZVm40TDNoRlh4NkpnOUVNS043dlRFNUk2WTVYS1pXbVFCK0lwZ1Z3cStGQXAxb1B6VC9FcXVEeXR5dko3MlEzTldqRDRCc050bjNkVzVKL0E3czRyYk5JUWUrSGEyVDZyMU9LUXlVUzg0V3d2eGlITHdLVlY1d01uUjF5N1F0NjFkNmFMVHVyTC94Y1hwR09JdWtxbHhwUVh6RUFWZnM5Q0N5TlhXeU92VnBRYndaN1JDVHZQaWhN&file=9-1-1.S08E11.Holy.Mother.of.God.1080p.AMZN.WEB-DL.DDP5.1.H.264-FLUX",
+        "guid": "https://nzbfinder.ws/details/68cec523-1e85-410c-a54c-43139f5d3c11",
+        "tvdbId": "337907",
+        "tvRageId": "0",
+        "imdbId": "tt7235466",
+        "protocol": "1",
+        "customFormatScore": "10",
+        "seriesMatchType": "Alias",
+        "releaseSource": "Rss",
+        "indexerFlags": "0",
+        "releaseType": "SingleEpisode"
+      },
+      "episode": {
+        "seriesId": 1404,
+        "tvdbId": 10964860,
+        "episodeFileId": 1502698,
+        "seasonNumber": 8,
+        "episodeNumber": 11,
+        "title": "Holy Mother of God",
+        "airDate": "2025-03-20",
+        "airDateUtc": "2025-03-21T00:00:00Z",
+        "runtime": 43,
+        "overview": "The 118 responds to a call at a mega-church, where Bobby runs into his estranged mother. Also, the 118 unexpectedly uncover hidden secrets at a garden rescue, Buck attempts to expand his social circle in the wake of losing Eddie, and Athena gets called away to assist on a high stakes case on a cruise ship called The Odyssey.",
+        "hasFile": true,
+        "monitored": true,
+        "absoluteEpisodeNumber": 117,
+        "unverifiedSceneNumbering": false,
+        "id": 163058
+      },
+      "series": {
+        "title": "9-1-1",
+        "sortTitle": "911",
+        "status": "continuing",
+        "ended": false,
+        "overview": "Explores the high-pressure experiences of the first responders who are thrust into the most frightening, shocking and heart-stopping situations.",
+        "network": "ABC (US)",
+        "airTime": "20:00",
+        "images": [
+          {
+            "coverType": "banner",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/graphical/5b8741bd31262.jpg"
+          },
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/series/337907/posters/62107763.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/fanart/original/337907-4.jpg"
+          },
+          {
+            "coverType": "clearlogo",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/337907/clearlogo/611bbfba9ac70.png"
+          }
+        ],
+        "originalLanguage": {
+          "id": 1,
+          "name": "English"
+        },
+        "seasons": [
+          {
+            "seasonNumber": 1,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 2,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 3,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 4,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 5,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 6,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 7,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 8,
+            "monitored": true
+          }
+        ],
+        "year": 2018,
+        "path": "/tv/Tv Shows/9-1-1",
+        "qualityProfileId": 1,
+        "seasonFolder": true,
+        "monitored": true,
+        "monitorNewItems": "all",
+        "useSceneNumbering": false,
+        "runtime": 43,
+        "tvdbId": 337907,
+        "tvRageId": 0,
+        "tvMazeId": 28152,
+        "tmdbId": 75219,
+        "firstAired": "2018-01-03T00:00:00Z",
+        "lastAired": "2025-05-08T00:00:00Z",
+        "seriesType": "standard",
+        "cleanTitle": "911",
+        "imdbId": "tt7235466",
+        "titleSlug": "9-1-1",
+        "certification": "TV-14",
+        "genres": [
+          "Action",
+          "Drama",
+          "Thriller"
+        ],
+        "tags": [],
+        "added": "2022-08-13T00:18:58Z",
+        "ratings": {
+          "votes": 54252,
+          "value": 7.9
+        },
+        "languageProfileId": 1,
+        "id": 1404
+      },
+      "id": 356374
+    }
+  ]
+}

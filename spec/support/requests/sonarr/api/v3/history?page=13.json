@@ -1,0 +1,2285 @@
+{
+  "page": 13,
+  "pageSize": 15,
+  "sortKey": "date",
+  "sortDirection": "descending",
+  "totalRecords": 344511,
+  "records": [
+    {
+      "episodeId": 59959,
+      "seriesId": 867,
+      "sourceTitle": "Resurrection.S01E05.MULTi.1080p.WEB.H264-AMB3R",
+      "languages": [
+        {
+          "id": 1,
+          "name": "English"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 3,
+          "name": "WEBDL-1080p",
+          "source": "web",
+          "resolution": 1080
+        },
+        "revision": {
+          "version": 1,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "customFormats": [
+        {
+          "id": 3,
+          "name": "english"
+        }
+      ],
+      "customFormatScore": 10,
+      "qualityCutoffNotMet": false,
+      "date": "2025-03-28T15:08:58Z",
+      "downloadId": "SABnzbd_nzo_n1ht3f1v",
+      "eventType": "grabbed",
+      "data": {
+        "indexer": "altHUB (Prowlarr)",
+        "nzbInfoUrl": "https://api.althub.co.za/details/7f5e5e158ce77bfe7d9532c490fc0f7c",
+        "releaseGroup": "AMB3R",
+        "age": "0",
+        "ageHours": "0.09908381269444444",
+        "ageMinutes": "5.945028795",
+        "publishedDate": "2025-03-28T15:03:02Z",
+        "downloadClient": "SABnzbd",
+        "downloadClientName": "sab",
+        "size": "3173555398",
+        "downloadUrl": "http://prowlarr:9696/1/download?apikey=5f771c1869f94fec821832369384a70c&link=Zld6cVBsOWlTQ24wN0pML2RlV0NCR3FTNGRWdDhLVHY4VnUwSHFWMmxXSlVXN0VPUjdHTm9pOFpocGM5VlRidVhRSDdXZVpZYVJ3Nm8yVXlBSnZ1SDRCN2NQYVdWWks0UUlsVHNJRXd3N2NnbmsvVVZZUjY4MHBTN005WU81TjhJdmRqWlpzOU9xQU1RMTFMbFZTaDhrQ0Vkd1pndWh1c1phVDNXT0pkS1NFPQ&file=Resurrection.S01E05.MULTi.1080p.WEB.H264-AMB3R",
+        "guid": "https://api.althub.co.za/details/7f5e5e158ce77bfe7d9532c490fc0f7c",
+        "tvdbId": "0",
+        "tvRageId": "0",
+        "imdbId": null,
+        "protocol": "1",
+        "customFormatScore": "10",
+        "seriesMatchType": "Title",
+        "releaseSource": "Rss",
+        "indexerFlags": "0",
+        "releaseType": "SingleEpisode"
+      },
+      "episode": {
+        "seriesId": 867,
+        "tvdbId": 4800979,
+        "episodeFileId": 1505774,
+        "seasonNumber": 1,
+        "episodeNumber": 5,
+        "title": "Insomnia",
+        "airDate": "2014-04-06",
+        "airDateUtc": "2014-04-06T04:00:00Z",
+        "runtime": 45,
+        "overview": "Bellamy tries to keep Jacob safe but his past interferes; Elaine must find where Caleb hid the money; Rachael gets shocking news.",
+        "hasFile": true,
+        "monitored": true,
+        "absoluteEpisodeNumber": 5,
+        "unverifiedSceneNumbering": false,
+        "id": 59959
+      },
+      "series": {
+        "title": "Resurrection",
+        "sortTitle": "resurrection",
+        "status": "ended",
+        "ended": true,
+        "overview": "The lives of the people of Arcadia, Missouri, are forever changed when their deceased loved ones return.",
+        "network": "ABC (US)",
+        "images": [
+          {
+            "coverType": "banner",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/graphical/269650-g2.jpg"
+          },
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/posters/269650-1.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/fanart/original/269650-2.jpg"
+          },
+          {
+            "coverType": "clearlogo",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/269650/clearlogo/611b8e4f90b08.png"
+          }
+        ],
+        "originalLanguage": {
+          "id": 1,
+          "name": "English"
+        },
+        "seasons": [
+          {
+            "seasonNumber": 0,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 1,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 2,
+            "monitored": true
+          }
+        ],
+        "year": 2014,
+        "path": "/tv/Tv Shows/Resurrection",
+        "qualityProfileId": 1,
+        "seasonFolder": true,
+        "monitored": true,
+        "monitorNewItems": "all",
+        "useSceneNumbering": false,
+        "runtime": 45,
+        "tvdbId": 269650,
+        "tvRageId": 34321,
+        "tvMazeId": 39,
+        "tmdbId": 51370,
+        "firstAired": "2014-03-09T00:00:00Z",
+        "lastAired": "2015-01-25T00:00:00Z",
+        "seriesType": "standard",
+        "cleanTitle": "resurrection",
+        "imdbId": "tt2647586",
+        "titleSlug": "resurrection",
+        "certification": "TV-14",
+        "genres": [
+          "Drama",
+          "Fantasy"
+        ],
+        "tags": [],
+        "added": "2020-02-09T09:49:48Z",
+        "ratings": {
+          "votes": 15704,
+          "value": 7.2
+        },
+        "languageProfileId": 1,
+        "id": 867
+      },
+      "id": 356868
+    },
+    {
+      "episodeId": 59958,
+      "seriesId": 867,
+      "sourceTitle": "Resurrection.S01E04.MULTi.1080p.WEB.H264-AMB3R",
+      "languages": [
+        {
+          "id": 1,
+          "name": "English"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 3,
+          "name": "WEBDL-1080p",
+          "source": "web",
+          "resolution": 1080
+        },
+        "revision": {
+          "version": 1,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "customFormats": [
+        {
+          "id": 3,
+          "name": "english"
+        }
+      ],
+      "customFormatScore": 10,
+      "qualityCutoffNotMet": false,
+      "date": "2025-03-28T15:08:56Z",
+      "downloadId": "SABnzbd_nzo_4k7y5lb3",
+      "eventType": "grabbed",
+      "data": {
+        "indexer": "altHUB (Prowlarr)",
+        "nzbInfoUrl": "https://api.althub.co.za/details/70839fbf9543a385c6b28e51b5886ac9",
+        "releaseGroup": "AMB3R",
+        "age": "0",
+        "ageHours": "0.10120633141666667",
+        "ageMinutes": "6.072379906666667",
+        "publishedDate": "2025-03-28T15:02:52Z",
+        "downloadClient": "SABnzbd",
+        "downloadClientName": "sab",
+        "size": "3130982584",
+        "downloadUrl": "http://prowlarr:9696/1/download?apikey=5f771c1869f94fec821832369384a70c&link=LzQ3Nk90ek1adW9aYmxDZTFwTThDVU4rRllVbk85bHdqQzkxbEpTZkVkRGptVXZOZmxKVnZhQnp2ekZhdmpGVFU0b2owalRZd1Q3VnFuK21Ha01MTTZ1aHBpNklFVzFiaE9PUllzenlaZlhrYkhxZnE5WWNhNVB6UWZqNTFxTnF1T1BKOFN4ZXZNNko1VGtOOFZ6RUN4VXo4SE5DdXNMbG9YOSt1MTUrRGN3PQ&file=Resurrection.S01E04.MULTi.1080p.WEB.H264-AMB3R",
+        "guid": "https://api.althub.co.za/details/70839fbf9543a385c6b28e51b5886ac9",
+        "tvdbId": "0",
+        "tvRageId": "0",
+        "imdbId": null,
+        "protocol": "1",
+        "customFormatScore": "10",
+        "seriesMatchType": "Title",
+        "releaseSource": "Rss",
+        "indexerFlags": "0",
+        "releaseType": "SingleEpisode"
+      },
+      "episode": {
+        "seriesId": 867,
+        "tvdbId": 4800978,
+        "episodeFileId": 1505773,
+        "seasonNumber": 1,
+        "episodeNumber": 4,
+        "title": "Us Against the World",
+        "airDate": "2014-03-30",
+        "airDateUtc": "2014-03-30T04:00:00Z",
+        "runtime": 45,
+        "overview": "Bellamy and Sheriff Fred try to find Caleb; Maggie gives Jacob a checkup; Pastor Tom's old love returns.",
+        "hasFile": true,
+        "monitored": true,
+        "absoluteEpisodeNumber": 4,
+        "unverifiedSceneNumbering": false,
+        "id": 59958
+      },
+      "series": {
+        "title": "Resurrection",
+        "sortTitle": "resurrection",
+        "status": "ended",
+        "ended": true,
+        "overview": "The lives of the people of Arcadia, Missouri, are forever changed when their deceased loved ones return.",
+        "network": "ABC (US)",
+        "images": [
+          {
+            "coverType": "banner",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/graphical/269650-g2.jpg"
+          },
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/posters/269650-1.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/fanart/original/269650-2.jpg"
+          },
+          {
+            "coverType": "clearlogo",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/269650/clearlogo/611b8e4f90b08.png"
+          }
+        ],
+        "originalLanguage": {
+          "id": 1,
+          "name": "English"
+        },
+        "seasons": [
+          {
+            "seasonNumber": 0,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 1,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 2,
+            "monitored": true
+          }
+        ],
+        "year": 2014,
+        "path": "/tv/Tv Shows/Resurrection",
+        "qualityProfileId": 1,
+        "seasonFolder": true,
+        "monitored": true,
+        "monitorNewItems": "all",
+        "useSceneNumbering": false,
+        "runtime": 45,
+        "tvdbId": 269650,
+        "tvRageId": 34321,
+        "tvMazeId": 39,
+        "tmdbId": 51370,
+        "firstAired": "2014-03-09T00:00:00Z",
+        "lastAired": "2015-01-25T00:00:00Z",
+        "seriesType": "standard",
+        "cleanTitle": "resurrection",
+        "imdbId": "tt2647586",
+        "titleSlug": "resurrection",
+        "certification": "TV-14",
+        "genres": [
+          "Drama",
+          "Fantasy"
+        ],
+        "tags": [],
+        "added": "2020-02-09T09:49:48Z",
+        "ratings": {
+          "votes": 15704,
+          "value": 7.2
+        },
+        "languageProfileId": 1,
+        "id": 867
+      },
+      "id": 356867
+    },
+    {
+      "episodeId": 59957,
+      "seriesId": 867,
+      "sourceTitle": "Resurrection.S01E03.MULTi.1080p.WEB.H264-AMB3R",
+      "languages": [
+        {
+          "id": 1,
+          "name": "English"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 3,
+          "name": "WEBDL-1080p",
+          "source": "web",
+          "resolution": 1080
+        },
+        "revision": {
+          "version": 1,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "customFormats": [
+        {
+          "id": 3,
+          "name": "english"
+        }
+      ],
+      "customFormatScore": 10,
+      "qualityCutoffNotMet": false,
+      "date": "2025-03-28T15:08:55Z",
+      "downloadId": "SABnzbd_nzo_hqhgairf",
+      "eventType": "grabbed",
+      "data": {
+        "indexer": "altHUB (Prowlarr)",
+        "nzbInfoUrl": "https://api.althub.co.za/details/2eda6d8317cb54ff559f73828f90b619",
+        "releaseGroup": "AMB3R",
+        "age": "0",
+        "ageHours": "0.08865084402777777",
+        "ageMinutes": "5.319050673333333",
+        "publishedDate": "2025-03-28T15:03:36Z",
+        "downloadClient": "SABnzbd",
+        "downloadClientName": "sab",
+        "size": "3020427060",
+        "downloadUrl": "http://prowlarr:9696/1/download?apikey=5f771c1869f94fec821832369384a70c&link=d3pUdnVmUGZ5NEZBSzQ1QWZVWG84eTVET0h1R1RDTDJtRkcySUNxVklpRkNJaXF0cGZxbzFRbDZLclI5aHNXNWFXbElEU1ZzR2FFYTB2VWkwQW81WmVYVm85ZVdRbWlnSjZSWjJIeHg4N01KQnhjalJXKy9YK2M3L0hDajFDcHJQZWtobXdOQnpFalBiaDk5NnB5ZjlyYVZ3ZFdmekIzdGxIaysyQUlLOHVRPQ&file=Resurrection.S01E03.MULTi.1080p.WEB.H264-AMB3R",
+        "guid": "https://api.althub.co.za/details/2eda6d8317cb54ff559f73828f90b619",
+        "tvdbId": "0",
+        "tvRageId": "0",
+        "imdbId": null,
+        "protocol": "1",
+        "customFormatScore": "10",
+        "seriesMatchType": "Title",
+        "releaseSource": "Rss",
+        "indexerFlags": "0",
+        "releaseType": "SingleEpisode"
+      },
+      "episode": {
+        "seriesId": 867,
+        "tvdbId": 4800977,
+        "episodeFileId": 1505771,
+        "seasonNumber": 1,
+        "episodeNumber": 3,
+        "title": "Two Rivers",
+        "airDate": "2014-03-23",
+        "airDateUtc": "2014-03-23T04:00:00Z",
+        "runtime": 45,
+        "overview": "Exhuming Jacob's grave deepens the mystery of his return; Henry struggles to accept that Jacob is really the son he lost; Maggie and Bellamy wonder if the local river holds a clue that could connect Caleb's and Jacob's deaths.",
+        "hasFile": true,
+        "monitored": true,
+        "absoluteEpisodeNumber": 3,
+        "unverifiedSceneNumbering": false,
+        "id": 59957
+      },
+      "series": {
+        "title": "Resurrection",
+        "sortTitle": "resurrection",
+        "status": "ended",
+        "ended": true,
+        "overview": "The lives of the people of Arcadia, Missouri, are forever changed when their deceased loved ones return.",
+        "network": "ABC (US)",
+        "images": [
+          {
+            "coverType": "banner",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/graphical/269650-g2.jpg"
+          },
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/posters/269650-1.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/fanart/original/269650-2.jpg"
+          },
+          {
+            "coverType": "clearlogo",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/269650/clearlogo/611b8e4f90b08.png"
+          }
+        ],
+        "originalLanguage": {
+          "id": 1,
+          "name": "English"
+        },
+        "seasons": [
+          {
+            "seasonNumber": 0,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 1,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 2,
+            "monitored": true
+          }
+        ],
+        "year": 2014,
+        "path": "/tv/Tv Shows/Resurrection",
+        "qualityProfileId": 1,
+        "seasonFolder": true,
+        "monitored": true,
+        "monitorNewItems": "all",
+        "useSceneNumbering": false,
+        "runtime": 45,
+        "tvdbId": 269650,
+        "tvRageId": 34321,
+        "tvMazeId": 39,
+        "tmdbId": 51370,
+        "firstAired": "2014-03-09T00:00:00Z",
+        "lastAired": "2015-01-25T00:00:00Z",
+        "seriesType": "standard",
+        "cleanTitle": "resurrection",
+        "imdbId": "tt2647586",
+        "titleSlug": "resurrection",
+        "certification": "TV-14",
+        "genres": [
+          "Drama",
+          "Fantasy"
+        ],
+        "tags": [],
+        "added": "2020-02-09T09:49:48Z",
+        "ratings": {
+          "votes": 15704,
+          "value": 7.2
+        },
+        "languageProfileId": 1,
+        "id": 867
+      },
+      "id": 356866
+    },
+    {
+      "episodeId": 59965,
+      "seriesId": 867,
+      "sourceTitle": "Resurrection.S02E03.MULTi.1080p.WEB.H264-AMB3R",
+      "languages": [
+        {
+          "id": 1,
+          "name": "English"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 3,
+          "name": "WEBDL-1080p",
+          "source": "web",
+          "resolution": 1080
+        },
+        "revision": {
+          "version": 1,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "customFormats": [
+        {
+          "id": 3,
+          "name": "english"
+        }
+      ],
+      "customFormatScore": 10,
+      "qualityCutoffNotMet": false,
+      "date": "2025-03-28T15:08:52Z",
+      "downloadId": "SABnzbd_nzo_jx5sbwi6",
+      "eventType": "grabbed",
+      "data": {
+        "indexer": "altHUB (Prowlarr)",
+        "nzbInfoUrl": "https://api.althub.co.za/details/4feed0cf12b831848909cfb4e251b969",
+        "releaseGroup": "AMB3R",
+        "age": "0",
+        "ageHours": "0.07038941527777778",
+        "ageMinutes": "4.223364948333334",
+        "publishedDate": "2025-03-28T15:04:39Z",
+        "downloadClient": "SABnzbd",
+        "downloadClientName": "sab",
+        "size": "3186115345",
+        "downloadUrl": "http://prowlarr:9696/1/download?apikey=5f771c1869f94fec821832369384a70c&link=RTAxVVNCUm8yYmVYZkwrYjQyaWV6bWQ0Tm85WHZDeGoyd1pBZ0RkUTNyV1dRMmxUM1FDNXRUM1RqYVZMMVIrRVFjQ28zMlE4cVBSeWFkaFdyeCs5a2drak8vcEE3b1FRYkRMOG15Y25ZbkxjdWhyRmUyd2F2cEREd3MrejZQWmVwb2lqWGN5TEVuclVYaG5oY3puUUh0bFBlQXpOcXNhWFBmVUpVMXp0NDdRPQ&file=Resurrection.S02E03.MULTi.1080p.WEB.H264-AMB3R",
+        "guid": "https://api.althub.co.za/details/4feed0cf12b831848909cfb4e251b969",
+        "tvdbId": "0",
+        "tvRageId": "0",
+        "imdbId": null,
+        "protocol": "1",
+        "customFormatScore": "10",
+        "seriesMatchType": "Title",
+        "releaseSource": "Rss",
+        "indexerFlags": "0",
+        "releaseType": "SingleEpisode"
+      },
+      "episode": {
+        "seriesId": 867,
+        "tvdbId": 4993174,
+        "episodeFileId": 1505772,
+        "seasonNumber": 2,
+        "episodeNumber": 3,
+        "title": "Multiple",
+        "airDate": "2014-10-12",
+        "airDateUtc": "2014-10-12T04:00:00Z",
+        "runtime": 45,
+        "overview": "Sensing a need in the community, Tom creates a new parish specifically for the returned and Bellamy confides in him that he is also one of them. Old human bones mysteriously turn up in the river and, with them, implications for the Langston family that Margaret is determined to keep hidden.",
+        "hasFile": true,
+        "monitored": true,
+        "absoluteEpisodeNumber": 11,
+        "unverifiedSceneNumbering": false,
+        "id": 59965
+      },
+      "series": {
+        "title": "Resurrection",
+        "sortTitle": "resurrection",
+        "status": "ended",
+        "ended": true,
+        "overview": "The lives of the people of Arcadia, Missouri, are forever changed when their deceased loved ones return.",
+        "network": "ABC (US)",
+        "images": [
+          {
+            "coverType": "banner",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/graphical/269650-g2.jpg"
+          },
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/posters/269650-1.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/fanart/original/269650-2.jpg"
+          },
+          {
+            "coverType": "clearlogo",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/269650/clearlogo/611b8e4f90b08.png"
+          }
+        ],
+        "originalLanguage": {
+          "id": 1,
+          "name": "English"
+        },
+        "seasons": [
+          {
+            "seasonNumber": 0,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 1,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 2,
+            "monitored": true
+          }
+        ],
+        "year": 2014,
+        "path": "/tv/Tv Shows/Resurrection",
+        "qualityProfileId": 1,
+        "seasonFolder": true,
+        "monitored": true,
+        "monitorNewItems": "all",
+        "useSceneNumbering": false,
+        "runtime": 45,
+        "tvdbId": 269650,
+        "tvRageId": 34321,
+        "tvMazeId": 39,
+        "tmdbId": 51370,
+        "firstAired": "2014-03-09T00:00:00Z",
+        "lastAired": "2015-01-25T00:00:00Z",
+        "seriesType": "standard",
+        "cleanTitle": "resurrection",
+        "imdbId": "tt2647586",
+        "titleSlug": "resurrection",
+        "certification": "TV-14",
+        "genres": [
+          "Drama",
+          "Fantasy"
+        ],
+        "tags": [],
+        "added": "2020-02-09T09:49:48Z",
+        "ratings": {
+          "votes": 15704,
+          "value": 7.2
+        },
+        "languageProfileId": 1,
+        "id": 867
+      },
+      "id": 356865
+    },
+    {
+      "episodeId": 59956,
+      "seriesId": 867,
+      "sourceTitle": "Resurrection.S01E02.MULTi.1080p.WEB.H264-AMB3R",
+      "languages": [
+        {
+          "id": 1,
+          "name": "English"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 3,
+          "name": "WEBDL-1080p",
+          "source": "web",
+          "resolution": 1080
+        },
+        "revision": {
+          "version": 1,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "customFormats": [
+        {
+          "id": 3,
+          "name": "english"
+        }
+      ],
+      "customFormatScore": 10,
+      "qualityCutoffNotMet": false,
+      "date": "2025-03-28T15:08:51Z",
+      "downloadId": "SABnzbd_nzo_n38akgmx",
+      "eventType": "grabbed",
+      "data": {
+        "indexer": "altHUB (Prowlarr)",
+        "nzbInfoUrl": "https://api.althub.co.za/details/62acc0496a039c7355082f60eaed2ac2",
+        "releaseGroup": "AMB3R",
+        "age": "0",
+        "ageHours": "0.1028392635",
+        "ageMinutes": "6.17035585",
+        "publishedDate": "2025-03-28T15:02:41Z",
+        "downloadClient": "SABnzbd",
+        "downloadClientName": "sab",
+        "size": "2995873439",
+        "downloadUrl": "http://prowlarr:9696/1/download?apikey=5f771c1869f94fec821832369384a70c&link=TFlRK3dscEV4UjNVTHJCNnpocllBNVRnY3NveU93SHdWa3AzNUp1dWsxelY4a09TK2g5SzlYTk9LSi9OVEVvdjN6THVneVJlaG9SMnUxREdPcU43SDVrVEptKzJHOTUxd09oN1RaeTc2b0FTdVVGYjlCdmJoSTduakFPL0FJYk4rM0dzbmR0NENrSnd4TGdNanVRcHpTOXRrc2pHUWQ1Y2ZtWXAzTERkT2tJPQ&file=Resurrection.S01E02.MULTi.1080p.WEB.H264-AMB3R",
+        "guid": "https://api.althub.co.za/details/62acc0496a039c7355082f60eaed2ac2",
+        "tvdbId": "0",
+        "tvRageId": "0",
+        "imdbId": null,
+        "protocol": "1",
+        "customFormatScore": "10",
+        "seriesMatchType": "Title",
+        "releaseSource": "Rss",
+        "indexerFlags": "0",
+        "releaseType": "SingleEpisode"
+      },
+      "episode": {
+        "seriesId": 867,
+        "tvdbId": 4800976,
+        "episodeFileId": 1505769,
+        "seasonNumber": 1,
+        "episodeNumber": 2,
+        "title": "Unearth",
+        "airDate": "2014-03-16",
+        "airDateUtc": "2014-03-16T04:00:00Z",
+        "runtime": 45,
+        "overview": "Bellamy wants to have Jacob's tomb exhumed; Pastor Tom reaches out to a childhood friend; Caleb claims he can't remember his death.",
+        "hasFile": true,
+        "monitored": true,
+        "absoluteEpisodeNumber": 2,
+        "unverifiedSceneNumbering": false,
+        "id": 59956
+      },
+      "series": {
+        "title": "Resurrection",
+        "sortTitle": "resurrection",
+        "status": "ended",
+        "ended": true,
+        "overview": "The lives of the people of Arcadia, Missouri, are forever changed when their deceased loved ones return.",
+        "network": "ABC (US)",
+        "images": [
+          {
+            "coverType": "banner",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/graphical/269650-g2.jpg"
+          },
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/posters/269650-1.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/fanart/original/269650-2.jpg"
+          },
+          {
+            "coverType": "clearlogo",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/269650/clearlogo/611b8e4f90b08.png"
+          }
+        ],
+        "originalLanguage": {
+          "id": 1,
+          "name": "English"
+        },
+        "seasons": [
+          {
+            "seasonNumber": 0,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 1,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 2,
+            "monitored": true
+          }
+        ],
+        "year": 2014,
+        "path": "/tv/Tv Shows/Resurrection",
+        "qualityProfileId": 1,
+        "seasonFolder": true,
+        "monitored": true,
+        "monitorNewItems": "all",
+        "useSceneNumbering": false,
+        "runtime": 45,
+        "tvdbId": 269650,
+        "tvRageId": 34321,
+        "tvMazeId": 39,
+        "tmdbId": 51370,
+        "firstAired": "2014-03-09T00:00:00Z",
+        "lastAired": "2015-01-25T00:00:00Z",
+        "seriesType": "standard",
+        "cleanTitle": "resurrection",
+        "imdbId": "tt2647586",
+        "titleSlug": "resurrection",
+        "certification": "TV-14",
+        "genres": [
+          "Drama",
+          "Fantasy"
+        ],
+        "tags": [],
+        "added": "2020-02-09T09:49:48Z",
+        "ratings": {
+          "votes": 15704,
+          "value": 7.2
+        },
+        "languageProfileId": 1,
+        "id": 867
+      },
+      "id": 356864
+    },
+    {
+      "episodeId": 59964,
+      "seriesId": 867,
+      "sourceTitle": "Resurrection.S02E02.MULTi.1080p.WEB.H264-AMB3R",
+      "languages": [
+        {
+          "id": 1,
+          "name": "English"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 3,
+          "name": "WEBDL-1080p",
+          "source": "web",
+          "resolution": 1080
+        },
+        "revision": {
+          "version": 1,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "customFormats": [
+        {
+          "id": 3,
+          "name": "english"
+        }
+      ],
+      "customFormatScore": 10,
+      "qualityCutoffNotMet": false,
+      "date": "2025-03-28T15:08:48Z",
+      "downloadId": "SABnzbd_nzo_dwnjn1hc",
+      "eventType": "grabbed",
+      "data": {
+        "indexer": "altHUB (Prowlarr)",
+        "nzbInfoUrl": "https://api.althub.co.za/details/fe489cbf47ffd9e0a02087d6865c94fc",
+        "releaseGroup": "AMB3R",
+        "age": "0",
+        "ageHours": "0.09324301538888889",
+        "ageMinutes": "5.594580953333334",
+        "publishedDate": "2025-03-28T15:03:13Z",
+        "downloadClient": "SABnzbd",
+        "downloadClientName": "sab",
+        "size": "3192023380",
+        "downloadUrl": "http://prowlarr:9696/1/download?apikey=5f771c1869f94fec821832369384a70c&link=TDE3cG1semFhQlY0emdiSUQ1SGZ6OVh5T2tKblpxR3RpZ29sREtqM296YWx3NEtlNnlNWi92YXVJR3NCSEVDaFpwUkgxMVlpdTZPWlVpYUZxUkdjWVk1N1VUZmdvVUs4WUwzRWRKYWQvMHV2UTJqOGhaTjZUVmdFaS9PRFF4TlYvUHdPNncrQ3lmWnFKV1d0WFFJNnVFUTNweGNYN3U1UzN3Yll5WmhrN1FrPQ&file=Resurrection.S02E02.MULTi.1080p.WEB.H264-AMB3R",
+        "guid": "https://api.althub.co.za/details/fe489cbf47ffd9e0a02087d6865c94fc",
+        "tvdbId": "0",
+        "tvRageId": "0",
+        "imdbId": null,
+        "protocol": "1",
+        "customFormatScore": "10",
+        "seriesMatchType": "Title",
+        "releaseSource": "Rss",
+        "indexerFlags": "0",
+        "releaseType": "SingleEpisode"
+      },
+      "episode": {
+        "seriesId": 867,
+        "tvdbId": 4984615,
+        "episodeFileId": 1505770,
+        "seasonNumber": 2,
+        "episodeNumber": 2,
+        "title": "Echoes",
+        "airDate": "2014-10-05",
+        "airDateUtc": "2014-10-05T04:00:00Z",
+        "runtime": 45,
+        "overview": "Sheriff Fred and Bellamy fear that Caleb has returned; Janine wants to work on her marriage, despite Rachael's pregnancy; Margaret learns the fate of the family business.",
+        "hasFile": true,
+        "monitored": true,
+        "absoluteEpisodeNumber": 10,
+        "unverifiedSceneNumbering": false,
+        "id": 59964
+      },
+      "series": {
+        "title": "Resurrection",
+        "sortTitle": "resurrection",
+        "status": "ended",
+        "ended": true,
+        "overview": "The lives of the people of Arcadia, Missouri, are forever changed when their deceased loved ones return.",
+        "network": "ABC (US)",
+        "images": [
+          {
+            "coverType": "banner",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/graphical/269650-g2.jpg"
+          },
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/posters/269650-1.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/fanart/original/269650-2.jpg"
+          },
+          {
+            "coverType": "clearlogo",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/269650/clearlogo/611b8e4f90b08.png"
+          }
+        ],
+        "originalLanguage": {
+          "id": 1,
+          "name": "English"
+        },
+        "seasons": [
+          {
+            "seasonNumber": 0,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 1,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 2,
+            "monitored": true
+          }
+        ],
+        "year": 2014,
+        "path": "/tv/Tv Shows/Resurrection",
+        "qualityProfileId": 1,
+        "seasonFolder": true,
+        "monitored": true,
+        "monitorNewItems": "all",
+        "useSceneNumbering": false,
+        "runtime": 45,
+        "tvdbId": 269650,
+        "tvRageId": 34321,
+        "tvMazeId": 39,
+        "tmdbId": 51370,
+        "firstAired": "2014-03-09T00:00:00Z",
+        "lastAired": "2015-01-25T00:00:00Z",
+        "seriesType": "standard",
+        "cleanTitle": "resurrection",
+        "imdbId": "tt2647586",
+        "titleSlug": "resurrection",
+        "certification": "TV-14",
+        "genres": [
+          "Drama",
+          "Fantasy"
+        ],
+        "tags": [],
+        "added": "2020-02-09T09:49:48Z",
+        "ratings": {
+          "votes": 15704,
+          "value": 7.2
+        },
+        "languageProfileId": 1,
+        "id": 867
+      },
+      "id": 356863
+    },
+    {
+      "episodeId": 59955,
+      "seriesId": 867,
+      "sourceTitle": "Resurrection.S01E01.MULTi.1080p.WEB.H264-AMB3R",
+      "languages": [
+        {
+          "id": 1,
+          "name": "English"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 3,
+          "name": "WEBDL-1080p",
+          "source": "web",
+          "resolution": 1080
+        },
+        "revision": {
+          "version": 1,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "customFormats": [
+        {
+          "id": 3,
+          "name": "english"
+        }
+      ],
+      "customFormatScore": 10,
+      "qualityCutoffNotMet": false,
+      "date": "2025-03-28T15:08:46Z",
+      "downloadId": "SABnzbd_nzo_0dpncyuj",
+      "eventType": "grabbed",
+      "data": {
+        "indexer": "altHUB (Prowlarr)",
+        "nzbInfoUrl": "https://api.althub.co.za/details/0ff15c401232dec24ddd506ad8e830f8",
+        "releaseGroup": "AMB3R",
+        "age": "0",
+        "ageHours": "0.07148704227777777",
+        "ageMinutes": "4.289222575",
+        "publishedDate": "2025-03-28T15:04:29Z",
+        "downloadClient": "SABnzbd",
+        "downloadClientName": "sab",
+        "size": "3199875427",
+        "downloadUrl": "http://prowlarr:9696/1/download?apikey=5f771c1869f94fec821832369384a70c&link=TTVRTVpGT1haanlUa1p3S0VnOFNMdzAyU3pPR3RQbkVJWUwyYVI0NDE1TXRPTzFlYmo0MnNJMTZCYW9aQm9RRFZheVU4c2JCN1lxRElDcldMS2VLWFB5MkRadFl4S0dWYnhIV2tMZWpwYTVIamRlSk8zV0lxSS81cFVxd3RlWFE3Tk96SUs5UmNEUnZwUkEvdVRtOTJ0RlY0V2FIUTNkaWVheGNrWEFnTCtvPQ&file=Resurrection.S01E01.MULTi.1080p.WEB.H264-AMB3R",
+        "guid": "https://api.althub.co.za/details/0ff15c401232dec24ddd506ad8e830f8",
+        "tvdbId": "0",
+        "tvRageId": "0",
+        "imdbId": null,
+        "protocol": "1",
+        "customFormatScore": "10",
+        "seriesMatchType": "Title",
+        "releaseSource": "Rss",
+        "indexerFlags": "0",
+        "releaseType": "SingleEpisode"
+      },
+      "episode": {
+        "seriesId": 867,
+        "tvdbId": 4566052,
+        "episodeFileId": 1505768,
+        "seasonNumber": 1,
+        "episodeNumber": 1,
+        "title": "The Returned",
+        "airDate": "2014-03-09",
+        "airDateUtc": "2014-03-09T05:00:00Z",
+        "runtime": 45,
+        "overview": "When deceased loved ones begin to reappear, the people in Arcadia change forever.",
+        "hasFile": true,
+        "monitored": true,
+        "absoluteEpisodeNumber": 1,
+        "unverifiedSceneNumbering": false,
+        "id": 59955
+      },
+      "series": {
+        "title": "Resurrection",
+        "sortTitle": "resurrection",
+        "status": "ended",
+        "ended": true,
+        "overview": "The lives of the people of Arcadia, Missouri, are forever changed when their deceased loved ones return.",
+        "network": "ABC (US)",
+        "images": [
+          {
+            "coverType": "banner",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/graphical/269650-g2.jpg"
+          },
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/posters/269650-1.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/fanart/original/269650-2.jpg"
+          },
+          {
+            "coverType": "clearlogo",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/269650/clearlogo/611b8e4f90b08.png"
+          }
+        ],
+        "originalLanguage": {
+          "id": 1,
+          "name": "English"
+        },
+        "seasons": [
+          {
+            "seasonNumber": 0,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 1,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 2,
+            "monitored": true
+          }
+        ],
+        "year": 2014,
+        "path": "/tv/Tv Shows/Resurrection",
+        "qualityProfileId": 1,
+        "seasonFolder": true,
+        "monitored": true,
+        "monitorNewItems": "all",
+        "useSceneNumbering": false,
+        "runtime": 45,
+        "tvdbId": 269650,
+        "tvRageId": 34321,
+        "tvMazeId": 39,
+        "tmdbId": 51370,
+        "firstAired": "2014-03-09T00:00:00Z",
+        "lastAired": "2015-01-25T00:00:00Z",
+        "seriesType": "standard",
+        "cleanTitle": "resurrection",
+        "imdbId": "tt2647586",
+        "titleSlug": "resurrection",
+        "certification": "TV-14",
+        "genres": [
+          "Drama",
+          "Fantasy"
+        ],
+        "tags": [],
+        "added": "2020-02-09T09:49:48Z",
+        "ratings": {
+          "votes": 15704,
+          "value": 7.2
+        },
+        "languageProfileId": 1,
+        "id": 867
+      },
+      "id": 356862
+    },
+    {
+      "episodeId": 59963,
+      "seriesId": 867,
+      "sourceTitle": "Resurrection.S02E01.MULTi.1080p.WEB.H264-AMB3R",
+      "languages": [
+        {
+          "id": 1,
+          "name": "English"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 3,
+          "name": "WEBDL-1080p",
+          "source": "web",
+          "resolution": 1080
+        },
+        "revision": {
+          "version": 1,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "customFormats": [
+        {
+          "id": 3,
+          "name": "english"
+        }
+      ],
+      "customFormatScore": 10,
+      "qualityCutoffNotMet": false,
+      "date": "2025-03-28T15:08:45Z",
+      "downloadId": "SABnzbd_nzo_a2akuxk2",
+      "eventType": "grabbed",
+      "data": {
+        "indexer": "altHUB (Prowlarr)",
+        "nzbInfoUrl": "https://api.althub.co.za/details/74206b1a59c14273796eacfd83f7c119",
+        "releaseGroup": "AMB3R",
+        "age": "0",
+        "ageHours": "0.06534056247222222",
+        "ageMinutes": "3.9204337783333334",
+        "publishedDate": "2025-03-28T15:04:50Z",
+        "downloadClient": "SABnzbd",
+        "downloadClientName": "sab",
+        "size": "3179314241",
+        "downloadUrl": "http://prowlarr:9696/1/download?apikey=5f771c1869f94fec821832369384a70c&link=NnlIRWtPdXlmblYyZndxVmJocVpzWm1ZTnFKVld5OFBFbmRBNGlGVTRhQmJTSDRMQi9TK0VJaGxkUTJZdWRxcFlWbkUwTTBITGVibXZJdVBsd0ExUG5nZVhNcVFWZThZT1FMZUFyTDUzbWZhd1duZkxrRTJIc3pEZU1wbW5ZREdSTGV0L05OR0xNc0wwOElTZFR5M1cvcElIQjF0cy92YUFoQzlaUlJwMDNzPQ&file=Resurrection.S02E01.MULTi.1080p.WEB.H264-AMB3R",
+        "guid": "https://api.althub.co.za/details/74206b1a59c14273796eacfd83f7c119",
+        "tvdbId": "0",
+        "tvRageId": "0",
+        "imdbId": null,
+        "protocol": "1",
+        "customFormatScore": "10",
+        "seriesMatchType": "Title",
+        "releaseSource": "Rss",
+        "indexerFlags": "0",
+        "releaseType": "SingleEpisode"
+      },
+      "episode": {
+        "seriesId": 867,
+        "tvdbId": 4934197,
+        "episodeFileId": 1505767,
+        "seasonNumber": 2,
+        "episodeNumber": 1,
+        "title": "Revelation",
+        "airDate": "2014-09-28",
+        "airDateUtc": "2014-09-28T04:00:00Z",
+        "runtime": 45,
+        "overview": "Bellamy awakens alone and abandoned at Arcadia’s outskirts, missing a week of his life. As his memory returns, he has a shocking revelation. Arcadia welcomes one more returned... the powerful matriarch of the Langston family, dead for over three decades.",
+        "hasFile": true,
+        "monitored": true,
+        "absoluteEpisodeNumber": 9,
+        "unverifiedSceneNumbering": false,
+        "id": 59963
+      },
+      "series": {
+        "title": "Resurrection",
+        "sortTitle": "resurrection",
+        "status": "ended",
+        "ended": true,
+        "overview": "The lives of the people of Arcadia, Missouri, are forever changed when their deceased loved ones return.",
+        "network": "ABC (US)",
+        "images": [
+          {
+            "coverType": "banner",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/graphical/269650-g2.jpg"
+          },
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/posters/269650-1.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/fanart/original/269650-2.jpg"
+          },
+          {
+            "coverType": "clearlogo",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/269650/clearlogo/611b8e4f90b08.png"
+          }
+        ],
+        "originalLanguage": {
+          "id": 1,
+          "name": "English"
+        },
+        "seasons": [
+          {
+            "seasonNumber": 0,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 1,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 2,
+            "monitored": true
+          }
+        ],
+        "year": 2014,
+        "path": "/tv/Tv Shows/Resurrection",
+        "qualityProfileId": 1,
+        "seasonFolder": true,
+        "monitored": true,
+        "monitorNewItems": "all",
+        "useSceneNumbering": false,
+        "runtime": 45,
+        "tvdbId": 269650,
+        "tvRageId": 34321,
+        "tvMazeId": 39,
+        "tmdbId": 51370,
+        "firstAired": "2014-03-09T00:00:00Z",
+        "lastAired": "2015-01-25T00:00:00Z",
+        "seriesType": "standard",
+        "cleanTitle": "resurrection",
+        "imdbId": "tt2647586",
+        "titleSlug": "resurrection",
+        "certification": "TV-14",
+        "genres": [
+          "Drama",
+          "Fantasy"
+        ],
+        "tags": [],
+        "added": "2020-02-09T09:49:48Z",
+        "ratings": {
+          "votes": 15704,
+          "value": 7.2
+        },
+        "languageProfileId": 1,
+        "id": 867
+      },
+      "id": 356861
+    },
+    {
+      "episodeId": 54864,
+      "seriesId": 797,
+      "sourceTitle": "Mom.S04E22.720p.HDTV.x264-AVS-xpost",
+      "languages": [
+        {
+          "id": 1,
+          "name": "English"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 4,
+          "name": "HDTV-720p",
+          "source": "television",
+          "resolution": 720
+        },
+        "revision": {
+          "version": 1,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "customFormats": [
+        {
+          "id": 3,
+          "name": "english"
+        }
+      ],
+      "customFormatScore": 10,
+      "qualityCutoffNotMet": true,
+      "date": "2025-03-28T09:44:00Z",
+      "downloadId": "SABnzbd_nzo_lgay4ixa",
+      "eventType": "downloadFolderImported",
+      "data": {
+        "fileId": "1505766",
+        "droppedPath": "/downloads/Mom.S04E22.720p.HDTV.x264-AVS-xpost/Mom.S04E22.720p.HDTV.x264-AVS.mkv",
+        "importedPath": "/tv/Tv Shows/Mom/Season 4/Mom.S04E22.Lockjaw.and.a.Liquid.Diet.mkv",
+        "downloadClient": "SABnzbd",
+        "downloadClientName": "sab",
+        "releaseGroup": "AVS",
+        "customFormatScore": "10",
+        "size": "518204139",
+        "indexerFlags": "0",
+        "releaseType": "SingleEpisode"
+      },
+      "episode": {
+        "seriesId": 797,
+        "tvdbId": 6026848,
+        "episodeFileId": 1505766,
+        "seasonNumber": 4,
+        "episodeNumber": 22,
+        "title": "Lockjaw and a Liquid Diet",
+        "airDate": "2017-05-11",
+        "airDateUtc": "2017-05-12T01:00:00Z",
+        "runtime": 21,
+        "finaleType": "season",
+        "overview": "In the season finale, Christy tries to help when Bonnie gets into trouble with the IRS but, realizing she’s in over her head, she encourages Bonnie to seek help from her newfound brother, Ray.",
+        "hasFile": true,
+        "monitored": true,
+        "absoluteEpisodeNumber": 88,
+        "unverifiedSceneNumbering": false,
+        "id": 54864
+      },
+      "series": {
+        "title": "Mom",
+        "sortTitle": "mom",
+        "status": "ended",
+        "ended": true,
+        "overview": "A newly sober single mom tries to pull her life together in Napa Valley while dealing with her wayward mother.",
+        "network": "CBS",
+        "airTime": "21:00",
+        "images": [
+          {
+            "coverType": "banner",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/graphical/266967-g.jpg"
+          },
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/posters/266967-1.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/fanart/original/266967-2.jpg"
+          },
+          {
+            "coverType": "clearlogo",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/266967/clearlogo/611b7a7b8947c.png"
+          }
+        ],
+        "originalLanguage": {
+          "id": 1,
+          "name": "English"
+        },
+        "seasons": [
+          {
+            "seasonNumber": 0,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 1,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 2,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 3,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 4,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 5,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 6,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 7,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 8,
+            "monitored": true
+          }
+        ],
+        "year": 2013,
+        "path": "/tv/Tv Shows/Mom",
+        "qualityProfileId": 1,
+        "seasonFolder": true,
+        "monitored": true,
+        "monitorNewItems": "all",
+        "useSceneNumbering": false,
+        "runtime": 21,
+        "tvdbId": 266967,
+        "tvRageId": 33829,
+        "tvMazeId": 126,
+        "tmdbId": 49011,
+        "firstAired": "2013-09-23T00:00:00Z",
+        "lastAired": "2021-05-13T00:00:00Z",
+        "seriesType": "standard",
+        "cleanTitle": "mom",
+        "imdbId": "tt2660806",
+        "titleSlug": "mom",
+        "certification": "TV-14",
+        "genres": [
+          "Comedy",
+          "Drama",
+          "Romance"
+        ],
+        "tags": [],
+        "added": "2020-02-09T09:30:51Z",
+        "ratings": {
+          "votes": 41033,
+          "value": 7.4
+        },
+        "languageProfileId": 1,
+        "id": 797
+      },
+      "id": 356860
+    },
+    {
+      "episodeId": 54864,
+      "seriesId": 797,
+      "sourceTitle": "/tv/Tv Shows/Mom/Season 4/Mom.s04e22.mkv",
+      "languages": [
+        {
+          "id": 1,
+          "name": "English"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 1,
+          "name": "SDTV",
+          "source": "television",
+          "resolution": 480
+        },
+        "revision": {
+          "version": 1,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "customFormats": [
+        {
+          "id": 3,
+          "name": "english"
+        }
+      ],
+      "customFormatScore": 10,
+      "qualityCutoffNotMet": true,
+      "date": "2025-03-28T09:44:00Z",
+      "eventType": "episodeFileDeleted",
+      "data": {
+        "reason": "Upgrade",
+        "releaseGroup": null,
+        "size": "99586432",
+        "indexerFlags": "0",
+        "releaseType": "Unknown"
+      },
+      "episode": {
+        "seriesId": 797,
+        "tvdbId": 6026848,
+        "episodeFileId": 1505766,
+        "seasonNumber": 4,
+        "episodeNumber": 22,
+        "title": "Lockjaw and a Liquid Diet",
+        "airDate": "2017-05-11",
+        "airDateUtc": "2017-05-12T01:00:00Z",
+        "runtime": 21,
+        "finaleType": "season",
+        "overview": "In the season finale, Christy tries to help when Bonnie gets into trouble with the IRS but, realizing she’s in over her head, she encourages Bonnie to seek help from her newfound brother, Ray.",
+        "hasFile": true,
+        "monitored": true,
+        "absoluteEpisodeNumber": 88,
+        "unverifiedSceneNumbering": false,
+        "id": 54864
+      },
+      "series": {
+        "title": "Mom",
+        "sortTitle": "mom",
+        "status": "ended",
+        "ended": true,
+        "overview": "A newly sober single mom tries to pull her life together in Napa Valley while dealing with her wayward mother.",
+        "network": "CBS",
+        "airTime": "21:00",
+        "images": [
+          {
+            "coverType": "banner",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/graphical/266967-g.jpg"
+          },
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/posters/266967-1.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/fanart/original/266967-2.jpg"
+          },
+          {
+            "coverType": "clearlogo",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/266967/clearlogo/611b7a7b8947c.png"
+          }
+        ],
+        "originalLanguage": {
+          "id": 1,
+          "name": "English"
+        },
+        "seasons": [
+          {
+            "seasonNumber": 0,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 1,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 2,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 3,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 4,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 5,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 6,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 7,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 8,
+            "monitored": true
+          }
+        ],
+        "year": 2013,
+        "path": "/tv/Tv Shows/Mom",
+        "qualityProfileId": 1,
+        "seasonFolder": true,
+        "monitored": true,
+        "monitorNewItems": "all",
+        "useSceneNumbering": false,
+        "runtime": 21,
+        "tvdbId": 266967,
+        "tvRageId": 33829,
+        "tvMazeId": 126,
+        "tmdbId": 49011,
+        "firstAired": "2013-09-23T00:00:00Z",
+        "lastAired": "2021-05-13T00:00:00Z",
+        "seriesType": "standard",
+        "cleanTitle": "mom",
+        "imdbId": "tt2660806",
+        "titleSlug": "mom",
+        "certification": "TV-14",
+        "genres": [
+          "Comedy",
+          "Drama",
+          "Romance"
+        ],
+        "tags": [],
+        "added": "2020-02-09T09:30:51Z",
+        "ratings": {
+          "votes": 41033,
+          "value": 7.4
+        },
+        "languageProfileId": 1,
+        "id": 797
+      },
+      "id": 356859
+    },
+    {
+      "episodeId": 54864,
+      "seriesId": 797,
+      "sourceTitle": "Mom.S04E22.720p.HDTV.x264-AVS-xpost",
+      "languages": [
+        {
+          "id": 1,
+          "name": "English"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 4,
+          "name": "HDTV-720p",
+          "source": "television",
+          "resolution": 720
+        },
+        "revision": {
+          "version": 1,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "customFormats": [
+        {
+          "id": 3,
+          "name": "english"
+        }
+      ],
+      "customFormatScore": 10,
+      "qualityCutoffNotMet": true,
+      "date": "2025-03-28T09:42:45Z",
+      "downloadId": "SABnzbd_nzo_lgay4ixa",
+      "eventType": "grabbed",
+      "data": {
+        "indexer": "Nzb.su (yearly) (Prowlarr)",
+        "nzbInfoUrl": "https://api.nzb.su/details/4fd00cb4ce63dfb0df84bc32df247162",
+        "releaseGroup": "AVS",
+        "age": "0",
+        "ageHours": "0.4472118162777778",
+        "ageMinutes": "26.832709011666665",
+        "publishedDate": "2025-03-28T09:15:56Z",
+        "downloadClient": "SABnzbd",
+        "downloadClientName": "sab",
+        "size": "588833915",
+        "downloadUrl": "http://prowlarr:9696/4/download?apikey=5f771c1869f94fec821832369384a70c&link=UEptMnpZeVphSVFrRysrV1RwOWpSL0ExN3lVNm1TNTdRWlYyZERxeFVvSEJ1VDNyaXdYRzg3OGdaTWZLUlBqaGhGcG54YmhTSXZ0MmdZa1dnQ3g5TU5OSGRsMjZORHByWHpmN0NobW9PVnhnNkJQamk1WUNrQTU4Q0h2dElmZ0NUeUhnRDEyK0NBK21zenJaOEpFS2U2MHlTUVhSU0RFcmJNVmZqT0l0Y05VPQ&file=Mom.S04E22.720p.HDTV.x264-AVS-xpost",
+        "guid": "https://api.nzb.su/details/4fd00cb4ce63dfb0df84bc32df247162",
+        "tvdbId": "0",
+        "tvRageId": "0",
+        "imdbId": null,
+        "protocol": "1",
+        "customFormatScore": "10",
+        "seriesMatchType": "Title",
+        "releaseSource": "Rss",
+        "indexerFlags": "0",
+        "releaseType": "SingleEpisode"
+      },
+      "episode": {
+        "seriesId": 797,
+        "tvdbId": 6026848,
+        "episodeFileId": 1505766,
+        "seasonNumber": 4,
+        "episodeNumber": 22,
+        "title": "Lockjaw and a Liquid Diet",
+        "airDate": "2017-05-11",
+        "airDateUtc": "2017-05-12T01:00:00Z",
+        "runtime": 21,
+        "finaleType": "season",
+        "overview": "In the season finale, Christy tries to help when Bonnie gets into trouble with the IRS but, realizing she’s in over her head, she encourages Bonnie to seek help from her newfound brother, Ray.",
+        "hasFile": true,
+        "monitored": true,
+        "absoluteEpisodeNumber": 88,
+        "unverifiedSceneNumbering": false,
+        "id": 54864
+      },
+      "series": {
+        "title": "Mom",
+        "sortTitle": "mom",
+        "status": "ended",
+        "ended": true,
+        "overview": "A newly sober single mom tries to pull her life together in Napa Valley while dealing with her wayward mother.",
+        "network": "CBS",
+        "airTime": "21:00",
+        "images": [
+          {
+            "coverType": "banner",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/graphical/266967-g.jpg"
+          },
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/posters/266967-1.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/fanart/original/266967-2.jpg"
+          },
+          {
+            "coverType": "clearlogo",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/266967/clearlogo/611b7a7b8947c.png"
+          }
+        ],
+        "originalLanguage": {
+          "id": 1,
+          "name": "English"
+        },
+        "seasons": [
+          {
+            "seasonNumber": 0,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 1,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 2,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 3,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 4,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 5,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 6,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 7,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 8,
+            "monitored": true
+          }
+        ],
+        "year": 2013,
+        "path": "/tv/Tv Shows/Mom",
+        "qualityProfileId": 1,
+        "seasonFolder": true,
+        "monitored": true,
+        "monitorNewItems": "all",
+        "useSceneNumbering": false,
+        "runtime": 21,
+        "tvdbId": 266967,
+        "tvRageId": 33829,
+        "tvMazeId": 126,
+        "tmdbId": 49011,
+        "firstAired": "2013-09-23T00:00:00Z",
+        "lastAired": "2021-05-13T00:00:00Z",
+        "seriesType": "standard",
+        "cleanTitle": "mom",
+        "imdbId": "tt2660806",
+        "titleSlug": "mom",
+        "certification": "TV-14",
+        "genres": [
+          "Comedy",
+          "Drama",
+          "Romance"
+        ],
+        "tags": [],
+        "added": "2020-02-09T09:30:51Z",
+        "ratings": {
+          "votes": 41033,
+          "value": 7.4
+        },
+        "languageProfileId": 1,
+        "id": 797
+      },
+      "id": 356858
+    },
+    {
+      "episodeId": 164337,
+      "seriesId": 1417,
+      "sourceTitle": "Teen.Mom.The.Next.Chapter.S02E24.1080p.WEB.h264-EDITH",
+      "languages": [
+        {
+          "id": 1,
+          "name": "English"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 3,
+          "name": "WEBDL-1080p",
+          "source": "web",
+          "resolution": 1080
+        },
+        "revision": {
+          "version": 1,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "customFormats": [
+        {
+          "id": 3,
+          "name": "english"
+        }
+      ],
+      "customFormatScore": 10,
+      "qualityCutoffNotMet": false,
+      "date": "2025-03-28T08:11:01Z",
+      "downloadId": "SABnzbd_nzo_9my6kifz",
+      "eventType": "downloadFolderImported",
+      "data": {
+        "fileId": "1505558",
+        "droppedPath": "/downloads/Teen.Mom.The.Next.Chapter.S02E24.1080p.WEB.h264-EDITH/Teen.Mom.The.Next.Chapter.S02E24.1080p.WEB.h264-EDITH.mkv",
+        "importedPath": "/tv/Documentaires/tv shows/Teen Mom - The Next Chapter/Season 2/Teen.Mom-.The.Next.Chapter.S02E24.Throw.Me.In.The.Deep.End.mkv",
+        "downloadClient": "SABnzbd",
+        "downloadClientName": "sab",
+        "releaseGroup": "EDITH",
+        "customFormatScore": "10",
+        "size": "1752312510",
+        "indexerFlags": "0",
+        "releaseType": "SingleEpisode"
+      },
+      "episode": {
+        "seriesId": 1417,
+        "tvdbId": 11050380,
+        "episodeFileId": 1505558,
+        "seasonNumber": 2,
+        "episodeNumber": 24,
+        "title": "Throw Me In The Deep End",
+        "airDate": "2025-03-27",
+        "airDateUtc": "2025-03-28T00:00:00Z",
+        "runtime": 42,
+        "overview": "Maci and Taylor welcome Cate and Tyler to Chattanooga for a podcast swap and reunite with Kail from Teen Mom 2. Leah speaks at an addiction awareness walk. Amber misses Leah's 16th birthday while Kristina promises to never abandon her.",
+        "hasFile": true,
+        "monitored": true,
+        "unverifiedSceneNumbering": false,
+        "id": 164337
+      },
+      "series": {
+        "title": "Teen Mom: The Next Chapter",
+        "sortTitle": "teen mom the next chapter",
+        "status": "continuing",
+        "ended": false,
+        "overview": "The casts of Teen Mom OG and Teen Mom 2 are each currently in different stages of motherhood – some have kids in diapers, while others are now parenting teenagers! But they all share the unique experience of momming so young. For the first time, the moms and all their stories will be brought together in one supersized series that focuses on the unique bond they share as they face the reality of parenthood and adulting while entering new phases of life together.",
+        "network": "MTV",
+        "airTime": "20:00",
+        "images": [
+          {
+            "coverType": "banner",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/423373/banners/6318225038120.jpg"
+          },
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/423373/posters/67e38cd4734e9.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/423373/backgrounds/630b844a3821c.jpg"
+          }
+        ],
+        "originalLanguage": {
+          "id": 1,
+          "name": "English"
+        },
+        "seasons": [
+          {
+            "seasonNumber": 1,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 2,
+            "monitored": true
+          }
+        ],
+        "year": 2022,
+        "path": "/tv/Documentaires/tv shows/Teen Mom - The Next Chapter",
+        "qualityProfileId": 1,
+        "seasonFolder": true,
+        "monitored": true,
+        "monitorNewItems": "all",
+        "useSceneNumbering": false,
+        "runtime": 42,
+        "tvdbId": 423373,
+        "tvRageId": 0,
+        "tvMazeId": 63524,
+        "tmdbId": 205026,
+        "firstAired": "2022-09-06T00:00:00Z",
+        "lastAired": "2025-05-01T00:00:00Z",
+        "seriesType": "standard",
+        "cleanTitle": "teenmomnextchapter",
+        "imdbId": "tt21663658",
+        "titleSlug": "teen-mom-the-next-chapter",
+        "genres": [
+          "Reality"
+        ],
+        "tags": [],
+        "added": "2022-09-09T04:34:54Z",
+        "ratings": {
+          "votes": 141,
+          "value": 5.8
+        },
+        "languageProfileId": 1,
+        "id": 1417
+      },
+      "id": 356857
+    },
+    {
+      "episodeId": 164337,
+      "seriesId": 1417,
+      "sourceTitle": "Teen.Mom.The.Next.Chapter.S02E24.1080p.WEB.h264-EDITH",
+      "languages": [
+        {
+          "id": 1,
+          "name": "English"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 3,
+          "name": "WEBDL-1080p",
+          "source": "web",
+          "resolution": 1080
+        },
+        "revision": {
+          "version": 1,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "customFormats": [
+        {
+          "id": 3,
+          "name": "english"
+        }
+      ],
+      "customFormatScore": 10,
+      "qualityCutoffNotMet": false,
+      "date": "2025-03-28T08:09:43Z",
+      "downloadId": "SABnzbd_nzo_9my6kifz",
+      "eventType": "grabbed",
+      "data": {
+        "indexer": "altHUB (Prowlarr)",
+        "nzbInfoUrl": "https://api.althub.co.za/details/125246b35061f463837f4f4fa24c87a5",
+        "releaseGroup": "EDITH",
+        "age": "0",
+        "ageHours": "0.13715887638888888",
+        "ageMinutes": "8.229532631666666",
+        "publishedDate": "2025-03-28T08:01:30Z",
+        "downloadClient": "SABnzbd",
+        "downloadClientName": "sab",
+        "size": "1928741319",
+        "downloadUrl": "http://prowlarr:9696/1/download?apikey=5f771c1869f94fec821832369384a70c&link=UUNFaDlna3JxOFRGM05tWG94a1haUEo2Mk5DYzRjYjk0USsvK3pQczVRckxXMmI4OWZ6dUtUMTFoQnB2TFo2dUZTcUdpdmdTdHN6dXY4TWpFVFBXK0RyNkVUVzE1UXdhbkJKY01pTldDYi9Ea0o4Q241SjhnRk1odjcvSTZXdmxXaVNLdUg4TVNTMmNpd3FOQmFRMmNtMUdsL1lnbWgzWlY5WTBDa3hvNWdNPQ&file=Teen.Mom.The.Next.Chapter.S02E24.1080p.WEB.h264-EDITH",
+        "guid": "https://api.althub.co.za/details/125246b35061f463837f4f4fa24c87a5",
+        "tvdbId": "0",
+        "tvRageId": "0",
+        "imdbId": null,
+        "protocol": "1",
+        "customFormatScore": "10",
+        "seriesMatchType": "Title",
+        "releaseSource": "Rss",
+        "indexerFlags": "0",
+        "releaseType": "SingleEpisode"
+      },
+      "episode": {
+        "seriesId": 1417,
+        "tvdbId": 11050380,
+        "episodeFileId": 1505558,
+        "seasonNumber": 2,
+        "episodeNumber": 24,
+        "title": "Throw Me In The Deep End",
+        "airDate": "2025-03-27",
+        "airDateUtc": "2025-03-28T00:00:00Z",
+        "runtime": 42,
+        "overview": "Maci and Taylor welcome Cate and Tyler to Chattanooga for a podcast swap and reunite with Kail from Teen Mom 2. Leah speaks at an addiction awareness walk. Amber misses Leah's 16th birthday while Kristina promises to never abandon her.",
+        "hasFile": true,
+        "monitored": true,
+        "unverifiedSceneNumbering": false,
+        "id": 164337
+      },
+      "series": {
+        "title": "Teen Mom: The Next Chapter",
+        "sortTitle": "teen mom the next chapter",
+        "status": "continuing",
+        "ended": false,
+        "overview": "The casts of Teen Mom OG and Teen Mom 2 are each currently in different stages of motherhood – some have kids in diapers, while others are now parenting teenagers! But they all share the unique experience of momming so young. For the first time, the moms and all their stories will be brought together in one supersized series that focuses on the unique bond they share as they face the reality of parenthood and adulting while entering new phases of life together.",
+        "network": "MTV",
+        "airTime": "20:00",
+        "images": [
+          {
+            "coverType": "banner",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/423373/banners/6318225038120.jpg"
+          },
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/423373/posters/67e38cd4734e9.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/423373/backgrounds/630b844a3821c.jpg"
+          }
+        ],
+        "originalLanguage": {
+          "id": 1,
+          "name": "English"
+        },
+        "seasons": [
+          {
+            "seasonNumber": 1,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 2,
+            "monitored": true
+          }
+        ],
+        "year": 2022,
+        "path": "/tv/Documentaires/tv shows/Teen Mom - The Next Chapter",
+        "qualityProfileId": 1,
+        "seasonFolder": true,
+        "monitored": true,
+        "monitorNewItems": "all",
+        "useSceneNumbering": false,
+        "runtime": 42,
+        "tvdbId": 423373,
+        "tvRageId": 0,
+        "tvMazeId": 63524,
+        "tmdbId": 205026,
+        "firstAired": "2022-09-06T00:00:00Z",
+        "lastAired": "2025-05-01T00:00:00Z",
+        "seriesType": "standard",
+        "cleanTitle": "teenmomnextchapter",
+        "imdbId": "tt21663658",
+        "titleSlug": "teen-mom-the-next-chapter",
+        "genres": [
+          "Reality"
+        ],
+        "tags": [],
+        "added": "2022-09-09T04:34:54Z",
+        "ratings": {
+          "votes": 141,
+          "value": 5.8
+        },
+        "languageProfileId": 1,
+        "id": 1417
+      },
+      "id": 356856
+    },
+    {
+      "episodeId": 162453,
+      "seriesId": 1596,
+      "sourceTitle": "power.book.iii.raising.kanan.s04e04.1080p.web.h264-successfulcrab",
+      "languages": [
+        {
+          "id": 1,
+          "name": "English"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 3,
+          "name": "WEBDL-1080p",
+          "source": "web",
+          "resolution": 1080
+        },
+        "revision": {
+          "version": 1,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "customFormats": [
+        {
+          "id": 3,
+          "name": "english"
+        }
+      ],
+      "customFormatScore": 10,
+      "qualityCutoffNotMet": false,
+      "date": "2025-03-28T04:34:02Z",
+      "downloadId": "SABnzbd_nzo_57lbnazs",
+      "eventType": "downloadFolderImported",
+      "data": {
+        "fileId": "1505557",
+        "droppedPath": "/downloads/power.book.iii.raising.kanan.s04e04.1080p.web.h264-successfulcrab/euBBoryf5ksWnjH7iAHc9Sg7s4c0Kxzy.mkv",
+        "importedPath": "/tv/Tv Shows/Power Book III - Raising Kanan/Season 4/Power.Book.III-.Raising.Kanan.S04E04.THE.WAY.WE.WERE.mkv",
+        "downloadClient": "SABnzbd",
+        "downloadClientName": "sab",
+        "releaseGroup": "successfulcrab",
+        "customFormatScore": "10",
+        "size": "2729933546",
+        "indexerFlags": "0",
+        "releaseType": "SingleEpisode"
+      },
+      "episode": {
+        "seriesId": 1596,
+        "tvdbId": 10925890,
+        "episodeFileId": 1505557,
+        "seasonNumber": 4,
+        "episodeNumber": 4,
+        "title": "THE WAY WE WERE",
+        "airDate": "2025-03-28",
+        "airDateUtc": "2025-03-29T01:00:00Z",
+        "runtime": 0,
+        "overview": "Unique forms an unlikely alliance in his vendetta against Raq, who inches closer to a new drug enterprise. Kanan takes advice from Snaps and Pop, while Jukebox's new friendship leads to a violent encounter.",
+        "hasFile": true,
+        "monitored": true,
+        "unverifiedSceneNumbering": false,
+        "id": 162453
+      },
+      "series": {
+        "title": "Power Book III: Raising Kanan",
+        "sortTitle": "power book iii raising kanan",
+        "status": "continuing",
+        "ended": false,
+        "overview": "Set in the 1990s, the series chronicles the early years of Kanan Stark and how he got into the drug game.",
+        "network": "STARZ",
+        "airTime": "21:00",
+        "images": [
+          {
+            "coverType": "banner",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/377332/banners/60f4ad9d73933.jpg"
+          },
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/377332/posters/67d8ed736cae6.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/377332/backgrounds/60c64726468f6.jpg"
+          }
+        ],
+        "originalLanguage": {
+          "id": 1,
+          "name": "English"
+        },
+        "seasons": [
+          {
+            "seasonNumber": 1,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 2,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 3,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 4,
+            "monitored": true
+          }
+        ],
+        "year": 2021,
+        "path": "/tv/Tv Shows/Power Book III - Raising Kanan",
+        "qualityProfileId": 1,
+        "seasonFolder": true,
+        "monitored": true,
+        "monitorNewItems": "all",
+        "useSceneNumbering": false,
+        "runtime": 55,
+        "tvdbId": 377332,
+        "tvRageId": 0,
+        "tvMazeId": 46211,
+        "tmdbId": 124394,
+        "firstAired": "2021-07-18T00:00:00Z",
+        "lastAired": "2025-05-09T00:00:00Z",
+        "seriesType": "standard",
+        "cleanTitle": "powerbookiiiraisingkanan",
+        "imdbId": "tt11761176",
+        "titleSlug": "power-book-iii-raising-kanan",
+        "certification": "TV-MA",
+        "genres": [
+          "Crime",
+          "Drama"
+        ],
+        "tags": [],
+        "added": "2024-03-12T09:02:03Z",
+        "ratings": {
+          "votes": 7345,
+          "value": 7.7
+        },
+        "languageProfileId": 1,
+        "id": 1596
+      },
+      "id": 356855
+    },
+    {
+      "episodeId": 162453,
+      "seriesId": 1596,
+      "sourceTitle": "power.book.iii.raising.kanan.s04e04.1080p.web.h264-successfulcrab",
+      "languages": [
+        {
+          "id": 1,
+          "name": "English"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 3,
+          "name": "WEBDL-1080p",
+          "source": "web",
+          "resolution": 1080
+        },
+        "revision": {
+          "version": 1,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "customFormats": [
+        {
+          "id": 3,
+          "name": "english"
+        }
+      ],
+      "customFormatScore": 10,
+      "qualityCutoffNotMet": false,
+      "date": "2025-03-28T04:32:44Z",
+      "downloadId": "SABnzbd_nzo_57lbnazs",
+      "eventType": "grabbed",
+      "data": {
+        "indexer": "NZBgeek (Prowlarr)",
+        "nzbInfoUrl": "https://nzbgeek.info/geekseek.php?guid=b0e29eb20bb8bc72fcf53d6b325b9e00",
+        "releaseGroup": "successfulcrab",
+        "age": "0",
+        "ageHours": "0.11273426119444445",
+        "ageMinutes": "6.7640557066666664",
+        "publishedDate": "2025-03-28T04:25:59Z",
+        "downloadClient": "SABnzbd",
+        "downloadClientName": "sab",
+        "size": "2874061000",
+        "downloadUrl": "http://prowlarr:9696/5/download?apikey=5f771c1869f94fec821832369384a70c&link=U0xXL2FDNm9CdGwvVkltV2RlR3pNVHozVFpuUjlOR0VIOXFCRng5RW1VbjI3a1E1cjRrcEpwcmlYZnFGYWQzaXNWK3FudFEzQVZOV3FDUmNuUXgxOWZ1d094VDMydmduT05MaVFFODBUcVRCdjhVQ3hIVnRJeEY0OHduR1hyZGxjSDZMc0lKMkRxQUdyamN4dG9lZUJmQ1lUSkNNSEt2UkVIMmhrbUlaangwPQ&file=power.book.iii.raising.kanan.s04e04.1080p.web.h264-successfulcrab",
+        "guid": "https://nzbgeek.info/geekseek.php?guid=b0e29eb20bb8bc72fcf53d6b325b9e00",
+        "tvdbId": "377332",
+        "tvRageId": "0",
+        "imdbId": null,
+        "protocol": "1",
+        "customFormatScore": "10",
+        "seriesMatchType": "Title",
+        "releaseSource": "Rss",
+        "indexerFlags": "0",
+        "releaseType": "SingleEpisode"
+      },
+      "episode": {
+        "seriesId": 1596,
+        "tvdbId": 10925890,
+        "episodeFileId": 1505557,
+        "seasonNumber": 4,
+        "episodeNumber": 4,
+        "title": "THE WAY WE WERE",
+        "airDate": "2025-03-28",
+        "airDateUtc": "2025-03-29T01:00:00Z",
+        "runtime": 0,
+        "overview": "Unique forms an unlikely alliance in his vendetta against Raq, who inches closer to a new drug enterprise. Kanan takes advice from Snaps and Pop, while Jukebox's new friendship leads to a violent encounter.",
+        "hasFile": true,
+        "monitored": true,
+        "unverifiedSceneNumbering": false,
+        "id": 162453
+      },
+      "series": {
+        "title": "Power Book III: Raising Kanan",
+        "sortTitle": "power book iii raising kanan",
+        "status": "continuing",
+        "ended": false,
+        "overview": "Set in the 1990s, the series chronicles the early years of Kanan Stark and how he got into the drug game.",
+        "network": "STARZ",
+        "airTime": "21:00",
+        "images": [
+          {
+            "coverType": "banner",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/377332/banners/60f4ad9d73933.jpg"
+          },
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/377332/posters/67d8ed736cae6.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/377332/backgrounds/60c64726468f6.jpg"
+          }
+        ],
+        "originalLanguage": {
+          "id": 1,
+          "name": "English"
+        },
+        "seasons": [
+          {
+            "seasonNumber": 1,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 2,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 3,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 4,
+            "monitored": true
+          }
+        ],
+        "year": 2021,
+        "path": "/tv/Tv Shows/Power Book III - Raising Kanan",
+        "qualityProfileId": 1,
+        "seasonFolder": true,
+        "monitored": true,
+        "monitorNewItems": "all",
+        "useSceneNumbering": false,
+        "runtime": 55,
+        "tvdbId": 377332,
+        "tvRageId": 0,
+        "tvMazeId": 46211,
+        "tmdbId": 124394,
+        "firstAired": "2021-07-18T00:00:00Z",
+        "lastAired": "2025-05-09T00:00:00Z",
+        "seriesType": "standard",
+        "cleanTitle": "powerbookiiiraisingkanan",
+        "imdbId": "tt11761176",
+        "titleSlug": "power-book-iii-raising-kanan",
+        "certification": "TV-MA",
+        "genres": [
+          "Crime",
+          "Drama"
+        ],
+        "tags": [],
+        "added": "2024-03-12T09:02:03Z",
+        "ratings": {
+          "votes": 7345,
+          "value": 7.7
+        },
+        "languageProfileId": 1,
+        "id": 1596
+      },
+      "id": 356854
+    }
+  ]
+}

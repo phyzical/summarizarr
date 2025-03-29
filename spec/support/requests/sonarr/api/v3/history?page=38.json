@@ -1,0 +1,2305 @@
+{
+  "page": 38,
+  "pageSize": 15,
+  "sortKey": "date",
+  "sortDirection": "descending",
+  "totalRecords": 344511,
+  "records": [
+    {
+      "episodeId": 164308,
+      "seriesId": 1855,
+      "sourceTitle": "Stillwater.(2020).S03.WEBRip.EAC3.5.1.1080p.x265-iVy",
+      "languages": [
+        {
+          "id": 1,
+          "name": "English"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 15,
+          "name": "WEBRip-1080p",
+          "source": "webRip",
+          "resolution": 1080
+        },
+        "revision": {
+          "version": 1,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "customFormats": [
+        {
+          "id": 3,
+          "name": "english"
+        },
+        {
+          "id": 1,
+          "name": "english 265"
+        }
+      ],
+      "customFormatScore": 30,
+      "qualityCutoffNotMet": false,
+      "date": "2025-03-24T00:52:49Z",
+      "downloadId": "SABnzbd_nzo__pasxw8f",
+      "eventType": "grabbed",
+      "data": {
+        "indexer": "NZBFinder (yearly) (Prowlarr)",
+        "nzbInfoUrl": "https://nzbfinder.ws/details/8bedf468-4b53-4a67-9405-edf97b5a9537",
+        "releaseGroup": "iVy",
+        "age": "170",
+        "ageHours": "4098.807535408667",
+        "ageMinutes": "245928.45212453834",
+        "publishedDate": "2024-10-04T06:04:22Z",
+        "downloadClient": "SABnzbd",
+        "downloadClientName": "sab",
+        "size": "5106242257",
+        "downloadUrl": "http://prowlarr:9696/3/download?apikey=5f771c1869f94fec821832369384a70c&link=MzZtSEJxdFdnemVHSVlReEhUclVFazJpY09LdFFKVnB4NitIQm1SaEVmQkRLd2VTWmQ5UFp5SCtHUGR2OTBtNENWNXZWanBlTWk2dUtnZjJqUXVWSkw4ek5CSmJ4dWEvZzNQMDl3Yitlb2NPdEN1R2JrTTVueTNJR3I3TnNvc3VObzQ0ekUyUGpuSXV2cUhzZGVHcXgxRjMrMlcyN1V1SHVZSXZDL0piVXBuSWd3TnFuVFpadkZSU21UQ2J5bVJs&file=Stillwater.(2020).S03.WEBRip.EAC3.5.1.1080p.x265-iVy",
+        "guid": "https://nzbfinder.ws/details/8bedf468-4b53-4a67-9405-edf97b5a9537",
+        "tvdbId": "388611",
+        "tvRageId": "0",
+        "imdbId": "tt13135714",
+        "protocol": "1",
+        "customFormatScore": "30",
+        "seriesMatchType": "Id",
+        "releaseSource": "Search",
+        "indexerFlags": "0",
+        "releaseType": "SeasonPack"
+      },
+      "episode": {
+        "seriesId": 1855,
+        "tvdbId": 9797179,
+        "episodeFileId": 0,
+        "seasonNumber": 3,
+        "episodeNumber": 20,
+        "title": "Art Fair",
+        "airDate": "2023-05-19",
+        "airDateUtc": "2023-05-19T07:00:00Z",
+        "lastSearchTime": "2025-03-24T00:52:34Z",
+        "runtime": 12,
+        "finaleType": "season",
+        "overview": "Michael struggles to finish an art project for an upcoming fair.",
+        "hasFile": false,
+        "monitored": true,
+        "unverifiedSceneNumbering": false,
+        "id": 164308
+      },
+      "series": {
+        "title": "Stillwater",
+        "sortTitle": "stillwater",
+        "status": "ended",
+        "ended": true,
+        "overview": "Siblings Karl, Addy and Michael have a very special next-door neighbor: a wise panda named Stillwater. His friendship and stories give them new perspectives on the world, themselves, and each other.",
+        "network": "Apple TV+",
+        "airTime": "03:00",
+        "images": [
+          {
+            "coverType": "banner",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/series/388611/banners/5fce2ff8573ca.jpg"
+          },
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/series/388611/posters/5fafc3349dad0.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/388611/backgrounds/62345576b453b.jpg"
+          }
+        ],
+        "originalLanguage": {
+          "id": 1,
+          "name": "English"
+        },
+        "seasons": [
+          {
+            "seasonNumber": 1,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 2,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 3,
+            "monitored": true
+          }
+        ],
+        "year": 2020,
+        "path": "/tv/Cartoons/Stillwater",
+        "qualityProfileId": 1,
+        "seasonFolder": true,
+        "monitored": true,
+        "monitorNewItems": "all",
+        "useSceneNumbering": false,
+        "runtime": 13,
+        "tvdbId": 388611,
+        "tvRageId": 0,
+        "tvMazeId": 50463,
+        "tmdbId": 111834,
+        "firstAired": "2020-12-04T00:00:00Z",
+        "lastAired": "2023-05-19T00:00:00Z",
+        "seriesType": "standard",
+        "cleanTitle": "stillwater",
+        "imdbId": "tt13135714",
+        "titleSlug": "stillwater",
+        "certification": "TV-Y7",
+        "genres": [
+          "Animation",
+          "Children",
+          "Family"
+        ],
+        "tags": [],
+        "added": "2025-03-24T00:51:23Z",
+        "ratings": {
+          "votes": 697,
+          "value": 8.2
+        },
+        "languageProfileId": 1,
+        "id": 1855
+      },
+      "id": 356493
+    },
+    {
+      "episodeId": 164307,
+      "seriesId": 1855,
+      "sourceTitle": "Stillwater.(2020).S03.WEBRip.EAC3.5.1.1080p.x265-iVy",
+      "languages": [
+        {
+          "id": 1,
+          "name": "English"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 15,
+          "name": "WEBRip-1080p",
+          "source": "webRip",
+          "resolution": 1080
+        },
+        "revision": {
+          "version": 1,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "customFormats": [
+        {
+          "id": 3,
+          "name": "english"
+        },
+        {
+          "id": 1,
+          "name": "english 265"
+        }
+      ],
+      "customFormatScore": 30,
+      "qualityCutoffNotMet": false,
+      "date": "2025-03-24T00:52:49Z",
+      "downloadId": "SABnzbd_nzo__pasxw8f",
+      "eventType": "grabbed",
+      "data": {
+        "indexer": "NZBFinder (yearly) (Prowlarr)",
+        "nzbInfoUrl": "https://nzbfinder.ws/details/8bedf468-4b53-4a67-9405-edf97b5a9537",
+        "releaseGroup": "iVy",
+        "age": "170",
+        "ageHours": "4098.807534571694",
+        "ageMinutes": "245928.45207431834",
+        "publishedDate": "2024-10-04T06:04:22Z",
+        "downloadClient": "SABnzbd",
+        "downloadClientName": "sab",
+        "size": "5106242257",
+        "downloadUrl": "http://prowlarr:9696/3/download?apikey=5f771c1869f94fec821832369384a70c&link=MzZtSEJxdFdnemVHSVlReEhUclVFazJpY09LdFFKVnB4NitIQm1SaEVmQkRLd2VTWmQ5UFp5SCtHUGR2OTBtNENWNXZWanBlTWk2dUtnZjJqUXVWSkw4ek5CSmJ4dWEvZzNQMDl3Yitlb2NPdEN1R2JrTTVueTNJR3I3TnNvc3VObzQ0ekUyUGpuSXV2cUhzZGVHcXgxRjMrMlcyN1V1SHVZSXZDL0piVXBuSWd3TnFuVFpadkZSU21UQ2J5bVJs&file=Stillwater.(2020).S03.WEBRip.EAC3.5.1.1080p.x265-iVy",
+        "guid": "https://nzbfinder.ws/details/8bedf468-4b53-4a67-9405-edf97b5a9537",
+        "tvdbId": "388611",
+        "tvRageId": "0",
+        "imdbId": "tt13135714",
+        "protocol": "1",
+        "customFormatScore": "30",
+        "seriesMatchType": "Id",
+        "releaseSource": "Search",
+        "indexerFlags": "0",
+        "releaseType": "SeasonPack"
+      },
+      "episode": {
+        "seriesId": 1855,
+        "tvdbId": 9797178,
+        "episodeFileId": 0,
+        "seasonNumber": 3,
+        "episodeNumber": 19,
+        "title": "I'm Bored",
+        "airDate": "2023-05-19",
+        "airDateUtc": "2023-05-19T07:00:00Z",
+        "lastSearchTime": "2025-03-24T00:52:34Z",
+        "runtime": 12,
+        "overview": "A bored Karl takes out his frustrations on everyone around him.",
+        "hasFile": false,
+        "monitored": true,
+        "unverifiedSceneNumbering": false,
+        "id": 164307
+      },
+      "series": {
+        "title": "Stillwater",
+        "sortTitle": "stillwater",
+        "status": "ended",
+        "ended": true,
+        "overview": "Siblings Karl, Addy and Michael have a very special next-door neighbor: a wise panda named Stillwater. His friendship and stories give them new perspectives on the world, themselves, and each other.",
+        "network": "Apple TV+",
+        "airTime": "03:00",
+        "images": [
+          {
+            "coverType": "banner",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/series/388611/banners/5fce2ff8573ca.jpg"
+          },
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/series/388611/posters/5fafc3349dad0.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/388611/backgrounds/62345576b453b.jpg"
+          }
+        ],
+        "originalLanguage": {
+          "id": 1,
+          "name": "English"
+        },
+        "seasons": [
+          {
+            "seasonNumber": 1,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 2,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 3,
+            "monitored": true
+          }
+        ],
+        "year": 2020,
+        "path": "/tv/Cartoons/Stillwater",
+        "qualityProfileId": 1,
+        "seasonFolder": true,
+        "monitored": true,
+        "monitorNewItems": "all",
+        "useSceneNumbering": false,
+        "runtime": 13,
+        "tvdbId": 388611,
+        "tvRageId": 0,
+        "tvMazeId": 50463,
+        "tmdbId": 111834,
+        "firstAired": "2020-12-04T00:00:00Z",
+        "lastAired": "2023-05-19T00:00:00Z",
+        "seriesType": "standard",
+        "cleanTitle": "stillwater",
+        "imdbId": "tt13135714",
+        "titleSlug": "stillwater",
+        "certification": "TV-Y7",
+        "genres": [
+          "Animation",
+          "Children",
+          "Family"
+        ],
+        "tags": [],
+        "added": "2025-03-24T00:51:23Z",
+        "ratings": {
+          "votes": 697,
+          "value": 8.2
+        },
+        "languageProfileId": 1,
+        "id": 1855
+      },
+      "id": 356492
+    },
+    {
+      "episodeId": 164306,
+      "seriesId": 1855,
+      "sourceTitle": "Stillwater.(2020).S03.WEBRip.EAC3.5.1.1080p.x265-iVy",
+      "languages": [
+        {
+          "id": 1,
+          "name": "English"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 15,
+          "name": "WEBRip-1080p",
+          "source": "webRip",
+          "resolution": 1080
+        },
+        "revision": {
+          "version": 1,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "customFormats": [
+        {
+          "id": 3,
+          "name": "english"
+        },
+        {
+          "id": 1,
+          "name": "english 265"
+        }
+      ],
+      "customFormatScore": 30,
+      "qualityCutoffNotMet": false,
+      "date": "2025-03-24T00:52:49Z",
+      "downloadId": "SABnzbd_nzo__pasxw8f",
+      "eventType": "grabbed",
+      "data": {
+        "indexer": "NZBFinder (yearly) (Prowlarr)",
+        "nzbInfoUrl": "https://nzbfinder.ws/details/8bedf468-4b53-4a67-9405-edf97b5a9537",
+        "releaseGroup": "iVy",
+        "age": "170",
+        "ageHours": "4098.807533695444",
+        "ageMinutes": "245928.45202176334",
+        "publishedDate": "2024-10-04T06:04:22Z",
+        "downloadClient": "SABnzbd",
+        "downloadClientName": "sab",
+        "size": "5106242257",
+        "downloadUrl": "http://prowlarr:9696/3/download?apikey=5f771c1869f94fec821832369384a70c&link=MzZtSEJxdFdnemVHSVlReEhUclVFazJpY09LdFFKVnB4NitIQm1SaEVmQkRLd2VTWmQ5UFp5SCtHUGR2OTBtNENWNXZWanBlTWk2dUtnZjJqUXVWSkw4ek5CSmJ4dWEvZzNQMDl3Yitlb2NPdEN1R2JrTTVueTNJR3I3TnNvc3VObzQ0ekUyUGpuSXV2cUhzZGVHcXgxRjMrMlcyN1V1SHVZSXZDL0piVXBuSWd3TnFuVFpadkZSU21UQ2J5bVJs&file=Stillwater.(2020).S03.WEBRip.EAC3.5.1.1080p.x265-iVy",
+        "guid": "https://nzbfinder.ws/details/8bedf468-4b53-4a67-9405-edf97b5a9537",
+        "tvdbId": "388611",
+        "tvRageId": "0",
+        "imdbId": "tt13135714",
+        "protocol": "1",
+        "customFormatScore": "30",
+        "seriesMatchType": "Id",
+        "releaseSource": "Search",
+        "indexerFlags": "0",
+        "releaseType": "SeasonPack"
+      },
+      "episode": {
+        "seriesId": 1855,
+        "tvdbId": 9797177,
+        "episodeFileId": 0,
+        "seasonNumber": 3,
+        "episodeNumber": 18,
+        "title": "Missing Out",
+        "airDate": "2023-05-19",
+        "airDateUtc": "2023-05-19T07:00:00Z",
+        "lastSearchTime": "2025-03-24T00:52:34Z",
+        "runtime": 12,
+        "overview": "Addy feels left out when she isn’t invited to a birthday dinner.",
+        "hasFile": false,
+        "monitored": true,
+        "unverifiedSceneNumbering": false,
+        "id": 164306
+      },
+      "series": {
+        "title": "Stillwater",
+        "sortTitle": "stillwater",
+        "status": "ended",
+        "ended": true,
+        "overview": "Siblings Karl, Addy and Michael have a very special next-door neighbor: a wise panda named Stillwater. His friendship and stories give them new perspectives on the world, themselves, and each other.",
+        "network": "Apple TV+",
+        "airTime": "03:00",
+        "images": [
+          {
+            "coverType": "banner",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/series/388611/banners/5fce2ff8573ca.jpg"
+          },
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/series/388611/posters/5fafc3349dad0.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/388611/backgrounds/62345576b453b.jpg"
+          }
+        ],
+        "originalLanguage": {
+          "id": 1,
+          "name": "English"
+        },
+        "seasons": [
+          {
+            "seasonNumber": 1,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 2,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 3,
+            "monitored": true
+          }
+        ],
+        "year": 2020,
+        "path": "/tv/Cartoons/Stillwater",
+        "qualityProfileId": 1,
+        "seasonFolder": true,
+        "monitored": true,
+        "monitorNewItems": "all",
+        "useSceneNumbering": false,
+        "runtime": 13,
+        "tvdbId": 388611,
+        "tvRageId": 0,
+        "tvMazeId": 50463,
+        "tmdbId": 111834,
+        "firstAired": "2020-12-04T00:00:00Z",
+        "lastAired": "2023-05-19T00:00:00Z",
+        "seriesType": "standard",
+        "cleanTitle": "stillwater",
+        "imdbId": "tt13135714",
+        "titleSlug": "stillwater",
+        "certification": "TV-Y7",
+        "genres": [
+          "Animation",
+          "Children",
+          "Family"
+        ],
+        "tags": [],
+        "added": "2025-03-24T00:51:23Z",
+        "ratings": {
+          "votes": 697,
+          "value": 8.2
+        },
+        "languageProfileId": 1,
+        "id": 1855
+      },
+      "id": 356491
+    },
+    {
+      "episodeId": 164305,
+      "seriesId": 1855,
+      "sourceTitle": "Stillwater.(2020).S03.WEBRip.EAC3.5.1.1080p.x265-iVy",
+      "languages": [
+        {
+          "id": 1,
+          "name": "English"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 15,
+          "name": "WEBRip-1080p",
+          "source": "webRip",
+          "resolution": 1080
+        },
+        "revision": {
+          "version": 1,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "customFormats": [
+        {
+          "id": 3,
+          "name": "english"
+        },
+        {
+          "id": 1,
+          "name": "english 265"
+        }
+      ],
+      "customFormatScore": 30,
+      "qualityCutoffNotMet": false,
+      "date": "2025-03-24T00:52:49Z",
+      "downloadId": "SABnzbd_nzo__pasxw8f",
+      "eventType": "grabbed",
+      "data": {
+        "indexer": "NZBFinder (yearly) (Prowlarr)",
+        "nzbInfoUrl": "https://nzbfinder.ws/details/8bedf468-4b53-4a67-9405-edf97b5a9537",
+        "releaseGroup": "iVy",
+        "age": "170",
+        "ageHours": "4098.807532775639",
+        "ageMinutes": "245928.45196657834",
+        "publishedDate": "2024-10-04T06:04:22Z",
+        "downloadClient": "SABnzbd",
+        "downloadClientName": "sab",
+        "size": "5106242257",
+        "downloadUrl": "http://prowlarr:9696/3/download?apikey=5f771c1869f94fec821832369384a70c&link=MzZtSEJxdFdnemVHSVlReEhUclVFazJpY09LdFFKVnB4NitIQm1SaEVmQkRLd2VTWmQ5UFp5SCtHUGR2OTBtNENWNXZWanBlTWk2dUtnZjJqUXVWSkw4ek5CSmJ4dWEvZzNQMDl3Yitlb2NPdEN1R2JrTTVueTNJR3I3TnNvc3VObzQ0ekUyUGpuSXV2cUhzZGVHcXgxRjMrMlcyN1V1SHVZSXZDL0piVXBuSWd3TnFuVFpadkZSU21UQ2J5bVJs&file=Stillwater.(2020).S03.WEBRip.EAC3.5.1.1080p.x265-iVy",
+        "guid": "https://nzbfinder.ws/details/8bedf468-4b53-4a67-9405-edf97b5a9537",
+        "tvdbId": "388611",
+        "tvRageId": "0",
+        "imdbId": "tt13135714",
+        "protocol": "1",
+        "customFormatScore": "30",
+        "seriesMatchType": "Id",
+        "releaseSource": "Search",
+        "indexerFlags": "0",
+        "releaseType": "SeasonPack"
+      },
+      "episode": {
+        "seriesId": 1855,
+        "tvdbId": 9797176,
+        "episodeFileId": 0,
+        "seasonNumber": 3,
+        "episodeNumber": 17,
+        "title": "The Catch",
+        "airDate": "2023-05-19",
+        "airDateUtc": "2023-05-19T07:00:00Z",
+        "lastSearchTime": "2025-03-24T00:52:34Z",
+        "runtime": 12,
+        "overview": "Michael gives himself a hard time for missing the game-winning catch.",
+        "hasFile": false,
+        "monitored": true,
+        "unverifiedSceneNumbering": false,
+        "id": 164305
+      },
+      "series": {
+        "title": "Stillwater",
+        "sortTitle": "stillwater",
+        "status": "ended",
+        "ended": true,
+        "overview": "Siblings Karl, Addy and Michael have a very special next-door neighbor: a wise panda named Stillwater. His friendship and stories give them new perspectives on the world, themselves, and each other.",
+        "network": "Apple TV+",
+        "airTime": "03:00",
+        "images": [
+          {
+            "coverType": "banner",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/series/388611/banners/5fce2ff8573ca.jpg"
+          },
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/series/388611/posters/5fafc3349dad0.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/388611/backgrounds/62345576b453b.jpg"
+          }
+        ],
+        "originalLanguage": {
+          "id": 1,
+          "name": "English"
+        },
+        "seasons": [
+          {
+            "seasonNumber": 1,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 2,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 3,
+            "monitored": true
+          }
+        ],
+        "year": 2020,
+        "path": "/tv/Cartoons/Stillwater",
+        "qualityProfileId": 1,
+        "seasonFolder": true,
+        "monitored": true,
+        "monitorNewItems": "all",
+        "useSceneNumbering": false,
+        "runtime": 13,
+        "tvdbId": 388611,
+        "tvRageId": 0,
+        "tvMazeId": 50463,
+        "tmdbId": 111834,
+        "firstAired": "2020-12-04T00:00:00Z",
+        "lastAired": "2023-05-19T00:00:00Z",
+        "seriesType": "standard",
+        "cleanTitle": "stillwater",
+        "imdbId": "tt13135714",
+        "titleSlug": "stillwater",
+        "certification": "TV-Y7",
+        "genres": [
+          "Animation",
+          "Children",
+          "Family"
+        ],
+        "tags": [],
+        "added": "2025-03-24T00:51:23Z",
+        "ratings": {
+          "votes": 697,
+          "value": 8.2
+        },
+        "languageProfileId": 1,
+        "id": 1855
+      },
+      "id": 356490
+    },
+    {
+      "episodeId": 164304,
+      "seriesId": 1855,
+      "sourceTitle": "Stillwater.(2020).S03.WEBRip.EAC3.5.1.1080p.x265-iVy",
+      "languages": [
+        {
+          "id": 1,
+          "name": "English"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 15,
+          "name": "WEBRip-1080p",
+          "source": "webRip",
+          "resolution": 1080
+        },
+        "revision": {
+          "version": 1,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "customFormats": [
+        {
+          "id": 3,
+          "name": "english"
+        },
+        {
+          "id": 1,
+          "name": "english 265"
+        }
+      ],
+      "customFormatScore": 30,
+      "qualityCutoffNotMet": false,
+      "date": "2025-03-24T00:52:49Z",
+      "downloadId": "SABnzbd_nzo__pasxw8f",
+      "eventType": "grabbed",
+      "data": {
+        "indexer": "NZBFinder (yearly) (Prowlarr)",
+        "nzbInfoUrl": "https://nzbfinder.ws/details/8bedf468-4b53-4a67-9405-edf97b5a9537",
+        "releaseGroup": "iVy",
+        "age": "170",
+        "ageHours": "4098.807531854444",
+        "ageMinutes": "245928.45191129",
+        "publishedDate": "2024-10-04T06:04:22Z",
+        "downloadClient": "SABnzbd",
+        "downloadClientName": "sab",
+        "size": "5106242257",
+        "downloadUrl": "http://prowlarr:9696/3/download?apikey=5f771c1869f94fec821832369384a70c&link=MzZtSEJxdFdnemVHSVlReEhUclVFazJpY09LdFFKVnB4NitIQm1SaEVmQkRLd2VTWmQ5UFp5SCtHUGR2OTBtNENWNXZWanBlTWk2dUtnZjJqUXVWSkw4ek5CSmJ4dWEvZzNQMDl3Yitlb2NPdEN1R2JrTTVueTNJR3I3TnNvc3VObzQ0ekUyUGpuSXV2cUhzZGVHcXgxRjMrMlcyN1V1SHVZSXZDL0piVXBuSWd3TnFuVFpadkZSU21UQ2J5bVJs&file=Stillwater.(2020).S03.WEBRip.EAC3.5.1.1080p.x265-iVy",
+        "guid": "https://nzbfinder.ws/details/8bedf468-4b53-4a67-9405-edf97b5a9537",
+        "tvdbId": "388611",
+        "tvRageId": "0",
+        "imdbId": "tt13135714",
+        "protocol": "1",
+        "customFormatScore": "30",
+        "seriesMatchType": "Id",
+        "releaseSource": "Search",
+        "indexerFlags": "0",
+        "releaseType": "SeasonPack"
+      },
+      "episode": {
+        "seriesId": 1855,
+        "tvdbId": 9797175,
+        "episodeFileId": 0,
+        "seasonNumber": 3,
+        "episodeNumber": 16,
+        "title": "Treasure Hunt",
+        "airDate": "2023-05-19",
+        "airDateUtc": "2023-05-19T07:00:00Z",
+        "lastSearchTime": "2025-03-24T00:52:34Z",
+        "runtime": 12,
+        "overview": "Karl spends a day at the beach looking for buried treasure.",
+        "hasFile": false,
+        "monitored": true,
+        "unverifiedSceneNumbering": false,
+        "id": 164304
+      },
+      "series": {
+        "title": "Stillwater",
+        "sortTitle": "stillwater",
+        "status": "ended",
+        "ended": true,
+        "overview": "Siblings Karl, Addy and Michael have a very special next-door neighbor: a wise panda named Stillwater. His friendship and stories give them new perspectives on the world, themselves, and each other.",
+        "network": "Apple TV+",
+        "airTime": "03:00",
+        "images": [
+          {
+            "coverType": "banner",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/series/388611/banners/5fce2ff8573ca.jpg"
+          },
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/series/388611/posters/5fafc3349dad0.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/388611/backgrounds/62345576b453b.jpg"
+          }
+        ],
+        "originalLanguage": {
+          "id": 1,
+          "name": "English"
+        },
+        "seasons": [
+          {
+            "seasonNumber": 1,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 2,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 3,
+            "monitored": true
+          }
+        ],
+        "year": 2020,
+        "path": "/tv/Cartoons/Stillwater",
+        "qualityProfileId": 1,
+        "seasonFolder": true,
+        "monitored": true,
+        "monitorNewItems": "all",
+        "useSceneNumbering": false,
+        "runtime": 13,
+        "tvdbId": 388611,
+        "tvRageId": 0,
+        "tvMazeId": 50463,
+        "tmdbId": 111834,
+        "firstAired": "2020-12-04T00:00:00Z",
+        "lastAired": "2023-05-19T00:00:00Z",
+        "seriesType": "standard",
+        "cleanTitle": "stillwater",
+        "imdbId": "tt13135714",
+        "titleSlug": "stillwater",
+        "certification": "TV-Y7",
+        "genres": [
+          "Animation",
+          "Children",
+          "Family"
+        ],
+        "tags": [],
+        "added": "2025-03-24T00:51:23Z",
+        "ratings": {
+          "votes": 697,
+          "value": 8.2
+        },
+        "languageProfileId": 1,
+        "id": 1855
+      },
+      "id": 356489
+    },
+    {
+      "episodeId": 164303,
+      "seriesId": 1855,
+      "sourceTitle": "Stillwater.(2020).S03.WEBRip.EAC3.5.1.1080p.x265-iVy",
+      "languages": [
+        {
+          "id": 1,
+          "name": "English"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 15,
+          "name": "WEBRip-1080p",
+          "source": "webRip",
+          "resolution": 1080
+        },
+        "revision": {
+          "version": 1,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "customFormats": [
+        {
+          "id": 3,
+          "name": "english"
+        },
+        {
+          "id": 1,
+          "name": "english 265"
+        }
+      ],
+      "customFormatScore": 30,
+      "qualityCutoffNotMet": false,
+      "date": "2025-03-24T00:52:49Z",
+      "downloadId": "SABnzbd_nzo__pasxw8f",
+      "eventType": "grabbed",
+      "data": {
+        "indexer": "NZBFinder (yearly) (Prowlarr)",
+        "nzbInfoUrl": "https://nzbfinder.ws/details/8bedf468-4b53-4a67-9405-edf97b5a9537",
+        "releaseGroup": "iVy",
+        "age": "170",
+        "ageHours": "4098.807530934611",
+        "ageMinutes": "245928.451856095",
+        "publishedDate": "2024-10-04T06:04:22Z",
+        "downloadClient": "SABnzbd",
+        "downloadClientName": "sab",
+        "size": "5106242257",
+        "downloadUrl": "http://prowlarr:9696/3/download?apikey=5f771c1869f94fec821832369384a70c&link=MzZtSEJxdFdnemVHSVlReEhUclVFazJpY09LdFFKVnB4NitIQm1SaEVmQkRLd2VTWmQ5UFp5SCtHUGR2OTBtNENWNXZWanBlTWk2dUtnZjJqUXVWSkw4ek5CSmJ4dWEvZzNQMDl3Yitlb2NPdEN1R2JrTTVueTNJR3I3TnNvc3VObzQ0ekUyUGpuSXV2cUhzZGVHcXgxRjMrMlcyN1V1SHVZSXZDL0piVXBuSWd3TnFuVFpadkZSU21UQ2J5bVJs&file=Stillwater.(2020).S03.WEBRip.EAC3.5.1.1080p.x265-iVy",
+        "guid": "https://nzbfinder.ws/details/8bedf468-4b53-4a67-9405-edf97b5a9537",
+        "tvdbId": "388611",
+        "tvRageId": "0",
+        "imdbId": "tt13135714",
+        "protocol": "1",
+        "customFormatScore": "30",
+        "seriesMatchType": "Id",
+        "releaseSource": "Search",
+        "indexerFlags": "0",
+        "releaseType": "SeasonPack"
+      },
+      "episode": {
+        "seriesId": 1855,
+        "tvdbId": 9797174,
+        "episodeFileId": 0,
+        "seasonNumber": 3,
+        "episodeNumber": 15,
+        "title": "Book Club",
+        "airDate": "2023-05-19",
+        "airDateUtc": "2023-05-19T07:00:00Z",
+        "lastSearchTime": "2025-03-24T00:52:34Z",
+        "runtime": 12,
+        "overview": "Addy worries her new book club will find her favorite book too childish.",
+        "hasFile": false,
+        "monitored": true,
+        "unverifiedSceneNumbering": false,
+        "id": 164303
+      },
+      "series": {
+        "title": "Stillwater",
+        "sortTitle": "stillwater",
+        "status": "ended",
+        "ended": true,
+        "overview": "Siblings Karl, Addy and Michael have a very special next-door neighbor: a wise panda named Stillwater. His friendship and stories give them new perspectives on the world, themselves, and each other.",
+        "network": "Apple TV+",
+        "airTime": "03:00",
+        "images": [
+          {
+            "coverType": "banner",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/series/388611/banners/5fce2ff8573ca.jpg"
+          },
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/series/388611/posters/5fafc3349dad0.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/388611/backgrounds/62345576b453b.jpg"
+          }
+        ],
+        "originalLanguage": {
+          "id": 1,
+          "name": "English"
+        },
+        "seasons": [
+          {
+            "seasonNumber": 1,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 2,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 3,
+            "monitored": true
+          }
+        ],
+        "year": 2020,
+        "path": "/tv/Cartoons/Stillwater",
+        "qualityProfileId": 1,
+        "seasonFolder": true,
+        "monitored": true,
+        "monitorNewItems": "all",
+        "useSceneNumbering": false,
+        "runtime": 13,
+        "tvdbId": 388611,
+        "tvRageId": 0,
+        "tvMazeId": 50463,
+        "tmdbId": 111834,
+        "firstAired": "2020-12-04T00:00:00Z",
+        "lastAired": "2023-05-19T00:00:00Z",
+        "seriesType": "standard",
+        "cleanTitle": "stillwater",
+        "imdbId": "tt13135714",
+        "titleSlug": "stillwater",
+        "certification": "TV-Y7",
+        "genres": [
+          "Animation",
+          "Children",
+          "Family"
+        ],
+        "tags": [],
+        "added": "2025-03-24T00:51:23Z",
+        "ratings": {
+          "votes": 697,
+          "value": 8.2
+        },
+        "languageProfileId": 1,
+        "id": 1855
+      },
+      "id": 356488
+    },
+    {
+      "episodeId": 164302,
+      "seriesId": 1855,
+      "sourceTitle": "Stillwater.(2020).S03.WEBRip.EAC3.5.1.1080p.x265-iVy",
+      "languages": [
+        {
+          "id": 1,
+          "name": "English"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 15,
+          "name": "WEBRip-1080p",
+          "source": "webRip",
+          "resolution": 1080
+        },
+        "revision": {
+          "version": 1,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "customFormats": [
+        {
+          "id": 3,
+          "name": "english"
+        },
+        {
+          "id": 1,
+          "name": "english 265"
+        }
+      ],
+      "customFormatScore": 30,
+      "qualityCutoffNotMet": false,
+      "date": "2025-03-24T00:52:49Z",
+      "downloadId": "SABnzbd_nzo__pasxw8f",
+      "eventType": "grabbed",
+      "data": {
+        "indexer": "NZBFinder (yearly) (Prowlarr)",
+        "nzbInfoUrl": "https://nzbfinder.ws/details/8bedf468-4b53-4a67-9405-edf97b5a9537",
+        "releaseGroup": "iVy",
+        "age": "170",
+        "ageHours": "4098.807530016084",
+        "ageMinutes": "245928.45180100665",
+        "publishedDate": "2024-10-04T06:04:22Z",
+        "downloadClient": "SABnzbd",
+        "downloadClientName": "sab",
+        "size": "5106242257",
+        "downloadUrl": "http://prowlarr:9696/3/download?apikey=5f771c1869f94fec821832369384a70c&link=MzZtSEJxdFdnemVHSVlReEhUclVFazJpY09LdFFKVnB4NitIQm1SaEVmQkRLd2VTWmQ5UFp5SCtHUGR2OTBtNENWNXZWanBlTWk2dUtnZjJqUXVWSkw4ek5CSmJ4dWEvZzNQMDl3Yitlb2NPdEN1R2JrTTVueTNJR3I3TnNvc3VObzQ0ekUyUGpuSXV2cUhzZGVHcXgxRjMrMlcyN1V1SHVZSXZDL0piVXBuSWd3TnFuVFpadkZSU21UQ2J5bVJs&file=Stillwater.(2020).S03.WEBRip.EAC3.5.1.1080p.x265-iVy",
+        "guid": "https://nzbfinder.ws/details/8bedf468-4b53-4a67-9405-edf97b5a9537",
+        "tvdbId": "388611",
+        "tvRageId": "0",
+        "imdbId": "tt13135714",
+        "protocol": "1",
+        "customFormatScore": "30",
+        "seriesMatchType": "Id",
+        "releaseSource": "Search",
+        "indexerFlags": "0",
+        "releaseType": "SeasonPack"
+      },
+      "episode": {
+        "seriesId": 1855,
+        "tvdbId": 9797173,
+        "episodeFileId": 0,
+        "seasonNumber": 3,
+        "episodeNumber": 14,
+        "title": "Campout",
+        "airDate": "2023-05-19",
+        "airDateUtc": "2023-05-19T07:00:00Z",
+        "lastSearchTime": "2025-03-24T00:52:34Z",
+        "runtime": 12,
+        "overview": "Karl and Koo set off on a daring overnight adventure.",
+        "hasFile": false,
+        "monitored": true,
+        "unverifiedSceneNumbering": false,
+        "id": 164302
+      },
+      "series": {
+        "title": "Stillwater",
+        "sortTitle": "stillwater",
+        "status": "ended",
+        "ended": true,
+        "overview": "Siblings Karl, Addy and Michael have a very special next-door neighbor: a wise panda named Stillwater. His friendship and stories give them new perspectives on the world, themselves, and each other.",
+        "network": "Apple TV+",
+        "airTime": "03:00",
+        "images": [
+          {
+            "coverType": "banner",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/series/388611/banners/5fce2ff8573ca.jpg"
+          },
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/series/388611/posters/5fafc3349dad0.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/388611/backgrounds/62345576b453b.jpg"
+          }
+        ],
+        "originalLanguage": {
+          "id": 1,
+          "name": "English"
+        },
+        "seasons": [
+          {
+            "seasonNumber": 1,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 2,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 3,
+            "monitored": true
+          }
+        ],
+        "year": 2020,
+        "path": "/tv/Cartoons/Stillwater",
+        "qualityProfileId": 1,
+        "seasonFolder": true,
+        "monitored": true,
+        "monitorNewItems": "all",
+        "useSceneNumbering": false,
+        "runtime": 13,
+        "tvdbId": 388611,
+        "tvRageId": 0,
+        "tvMazeId": 50463,
+        "tmdbId": 111834,
+        "firstAired": "2020-12-04T00:00:00Z",
+        "lastAired": "2023-05-19T00:00:00Z",
+        "seriesType": "standard",
+        "cleanTitle": "stillwater",
+        "imdbId": "tt13135714",
+        "titleSlug": "stillwater",
+        "certification": "TV-Y7",
+        "genres": [
+          "Animation",
+          "Children",
+          "Family"
+        ],
+        "tags": [],
+        "added": "2025-03-24T00:51:23Z",
+        "ratings": {
+          "votes": 697,
+          "value": 8.2
+        },
+        "languageProfileId": 1,
+        "id": 1855
+      },
+      "id": 356487
+    },
+    {
+      "episodeId": 164301,
+      "seriesId": 1855,
+      "sourceTitle": "Stillwater.(2020).S03.WEBRip.EAC3.5.1.1080p.x265-iVy",
+      "languages": [
+        {
+          "id": 1,
+          "name": "English"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 15,
+          "name": "WEBRip-1080p",
+          "source": "webRip",
+          "resolution": 1080
+        },
+        "revision": {
+          "version": 1,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "customFormats": [
+        {
+          "id": 3,
+          "name": "english"
+        },
+        {
+          "id": 1,
+          "name": "english 265"
+        }
+      ],
+      "customFormatScore": 30,
+      "qualityCutoffNotMet": false,
+      "date": "2025-03-24T00:52:49Z",
+      "downloadId": "SABnzbd_nzo__pasxw8f",
+      "eventType": "grabbed",
+      "data": {
+        "indexer": "NZBFinder (yearly) (Prowlarr)",
+        "nzbInfoUrl": "https://nzbfinder.ws/details/8bedf468-4b53-4a67-9405-edf97b5a9537",
+        "releaseGroup": "iVy",
+        "age": "170",
+        "ageHours": "4098.8075291068335",
+        "ageMinutes": "245928.45174644832",
+        "publishedDate": "2024-10-04T06:04:22Z",
+        "downloadClient": "SABnzbd",
+        "downloadClientName": "sab",
+        "size": "5106242257",
+        "downloadUrl": "http://prowlarr:9696/3/download?apikey=5f771c1869f94fec821832369384a70c&link=MzZtSEJxdFdnemVHSVlReEhUclVFazJpY09LdFFKVnB4NitIQm1SaEVmQkRLd2VTWmQ5UFp5SCtHUGR2OTBtNENWNXZWanBlTWk2dUtnZjJqUXVWSkw4ek5CSmJ4dWEvZzNQMDl3Yitlb2NPdEN1R2JrTTVueTNJR3I3TnNvc3VObzQ0ekUyUGpuSXV2cUhzZGVHcXgxRjMrMlcyN1V1SHVZSXZDL0piVXBuSWd3TnFuVFpadkZSU21UQ2J5bVJs&file=Stillwater.(2020).S03.WEBRip.EAC3.5.1.1080p.x265-iVy",
+        "guid": "https://nzbfinder.ws/details/8bedf468-4b53-4a67-9405-edf97b5a9537",
+        "tvdbId": "388611",
+        "tvRageId": "0",
+        "imdbId": "tt13135714",
+        "protocol": "1",
+        "customFormatScore": "30",
+        "seriesMatchType": "Id",
+        "releaseSource": "Search",
+        "indexerFlags": "0",
+        "releaseType": "SeasonPack"
+      },
+      "episode": {
+        "seriesId": 1855,
+        "tvdbId": 9797172,
+        "episodeFileId": 0,
+        "seasonNumber": 3,
+        "episodeNumber": 13,
+        "title": "The Catio",
+        "airDate": "2023-05-19",
+        "airDateUtc": "2023-05-19T07:00:00Z",
+        "lastSearchTime": "2025-03-24T00:52:34Z",
+        "runtime": 12,
+        "overview": "Michael, Molly, and Leo build Jasper a hideout, but he doesn’t seem interested in it.",
+        "hasFile": false,
+        "monitored": true,
+        "unverifiedSceneNumbering": false,
+        "id": 164301
+      },
+      "series": {
+        "title": "Stillwater",
+        "sortTitle": "stillwater",
+        "status": "ended",
+        "ended": true,
+        "overview": "Siblings Karl, Addy and Michael have a very special next-door neighbor: a wise panda named Stillwater. His friendship and stories give them new perspectives on the world, themselves, and each other.",
+        "network": "Apple TV+",
+        "airTime": "03:00",
+        "images": [
+          {
+            "coverType": "banner",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/series/388611/banners/5fce2ff8573ca.jpg"
+          },
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/series/388611/posters/5fafc3349dad0.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/388611/backgrounds/62345576b453b.jpg"
+          }
+        ],
+        "originalLanguage": {
+          "id": 1,
+          "name": "English"
+        },
+        "seasons": [
+          {
+            "seasonNumber": 1,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 2,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 3,
+            "monitored": true
+          }
+        ],
+        "year": 2020,
+        "path": "/tv/Cartoons/Stillwater",
+        "qualityProfileId": 1,
+        "seasonFolder": true,
+        "monitored": true,
+        "monitorNewItems": "all",
+        "useSceneNumbering": false,
+        "runtime": 13,
+        "tvdbId": 388611,
+        "tvRageId": 0,
+        "tvMazeId": 50463,
+        "tmdbId": 111834,
+        "firstAired": "2020-12-04T00:00:00Z",
+        "lastAired": "2023-05-19T00:00:00Z",
+        "seriesType": "standard",
+        "cleanTitle": "stillwater",
+        "imdbId": "tt13135714",
+        "titleSlug": "stillwater",
+        "certification": "TV-Y7",
+        "genres": [
+          "Animation",
+          "Children",
+          "Family"
+        ],
+        "tags": [],
+        "added": "2025-03-24T00:51:23Z",
+        "ratings": {
+          "votes": 697,
+          "value": 8.2
+        },
+        "languageProfileId": 1,
+        "id": 1855
+      },
+      "id": 356486
+    },
+    {
+      "episodeId": 164300,
+      "seriesId": 1855,
+      "sourceTitle": "Stillwater.(2020).S03.WEBRip.EAC3.5.1.1080p.x265-iVy",
+      "languages": [
+        {
+          "id": 1,
+          "name": "English"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 15,
+          "name": "WEBRip-1080p",
+          "source": "webRip",
+          "resolution": 1080
+        },
+        "revision": {
+          "version": 1,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "customFormats": [
+        {
+          "id": 3,
+          "name": "english"
+        },
+        {
+          "id": 1,
+          "name": "english 265"
+        }
+      ],
+      "customFormatScore": 30,
+      "qualityCutoffNotMet": false,
+      "date": "2025-03-24T00:52:49Z",
+      "downloadId": "SABnzbd_nzo__pasxw8f",
+      "eventType": "grabbed",
+      "data": {
+        "indexer": "NZBFinder (yearly) (Prowlarr)",
+        "nzbInfoUrl": "https://nzbfinder.ws/details/8bedf468-4b53-4a67-9405-edf97b5a9537",
+        "releaseGroup": "iVy",
+        "age": "170",
+        "ageHours": "4098.807528202084",
+        "ageMinutes": "245928.45169215166",
+        "publishedDate": "2024-10-04T06:04:22Z",
+        "downloadClient": "SABnzbd",
+        "downloadClientName": "sab",
+        "size": "5106242257",
+        "downloadUrl": "http://prowlarr:9696/3/download?apikey=5f771c1869f94fec821832369384a70c&link=MzZtSEJxdFdnemVHSVlReEhUclVFazJpY09LdFFKVnB4NitIQm1SaEVmQkRLd2VTWmQ5UFp5SCtHUGR2OTBtNENWNXZWanBlTWk2dUtnZjJqUXVWSkw4ek5CSmJ4dWEvZzNQMDl3Yitlb2NPdEN1R2JrTTVueTNJR3I3TnNvc3VObzQ0ekUyUGpuSXV2cUhzZGVHcXgxRjMrMlcyN1V1SHVZSXZDL0piVXBuSWd3TnFuVFpadkZSU21UQ2J5bVJs&file=Stillwater.(2020).S03.WEBRip.EAC3.5.1.1080p.x265-iVy",
+        "guid": "https://nzbfinder.ws/details/8bedf468-4b53-4a67-9405-edf97b5a9537",
+        "tvdbId": "388611",
+        "tvRageId": "0",
+        "imdbId": "tt13135714",
+        "protocol": "1",
+        "customFormatScore": "30",
+        "seriesMatchType": "Id",
+        "releaseSource": "Search",
+        "indexerFlags": "0",
+        "releaseType": "SeasonPack"
+      },
+      "episode": {
+        "seriesId": 1855,
+        "tvdbId": 9797170,
+        "episodeFileId": 0,
+        "seasonNumber": 3,
+        "episodeNumber": 12,
+        "title": "Friendly Wishes",
+        "airDate": "2023-05-19",
+        "airDateUtc": "2023-05-19T07:00:00Z",
+        "lastSearchTime": "2025-03-24T00:52:34Z",
+        "runtime": 12,
+        "overview": "With Addy home sick, Michael finds it difficult to enjoy a beach trip with Stillwater.",
+        "hasFile": false,
+        "monitored": true,
+        "unverifiedSceneNumbering": false,
+        "id": 164300
+      },
+      "series": {
+        "title": "Stillwater",
+        "sortTitle": "stillwater",
+        "status": "ended",
+        "ended": true,
+        "overview": "Siblings Karl, Addy and Michael have a very special next-door neighbor: a wise panda named Stillwater. His friendship and stories give them new perspectives on the world, themselves, and each other.",
+        "network": "Apple TV+",
+        "airTime": "03:00",
+        "images": [
+          {
+            "coverType": "banner",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/series/388611/banners/5fce2ff8573ca.jpg"
+          },
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/series/388611/posters/5fafc3349dad0.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/388611/backgrounds/62345576b453b.jpg"
+          }
+        ],
+        "originalLanguage": {
+          "id": 1,
+          "name": "English"
+        },
+        "seasons": [
+          {
+            "seasonNumber": 1,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 2,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 3,
+            "monitored": true
+          }
+        ],
+        "year": 2020,
+        "path": "/tv/Cartoons/Stillwater",
+        "qualityProfileId": 1,
+        "seasonFolder": true,
+        "monitored": true,
+        "monitorNewItems": "all",
+        "useSceneNumbering": false,
+        "runtime": 13,
+        "tvdbId": 388611,
+        "tvRageId": 0,
+        "tvMazeId": 50463,
+        "tmdbId": 111834,
+        "firstAired": "2020-12-04T00:00:00Z",
+        "lastAired": "2023-05-19T00:00:00Z",
+        "seriesType": "standard",
+        "cleanTitle": "stillwater",
+        "imdbId": "tt13135714",
+        "titleSlug": "stillwater",
+        "certification": "TV-Y7",
+        "genres": [
+          "Animation",
+          "Children",
+          "Family"
+        ],
+        "tags": [],
+        "added": "2025-03-24T00:51:23Z",
+        "ratings": {
+          "votes": 697,
+          "value": 8.2
+        },
+        "languageProfileId": 1,
+        "id": 1855
+      },
+      "id": 356485
+    },
+    {
+      "episodeId": 164299,
+      "seriesId": 1855,
+      "sourceTitle": "Stillwater.(2020).S03.WEBRip.EAC3.5.1.1080p.x265-iVy",
+      "languages": [
+        {
+          "id": 1,
+          "name": "English"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 15,
+          "name": "WEBRip-1080p",
+          "source": "webRip",
+          "resolution": 1080
+        },
+        "revision": {
+          "version": 1,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "customFormats": [
+        {
+          "id": 3,
+          "name": "english"
+        },
+        {
+          "id": 1,
+          "name": "english 265"
+        }
+      ],
+      "customFormatScore": 30,
+      "qualityCutoffNotMet": false,
+      "date": "2025-03-24T00:52:49Z",
+      "downloadId": "SABnzbd_nzo__pasxw8f",
+      "eventType": "grabbed",
+      "data": {
+        "indexer": "NZBFinder (yearly) (Prowlarr)",
+        "nzbInfoUrl": "https://nzbfinder.ws/details/8bedf468-4b53-4a67-9405-edf97b5a9537",
+        "releaseGroup": "iVy",
+        "age": "170",
+        "ageHours": "4098.8075273008335",
+        "ageMinutes": "245928.45163808833",
+        "publishedDate": "2024-10-04T06:04:22Z",
+        "downloadClient": "SABnzbd",
+        "downloadClientName": "sab",
+        "size": "5106242257",
+        "downloadUrl": "http://prowlarr:9696/3/download?apikey=5f771c1869f94fec821832369384a70c&link=MzZtSEJxdFdnemVHSVlReEhUclVFazJpY09LdFFKVnB4NitIQm1SaEVmQkRLd2VTWmQ5UFp5SCtHUGR2OTBtNENWNXZWanBlTWk2dUtnZjJqUXVWSkw4ek5CSmJ4dWEvZzNQMDl3Yitlb2NPdEN1R2JrTTVueTNJR3I3TnNvc3VObzQ0ekUyUGpuSXV2cUhzZGVHcXgxRjMrMlcyN1V1SHVZSXZDL0piVXBuSWd3TnFuVFpadkZSU21UQ2J5bVJs&file=Stillwater.(2020).S03.WEBRip.EAC3.5.1.1080p.x265-iVy",
+        "guid": "https://nzbfinder.ws/details/8bedf468-4b53-4a67-9405-edf97b5a9537",
+        "tvdbId": "388611",
+        "tvRageId": "0",
+        "imdbId": "tt13135714",
+        "protocol": "1",
+        "customFormatScore": "30",
+        "seriesMatchType": "Id",
+        "releaseSource": "Search",
+        "indexerFlags": "0",
+        "releaseType": "SeasonPack"
+      },
+      "episode": {
+        "seriesId": 1855,
+        "tvdbId": 9797171,
+        "episodeFileId": 0,
+        "seasonNumber": 3,
+        "episodeNumber": 11,
+        "title": "Growing Together",
+        "airDate": "2023-05-19",
+        "airDateUtc": "2023-05-19T07:00:00Z",
+        "lastSearchTime": "2025-03-24T00:52:34Z",
+        "runtime": 12,
+        "overview": "A critter causes trouble in Addy and Maya’s garden.",
+        "hasFile": false,
+        "monitored": true,
+        "unverifiedSceneNumbering": false,
+        "id": 164299
+      },
+      "series": {
+        "title": "Stillwater",
+        "sortTitle": "stillwater",
+        "status": "ended",
+        "ended": true,
+        "overview": "Siblings Karl, Addy and Michael have a very special next-door neighbor: a wise panda named Stillwater. His friendship and stories give them new perspectives on the world, themselves, and each other.",
+        "network": "Apple TV+",
+        "airTime": "03:00",
+        "images": [
+          {
+            "coverType": "banner",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/series/388611/banners/5fce2ff8573ca.jpg"
+          },
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/series/388611/posters/5fafc3349dad0.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/388611/backgrounds/62345576b453b.jpg"
+          }
+        ],
+        "originalLanguage": {
+          "id": 1,
+          "name": "English"
+        },
+        "seasons": [
+          {
+            "seasonNumber": 1,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 2,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 3,
+            "monitored": true
+          }
+        ],
+        "year": 2020,
+        "path": "/tv/Cartoons/Stillwater",
+        "qualityProfileId": 1,
+        "seasonFolder": true,
+        "monitored": true,
+        "monitorNewItems": "all",
+        "useSceneNumbering": false,
+        "runtime": 13,
+        "tvdbId": 388611,
+        "tvRageId": 0,
+        "tvMazeId": 50463,
+        "tmdbId": 111834,
+        "firstAired": "2020-12-04T00:00:00Z",
+        "lastAired": "2023-05-19T00:00:00Z",
+        "seriesType": "standard",
+        "cleanTitle": "stillwater",
+        "imdbId": "tt13135714",
+        "titleSlug": "stillwater",
+        "certification": "TV-Y7",
+        "genres": [
+          "Animation",
+          "Children",
+          "Family"
+        ],
+        "tags": [],
+        "added": "2025-03-24T00:51:23Z",
+        "ratings": {
+          "votes": 697,
+          "value": 8.2
+        },
+        "languageProfileId": 1,
+        "id": 1855
+      },
+      "id": 356484
+    },
+    {
+      "episodeId": 164298,
+      "seriesId": 1855,
+      "sourceTitle": "Stillwater.(2020).S03.WEBRip.EAC3.5.1.1080p.x265-iVy",
+      "languages": [
+        {
+          "id": 1,
+          "name": "English"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 15,
+          "name": "WEBRip-1080p",
+          "source": "webRip",
+          "resolution": 1080
+        },
+        "revision": {
+          "version": 1,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "customFormats": [
+        {
+          "id": 3,
+          "name": "english"
+        },
+        {
+          "id": 1,
+          "name": "english 265"
+        }
+      ],
+      "customFormatScore": 30,
+      "qualityCutoffNotMet": false,
+      "date": "2025-03-24T00:52:49Z",
+      "downloadId": "SABnzbd_nzo__pasxw8f",
+      "eventType": "grabbed",
+      "data": {
+        "indexer": "NZBFinder (yearly) (Prowlarr)",
+        "nzbInfoUrl": "https://nzbfinder.ws/details/8bedf468-4b53-4a67-9405-edf97b5a9537",
+        "releaseGroup": "iVy",
+        "age": "170",
+        "ageHours": "4098.8075263415",
+        "ageMinutes": "245928.45158056667",
+        "publishedDate": "2024-10-04T06:04:22Z",
+        "downloadClient": "SABnzbd",
+        "downloadClientName": "sab",
+        "size": "5106242257",
+        "downloadUrl": "http://prowlarr:9696/3/download?apikey=5f771c1869f94fec821832369384a70c&link=MzZtSEJxdFdnemVHSVlReEhUclVFazJpY09LdFFKVnB4NitIQm1SaEVmQkRLd2VTWmQ5UFp5SCtHUGR2OTBtNENWNXZWanBlTWk2dUtnZjJqUXVWSkw4ek5CSmJ4dWEvZzNQMDl3Yitlb2NPdEN1R2JrTTVueTNJR3I3TnNvc3VObzQ0ekUyUGpuSXV2cUhzZGVHcXgxRjMrMlcyN1V1SHVZSXZDL0piVXBuSWd3TnFuVFpadkZSU21UQ2J5bVJs&file=Stillwater.(2020).S03.WEBRip.EAC3.5.1.1080p.x265-iVy",
+        "guid": "https://nzbfinder.ws/details/8bedf468-4b53-4a67-9405-edf97b5a9537",
+        "tvdbId": "388611",
+        "tvRageId": "0",
+        "imdbId": "tt13135714",
+        "protocol": "1",
+        "customFormatScore": "30",
+        "seriesMatchType": "Id",
+        "releaseSource": "Search",
+        "indexerFlags": "0",
+        "releaseType": "SeasonPack"
+      },
+      "episode": {
+        "seriesId": 1855,
+        "tvdbId": 9797169,
+        "episodeFileId": 1503769,
+        "seasonNumber": 3,
+        "episodeNumber": 10,
+        "title": "Koo's Gift",
+        "airDate": "2023-05-19",
+        "airDateUtc": "2023-05-19T07:00:00Z",
+        "lastSearchTime": "2025-03-24T00:52:34Z",
+        "runtime": 12,
+        "overview": "Koo attends her first birthday party and is concerned about her gift.",
+        "hasFile": true,
+        "monitored": true,
+        "unverifiedSceneNumbering": false,
+        "id": 164298
+      },
+      "series": {
+        "title": "Stillwater",
+        "sortTitle": "stillwater",
+        "status": "ended",
+        "ended": true,
+        "overview": "Siblings Karl, Addy and Michael have a very special next-door neighbor: a wise panda named Stillwater. His friendship and stories give them new perspectives on the world, themselves, and each other.",
+        "network": "Apple TV+",
+        "airTime": "03:00",
+        "images": [
+          {
+            "coverType": "banner",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/series/388611/banners/5fce2ff8573ca.jpg"
+          },
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/series/388611/posters/5fafc3349dad0.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/388611/backgrounds/62345576b453b.jpg"
+          }
+        ],
+        "originalLanguage": {
+          "id": 1,
+          "name": "English"
+        },
+        "seasons": [
+          {
+            "seasonNumber": 1,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 2,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 3,
+            "monitored": true
+          }
+        ],
+        "year": 2020,
+        "path": "/tv/Cartoons/Stillwater",
+        "qualityProfileId": 1,
+        "seasonFolder": true,
+        "monitored": true,
+        "monitorNewItems": "all",
+        "useSceneNumbering": false,
+        "runtime": 13,
+        "tvdbId": 388611,
+        "tvRageId": 0,
+        "tvMazeId": 50463,
+        "tmdbId": 111834,
+        "firstAired": "2020-12-04T00:00:00Z",
+        "lastAired": "2023-05-19T00:00:00Z",
+        "seriesType": "standard",
+        "cleanTitle": "stillwater",
+        "imdbId": "tt13135714",
+        "titleSlug": "stillwater",
+        "certification": "TV-Y7",
+        "genres": [
+          "Animation",
+          "Children",
+          "Family"
+        ],
+        "tags": [],
+        "added": "2025-03-24T00:51:23Z",
+        "ratings": {
+          "votes": 697,
+          "value": 8.2
+        },
+        "languageProfileId": 1,
+        "id": 1855
+      },
+      "id": 356483
+    },
+    {
+      "episodeId": 164297,
+      "seriesId": 1855,
+      "sourceTitle": "Stillwater.(2020).S03.WEBRip.EAC3.5.1.1080p.x265-iVy",
+      "languages": [
+        {
+          "id": 1,
+          "name": "English"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 15,
+          "name": "WEBRip-1080p",
+          "source": "webRip",
+          "resolution": 1080
+        },
+        "revision": {
+          "version": 1,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "customFormats": [
+        {
+          "id": 3,
+          "name": "english"
+        },
+        {
+          "id": 1,
+          "name": "english 265"
+        }
+      ],
+      "customFormatScore": 30,
+      "qualityCutoffNotMet": false,
+      "date": "2025-03-24T00:52:49Z",
+      "downloadId": "SABnzbd_nzo__pasxw8f",
+      "eventType": "grabbed",
+      "data": {
+        "indexer": "NZBFinder (yearly) (Prowlarr)",
+        "nzbInfoUrl": "https://nzbfinder.ws/details/8bedf468-4b53-4a67-9405-edf97b5a9537",
+        "releaseGroup": "iVy",
+        "age": "170",
+        "ageHours": "4098.80752540425",
+        "ageMinutes": "245928.45152431334",
+        "publishedDate": "2024-10-04T06:04:22Z",
+        "downloadClient": "SABnzbd",
+        "downloadClientName": "sab",
+        "size": "5106242257",
+        "downloadUrl": "http://prowlarr:9696/3/download?apikey=5f771c1869f94fec821832369384a70c&link=MzZtSEJxdFdnemVHSVlReEhUclVFazJpY09LdFFKVnB4NitIQm1SaEVmQkRLd2VTWmQ5UFp5SCtHUGR2OTBtNENWNXZWanBlTWk2dUtnZjJqUXVWSkw4ek5CSmJ4dWEvZzNQMDl3Yitlb2NPdEN1R2JrTTVueTNJR3I3TnNvc3VObzQ0ekUyUGpuSXV2cUhzZGVHcXgxRjMrMlcyN1V1SHVZSXZDL0piVXBuSWd3TnFuVFpadkZSU21UQ2J5bVJs&file=Stillwater.(2020).S03.WEBRip.EAC3.5.1.1080p.x265-iVy",
+        "guid": "https://nzbfinder.ws/details/8bedf468-4b53-4a67-9405-edf97b5a9537",
+        "tvdbId": "388611",
+        "tvRageId": "0",
+        "imdbId": "tt13135714",
+        "protocol": "1",
+        "customFormatScore": "30",
+        "seriesMatchType": "Id",
+        "releaseSource": "Search",
+        "indexerFlags": "0",
+        "releaseType": "SeasonPack"
+      },
+      "episode": {
+        "seriesId": 1855,
+        "tvdbId": 9797168,
+        "episodeFileId": 1503768,
+        "seasonNumber": 3,
+        "episodeNumber": 9,
+        "title": "New Neightors",
+        "airDate": "2023-05-19",
+        "airDateUtc": "2023-05-19T07:00:00Z",
+        "lastSearchTime": "2025-03-24T00:52:34Z",
+        "runtime": 12,
+        "overview": "Michael is nervous about meeting the new kids across the street.",
+        "hasFile": true,
+        "monitored": true,
+        "unverifiedSceneNumbering": false,
+        "id": 164297
+      },
+      "series": {
+        "title": "Stillwater",
+        "sortTitle": "stillwater",
+        "status": "ended",
+        "ended": true,
+        "overview": "Siblings Karl, Addy and Michael have a very special next-door neighbor: a wise panda named Stillwater. His friendship and stories give them new perspectives on the world, themselves, and each other.",
+        "network": "Apple TV+",
+        "airTime": "03:00",
+        "images": [
+          {
+            "coverType": "banner",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/series/388611/banners/5fce2ff8573ca.jpg"
+          },
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/series/388611/posters/5fafc3349dad0.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/388611/backgrounds/62345576b453b.jpg"
+          }
+        ],
+        "originalLanguage": {
+          "id": 1,
+          "name": "English"
+        },
+        "seasons": [
+          {
+            "seasonNumber": 1,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 2,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 3,
+            "monitored": true
+          }
+        ],
+        "year": 2020,
+        "path": "/tv/Cartoons/Stillwater",
+        "qualityProfileId": 1,
+        "seasonFolder": true,
+        "monitored": true,
+        "monitorNewItems": "all",
+        "useSceneNumbering": false,
+        "runtime": 13,
+        "tvdbId": 388611,
+        "tvRageId": 0,
+        "tvMazeId": 50463,
+        "tmdbId": 111834,
+        "firstAired": "2020-12-04T00:00:00Z",
+        "lastAired": "2023-05-19T00:00:00Z",
+        "seriesType": "standard",
+        "cleanTitle": "stillwater",
+        "imdbId": "tt13135714",
+        "titleSlug": "stillwater",
+        "certification": "TV-Y7",
+        "genres": [
+          "Animation",
+          "Children",
+          "Family"
+        ],
+        "tags": [],
+        "added": "2025-03-24T00:51:23Z",
+        "ratings": {
+          "votes": 697,
+          "value": 8.2
+        },
+        "languageProfileId": 1,
+        "id": 1855
+      },
+      "id": 356482
+    },
+    {
+      "episodeId": 164296,
+      "seriesId": 1855,
+      "sourceTitle": "Stillwater.(2020).S03.WEBRip.EAC3.5.1.1080p.x265-iVy",
+      "languages": [
+        {
+          "id": 1,
+          "name": "English"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 15,
+          "name": "WEBRip-1080p",
+          "source": "webRip",
+          "resolution": 1080
+        },
+        "revision": {
+          "version": 1,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "customFormats": [
+        {
+          "id": 3,
+          "name": "english"
+        },
+        {
+          "id": 1,
+          "name": "english 265"
+        }
+      ],
+      "customFormatScore": 30,
+      "qualityCutoffNotMet": false,
+      "date": "2025-03-24T00:52:49Z",
+      "downloadId": "SABnzbd_nzo__pasxw8f",
+      "eventType": "grabbed",
+      "data": {
+        "indexer": "NZBFinder (yearly) (Prowlarr)",
+        "nzbInfoUrl": "https://nzbfinder.ws/details/8bedf468-4b53-4a67-9405-edf97b5a9537",
+        "releaseGroup": "iVy",
+        "age": "170",
+        "ageHours": "4098.807524493528",
+        "ageMinutes": "245928.45146963",
+        "publishedDate": "2024-10-04T06:04:22Z",
+        "downloadClient": "SABnzbd",
+        "downloadClientName": "sab",
+        "size": "5106242257",
+        "downloadUrl": "http://prowlarr:9696/3/download?apikey=5f771c1869f94fec821832369384a70c&link=MzZtSEJxdFdnemVHSVlReEhUclVFazJpY09LdFFKVnB4NitIQm1SaEVmQkRLd2VTWmQ5UFp5SCtHUGR2OTBtNENWNXZWanBlTWk2dUtnZjJqUXVWSkw4ek5CSmJ4dWEvZzNQMDl3Yitlb2NPdEN1R2JrTTVueTNJR3I3TnNvc3VObzQ0ekUyUGpuSXV2cUhzZGVHcXgxRjMrMlcyN1V1SHVZSXZDL0piVXBuSWd3TnFuVFpadkZSU21UQ2J5bVJs&file=Stillwater.(2020).S03.WEBRip.EAC3.5.1.1080p.x265-iVy",
+        "guid": "https://nzbfinder.ws/details/8bedf468-4b53-4a67-9405-edf97b5a9537",
+        "tvdbId": "388611",
+        "tvRageId": "0",
+        "imdbId": "tt13135714",
+        "protocol": "1",
+        "customFormatScore": "30",
+        "seriesMatchType": "Id",
+        "releaseSource": "Search",
+        "indexerFlags": "0",
+        "releaseType": "SeasonPack"
+      },
+      "episode": {
+        "seriesId": 1855,
+        "tvdbId": 9797167,
+        "episodeFileId": 1503767,
+        "seasonNumber": 3,
+        "episodeNumber": 8,
+        "title": "Birdwatching",
+        "airDate": "2023-05-19",
+        "airDateUtc": "2023-05-19T07:00:00Z",
+        "lastSearchTime": "2025-03-24T00:52:34Z",
+        "runtime": 12,
+        "overview": "Michael buries his nose in a book during a group hike with Stillwater.",
+        "hasFile": true,
+        "monitored": true,
+        "unverifiedSceneNumbering": false,
+        "id": 164296
+      },
+      "series": {
+        "title": "Stillwater",
+        "sortTitle": "stillwater",
+        "status": "ended",
+        "ended": true,
+        "overview": "Siblings Karl, Addy and Michael have a very special next-door neighbor: a wise panda named Stillwater. His friendship and stories give them new perspectives on the world, themselves, and each other.",
+        "network": "Apple TV+",
+        "airTime": "03:00",
+        "images": [
+          {
+            "coverType": "banner",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/series/388611/banners/5fce2ff8573ca.jpg"
+          },
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/series/388611/posters/5fafc3349dad0.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/388611/backgrounds/62345576b453b.jpg"
+          }
+        ],
+        "originalLanguage": {
+          "id": 1,
+          "name": "English"
+        },
+        "seasons": [
+          {
+            "seasonNumber": 1,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 2,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 3,
+            "monitored": true
+          }
+        ],
+        "year": 2020,
+        "path": "/tv/Cartoons/Stillwater",
+        "qualityProfileId": 1,
+        "seasonFolder": true,
+        "monitored": true,
+        "monitorNewItems": "all",
+        "useSceneNumbering": false,
+        "runtime": 13,
+        "tvdbId": 388611,
+        "tvRageId": 0,
+        "tvMazeId": 50463,
+        "tmdbId": 111834,
+        "firstAired": "2020-12-04T00:00:00Z",
+        "lastAired": "2023-05-19T00:00:00Z",
+        "seriesType": "standard",
+        "cleanTitle": "stillwater",
+        "imdbId": "tt13135714",
+        "titleSlug": "stillwater",
+        "certification": "TV-Y7",
+        "genres": [
+          "Animation",
+          "Children",
+          "Family"
+        ],
+        "tags": [],
+        "added": "2025-03-24T00:51:23Z",
+        "ratings": {
+          "votes": 697,
+          "value": 8.2
+        },
+        "languageProfileId": 1,
+        "id": 1855
+      },
+      "id": 356481
+    },
+    {
+      "episodeId": 164295,
+      "seriesId": 1855,
+      "sourceTitle": "Stillwater.(2020).S03.WEBRip.EAC3.5.1.1080p.x265-iVy",
+      "languages": [
+        {
+          "id": 1,
+          "name": "English"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 15,
+          "name": "WEBRip-1080p",
+          "source": "webRip",
+          "resolution": 1080
+        },
+        "revision": {
+          "version": 1,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "customFormats": [
+        {
+          "id": 3,
+          "name": "english"
+        },
+        {
+          "id": 1,
+          "name": "english 265"
+        }
+      ],
+      "customFormatScore": 30,
+      "qualityCutoffNotMet": false,
+      "date": "2025-03-24T00:52:49Z",
+      "downloadId": "SABnzbd_nzo__pasxw8f",
+      "eventType": "grabbed",
+      "data": {
+        "indexer": "NZBFinder (yearly) (Prowlarr)",
+        "nzbInfoUrl": "https://nzbfinder.ws/details/8bedf468-4b53-4a67-9405-edf97b5a9537",
+        "releaseGroup": "iVy",
+        "age": "170",
+        "ageHours": "4098.807523570111",
+        "ageMinutes": "245928.45141423834",
+        "publishedDate": "2024-10-04T06:04:22Z",
+        "downloadClient": "SABnzbd",
+        "downloadClientName": "sab",
+        "size": "5106242257",
+        "downloadUrl": "http://prowlarr:9696/3/download?apikey=5f771c1869f94fec821832369384a70c&link=MzZtSEJxdFdnemVHSVlReEhUclVFazJpY09LdFFKVnB4NitIQm1SaEVmQkRLd2VTWmQ5UFp5SCtHUGR2OTBtNENWNXZWanBlTWk2dUtnZjJqUXVWSkw4ek5CSmJ4dWEvZzNQMDl3Yitlb2NPdEN1R2JrTTVueTNJR3I3TnNvc3VObzQ0ekUyUGpuSXV2cUhzZGVHcXgxRjMrMlcyN1V1SHVZSXZDL0piVXBuSWd3TnFuVFpadkZSU21UQ2J5bVJs&file=Stillwater.(2020).S03.WEBRip.EAC3.5.1.1080p.x265-iVy",
+        "guid": "https://nzbfinder.ws/details/8bedf468-4b53-4a67-9405-edf97b5a9537",
+        "tvdbId": "388611",
+        "tvRageId": "0",
+        "imdbId": "tt13135714",
+        "protocol": "1",
+        "customFormatScore": "30",
+        "seriesMatchType": "Id",
+        "releaseSource": "Search",
+        "indexerFlags": "0",
+        "releaseType": "SeasonPack"
+      },
+      "episode": {
+        "seriesId": 1855,
+        "tvdbId": 9797166,
+        "episodeFileId": 1503766,
+        "seasonNumber": 3,
+        "episodeNumber": 7,
+        "title": "Sounds Like Poetry",
+        "airDate": "2023-05-19",
+        "airDateUtc": "2023-05-19T07:00:00Z",
+        "lastSearchTime": "2025-03-24T00:52:34Z",
+        "runtime": 12,
+        "overview": "Addy is offended when Michael doesn’t like her poem.",
+        "hasFile": true,
+        "monitored": true,
+        "unverifiedSceneNumbering": false,
+        "id": 164295
+      },
+      "series": {
+        "title": "Stillwater",
+        "sortTitle": "stillwater",
+        "status": "ended",
+        "ended": true,
+        "overview": "Siblings Karl, Addy and Michael have a very special next-door neighbor: a wise panda named Stillwater. His friendship and stories give them new perspectives on the world, themselves, and each other.",
+        "network": "Apple TV+",
+        "airTime": "03:00",
+        "images": [
+          {
+            "coverType": "banner",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/series/388611/banners/5fce2ff8573ca.jpg"
+          },
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/series/388611/posters/5fafc3349dad0.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/388611/backgrounds/62345576b453b.jpg"
+          }
+        ],
+        "originalLanguage": {
+          "id": 1,
+          "name": "English"
+        },
+        "seasons": [
+          {
+            "seasonNumber": 1,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 2,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 3,
+            "monitored": true
+          }
+        ],
+        "year": 2020,
+        "path": "/tv/Cartoons/Stillwater",
+        "qualityProfileId": 1,
+        "seasonFolder": true,
+        "monitored": true,
+        "monitorNewItems": "all",
+        "useSceneNumbering": false,
+        "runtime": 13,
+        "tvdbId": 388611,
+        "tvRageId": 0,
+        "tvMazeId": 50463,
+        "tmdbId": 111834,
+        "firstAired": "2020-12-04T00:00:00Z",
+        "lastAired": "2023-05-19T00:00:00Z",
+        "seriesType": "standard",
+        "cleanTitle": "stillwater",
+        "imdbId": "tt13135714",
+        "titleSlug": "stillwater",
+        "certification": "TV-Y7",
+        "genres": [
+          "Animation",
+          "Children",
+          "Family"
+        ],
+        "tags": [],
+        "added": "2025-03-24T00:51:23Z",
+        "ratings": {
+          "votes": 697,
+          "value": 8.2
+        },
+        "languageProfileId": 1,
+        "id": 1855
+      },
+      "id": 356480
+    },
+    {
+      "episodeId": 164294,
+      "seriesId": 1855,
+      "sourceTitle": "Stillwater.(2020).S03.WEBRip.EAC3.5.1.1080p.x265-iVy",
+      "languages": [
+        {
+          "id": 1,
+          "name": "English"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 15,
+          "name": "WEBRip-1080p",
+          "source": "webRip",
+          "resolution": 1080
+        },
+        "revision": {
+          "version": 1,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "customFormats": [
+        {
+          "id": 3,
+          "name": "english"
+        },
+        {
+          "id": 1,
+          "name": "english 265"
+        }
+      ],
+      "customFormatScore": 30,
+      "qualityCutoffNotMet": false,
+      "date": "2025-03-24T00:52:49Z",
+      "downloadId": "SABnzbd_nzo__pasxw8f",
+      "eventType": "grabbed",
+      "data": {
+        "indexer": "NZBFinder (yearly) (Prowlarr)",
+        "nzbInfoUrl": "https://nzbfinder.ws/details/8bedf468-4b53-4a67-9405-edf97b5a9537",
+        "releaseGroup": "iVy",
+        "age": "170",
+        "ageHours": "4098.807522624972",
+        "ageMinutes": "245928.45135755834",
+        "publishedDate": "2024-10-04T06:04:22Z",
+        "downloadClient": "SABnzbd",
+        "downloadClientName": "sab",
+        "size": "5106242257",
+        "downloadUrl": "http://prowlarr:9696/3/download?apikey=5f771c1869f94fec821832369384a70c&link=MzZtSEJxdFdnemVHSVlReEhUclVFazJpY09LdFFKVnB4NitIQm1SaEVmQkRLd2VTWmQ5UFp5SCtHUGR2OTBtNENWNXZWanBlTWk2dUtnZjJqUXVWSkw4ek5CSmJ4dWEvZzNQMDl3Yitlb2NPdEN1R2JrTTVueTNJR3I3TnNvc3VObzQ0ekUyUGpuSXV2cUhzZGVHcXgxRjMrMlcyN1V1SHVZSXZDL0piVXBuSWd3TnFuVFpadkZSU21UQ2J5bVJs&file=Stillwater.(2020).S03.WEBRip.EAC3.5.1.1080p.x265-iVy",
+        "guid": "https://nzbfinder.ws/details/8bedf468-4b53-4a67-9405-edf97b5a9537",
+        "tvdbId": "388611",
+        "tvRageId": "0",
+        "imdbId": "tt13135714",
+        "protocol": "1",
+        "customFormatScore": "30",
+        "seriesMatchType": "Id",
+        "releaseSource": "Search",
+        "indexerFlags": "0",
+        "releaseType": "SeasonPack"
+      },
+      "episode": {
+        "seriesId": 1855,
+        "tvdbId": 9797164,
+        "episodeFileId": 1503765,
+        "seasonNumber": 3,
+        "episodeNumber": 6,
+        "title": "Tons of Fun",
+        "airDate": "2023-05-19",
+        "airDateUtc": "2023-05-19T07:00:00Z",
+        "lastSearchTime": "2025-03-24T00:52:34Z",
+        "runtime": 12,
+        "overview": "Michael plans a fun day for Karl and Koo, but he wants them to play his way.",
+        "hasFile": true,
+        "monitored": true,
+        "unverifiedSceneNumbering": false,
+        "id": 164294
+      },
+      "series": {
+        "title": "Stillwater",
+        "sortTitle": "stillwater",
+        "status": "ended",
+        "ended": true,
+        "overview": "Siblings Karl, Addy and Michael have a very special next-door neighbor: a wise panda named Stillwater. His friendship and stories give them new perspectives on the world, themselves, and each other.",
+        "network": "Apple TV+",
+        "airTime": "03:00",
+        "images": [
+          {
+            "coverType": "banner",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/series/388611/banners/5fce2ff8573ca.jpg"
+          },
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/series/388611/posters/5fafc3349dad0.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/388611/backgrounds/62345576b453b.jpg"
+          }
+        ],
+        "originalLanguage": {
+          "id": 1,
+          "name": "English"
+        },
+        "seasons": [
+          {
+            "seasonNumber": 1,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 2,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 3,
+            "monitored": true
+          }
+        ],
+        "year": 2020,
+        "path": "/tv/Cartoons/Stillwater",
+        "qualityProfileId": 1,
+        "seasonFolder": true,
+        "monitored": true,
+        "monitorNewItems": "all",
+        "useSceneNumbering": false,
+        "runtime": 13,
+        "tvdbId": 388611,
+        "tvRageId": 0,
+        "tvMazeId": 50463,
+        "tmdbId": 111834,
+        "firstAired": "2020-12-04T00:00:00Z",
+        "lastAired": "2023-05-19T00:00:00Z",
+        "seriesType": "standard",
+        "cleanTitle": "stillwater",
+        "imdbId": "tt13135714",
+        "titleSlug": "stillwater",
+        "certification": "TV-Y7",
+        "genres": [
+          "Animation",
+          "Children",
+          "Family"
+        ],
+        "tags": [],
+        "added": "2025-03-24T00:51:23Z",
+        "ratings": {
+          "votes": 697,
+          "value": 8.2
+        },
+        "languageProfileId": 1,
+        "id": 1855
+      },
+      "id": 356479
+    }
+  ]
+}

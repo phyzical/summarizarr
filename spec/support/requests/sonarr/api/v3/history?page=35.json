@@ -1,0 +1,2162 @@
+{
+  "page": 35,
+  "pageSize": 15,
+  "sortKey": "date",
+  "sortDirection": "descending",
+  "totalRecords": 344511,
+  "records": [
+    {
+      "episodeId": 164322,
+      "seriesId": 1856,
+      "sourceTitle": "The.Lazarus.Project.S02E06.1080p.WEBRip.DDP5.1.H265-d3g",
+      "languages": [
+        {
+          "id": 1,
+          "name": "English"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 15,
+          "name": "WEBRip-1080p",
+          "source": "webRip",
+          "resolution": 1080
+        },
+        "revision": {
+          "version": 1,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "customFormats": [
+        {
+          "id": 3,
+          "name": "english"
+        },
+        {
+          "id": 1,
+          "name": "english 265"
+        }
+      ],
+      "customFormatScore": 30,
+      "qualityCutoffNotMet": false,
+      "date": "2025-03-24T01:12:05Z",
+      "downloadId": "SABnzbd_nzo_qdxgrdy7",
+      "eventType": "downloadFolderImported",
+      "data": {
+        "fileId": "1503783",
+        "droppedPath": "/downloads/The.Lazarus.Project.S02.WEBRip.1080p.DDP5.1.H265-d3g/The.Lazarus.Project.S02E06.1080p.WEBRip.DDP5.1.H265-d3g.mkv",
+        "importedPath": "/tv/Tv Shows/The Lazarus Project/Season 2/The.Lazarus.Project.S02E06.Episode.6.mkv",
+        "downloadClient": "SABnzbd",
+        "downloadClientName": "sab",
+        "releaseGroup": "d3g",
+        "customFormatScore": "30",
+        "size": "972965833",
+        "indexerFlags": "0",
+        "releaseType": "SeasonPack"
+      },
+      "episode": {
+        "seriesId": 1856,
+        "tvdbId": 9817594,
+        "episodeFileId": 1503783,
+        "seasonNumber": 2,
+        "episodeNumber": 6,
+        "title": "Episode 6",
+        "airDate": "2023-12-20",
+        "airDateUtc": "2023-12-20T22:00:00Z",
+        "lastSearchTime": "2025-03-24T00:53:15Z",
+        "runtime": 47,
+        "overview": "After successfully arriving in 2012, George and the Lazarus team face their biggest challenge yet as they attempt to rescue Janet and retrieve the time machine.",
+        "hasFile": true,
+        "monitored": true,
+        "unverifiedSceneNumbering": false,
+        "id": 164322
+      },
+      "series": {
+        "title": "The Lazarus Project",
+        "sortTitle": "lazarus project",
+        "status": "ended",
+        "ended": true,
+        "overview": "When George wakes up one day and finds himself reliving a day from months ago, he thinks he’s lost his mind. All of his recent milestones have been undone, including his success at work and his marriage to the love of his life. Worst of all, he seems to be the only one who has noticed what’s happened.\r\nThat is, until he meets Archie, who recruits George for the Lazarus Project - a secret organisation that has harnessed the ability to turn back time every time the world is at threat of extinction. Like George, those who work at Lazarus are the few people on earth with the ability to remember the events that are undone when time goes back.",
+        "network": "Sky Max",
+        "airTime": "22:00",
+        "images": [
+          {
+            "coverType": "banner",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/400440/banners/64766eda1eec3.jpg"
+          },
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/400440/posters/65553fc862ece.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/400440/backgrounds/6548956c2d752.jpg"
+          },
+          {
+            "coverType": "clearlogo",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/400440/clearlogo/64766b72b7ee0.png"
+          }
+        ],
+        "originalLanguage": {
+          "id": 1,
+          "name": "English"
+        },
+        "seasons": [
+          {
+            "seasonNumber": 1,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 2,
+            "monitored": true
+          }
+        ],
+        "year": 2022,
+        "path": "/tv/Tv Shows/The Lazarus Project",
+        "qualityProfileId": 1,
+        "seasonFolder": true,
+        "monitored": true,
+        "monitorNewItems": "all",
+        "useSceneNumbering": false,
+        "runtime": 43,
+        "tvdbId": 400440,
+        "tvRageId": 0,
+        "tvMazeId": 60414,
+        "tmdbId": 194567,
+        "firstAired": "2022-06-16T00:00:00Z",
+        "lastAired": "2023-12-28T00:00:00Z",
+        "seriesType": "standard",
+        "cleanTitle": "thelazarusproject",
+        "imdbId": "tt14190592",
+        "titleSlug": "the-lazarus-project",
+        "certification": "TV-MA",
+        "genres": [
+          "Action",
+          "Drama",
+          "Science Fiction",
+          "Thriller"
+        ],
+        "tags": [],
+        "added": "2025-03-24T00:52:03Z",
+        "ratings": {
+          "votes": 9905,
+          "value": 7.3
+        },
+        "languageProfileId": 1,
+        "id": 1856
+      },
+      "id": 356538
+    },
+    {
+      "episodeId": 164321,
+      "seriesId": 1856,
+      "sourceTitle": "The.Lazarus.Project.S02E05.1080p.WEBRip.DDP5.1.H265-d3g",
+      "languages": [
+        {
+          "id": 1,
+          "name": "English"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 15,
+          "name": "WEBRip-1080p",
+          "source": "webRip",
+          "resolution": 1080
+        },
+        "revision": {
+          "version": 1,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "customFormats": [
+        {
+          "id": 3,
+          "name": "english"
+        },
+        {
+          "id": 1,
+          "name": "english 265"
+        }
+      ],
+      "customFormatScore": 30,
+      "qualityCutoffNotMet": false,
+      "date": "2025-03-24T01:12:04Z",
+      "downloadId": "SABnzbd_nzo_qdxgrdy7",
+      "eventType": "downloadFolderImported",
+      "data": {
+        "fileId": "1503782",
+        "droppedPath": "/downloads/The.Lazarus.Project.S02.WEBRip.1080p.DDP5.1.H265-d3g/The.Lazarus.Project.S02E05.1080p.WEBRip.DDP5.1.H265-d3g.mkv",
+        "importedPath": "/tv/Tv Shows/The Lazarus Project/Season 2/The.Lazarus.Project.S02E05.Episode.5.mkv",
+        "downloadClient": "SABnzbd",
+        "downloadClientName": "sab",
+        "releaseGroup": "d3g",
+        "customFormatScore": "30",
+        "size": "890627013",
+        "indexerFlags": "0",
+        "releaseType": "SeasonPack"
+      },
+      "episode": {
+        "seriesId": 1856,
+        "tvdbId": 9817593,
+        "episodeFileId": 1503782,
+        "seasonNumber": 2,
+        "episodeNumber": 5,
+        "title": "Episode 5",
+        "airDate": "2023-12-13",
+        "airDateUtc": "2023-12-13T22:00:00Z",
+        "lastSearchTime": "2025-03-24T00:53:15Z",
+        "runtime": 41,
+        "overview": "While the Lazarus team is trying to find its way back to 2012, Janet is already there, hard at work with Dr Gray.",
+        "hasFile": true,
+        "monitored": true,
+        "unverifiedSceneNumbering": false,
+        "id": 164321
+      },
+      "series": {
+        "title": "The Lazarus Project",
+        "sortTitle": "lazarus project",
+        "status": "ended",
+        "ended": true,
+        "overview": "When George wakes up one day and finds himself reliving a day from months ago, he thinks he’s lost his mind. All of his recent milestones have been undone, including his success at work and his marriage to the love of his life. Worst of all, he seems to be the only one who has noticed what’s happened.\r\nThat is, until he meets Archie, who recruits George for the Lazarus Project - a secret organisation that has harnessed the ability to turn back time every time the world is at threat of extinction. Like George, those who work at Lazarus are the few people on earth with the ability to remember the events that are undone when time goes back.",
+        "network": "Sky Max",
+        "airTime": "22:00",
+        "images": [
+          {
+            "coverType": "banner",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/400440/banners/64766eda1eec3.jpg"
+          },
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/400440/posters/65553fc862ece.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/400440/backgrounds/6548956c2d752.jpg"
+          },
+          {
+            "coverType": "clearlogo",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/400440/clearlogo/64766b72b7ee0.png"
+          }
+        ],
+        "originalLanguage": {
+          "id": 1,
+          "name": "English"
+        },
+        "seasons": [
+          {
+            "seasonNumber": 1,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 2,
+            "monitored": true
+          }
+        ],
+        "year": 2022,
+        "path": "/tv/Tv Shows/The Lazarus Project",
+        "qualityProfileId": 1,
+        "seasonFolder": true,
+        "monitored": true,
+        "monitorNewItems": "all",
+        "useSceneNumbering": false,
+        "runtime": 43,
+        "tvdbId": 400440,
+        "tvRageId": 0,
+        "tvMazeId": 60414,
+        "tmdbId": 194567,
+        "firstAired": "2022-06-16T00:00:00Z",
+        "lastAired": "2023-12-28T00:00:00Z",
+        "seriesType": "standard",
+        "cleanTitle": "thelazarusproject",
+        "imdbId": "tt14190592",
+        "titleSlug": "the-lazarus-project",
+        "certification": "TV-MA",
+        "genres": [
+          "Action",
+          "Drama",
+          "Science Fiction",
+          "Thriller"
+        ],
+        "tags": [],
+        "added": "2025-03-24T00:52:03Z",
+        "ratings": {
+          "votes": 9905,
+          "value": 7.3
+        },
+        "languageProfileId": 1,
+        "id": 1856
+      },
+      "id": 356537
+    },
+    {
+      "episodeId": 164320,
+      "seriesId": 1856,
+      "sourceTitle": "The.Lazarus.Project.S02E04.1080p.WEBRip.DDP5.1.H265-d3g",
+      "languages": [
+        {
+          "id": 1,
+          "name": "English"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 15,
+          "name": "WEBRip-1080p",
+          "source": "webRip",
+          "resolution": 1080
+        },
+        "revision": {
+          "version": 1,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "customFormats": [
+        {
+          "id": 3,
+          "name": "english"
+        },
+        {
+          "id": 1,
+          "name": "english 265"
+        }
+      ],
+      "customFormatScore": 30,
+      "qualityCutoffNotMet": false,
+      "date": "2025-03-24T01:12:03Z",
+      "downloadId": "SABnzbd_nzo_qdxgrdy7",
+      "eventType": "downloadFolderImported",
+      "data": {
+        "fileId": "1503781",
+        "droppedPath": "/downloads/The.Lazarus.Project.S02.WEBRip.1080p.DDP5.1.H265-d3g/The.Lazarus.Project.S02E04.1080p.WEBRip.DDP5.1.H265-d3g.mkv",
+        "importedPath": "/tv/Tv Shows/The Lazarus Project/Season 2/The.Lazarus.Project.S02E04.Episode.4.mkv",
+        "downloadClient": "SABnzbd",
+        "downloadClientName": "sab",
+        "releaseGroup": "d3g",
+        "customFormatScore": "30",
+        "size": "989594916",
+        "indexerFlags": "0",
+        "releaseType": "SeasonPack"
+      },
+      "episode": {
+        "seriesId": 1856,
+        "tvdbId": 9817592,
+        "episodeFileId": 1503781,
+        "seasonNumber": 2,
+        "episodeNumber": 4,
+        "title": "Episode 4",
+        "airDate": "2023-12-06",
+        "airDateUtc": "2023-12-06T22:00:00Z",
+        "lastSearchTime": "2025-03-24T00:53:15Z",
+        "runtime": 46,
+        "overview": "When the time machine doesn’t work in the way they’d planned, George and the other members of the Lazarus mission are left stranded in the wrong year – but could somebody be conspiring against them?",
+        "hasFile": true,
+        "monitored": true,
+        "unverifiedSceneNumbering": false,
+        "id": 164320
+      },
+      "series": {
+        "title": "The Lazarus Project",
+        "sortTitle": "lazarus project",
+        "status": "ended",
+        "ended": true,
+        "overview": "When George wakes up one day and finds himself reliving a day from months ago, he thinks he’s lost his mind. All of his recent milestones have been undone, including his success at work and his marriage to the love of his life. Worst of all, he seems to be the only one who has noticed what’s happened.\r\nThat is, until he meets Archie, who recruits George for the Lazarus Project - a secret organisation that has harnessed the ability to turn back time every time the world is at threat of extinction. Like George, those who work at Lazarus are the few people on earth with the ability to remember the events that are undone when time goes back.",
+        "network": "Sky Max",
+        "airTime": "22:00",
+        "images": [
+          {
+            "coverType": "banner",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/400440/banners/64766eda1eec3.jpg"
+          },
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/400440/posters/65553fc862ece.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/400440/backgrounds/6548956c2d752.jpg"
+          },
+          {
+            "coverType": "clearlogo",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/400440/clearlogo/64766b72b7ee0.png"
+          }
+        ],
+        "originalLanguage": {
+          "id": 1,
+          "name": "English"
+        },
+        "seasons": [
+          {
+            "seasonNumber": 1,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 2,
+            "monitored": true
+          }
+        ],
+        "year": 2022,
+        "path": "/tv/Tv Shows/The Lazarus Project",
+        "qualityProfileId": 1,
+        "seasonFolder": true,
+        "monitored": true,
+        "monitorNewItems": "all",
+        "useSceneNumbering": false,
+        "runtime": 43,
+        "tvdbId": 400440,
+        "tvRageId": 0,
+        "tvMazeId": 60414,
+        "tmdbId": 194567,
+        "firstAired": "2022-06-16T00:00:00Z",
+        "lastAired": "2023-12-28T00:00:00Z",
+        "seriesType": "standard",
+        "cleanTitle": "thelazarusproject",
+        "imdbId": "tt14190592",
+        "titleSlug": "the-lazarus-project",
+        "certification": "TV-MA",
+        "genres": [
+          "Action",
+          "Drama",
+          "Science Fiction",
+          "Thriller"
+        ],
+        "tags": [],
+        "added": "2025-03-24T00:52:03Z",
+        "ratings": {
+          "votes": 9905,
+          "value": 7.3
+        },
+        "languageProfileId": 1,
+        "id": 1856
+      },
+      "id": 356536
+    },
+    {
+      "episodeId": 164319,
+      "seriesId": 1856,
+      "sourceTitle": "The.Lazarus.Project.S02E03.1080p.WEBRip.DDP5.1.H265-d3g",
+      "languages": [
+        {
+          "id": 1,
+          "name": "English"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 15,
+          "name": "WEBRip-1080p",
+          "source": "webRip",
+          "resolution": 1080
+        },
+        "revision": {
+          "version": 1,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "customFormats": [
+        {
+          "id": 3,
+          "name": "english"
+        },
+        {
+          "id": 1,
+          "name": "english 265"
+        }
+      ],
+      "customFormatScore": 30,
+      "qualityCutoffNotMet": false,
+      "date": "2025-03-24T01:12:03Z",
+      "downloadId": "SABnzbd_nzo_qdxgrdy7",
+      "eventType": "downloadFolderImported",
+      "data": {
+        "fileId": "1503780",
+        "droppedPath": "/downloads/The.Lazarus.Project.S02.WEBRip.1080p.DDP5.1.H265-d3g/The.Lazarus.Project.S02E03.1080p.WEBRip.DDP5.1.H265-d3g.mkv",
+        "importedPath": "/tv/Tv Shows/The Lazarus Project/Season 2/The.Lazarus.Project.S02E03.Episode.3.mkv",
+        "downloadClient": "SABnzbd",
+        "downloadClientName": "sab",
+        "releaseGroup": "d3g",
+        "customFormatScore": "30",
+        "size": "922864726",
+        "indexerFlags": "0",
+        "releaseType": "SeasonPack"
+      },
+      "episode": {
+        "seriesId": 1856,
+        "tvdbId": 9817591,
+        "episodeFileId": 1503780,
+        "seasonNumber": 2,
+        "episodeNumber": 3,
+        "title": "Episode 3",
+        "airDate": "2023-11-29",
+        "airDateUtc": "2023-11-29T22:00:00Z",
+        "lastSearchTime": "2025-03-24T00:53:15Z",
+        "runtime": 40,
+        "overview": "The Lazarus team gets closer to cracking the science behind time travel. However, what they don’t know is that their mission isn’t quite as straightforward as is making it out to be.",
+        "hasFile": true,
+        "monitored": true,
+        "unverifiedSceneNumbering": false,
+        "id": 164319
+      },
+      "series": {
+        "title": "The Lazarus Project",
+        "sortTitle": "lazarus project",
+        "status": "ended",
+        "ended": true,
+        "overview": "When George wakes up one day and finds himself reliving a day from months ago, he thinks he’s lost his mind. All of his recent milestones have been undone, including his success at work and his marriage to the love of his life. Worst of all, he seems to be the only one who has noticed what’s happened.\r\nThat is, until he meets Archie, who recruits George for the Lazarus Project - a secret organisation that has harnessed the ability to turn back time every time the world is at threat of extinction. Like George, those who work at Lazarus are the few people on earth with the ability to remember the events that are undone when time goes back.",
+        "network": "Sky Max",
+        "airTime": "22:00",
+        "images": [
+          {
+            "coverType": "banner",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/400440/banners/64766eda1eec3.jpg"
+          },
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/400440/posters/65553fc862ece.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/400440/backgrounds/6548956c2d752.jpg"
+          },
+          {
+            "coverType": "clearlogo",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/400440/clearlogo/64766b72b7ee0.png"
+          }
+        ],
+        "originalLanguage": {
+          "id": 1,
+          "name": "English"
+        },
+        "seasons": [
+          {
+            "seasonNumber": 1,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 2,
+            "monitored": true
+          }
+        ],
+        "year": 2022,
+        "path": "/tv/Tv Shows/The Lazarus Project",
+        "qualityProfileId": 1,
+        "seasonFolder": true,
+        "monitored": true,
+        "monitorNewItems": "all",
+        "useSceneNumbering": false,
+        "runtime": 43,
+        "tvdbId": 400440,
+        "tvRageId": 0,
+        "tvMazeId": 60414,
+        "tmdbId": 194567,
+        "firstAired": "2022-06-16T00:00:00Z",
+        "lastAired": "2023-12-28T00:00:00Z",
+        "seriesType": "standard",
+        "cleanTitle": "thelazarusproject",
+        "imdbId": "tt14190592",
+        "titleSlug": "the-lazarus-project",
+        "certification": "TV-MA",
+        "genres": [
+          "Action",
+          "Drama",
+          "Science Fiction",
+          "Thriller"
+        ],
+        "tags": [],
+        "added": "2025-03-24T00:52:03Z",
+        "ratings": {
+          "votes": 9905,
+          "value": 7.3
+        },
+        "languageProfileId": 1,
+        "id": 1856
+      },
+      "id": 356535
+    },
+    {
+      "episodeId": 164318,
+      "seriesId": 1856,
+      "sourceTitle": "The.Lazarus.Project.S02E02.1080p.WEBRip.DDP5.1.H265-d3g",
+      "languages": [
+        {
+          "id": 1,
+          "name": "English"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 15,
+          "name": "WEBRip-1080p",
+          "source": "webRip",
+          "resolution": 1080
+        },
+        "revision": {
+          "version": 1,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "customFormats": [
+        {
+          "id": 3,
+          "name": "english"
+        },
+        {
+          "id": 1,
+          "name": "english 265"
+        }
+      ],
+      "customFormatScore": 30,
+      "qualityCutoffNotMet": false,
+      "date": "2025-03-24T01:12:02Z",
+      "downloadId": "SABnzbd_nzo_qdxgrdy7",
+      "eventType": "downloadFolderImported",
+      "data": {
+        "fileId": "1503779",
+        "droppedPath": "/downloads/The.Lazarus.Project.S02.WEBRip.1080p.DDP5.1.H265-d3g/The.Lazarus.Project.S02E02.1080p.WEBRip.DDP5.1.H265-d3g.mkv",
+        "importedPath": "/tv/Tv Shows/The Lazarus Project/Season 2/The.Lazarus.Project.S02E02.Episode.2.mkv",
+        "downloadClient": "SABnzbd",
+        "downloadClientName": "sab",
+        "releaseGroup": "d3g",
+        "customFormatScore": "30",
+        "size": "1054384248",
+        "indexerFlags": "0",
+        "releaseType": "SeasonPack"
+      },
+      "episode": {
+        "seriesId": 1856,
+        "tvdbId": 9817590,
+        "episodeFileId": 1503779,
+        "seasonNumber": 2,
+        "episodeNumber": 2,
+        "title": "Episode 2",
+        "airDate": "2023-11-22",
+        "airDateUtc": "2023-11-22T22:00:00Z",
+        "lastSearchTime": "2025-03-24T00:53:15Z",
+        "runtime": 46,
+        "overview": "The team attempts to track down the time machine that had been used to transport Janet back to 2012, while an unexpected visitor from the past comes looking for George.",
+        "hasFile": true,
+        "monitored": true,
+        "unverifiedSceneNumbering": false,
+        "id": 164318
+      },
+      "series": {
+        "title": "The Lazarus Project",
+        "sortTitle": "lazarus project",
+        "status": "ended",
+        "ended": true,
+        "overview": "When George wakes up one day and finds himself reliving a day from months ago, he thinks he’s lost his mind. All of his recent milestones have been undone, including his success at work and his marriage to the love of his life. Worst of all, he seems to be the only one who has noticed what’s happened.\r\nThat is, until he meets Archie, who recruits George for the Lazarus Project - a secret organisation that has harnessed the ability to turn back time every time the world is at threat of extinction. Like George, those who work at Lazarus are the few people on earth with the ability to remember the events that are undone when time goes back.",
+        "network": "Sky Max",
+        "airTime": "22:00",
+        "images": [
+          {
+            "coverType": "banner",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/400440/banners/64766eda1eec3.jpg"
+          },
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/400440/posters/65553fc862ece.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/400440/backgrounds/6548956c2d752.jpg"
+          },
+          {
+            "coverType": "clearlogo",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/400440/clearlogo/64766b72b7ee0.png"
+          }
+        ],
+        "originalLanguage": {
+          "id": 1,
+          "name": "English"
+        },
+        "seasons": [
+          {
+            "seasonNumber": 1,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 2,
+            "monitored": true
+          }
+        ],
+        "year": 2022,
+        "path": "/tv/Tv Shows/The Lazarus Project",
+        "qualityProfileId": 1,
+        "seasonFolder": true,
+        "monitored": true,
+        "monitorNewItems": "all",
+        "useSceneNumbering": false,
+        "runtime": 43,
+        "tvdbId": 400440,
+        "tvRageId": 0,
+        "tvMazeId": 60414,
+        "tmdbId": 194567,
+        "firstAired": "2022-06-16T00:00:00Z",
+        "lastAired": "2023-12-28T00:00:00Z",
+        "seriesType": "standard",
+        "cleanTitle": "thelazarusproject",
+        "imdbId": "tt14190592",
+        "titleSlug": "the-lazarus-project",
+        "certification": "TV-MA",
+        "genres": [
+          "Action",
+          "Drama",
+          "Science Fiction",
+          "Thriller"
+        ],
+        "tags": [],
+        "added": "2025-03-24T00:52:03Z",
+        "ratings": {
+          "votes": 9905,
+          "value": 7.3
+        },
+        "languageProfileId": 1,
+        "id": 1856
+      },
+      "id": 356534
+    },
+    {
+      "episodeId": 164317,
+      "seriesId": 1856,
+      "sourceTitle": "The.Lazarus.Project.S02E01.1080p.WEBRip.DDP5.1.H265-d3g",
+      "languages": [
+        {
+          "id": 1,
+          "name": "English"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 15,
+          "name": "WEBRip-1080p",
+          "source": "webRip",
+          "resolution": 1080
+        },
+        "revision": {
+          "version": 1,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "customFormats": [
+        {
+          "id": 3,
+          "name": "english"
+        },
+        {
+          "id": 1,
+          "name": "english 265"
+        }
+      ],
+      "customFormatScore": 30,
+      "qualityCutoffNotMet": false,
+      "date": "2025-03-24T01:12:01Z",
+      "downloadId": "SABnzbd_nzo_qdxgrdy7",
+      "eventType": "downloadFolderImported",
+      "data": {
+        "fileId": "1503778",
+        "droppedPath": "/downloads/The.Lazarus.Project.S02.WEBRip.1080p.DDP5.1.H265-d3g/The.Lazarus.Project.S02E01.1080p.WEBRip.DDP5.1.H265-d3g.mkv",
+        "importedPath": "/tv/Tv Shows/The Lazarus Project/Season 2/The.Lazarus.Project.S02E01.Episode.1.mkv",
+        "downloadClient": "SABnzbd",
+        "downloadClientName": "sab",
+        "releaseGroup": "d3g",
+        "customFormatScore": "30",
+        "size": "1001420933",
+        "indexerFlags": "0",
+        "releaseType": "SeasonPack"
+      },
+      "episode": {
+        "seriesId": 1856,
+        "tvdbId": 9817589,
+        "episodeFileId": 1503778,
+        "seasonNumber": 2,
+        "episodeNumber": 1,
+        "title": "Episode 1",
+        "airDate": "2023-11-15",
+        "airDateUtc": "2023-11-15T22:00:00Z",
+        "lastSearchTime": "2025-03-24T00:53:15Z",
+        "runtime": 45,
+        "overview": "The Lazarus Project team sets out to break the cycle, while a guilt-ridden George is desperate to redeem himself as he attempts to win back the lost trust of his colleagues and Sarah.",
+        "hasFile": true,
+        "monitored": true,
+        "unverifiedSceneNumbering": false,
+        "id": 164317
+      },
+      "series": {
+        "title": "The Lazarus Project",
+        "sortTitle": "lazarus project",
+        "status": "ended",
+        "ended": true,
+        "overview": "When George wakes up one day and finds himself reliving a day from months ago, he thinks he’s lost his mind. All of his recent milestones have been undone, including his success at work and his marriage to the love of his life. Worst of all, he seems to be the only one who has noticed what’s happened.\r\nThat is, until he meets Archie, who recruits George for the Lazarus Project - a secret organisation that has harnessed the ability to turn back time every time the world is at threat of extinction. Like George, those who work at Lazarus are the few people on earth with the ability to remember the events that are undone when time goes back.",
+        "network": "Sky Max",
+        "airTime": "22:00",
+        "images": [
+          {
+            "coverType": "banner",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/400440/banners/64766eda1eec3.jpg"
+          },
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/400440/posters/65553fc862ece.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/400440/backgrounds/6548956c2d752.jpg"
+          },
+          {
+            "coverType": "clearlogo",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/400440/clearlogo/64766b72b7ee0.png"
+          }
+        ],
+        "originalLanguage": {
+          "id": 1,
+          "name": "English"
+        },
+        "seasons": [
+          {
+            "seasonNumber": 1,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 2,
+            "monitored": true
+          }
+        ],
+        "year": 2022,
+        "path": "/tv/Tv Shows/The Lazarus Project",
+        "qualityProfileId": 1,
+        "seasonFolder": true,
+        "monitored": true,
+        "monitorNewItems": "all",
+        "useSceneNumbering": false,
+        "runtime": 43,
+        "tvdbId": 400440,
+        "tvRageId": 0,
+        "tvMazeId": 60414,
+        "tmdbId": 194567,
+        "firstAired": "2022-06-16T00:00:00Z",
+        "lastAired": "2023-12-28T00:00:00Z",
+        "seriesType": "standard",
+        "cleanTitle": "thelazarusproject",
+        "imdbId": "tt14190592",
+        "titleSlug": "the-lazarus-project",
+        "certification": "TV-MA",
+        "genres": [
+          "Action",
+          "Drama",
+          "Science Fiction",
+          "Thriller"
+        ],
+        "tags": [],
+        "added": "2025-03-24T00:52:03Z",
+        "ratings": {
+          "votes": 9905,
+          "value": 7.3
+        },
+        "languageProfileId": 1,
+        "id": 1856
+      },
+      "id": 356533
+    },
+    {
+      "episodeId": 164316,
+      "seriesId": 1856,
+      "sourceTitle": "The.Lazarus.Project.S01E08.Episode.8.EAC3.5.1.1080p.WEBRip.x265-iVy",
+      "languages": [
+        {
+          "id": 1,
+          "name": "English"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 15,
+          "name": "WEBRip-1080p",
+          "source": "webRip",
+          "resolution": 1080
+        },
+        "revision": {
+          "version": 1,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "customFormats": [
+        {
+          "id": 3,
+          "name": "english"
+        },
+        {
+          "id": 1,
+          "name": "english 265"
+        }
+      ],
+      "customFormatScore": 30,
+      "qualityCutoffNotMet": false,
+      "date": "2025-03-24T01:09:02Z",
+      "downloadId": "SABnzbd_nzo_511yz1w4",
+      "eventType": "downloadFolderImported",
+      "data": {
+        "fileId": "1503777",
+        "droppedPath": "/downloads/The.Lazarus.Project.S01.WEBRip.EAC3.5.1.1080p.x265-iVy/The.Lazarus.Project.S01E08.Episode.8.EAC3.5.1.1080p.WEBRip.x265-iVy.mkv",
+        "importedPath": "/tv/Tv Shows/The Lazarus Project/Season 1/The.Lazarus.Project.S01E08.Episode.8.mkv",
+        "downloadClient": "SABnzbd",
+        "downloadClientName": "sab",
+        "releaseGroup": "iVy",
+        "customFormatScore": "30",
+        "size": "321253814",
+        "indexerFlags": "0",
+        "releaseType": "SeasonPack"
+      },
+      "episode": {
+        "seriesId": 1856,
+        "tvdbId": 9215527,
+        "episodeFileId": 1503777,
+        "seasonNumber": 1,
+        "episodeNumber": 8,
+        "title": "Episode 8",
+        "airDate": "2022-08-04",
+        "airDateUtc": "2022-08-04T21:00:00Z",
+        "lastSearchTime": "2025-03-24T00:52:44Z",
+        "runtime": 44,
+        "finaleType": "season",
+        "overview": "When The Lazarus Project are trapped by a cataclysmic event, George discovers that the key to helping them is the person he has just shot.",
+        "hasFile": true,
+        "monitored": true,
+        "absoluteEpisodeNumber": 8,
+        "unverifiedSceneNumbering": false,
+        "id": 164316
+      },
+      "series": {
+        "title": "The Lazarus Project",
+        "sortTitle": "lazarus project",
+        "status": "ended",
+        "ended": true,
+        "overview": "When George wakes up one day and finds himself reliving a day from months ago, he thinks he’s lost his mind. All of his recent milestones have been undone, including his success at work and his marriage to the love of his life. Worst of all, he seems to be the only one who has noticed what’s happened.\r\nThat is, until he meets Archie, who recruits George for the Lazarus Project - a secret organisation that has harnessed the ability to turn back time every time the world is at threat of extinction. Like George, those who work at Lazarus are the few people on earth with the ability to remember the events that are undone when time goes back.",
+        "network": "Sky Max",
+        "airTime": "22:00",
+        "images": [
+          {
+            "coverType": "banner",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/400440/banners/64766eda1eec3.jpg"
+          },
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/400440/posters/65553fc862ece.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/400440/backgrounds/6548956c2d752.jpg"
+          },
+          {
+            "coverType": "clearlogo",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/400440/clearlogo/64766b72b7ee0.png"
+          }
+        ],
+        "originalLanguage": {
+          "id": 1,
+          "name": "English"
+        },
+        "seasons": [
+          {
+            "seasonNumber": 1,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 2,
+            "monitored": true
+          }
+        ],
+        "year": 2022,
+        "path": "/tv/Tv Shows/The Lazarus Project",
+        "qualityProfileId": 1,
+        "seasonFolder": true,
+        "monitored": true,
+        "monitorNewItems": "all",
+        "useSceneNumbering": false,
+        "runtime": 43,
+        "tvdbId": 400440,
+        "tvRageId": 0,
+        "tvMazeId": 60414,
+        "tmdbId": 194567,
+        "firstAired": "2022-06-16T00:00:00Z",
+        "lastAired": "2023-12-28T00:00:00Z",
+        "seriesType": "standard",
+        "cleanTitle": "thelazarusproject",
+        "imdbId": "tt14190592",
+        "titleSlug": "the-lazarus-project",
+        "certification": "TV-MA",
+        "genres": [
+          "Action",
+          "Drama",
+          "Science Fiction",
+          "Thriller"
+        ],
+        "tags": [],
+        "added": "2025-03-24T00:52:03Z",
+        "ratings": {
+          "votes": 9905,
+          "value": 7.3
+        },
+        "languageProfileId": 1,
+        "id": 1856
+      },
+      "id": 356532
+    },
+    {
+      "episodeId": 164315,
+      "seriesId": 1856,
+      "sourceTitle": "The.Lazarus.Project.S01E07.Episode.7.EAC3.5.1.1080p.WEBRip.x265-iVy",
+      "languages": [
+        {
+          "id": 1,
+          "name": "English"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 15,
+          "name": "WEBRip-1080p",
+          "source": "webRip",
+          "resolution": 1080
+        },
+        "revision": {
+          "version": 1,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "customFormats": [
+        {
+          "id": 3,
+          "name": "english"
+        },
+        {
+          "id": 1,
+          "name": "english 265"
+        }
+      ],
+      "customFormatScore": 30,
+      "qualityCutoffNotMet": false,
+      "date": "2025-03-24T01:09:02Z",
+      "downloadId": "SABnzbd_nzo_511yz1w4",
+      "eventType": "downloadFolderImported",
+      "data": {
+        "fileId": "1503776",
+        "droppedPath": "/downloads/The.Lazarus.Project.S01.WEBRip.EAC3.5.1.1080p.x265-iVy/The.Lazarus.Project.S01E07.Episode.7.EAC3.5.1.1080p.WEBRip.x265-iVy.mkv",
+        "importedPath": "/tv/Tv Shows/The Lazarus Project/Season 1/The.Lazarus.Project.S01E07.Episode.7.mkv",
+        "downloadClient": "SABnzbd",
+        "downloadClientName": "sab",
+        "releaseGroup": "iVy",
+        "customFormatScore": "30",
+        "size": "272670282",
+        "indexerFlags": "0",
+        "releaseType": "SeasonPack"
+      },
+      "episode": {
+        "seriesId": 1856,
+        "tvdbId": 9215526,
+        "episodeFileId": 1503776,
+        "seasonNumber": 1,
+        "episodeNumber": 7,
+        "title": "Episode 7",
+        "airDate": "2022-07-28",
+        "airDateUtc": "2022-07-28T21:00:00Z",
+        "lastSearchTime": "2025-03-24T00:52:44Z",
+        "runtime": 40,
+        "overview": "As the past begins to catch up with him, George learns that having the power to turn back time doesn't mean getting everything you want.",
+        "hasFile": true,
+        "monitored": true,
+        "absoluteEpisodeNumber": 7,
+        "unverifiedSceneNumbering": false,
+        "id": 164315
+      },
+      "series": {
+        "title": "The Lazarus Project",
+        "sortTitle": "lazarus project",
+        "status": "ended",
+        "ended": true,
+        "overview": "When George wakes up one day and finds himself reliving a day from months ago, he thinks he’s lost his mind. All of his recent milestones have been undone, including his success at work and his marriage to the love of his life. Worst of all, he seems to be the only one who has noticed what’s happened.\r\nThat is, until he meets Archie, who recruits George for the Lazarus Project - a secret organisation that has harnessed the ability to turn back time every time the world is at threat of extinction. Like George, those who work at Lazarus are the few people on earth with the ability to remember the events that are undone when time goes back.",
+        "network": "Sky Max",
+        "airTime": "22:00",
+        "images": [
+          {
+            "coverType": "banner",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/400440/banners/64766eda1eec3.jpg"
+          },
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/400440/posters/65553fc862ece.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/400440/backgrounds/6548956c2d752.jpg"
+          },
+          {
+            "coverType": "clearlogo",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/400440/clearlogo/64766b72b7ee0.png"
+          }
+        ],
+        "originalLanguage": {
+          "id": 1,
+          "name": "English"
+        },
+        "seasons": [
+          {
+            "seasonNumber": 1,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 2,
+            "monitored": true
+          }
+        ],
+        "year": 2022,
+        "path": "/tv/Tv Shows/The Lazarus Project",
+        "qualityProfileId": 1,
+        "seasonFolder": true,
+        "monitored": true,
+        "monitorNewItems": "all",
+        "useSceneNumbering": false,
+        "runtime": 43,
+        "tvdbId": 400440,
+        "tvRageId": 0,
+        "tvMazeId": 60414,
+        "tmdbId": 194567,
+        "firstAired": "2022-06-16T00:00:00Z",
+        "lastAired": "2023-12-28T00:00:00Z",
+        "seriesType": "standard",
+        "cleanTitle": "thelazarusproject",
+        "imdbId": "tt14190592",
+        "titleSlug": "the-lazarus-project",
+        "certification": "TV-MA",
+        "genres": [
+          "Action",
+          "Drama",
+          "Science Fiction",
+          "Thriller"
+        ],
+        "tags": [],
+        "added": "2025-03-24T00:52:03Z",
+        "ratings": {
+          "votes": 9905,
+          "value": 7.3
+        },
+        "languageProfileId": 1,
+        "id": 1856
+      },
+      "id": 356531
+    },
+    {
+      "episodeId": 164314,
+      "seriesId": 1856,
+      "sourceTitle": "The.Lazarus.Project.S01E06.Episode.6.EAC3.5.1.1080p.WEBRip.x265-iVy",
+      "languages": [
+        {
+          "id": 1,
+          "name": "English"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 15,
+          "name": "WEBRip-1080p",
+          "source": "webRip",
+          "resolution": 1080
+        },
+        "revision": {
+          "version": 1,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "customFormats": [
+        {
+          "id": 3,
+          "name": "english"
+        },
+        {
+          "id": 1,
+          "name": "english 265"
+        }
+      ],
+      "customFormatScore": 30,
+      "qualityCutoffNotMet": false,
+      "date": "2025-03-24T01:09:02Z",
+      "downloadId": "SABnzbd_nzo_511yz1w4",
+      "eventType": "downloadFolderImported",
+      "data": {
+        "fileId": "1503775",
+        "droppedPath": "/downloads/The.Lazarus.Project.S01.WEBRip.EAC3.5.1.1080p.x265-iVy/The.Lazarus.Project.S01E06.Episode.6.EAC3.5.1.1080p.WEBRip.x265-iVy.mkv",
+        "importedPath": "/tv/Tv Shows/The Lazarus Project/Season 1/The.Lazarus.Project.S01E06.Episode.6.mkv",
+        "downloadClient": "SABnzbd",
+        "downloadClientName": "sab",
+        "releaseGroup": "iVy",
+        "customFormatScore": "30",
+        "size": "249228606",
+        "indexerFlags": "0",
+        "releaseType": "SeasonPack"
+      },
+      "episode": {
+        "seriesId": 1856,
+        "tvdbId": 9215525,
+        "episodeFileId": 1503775,
+        "seasonNumber": 1,
+        "episodeNumber": 6,
+        "title": "Episode 6",
+        "airDate": "2022-07-21",
+        "airDateUtc": "2022-07-21T21:00:00Z",
+        "lastSearchTime": "2025-03-24T00:52:44Z",
+        "runtime": 43,
+        "overview": "As George's plan is about to be executed, he is faced with a decision that will change countless lives and the world as he knows it forever.",
+        "hasFile": true,
+        "monitored": true,
+        "absoluteEpisodeNumber": 6,
+        "unverifiedSceneNumbering": false,
+        "id": 164314
+      },
+      "series": {
+        "title": "The Lazarus Project",
+        "sortTitle": "lazarus project",
+        "status": "ended",
+        "ended": true,
+        "overview": "When George wakes up one day and finds himself reliving a day from months ago, he thinks he’s lost his mind. All of his recent milestones have been undone, including his success at work and his marriage to the love of his life. Worst of all, he seems to be the only one who has noticed what’s happened.\r\nThat is, until he meets Archie, who recruits George for the Lazarus Project - a secret organisation that has harnessed the ability to turn back time every time the world is at threat of extinction. Like George, those who work at Lazarus are the few people on earth with the ability to remember the events that are undone when time goes back.",
+        "network": "Sky Max",
+        "airTime": "22:00",
+        "images": [
+          {
+            "coverType": "banner",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/400440/banners/64766eda1eec3.jpg"
+          },
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/400440/posters/65553fc862ece.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/400440/backgrounds/6548956c2d752.jpg"
+          },
+          {
+            "coverType": "clearlogo",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/400440/clearlogo/64766b72b7ee0.png"
+          }
+        ],
+        "originalLanguage": {
+          "id": 1,
+          "name": "English"
+        },
+        "seasons": [
+          {
+            "seasonNumber": 1,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 2,
+            "monitored": true
+          }
+        ],
+        "year": 2022,
+        "path": "/tv/Tv Shows/The Lazarus Project",
+        "qualityProfileId": 1,
+        "seasonFolder": true,
+        "monitored": true,
+        "monitorNewItems": "all",
+        "useSceneNumbering": false,
+        "runtime": 43,
+        "tvdbId": 400440,
+        "tvRageId": 0,
+        "tvMazeId": 60414,
+        "tmdbId": 194567,
+        "firstAired": "2022-06-16T00:00:00Z",
+        "lastAired": "2023-12-28T00:00:00Z",
+        "seriesType": "standard",
+        "cleanTitle": "thelazarusproject",
+        "imdbId": "tt14190592",
+        "titleSlug": "the-lazarus-project",
+        "certification": "TV-MA",
+        "genres": [
+          "Action",
+          "Drama",
+          "Science Fiction",
+          "Thriller"
+        ],
+        "tags": [],
+        "added": "2025-03-24T00:52:03Z",
+        "ratings": {
+          "votes": 9905,
+          "value": 7.3
+        },
+        "languageProfileId": 1,
+        "id": 1856
+      },
+      "id": 356530
+    },
+    {
+      "episodeId": 164313,
+      "seriesId": 1856,
+      "sourceTitle": "The.Lazarus.Project.S01E05.Episode.5.EAC3.5.1.1080p.WEBRip.x265-iVy",
+      "languages": [
+        {
+          "id": 1,
+          "name": "English"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 15,
+          "name": "WEBRip-1080p",
+          "source": "webRip",
+          "resolution": 1080
+        },
+        "revision": {
+          "version": 1,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "customFormats": [
+        {
+          "id": 3,
+          "name": "english"
+        },
+        {
+          "id": 1,
+          "name": "english 265"
+        }
+      ],
+      "customFormatScore": 30,
+      "qualityCutoffNotMet": false,
+      "date": "2025-03-24T01:09:01Z",
+      "downloadId": "SABnzbd_nzo_511yz1w4",
+      "eventType": "downloadFolderImported",
+      "data": {
+        "fileId": "1503774",
+        "droppedPath": "/downloads/The.Lazarus.Project.S01.WEBRip.EAC3.5.1.1080p.x265-iVy/The.Lazarus.Project.S01E05.Episode.5.EAC3.5.1.1080p.WEBRip.x265-iVy.mkv",
+        "importedPath": "/tv/Tv Shows/The Lazarus Project/Season 1/The.Lazarus.Project.S01E05.Episode.5.mkv",
+        "downloadClient": "SABnzbd",
+        "downloadClientName": "sab",
+        "releaseGroup": "iVy",
+        "customFormatScore": "30",
+        "size": "275804876",
+        "indexerFlags": "0",
+        "releaseType": "SeasonPack"
+      },
+      "episode": {
+        "seriesId": 1856,
+        "tvdbId": 9215524,
+        "episodeFileId": 1503774,
+        "seasonNumber": 1,
+        "episodeNumber": 5,
+        "title": "Episode 5",
+        "airDate": "2022-07-14",
+        "airDateUtc": "2022-07-14T21:00:00Z",
+        "lastSearchTime": "2025-03-24T00:52:44Z",
+        "runtime": 42,
+        "overview": "As George tries desperately to cover his tracks, his actions force Archie to question her faith in The Lazarus Project.",
+        "hasFile": true,
+        "monitored": true,
+        "absoluteEpisodeNumber": 5,
+        "unverifiedSceneNumbering": false,
+        "id": 164313
+      },
+      "series": {
+        "title": "The Lazarus Project",
+        "sortTitle": "lazarus project",
+        "status": "ended",
+        "ended": true,
+        "overview": "When George wakes up one day and finds himself reliving a day from months ago, he thinks he’s lost his mind. All of his recent milestones have been undone, including his success at work and his marriage to the love of his life. Worst of all, he seems to be the only one who has noticed what’s happened.\r\nThat is, until he meets Archie, who recruits George for the Lazarus Project - a secret organisation that has harnessed the ability to turn back time every time the world is at threat of extinction. Like George, those who work at Lazarus are the few people on earth with the ability to remember the events that are undone when time goes back.",
+        "network": "Sky Max",
+        "airTime": "22:00",
+        "images": [
+          {
+            "coverType": "banner",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/400440/banners/64766eda1eec3.jpg"
+          },
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/400440/posters/65553fc862ece.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/400440/backgrounds/6548956c2d752.jpg"
+          },
+          {
+            "coverType": "clearlogo",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/400440/clearlogo/64766b72b7ee0.png"
+          }
+        ],
+        "originalLanguage": {
+          "id": 1,
+          "name": "English"
+        },
+        "seasons": [
+          {
+            "seasonNumber": 1,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 2,
+            "monitored": true
+          }
+        ],
+        "year": 2022,
+        "path": "/tv/Tv Shows/The Lazarus Project",
+        "qualityProfileId": 1,
+        "seasonFolder": true,
+        "monitored": true,
+        "monitorNewItems": "all",
+        "useSceneNumbering": false,
+        "runtime": 43,
+        "tvdbId": 400440,
+        "tvRageId": 0,
+        "tvMazeId": 60414,
+        "tmdbId": 194567,
+        "firstAired": "2022-06-16T00:00:00Z",
+        "lastAired": "2023-12-28T00:00:00Z",
+        "seriesType": "standard",
+        "cleanTitle": "thelazarusproject",
+        "imdbId": "tt14190592",
+        "titleSlug": "the-lazarus-project",
+        "certification": "TV-MA",
+        "genres": [
+          "Action",
+          "Drama",
+          "Science Fiction",
+          "Thriller"
+        ],
+        "tags": [],
+        "added": "2025-03-24T00:52:03Z",
+        "ratings": {
+          "votes": 9905,
+          "value": 7.3
+        },
+        "languageProfileId": 1,
+        "id": 1856
+      },
+      "id": 356529
+    },
+    {
+      "episodeId": 164312,
+      "seriesId": 1856,
+      "sourceTitle": "The.Lazarus.Project.S01E04.Episode.4.EAC3.5.1.1080p.WEBRip.x265-iVy",
+      "languages": [
+        {
+          "id": 1,
+          "name": "English"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 15,
+          "name": "WEBRip-1080p",
+          "source": "webRip",
+          "resolution": 1080
+        },
+        "revision": {
+          "version": 1,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "customFormats": [
+        {
+          "id": 3,
+          "name": "english"
+        },
+        {
+          "id": 1,
+          "name": "english 265"
+        }
+      ],
+      "customFormatScore": 30,
+      "qualityCutoffNotMet": false,
+      "date": "2025-03-24T01:09:01Z",
+      "downloadId": "SABnzbd_nzo_511yz1w4",
+      "eventType": "downloadFolderImported",
+      "data": {
+        "fileId": "1503773",
+        "droppedPath": "/downloads/The.Lazarus.Project.S01.WEBRip.EAC3.5.1.1080p.x265-iVy/The.Lazarus.Project.S01E04.Episode.4.EAC3.5.1.1080p.WEBRip.x265-iVy.mkv",
+        "importedPath": "/tv/Tv Shows/The Lazarus Project/Season 1/The.Lazarus.Project.S01E04.Episode.4.mkv",
+        "downloadClient": "SABnzbd",
+        "downloadClientName": "sab",
+        "releaseGroup": "iVy",
+        "customFormatScore": "30",
+        "size": "357337237",
+        "indexerFlags": "0",
+        "releaseType": "SeasonPack"
+      },
+      "episode": {
+        "seriesId": 1856,
+        "tvdbId": 9215523,
+        "episodeFileId": 1503773,
+        "seasonNumber": 1,
+        "episodeNumber": 4,
+        "title": "Episode 4",
+        "airDate": "2022-07-07",
+        "airDateUtc": "2022-07-07T21:00:00Z",
+        "lastSearchTime": "2025-03-24T00:52:44Z",
+        "runtime": 45,
+        "overview": "George puts his plan into motion, unaware that a Lazarus agent is hot on his heels - and is prepared to do anything to stop him.",
+        "hasFile": true,
+        "monitored": true,
+        "absoluteEpisodeNumber": 4,
+        "unverifiedSceneNumbering": false,
+        "id": 164312
+      },
+      "series": {
+        "title": "The Lazarus Project",
+        "sortTitle": "lazarus project",
+        "status": "ended",
+        "ended": true,
+        "overview": "When George wakes up one day and finds himself reliving a day from months ago, he thinks he’s lost his mind. All of his recent milestones have been undone, including his success at work and his marriage to the love of his life. Worst of all, he seems to be the only one who has noticed what’s happened.\r\nThat is, until he meets Archie, who recruits George for the Lazarus Project - a secret organisation that has harnessed the ability to turn back time every time the world is at threat of extinction. Like George, those who work at Lazarus are the few people on earth with the ability to remember the events that are undone when time goes back.",
+        "network": "Sky Max",
+        "airTime": "22:00",
+        "images": [
+          {
+            "coverType": "banner",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/400440/banners/64766eda1eec3.jpg"
+          },
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/400440/posters/65553fc862ece.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/400440/backgrounds/6548956c2d752.jpg"
+          },
+          {
+            "coverType": "clearlogo",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/400440/clearlogo/64766b72b7ee0.png"
+          }
+        ],
+        "originalLanguage": {
+          "id": 1,
+          "name": "English"
+        },
+        "seasons": [
+          {
+            "seasonNumber": 1,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 2,
+            "monitored": true
+          }
+        ],
+        "year": 2022,
+        "path": "/tv/Tv Shows/The Lazarus Project",
+        "qualityProfileId": 1,
+        "seasonFolder": true,
+        "monitored": true,
+        "monitorNewItems": "all",
+        "useSceneNumbering": false,
+        "runtime": 43,
+        "tvdbId": 400440,
+        "tvRageId": 0,
+        "tvMazeId": 60414,
+        "tmdbId": 194567,
+        "firstAired": "2022-06-16T00:00:00Z",
+        "lastAired": "2023-12-28T00:00:00Z",
+        "seriesType": "standard",
+        "cleanTitle": "thelazarusproject",
+        "imdbId": "tt14190592",
+        "titleSlug": "the-lazarus-project",
+        "certification": "TV-MA",
+        "genres": [
+          "Action",
+          "Drama",
+          "Science Fiction",
+          "Thriller"
+        ],
+        "tags": [],
+        "added": "2025-03-24T00:52:03Z",
+        "ratings": {
+          "votes": 9905,
+          "value": 7.3
+        },
+        "languageProfileId": 1,
+        "id": 1856
+      },
+      "id": 356528
+    },
+    {
+      "episodeId": 164311,
+      "seriesId": 1856,
+      "sourceTitle": "The.Lazarus.Project.S01E03.Episode.3.EAC3.5.1.1080p.WEBRip.x265-iVy",
+      "languages": [
+        {
+          "id": 1,
+          "name": "English"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 15,
+          "name": "WEBRip-1080p",
+          "source": "webRip",
+          "resolution": 1080
+        },
+        "revision": {
+          "version": 1,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "customFormats": [
+        {
+          "id": 3,
+          "name": "english"
+        },
+        {
+          "id": 1,
+          "name": "english 265"
+        }
+      ],
+      "customFormatScore": 30,
+      "qualityCutoffNotMet": false,
+      "date": "2025-03-24T01:09:01Z",
+      "downloadId": "SABnzbd_nzo_511yz1w4",
+      "eventType": "downloadFolderImported",
+      "data": {
+        "fileId": "1503772",
+        "droppedPath": "/downloads/The.Lazarus.Project.S01.WEBRip.EAC3.5.1.1080p.x265-iVy/The.Lazarus.Project.S01E03.Episode.3.EAC3.5.1.1080p.WEBRip.x265-iVy.mkv",
+        "importedPath": "/tv/Tv Shows/The Lazarus Project/Season 1/The.Lazarus.Project.S01E03.Episode.3.mkv",
+        "downloadClient": "SABnzbd",
+        "downloadClientName": "sab",
+        "releaseGroup": "iVy",
+        "customFormatScore": "30",
+        "size": "281264861",
+        "indexerFlags": "0",
+        "releaseType": "SeasonPack"
+      },
+      "episode": {
+        "seriesId": 1856,
+        "tvdbId": 9215522,
+        "episodeFileId": 1503772,
+        "seasonNumber": 1,
+        "episodeNumber": 3,
+        "title": "Episode 3",
+        "airDate": "2022-06-30",
+        "airDateUtc": "2022-06-30T21:00:00Z",
+        "lastSearchTime": "2025-03-24T00:52:44Z",
+        "runtime": 44,
+        "overview": "A grieving George decides to take action. But what if the only person who can help him is The Lazarus Project's mortal enemy?",
+        "hasFile": true,
+        "monitored": true,
+        "absoluteEpisodeNumber": 3,
+        "unverifiedSceneNumbering": false,
+        "id": 164311
+      },
+      "series": {
+        "title": "The Lazarus Project",
+        "sortTitle": "lazarus project",
+        "status": "ended",
+        "ended": true,
+        "overview": "When George wakes up one day and finds himself reliving a day from months ago, he thinks he’s lost his mind. All of his recent milestones have been undone, including his success at work and his marriage to the love of his life. Worst of all, he seems to be the only one who has noticed what’s happened.\r\nThat is, until he meets Archie, who recruits George for the Lazarus Project - a secret organisation that has harnessed the ability to turn back time every time the world is at threat of extinction. Like George, those who work at Lazarus are the few people on earth with the ability to remember the events that are undone when time goes back.",
+        "network": "Sky Max",
+        "airTime": "22:00",
+        "images": [
+          {
+            "coverType": "banner",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/400440/banners/64766eda1eec3.jpg"
+          },
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/400440/posters/65553fc862ece.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/400440/backgrounds/6548956c2d752.jpg"
+          },
+          {
+            "coverType": "clearlogo",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/400440/clearlogo/64766b72b7ee0.png"
+          }
+        ],
+        "originalLanguage": {
+          "id": 1,
+          "name": "English"
+        },
+        "seasons": [
+          {
+            "seasonNumber": 1,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 2,
+            "monitored": true
+          }
+        ],
+        "year": 2022,
+        "path": "/tv/Tv Shows/The Lazarus Project",
+        "qualityProfileId": 1,
+        "seasonFolder": true,
+        "monitored": true,
+        "monitorNewItems": "all",
+        "useSceneNumbering": false,
+        "runtime": 43,
+        "tvdbId": 400440,
+        "tvRageId": 0,
+        "tvMazeId": 60414,
+        "tmdbId": 194567,
+        "firstAired": "2022-06-16T00:00:00Z",
+        "lastAired": "2023-12-28T00:00:00Z",
+        "seriesType": "standard",
+        "cleanTitle": "thelazarusproject",
+        "imdbId": "tt14190592",
+        "titleSlug": "the-lazarus-project",
+        "certification": "TV-MA",
+        "genres": [
+          "Action",
+          "Drama",
+          "Science Fiction",
+          "Thriller"
+        ],
+        "tags": [],
+        "added": "2025-03-24T00:52:03Z",
+        "ratings": {
+          "votes": 9905,
+          "value": 7.3
+        },
+        "languageProfileId": 1,
+        "id": 1856
+      },
+      "id": 356527
+    },
+    {
+      "episodeId": 164310,
+      "seriesId": 1856,
+      "sourceTitle": "The.Lazarus.Project.S01E02.Episode.2.EAC3.5.1.1080p.WEBRip.x265-iVy",
+      "languages": [
+        {
+          "id": 1,
+          "name": "English"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 15,
+          "name": "WEBRip-1080p",
+          "source": "webRip",
+          "resolution": 1080
+        },
+        "revision": {
+          "version": 1,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "customFormats": [
+        {
+          "id": 3,
+          "name": "english"
+        },
+        {
+          "id": 1,
+          "name": "english 265"
+        }
+      ],
+      "customFormatScore": 30,
+      "qualityCutoffNotMet": false,
+      "date": "2025-03-24T01:09:00Z",
+      "downloadId": "SABnzbd_nzo_511yz1w4",
+      "eventType": "downloadFolderImported",
+      "data": {
+        "fileId": "1503771",
+        "droppedPath": "/downloads/The.Lazarus.Project.S01.WEBRip.EAC3.5.1.1080p.x265-iVy/The.Lazarus.Project.S01E02.Episode.2.EAC3.5.1.1080p.WEBRip.x265-iVy.mkv",
+        "importedPath": "/tv/Tv Shows/The Lazarus Project/Season 1/The.Lazarus.Project.S01E02.Episode.2.mkv",
+        "downloadClient": "SABnzbd",
+        "downloadClientName": "sab",
+        "releaseGroup": "iVy",
+        "customFormatScore": "30",
+        "size": "278916509",
+        "indexerFlags": "0",
+        "releaseType": "SeasonPack"
+      },
+      "episode": {
+        "seriesId": 1856,
+        "tvdbId": 9215520,
+        "episodeFileId": 1503771,
+        "seasonNumber": 1,
+        "episodeNumber": 2,
+        "title": "Episode 2",
+        "airDate": "2022-06-23",
+        "airDateUtc": "2022-06-23T21:00:00Z",
+        "lastSearchTime": "2025-03-24T00:52:44Z",
+        "runtime": 45,
+        "overview": "George is left distraught after a freak accident hurts someone close to him, but soon discovers the perils of turning back time at will.",
+        "hasFile": true,
+        "monitored": true,
+        "absoluteEpisodeNumber": 2,
+        "unverifiedSceneNumbering": false,
+        "id": 164310
+      },
+      "series": {
+        "title": "The Lazarus Project",
+        "sortTitle": "lazarus project",
+        "status": "ended",
+        "ended": true,
+        "overview": "When George wakes up one day and finds himself reliving a day from months ago, he thinks he’s lost his mind. All of his recent milestones have been undone, including his success at work and his marriage to the love of his life. Worst of all, he seems to be the only one who has noticed what’s happened.\r\nThat is, until he meets Archie, who recruits George for the Lazarus Project - a secret organisation that has harnessed the ability to turn back time every time the world is at threat of extinction. Like George, those who work at Lazarus are the few people on earth with the ability to remember the events that are undone when time goes back.",
+        "network": "Sky Max",
+        "airTime": "22:00",
+        "images": [
+          {
+            "coverType": "banner",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/400440/banners/64766eda1eec3.jpg"
+          },
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/400440/posters/65553fc862ece.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/400440/backgrounds/6548956c2d752.jpg"
+          },
+          {
+            "coverType": "clearlogo",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/400440/clearlogo/64766b72b7ee0.png"
+          }
+        ],
+        "originalLanguage": {
+          "id": 1,
+          "name": "English"
+        },
+        "seasons": [
+          {
+            "seasonNumber": 1,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 2,
+            "monitored": true
+          }
+        ],
+        "year": 2022,
+        "path": "/tv/Tv Shows/The Lazarus Project",
+        "qualityProfileId": 1,
+        "seasonFolder": true,
+        "monitored": true,
+        "monitorNewItems": "all",
+        "useSceneNumbering": false,
+        "runtime": 43,
+        "tvdbId": 400440,
+        "tvRageId": 0,
+        "tvMazeId": 60414,
+        "tmdbId": 194567,
+        "firstAired": "2022-06-16T00:00:00Z",
+        "lastAired": "2023-12-28T00:00:00Z",
+        "seriesType": "standard",
+        "cleanTitle": "thelazarusproject",
+        "imdbId": "tt14190592",
+        "titleSlug": "the-lazarus-project",
+        "certification": "TV-MA",
+        "genres": [
+          "Action",
+          "Drama",
+          "Science Fiction",
+          "Thriller"
+        ],
+        "tags": [],
+        "added": "2025-03-24T00:52:03Z",
+        "ratings": {
+          "votes": 9905,
+          "value": 7.3
+        },
+        "languageProfileId": 1,
+        "id": 1856
+      },
+      "id": 356526
+    },
+    {
+      "episodeId": 164309,
+      "seriesId": 1856,
+      "sourceTitle": "The.Lazarus.Project.S01E01.Episode.1.EAC3.5.1.1080p.WEBRip.x265-iVy",
+      "languages": [
+        {
+          "id": 1,
+          "name": "English"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 15,
+          "name": "WEBRip-1080p",
+          "source": "webRip",
+          "resolution": 1080
+        },
+        "revision": {
+          "version": 1,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "customFormats": [
+        {
+          "id": 3,
+          "name": "english"
+        },
+        {
+          "id": 1,
+          "name": "english 265"
+        }
+      ],
+      "customFormatScore": 30,
+      "qualityCutoffNotMet": false,
+      "date": "2025-03-24T01:09:00Z",
+      "downloadId": "SABnzbd_nzo_511yz1w4",
+      "eventType": "downloadFolderImported",
+      "data": {
+        "fileId": "1503770",
+        "droppedPath": "/downloads/The.Lazarus.Project.S01.WEBRip.EAC3.5.1.1080p.x265-iVy/The.Lazarus.Project.S01E01.Episode.1.EAC3.5.1.1080p.WEBRip.x265-iVy.mkv",
+        "importedPath": "/tv/Tv Shows/The Lazarus Project/Season 1/The.Lazarus.Project.S01E01.Episode.1.mkv",
+        "downloadClient": "SABnzbd",
+        "downloadClientName": "sab",
+        "releaseGroup": "iVy",
+        "customFormatScore": "30",
+        "size": "400657797",
+        "indexerFlags": "0",
+        "releaseType": "SeasonPack"
+      },
+      "episode": {
+        "seriesId": 1856,
+        "tvdbId": 8995230,
+        "episodeFileId": 1503770,
+        "seasonNumber": 1,
+        "episodeNumber": 1,
+        "title": "Episode 1",
+        "airDate": "2022-06-16",
+        "airDateUtc": "2022-06-16T21:00:00Z",
+        "lastSearchTime": "2025-03-24T00:52:44Z",
+        "runtime": 44,
+        "overview": "When George keeps reliving the same few weeks over and over, he is offered an opportunity that will change his life forever.",
+        "hasFile": true,
+        "monitored": true,
+        "absoluteEpisodeNumber": 1,
+        "unverifiedSceneNumbering": false,
+        "id": 164309
+      },
+      "series": {
+        "title": "The Lazarus Project",
+        "sortTitle": "lazarus project",
+        "status": "ended",
+        "ended": true,
+        "overview": "When George wakes up one day and finds himself reliving a day from months ago, he thinks he’s lost his mind. All of his recent milestones have been undone, including his success at work and his marriage to the love of his life. Worst of all, he seems to be the only one who has noticed what’s happened.\r\nThat is, until he meets Archie, who recruits George for the Lazarus Project - a secret organisation that has harnessed the ability to turn back time every time the world is at threat of extinction. Like George, those who work at Lazarus are the few people on earth with the ability to remember the events that are undone when time goes back.",
+        "network": "Sky Max",
+        "airTime": "22:00",
+        "images": [
+          {
+            "coverType": "banner",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/400440/banners/64766eda1eec3.jpg"
+          },
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/400440/posters/65553fc862ece.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/400440/backgrounds/6548956c2d752.jpg"
+          },
+          {
+            "coverType": "clearlogo",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/400440/clearlogo/64766b72b7ee0.png"
+          }
+        ],
+        "originalLanguage": {
+          "id": 1,
+          "name": "English"
+        },
+        "seasons": [
+          {
+            "seasonNumber": 1,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 2,
+            "monitored": true
+          }
+        ],
+        "year": 2022,
+        "path": "/tv/Tv Shows/The Lazarus Project",
+        "qualityProfileId": 1,
+        "seasonFolder": true,
+        "monitored": true,
+        "monitorNewItems": "all",
+        "useSceneNumbering": false,
+        "runtime": 43,
+        "tvdbId": 400440,
+        "tvRageId": 0,
+        "tvMazeId": 60414,
+        "tmdbId": 194567,
+        "firstAired": "2022-06-16T00:00:00Z",
+        "lastAired": "2023-12-28T00:00:00Z",
+        "seriesType": "standard",
+        "cleanTitle": "thelazarusproject",
+        "imdbId": "tt14190592",
+        "titleSlug": "the-lazarus-project",
+        "certification": "TV-MA",
+        "genres": [
+          "Action",
+          "Drama",
+          "Science Fiction",
+          "Thriller"
+        ],
+        "tags": [],
+        "added": "2025-03-24T00:52:03Z",
+        "ratings": {
+          "votes": 9905,
+          "value": 7.3
+        },
+        "languageProfileId": 1,
+        "id": 1856
+      },
+      "id": 356525
+    },
+    {
+      "episodeId": 164298,
+      "seriesId": 1855,
+      "sourceTitle": "Stillwater.S03E10.Koo's.Gift.EAC3.5.1.1080p.WEBRip.x265-iVy",
+      "languages": [
+        {
+          "id": 1,
+          "name": "English"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 15,
+          "name": "WEBRip-1080p",
+          "source": "webRip",
+          "resolution": 1080
+        },
+        "revision": {
+          "version": 1,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "customFormats": [
+        {
+          "id": 3,
+          "name": "english"
+        },
+        {
+          "id": 1,
+          "name": "english 265"
+        }
+      ],
+      "customFormatScore": 30,
+      "qualityCutoffNotMet": false,
+      "date": "2025-03-24T01:08:04Z",
+      "downloadId": "SABnzbd_nzo__pasxw8f",
+      "eventType": "downloadFolderImported",
+      "data": {
+        "fileId": "1503769",
+        "droppedPath": "/downloads/Stillwater.(2020).S03.WEBRip.EAC3.5.1.1080p.x265-iVy/Stillwater.S03E10.Koo's.Gift.EAC3.5.1.1080p.WEBRip.x265-iVy.mkv",
+        "importedPath": "/tv/Cartoons/Stillwater/Season 3/Stillwater.S03E10.Koo's.Gift.mkv",
+        "downloadClient": "SABnzbd",
+        "downloadClientName": "sab",
+        "releaseGroup": "iVy",
+        "customFormatScore": "30",
+        "size": "539194235",
+        "indexerFlags": "0",
+        "releaseType": "SeasonPack"
+      },
+      "episode": {
+        "seriesId": 1855,
+        "tvdbId": 9797169,
+        "episodeFileId": 1503769,
+        "seasonNumber": 3,
+        "episodeNumber": 10,
+        "title": "Koo's Gift",
+        "airDate": "2023-05-19",
+        "airDateUtc": "2023-05-19T07:00:00Z",
+        "lastSearchTime": "2025-03-24T00:52:34Z",
+        "runtime": 12,
+        "overview": "Koo attends her first birthday party and is concerned about her gift.",
+        "hasFile": true,
+        "monitored": true,
+        "unverifiedSceneNumbering": false,
+        "id": 164298
+      },
+      "series": {
+        "title": "Stillwater",
+        "sortTitle": "stillwater",
+        "status": "ended",
+        "ended": true,
+        "overview": "Siblings Karl, Addy and Michael have a very special next-door neighbor: a wise panda named Stillwater. His friendship and stories give them new perspectives on the world, themselves, and each other.",
+        "network": "Apple TV+",
+        "airTime": "03:00",
+        "images": [
+          {
+            "coverType": "banner",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/series/388611/banners/5fce2ff8573ca.jpg"
+          },
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/series/388611/posters/5fafc3349dad0.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/388611/backgrounds/62345576b453b.jpg"
+          }
+        ],
+        "originalLanguage": {
+          "id": 1,
+          "name": "English"
+        },
+        "seasons": [
+          {
+            "seasonNumber": 1,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 2,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 3,
+            "monitored": true
+          }
+        ],
+        "year": 2020,
+        "path": "/tv/Cartoons/Stillwater",
+        "qualityProfileId": 1,
+        "seasonFolder": true,
+        "monitored": true,
+        "monitorNewItems": "all",
+        "useSceneNumbering": false,
+        "runtime": 13,
+        "tvdbId": 388611,
+        "tvRageId": 0,
+        "tvMazeId": 50463,
+        "tmdbId": 111834,
+        "firstAired": "2020-12-04T00:00:00Z",
+        "lastAired": "2023-05-19T00:00:00Z",
+        "seriesType": "standard",
+        "cleanTitle": "stillwater",
+        "imdbId": "tt13135714",
+        "titleSlug": "stillwater",
+        "certification": "TV-Y7",
+        "genres": [
+          "Animation",
+          "Children",
+          "Family"
+        ],
+        "tags": [],
+        "added": "2025-03-24T00:51:23Z",
+        "ratings": {
+          "votes": 697,
+          "value": 8.2
+        },
+        "languageProfileId": 1,
+        "id": 1855
+      },
+      "id": 356524
+    }
+  ]
+}

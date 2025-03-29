@@ -1,0 +1,2665 @@
+{
+  "page": 18,
+  "pageSize": 15,
+  "sortKey": "date",
+  "sortDirection": "descending",
+  "totalRecords": 344511,
+  "records": [
+    {
+      "episodeId": 163291,
+      "seriesId": 1806,
+      "sourceTitle": "The.Wheel.of.Time.S03E05.1080p.WEB.H264-SuccessfulCrab",
+      "languages": [
+        {
+          "id": 1,
+          "name": "English"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 3,
+          "name": "WEBDL-1080p",
+          "source": "web",
+          "resolution": 1080
+        },
+        "revision": {
+          "version": 1,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "customFormats": [
+        {
+          "id": 3,
+          "name": "english"
+        }
+      ],
+      "customFormatScore": 10,
+      "qualityCutoffNotMet": false,
+      "date": "2025-03-27T07:08:02Z",
+      "downloadId": "SABnzbd_nzo_9nd8oluz",
+      "eventType": "downloadFolderImported",
+      "data": {
+        "fileId": "1505118",
+        "droppedPath": "/downloads/The.Wheel.of.Time.S03E05.1080p.WEB.H264-SuccessfulCrab/the.wheel.of.time.s03e05.1080p.web.h264-successfulcrab.mkv",
+        "importedPath": "/tv/Tv Shows/The Wheel of Time/Season 3/The.Wheel.of.Time.S03E05.Tel’aran’rhiod.mkv",
+        "downloadClient": "SABnzbd",
+        "downloadClientName": "sab",
+        "releaseGroup": "SuccessfulCrab",
+        "customFormatScore": "10",
+        "size": "2673348333",
+        "indexerFlags": "0",
+        "releaseType": "SingleEpisode"
+      },
+      "episode": {
+        "seriesId": 1806,
+        "tvdbId": 10990108,
+        "episodeFileId": 1505118,
+        "seasonNumber": 3,
+        "episodeNumber": 5,
+        "title": "Tel'aran'rhiod",
+        "airDate": "2025-03-27",
+        "airDateUtc": "2025-03-27T07:00:00Z",
+        "runtime": 69,
+        "overview": "Egwene learns Rand's dark secret. Perrin stages a daring rescue. Nynaeve, Elayne, Mat, and Min hunt the Black Ajah.",
+        "hasFile": true,
+        "monitored": true,
+        "absoluteEpisodeNumber": 21,
+        "unverifiedSceneNumbering": false,
+        "id": 163291
+      },
+      "series": {
+        "title": "The Wheel of Time",
+        "sortTitle": "wheel of time",
+        "status": "continuing",
+        "ended": false,
+        "overview": "The lives of five young villagers change forever when a strange and powerful woman arrives, claiming one of them is the child of an ancient prophecy with the power to tip the balance between Light and Dark forever. They must choose whether to trust this stranger – and each other – with the fate of the world before the Dark One breaks out of His prison, and the Last Battle begins.",
+        "network": "Prime Video",
+        "airTime": "03:00",
+        "images": [
+          {
+            "coverType": "banner",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/355730/banners/619da764490dc.jpg"
+          },
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/355730/posters/67ab7aec64d05.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/355730/backgrounds/67b0985f5f989.jpg"
+          },
+          {
+            "coverType": "clearlogo",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/355730/clearlogo/6192d29564eb1.png"
+          }
+        ],
+        "originalLanguage": {
+          "id": 1,
+          "name": "English"
+        },
+        "seasons": [
+          {
+            "seasonNumber": 0,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 1,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 2,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 3,
+            "monitored": true
+          }
+        ],
+        "year": 2021,
+        "path": "/tv/Tv Shows/The Wheel of Time",
+        "qualityProfileId": 1,
+        "seasonFolder": true,
+        "monitored": true,
+        "monitorNewItems": "all",
+        "useSceneNumbering": false,
+        "runtime": 64,
+        "tvdbId": 355730,
+        "tvRageId": 0,
+        "tvMazeId": 35083,
+        "tmdbId": 71914,
+        "firstAired": "2021-11-19T00:00:00Z",
+        "lastAired": "2025-04-17T00:00:00Z",
+        "seriesType": "standard",
+        "cleanTitle": "thewheeltime",
+        "imdbId": "tt7462410",
+        "titleSlug": "the-wheel-of-time",
+        "certification": "TV-14",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Drama",
+          "Fantasy"
+        ],
+        "tags": [],
+        "added": "2025-01-20T03:56:33Z",
+        "ratings": {
+          "votes": 147346,
+          "value": 7.2
+        },
+        "languageProfileId": 1,
+        "id": 1806
+      },
+      "id": 356793
+    },
+    {
+      "episodeId": 163291,
+      "seriesId": 1806,
+      "sourceTitle": "The.Wheel.of.Time.S03E05.1080p.WEB.H264-SuccessfulCrab",
+      "languages": [
+        {
+          "id": 1,
+          "name": "English"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 3,
+          "name": "WEBDL-1080p",
+          "source": "web",
+          "resolution": 1080
+        },
+        "revision": {
+          "version": 1,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "customFormats": [
+        {
+          "id": 3,
+          "name": "english"
+        }
+      ],
+      "customFormatScore": 10,
+      "qualityCutoffNotMet": false,
+      "date": "2025-03-27T07:06:02Z",
+      "downloadId": "SABnzbd_nzo_9nd8oluz",
+      "eventType": "grabbed",
+      "data": {
+        "indexer": "altHUB (Prowlarr)",
+        "nzbInfoUrl": "https://api.althub.co.za/details/7fbd9349ad8e40cbbb94ca3d45bd70c2",
+        "releaseGroup": "SuccessfulCrab",
+        "age": "0",
+        "ageHours": "0.05273795669444444",
+        "ageMinutes": "3.1642774466666665",
+        "publishedDate": "2025-03-27T07:02:53Z",
+        "downloadClient": "SABnzbd",
+        "downloadClientName": "sab",
+        "size": "2932392411",
+        "downloadUrl": "http://prowlarr:9696/1/download?apikey=5f771c1869f94fec821832369384a70c&link=MTA1UDVQWHdqMHVsTDMrTWNiU3RGUXM1Z1FvY2ZNR24xRVdtMFB2WmNWcnBoVkROc2dBVVVZbElOL3FxYUJYSnJHakhaRHZFb3ovaDU4dXVRSEJ1UldRTXRwaWtvWit0UlJodkdwUno3c2VqYldncXZuZUZiK2hZcW85MWZqZmZlRlo1MVdHZUNkVEROMlFUZXMxdXpMZWZicitSTVZLWjI3RGNuUmFWOGQ4PQ&file=The.Wheel.of.Time.S03E05.1080p.WEB.H264-SuccessfulCrab",
+        "guid": "https://api.althub.co.za/details/7fbd9349ad8e40cbbb94ca3d45bd70c2",
+        "tvdbId": "0",
+        "tvRageId": "0",
+        "imdbId": null,
+        "protocol": "1",
+        "customFormatScore": "10",
+        "seriesMatchType": "Title",
+        "releaseSource": "Rss",
+        "indexerFlags": "0",
+        "releaseType": "SingleEpisode"
+      },
+      "episode": {
+        "seriesId": 1806,
+        "tvdbId": 10990108,
+        "episodeFileId": 1505118,
+        "seasonNumber": 3,
+        "episodeNumber": 5,
+        "title": "Tel'aran'rhiod",
+        "airDate": "2025-03-27",
+        "airDateUtc": "2025-03-27T07:00:00Z",
+        "runtime": 69,
+        "overview": "Egwene learns Rand's dark secret. Perrin stages a daring rescue. Nynaeve, Elayne, Mat, and Min hunt the Black Ajah.",
+        "hasFile": true,
+        "monitored": true,
+        "absoluteEpisodeNumber": 21,
+        "unverifiedSceneNumbering": false,
+        "id": 163291
+      },
+      "series": {
+        "title": "The Wheel of Time",
+        "sortTitle": "wheel of time",
+        "status": "continuing",
+        "ended": false,
+        "overview": "The lives of five young villagers change forever when a strange and powerful woman arrives, claiming one of them is the child of an ancient prophecy with the power to tip the balance between Light and Dark forever. They must choose whether to trust this stranger – and each other – with the fate of the world before the Dark One breaks out of His prison, and the Last Battle begins.",
+        "network": "Prime Video",
+        "airTime": "03:00",
+        "images": [
+          {
+            "coverType": "banner",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/355730/banners/619da764490dc.jpg"
+          },
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/355730/posters/67ab7aec64d05.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/355730/backgrounds/67b0985f5f989.jpg"
+          },
+          {
+            "coverType": "clearlogo",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/355730/clearlogo/6192d29564eb1.png"
+          }
+        ],
+        "originalLanguage": {
+          "id": 1,
+          "name": "English"
+        },
+        "seasons": [
+          {
+            "seasonNumber": 0,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 1,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 2,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 3,
+            "monitored": true
+          }
+        ],
+        "year": 2021,
+        "path": "/tv/Tv Shows/The Wheel of Time",
+        "qualityProfileId": 1,
+        "seasonFolder": true,
+        "monitored": true,
+        "monitorNewItems": "all",
+        "useSceneNumbering": false,
+        "runtime": 64,
+        "tvdbId": 355730,
+        "tvRageId": 0,
+        "tvMazeId": 35083,
+        "tmdbId": 71914,
+        "firstAired": "2021-11-19T00:00:00Z",
+        "lastAired": "2025-04-17T00:00:00Z",
+        "seriesType": "standard",
+        "cleanTitle": "thewheeltime",
+        "imdbId": "tt7462410",
+        "titleSlug": "the-wheel-of-time",
+        "certification": "TV-14",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Drama",
+          "Fantasy"
+        ],
+        "tags": [],
+        "added": "2025-01-20T03:56:33Z",
+        "ratings": {
+          "votes": 147346,
+          "value": 7.2
+        },
+        "languageProfileId": 1,
+        "id": 1806
+      },
+      "id": 356792
+    },
+    {
+      "episodeId": 162831,
+      "seriesId": 1376,
+      "sourceTitle": "The.Kardashians.S06E08.1080p.WEB.h264-GRACE",
+      "languages": [
+        {
+          "id": 1,
+          "name": "English"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 3,
+          "name": "WEBDL-1080p",
+          "source": "web",
+          "resolution": 1080
+        },
+        "revision": {
+          "version": 1,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "customFormats": [
+        {
+          "id": 3,
+          "name": "english"
+        }
+      ],
+      "customFormatScore": 10,
+      "qualityCutoffNotMet": false,
+      "date": "2025-03-27T04:16:03Z",
+      "downloadId": "SABnzbd_nzo_flwe61q4",
+      "eventType": "downloadFolderImported",
+      "data": {
+        "fileId": "1505117",
+        "droppedPath": "/downloads/The.Kardashians.S06E08.1080p.WEB.h264-GRACE/The.Kardashians.S06E08.1080p.WEB.h264-GRACE.mkv",
+        "importedPath": "/tv/Tv Shows/The Kardashians/Season 6/The.Kardashians.S06E08.She.Is.So.Elle.Woods.mkv",
+        "downloadClient": "SABnzbd",
+        "downloadClientName": "sab",
+        "releaseGroup": "GRACE",
+        "customFormatScore": "10",
+        "size": "2264440762",
+        "indexerFlags": "0",
+        "releaseType": "SingleEpisode"
+      },
+      "episode": {
+        "seriesId": 1376,
+        "tvdbId": 10948150,
+        "episodeFileId": 1505117,
+        "seasonNumber": 6,
+        "episodeNumber": 8,
+        "title": "She Is So Elle Woods",
+        "airDate": "2025-03-27",
+        "airDateUtc": "2025-03-27T04:00:00Z",
+        "runtime": 45,
+        "overview": "Khloé wakes up sick on the morning of her first podcast while Kim shares her passion with Kendall and Scott at a prison fire camp. Kris gathers all her grandkids together for a trip to the farm.",
+        "hasFile": true,
+        "monitored": true,
+        "unverifiedSceneNumbering": false,
+        "id": 162831
+      },
+      "series": {
+        "title": "The Kardashians",
+        "sortTitle": "kardashians",
+        "status": "continuing",
+        "ended": false,
+        "overview": "The family you know and love is here with a brand new series, giving an all-access pass into their lives. Kris, Kourtney, Kim, Khloé, Kendall, and Kylie bring the cameras back to reveal the truth behind the headlines. From the intense pressures of running billion-dollar businesses to the hilarious joys of playtime and school drop-offs, this series brings viewers into the fold with a rivetingly honest story of love & life in the spotlight.",
+        "network": "Hulu",
+        "airTime": "00:00",
+        "images": [
+          {
+            "coverType": "banner",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/414093/banners/6290baf20b069.jpg"
+          },
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/414093/posters/665630593e41b.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/414093/backgrounds/6515b1ec83c33.jpg"
+          },
+          {
+            "coverType": "clearlogo",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/414093/clearlogo/6290c0d0ec2e8.png"
+          }
+        ],
+        "originalLanguage": {
+          "id": 1,
+          "name": "English"
+        },
+        "seasons": [
+          {
+            "seasonNumber": 0,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 1,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 2,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 3,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 4,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 5,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 6,
+            "monitored": true
+          }
+        ],
+        "year": 2022,
+        "path": "/tv/Tv Shows/The Kardashians",
+        "qualityProfileId": 1,
+        "seasonFolder": true,
+        "monitored": true,
+        "monitorNewItems": "all",
+        "useSceneNumbering": false,
+        "runtime": 47,
+        "tvdbId": 414093,
+        "tvRageId": 0,
+        "tvMazeId": 59888,
+        "tmdbId": 154521,
+        "firstAired": "2022-04-14T00:00:00Z",
+        "lastAired": "2025-04-09T00:00:00Z",
+        "seriesType": "standard",
+        "cleanTitle": "thekardashians",
+        "imdbId": "tt15791630",
+        "titleSlug": "the-kardashians",
+        "certification": "TV-14",
+        "genres": [
+          "Reality"
+        ],
+        "tags": [],
+        "added": "2022-04-15T00:24:37Z",
+        "ratings": {
+          "votes": 5597,
+          "value": 4.5
+        },
+        "languageProfileId": 1,
+        "id": 1376
+      },
+      "id": 356791
+    },
+    {
+      "episodeId": 164128,
+      "seriesId": 666,
+      "sourceTitle": "Great.British.Menu.S20E27.720p.HEVC.x265-MeGusta",
+      "languages": [
+        {
+          "id": 1,
+          "name": "English"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 4,
+          "name": "HDTV-720p",
+          "source": "television",
+          "resolution": 720
+        },
+        "revision": {
+          "version": 1,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "customFormats": [
+        {
+          "id": 3,
+          "name": "english"
+        },
+        {
+          "id": 1,
+          "name": "english 265"
+        }
+      ],
+      "customFormatScore": 30,
+      "qualityCutoffNotMet": false,
+      "date": "2025-03-27T04:16:01Z",
+      "downloadId": "SABnzbd_nzo_y3iehahw",
+      "eventType": "downloadFolderImported",
+      "data": {
+        "fileId": "1505116",
+        "droppedPath": "/downloads/Great.British.Menu.S20E27.720p.HEVC.x265-MeGusta/Great.British.Menu.S20E27.720p.HEVC.x265-MeGusta.mkv",
+        "importedPath": "/tv/Documentaires/tv shows/Great British Menu/Season 20/Great.British.Menu.S20E27.The.Finals-.Main.Course.mkv",
+        "downloadClient": "SABnzbd",
+        "downloadClientName": "sab",
+        "releaseGroup": "MeGusta",
+        "customFormatScore": "30",
+        "size": "399039600",
+        "indexerFlags": "0",
+        "releaseType": "SingleEpisode"
+      },
+      "episode": {
+        "seriesId": 666,
+        "tvdbId": 11028549,
+        "episodeFileId": 1505116,
+        "seasonNumber": 20,
+        "episodeNumber": 27,
+        "title": "The Finals: Main Course",
+        "airDate": "2025-03-26",
+        "airDateUtc": "2025-03-26T20:00:00Z",
+        "runtime": 59,
+        "overview": "Eight regional champions cook their main courses in a bid to secure a place at a banquet celebrating great Britons of the past and Great British Menu’s 20th year. Chef Clare Smyth is guest judge.",
+        "hasFile": true,
+        "monitored": true,
+        "unverifiedSceneNumbering": false,
+        "id": 164128
+      },
+      "series": {
+        "title": "Great British Menu",
+        "sortTitle": "great british menu",
+        "status": "continuing",
+        "ended": false,
+        "overview": "Britain's top chefs compete for the chance to cook at a celebratory four-course banquet.",
+        "network": "BBC Two",
+        "airTime": "20:00",
+        "images": [
+          {
+            "coverType": "banner",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/graphical/81561-g2.jpg"
+          },
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/posters/81561-1.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/fanart/original/81561-2.jpg"
+          }
+        ],
+        "originalLanguage": {
+          "id": 1,
+          "name": "English"
+        },
+        "seasons": [
+          {
+            "seasonNumber": 0,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 1,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 2,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 3,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 4,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 5,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 6,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 7,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 8,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 9,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 10,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 11,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 12,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 13,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 14,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 15,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 16,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 17,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 18,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 19,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 20,
+            "monitored": true
+          }
+        ],
+        "year": 2006,
+        "path": "/tv/Documentaires/tv shows/Great British Menu",
+        "qualityProfileId": 3,
+        "seasonFolder": true,
+        "monitored": true,
+        "monitorNewItems": "all",
+        "useSceneNumbering": false,
+        "runtime": 36,
+        "tvdbId": 81561,
+        "tvRageId": 10272,
+        "tvMazeId": 6155,
+        "tmdbId": 3431,
+        "firstAired": "2006-04-10T00:00:00Z",
+        "lastAired": "2025-03-28T00:00:00Z",
+        "seriesType": "standard",
+        "cleanTitle": "greatbritishmenu",
+        "imdbId": "tt0977628",
+        "titleSlug": "great-british-menu",
+        "genres": [
+          "Food",
+          "Reality"
+        ],
+        "tags": [],
+        "added": "2020-02-09T08:55:08Z",
+        "ratings": {
+          "votes": 489,
+          "value": 7.5
+        },
+        "languageProfileId": 1,
+        "id": 666
+      },
+      "id": 356790
+    },
+    {
+      "episodeId": 162831,
+      "seriesId": 1376,
+      "sourceTitle": "The.Kardashians.S06E08.1080p.WEB.h264-GRACE",
+      "languages": [
+        {
+          "id": 1,
+          "name": "English"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 3,
+          "name": "WEBDL-1080p",
+          "source": "web",
+          "resolution": 1080
+        },
+        "revision": {
+          "version": 1,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "customFormats": [
+        {
+          "id": 3,
+          "name": "english"
+        }
+      ],
+      "customFormatScore": 10,
+      "qualityCutoffNotMet": false,
+      "date": "2025-03-27T04:14:38Z",
+      "downloadId": "SABnzbd_nzo_flwe61q4",
+      "eventType": "grabbed",
+      "data": {
+        "indexer": "abNZB (Prowlarr)",
+        "nzbInfoUrl": "https://abnzb.com/details/22d6f6368cd72790eb32c75bde24bfd7",
+        "releaseGroup": "GRACE",
+        "age": "0",
+        "ageHours": "0.11678348805555555",
+        "ageMinutes": "7.007009331666667",
+        "publishedDate": "2025-03-27T04:07:38Z",
+        "downloadClient": "SABnzbd",
+        "downloadClientName": "sab",
+        "size": "2491803338",
+        "downloadUrl": "http://prowlarr:9696/29/download?apikey=5f771c1869f94fec821832369384a70c&link=Z1hvalN4Kzl4U1BUZmJ4QmpCSnZkT1V4Zzh2bXBuY1hhUTBVVFZXRFkrUE8zclRLaWRmeHNHU0hmT2Z3NEJ1ZEdKODBnRG5pNk5mdTZIVjMyZC9laTF2cTFVZk55STRkN0NmdC91TjIwMnR6am9vazJtc2FzTjlBNnV3RVJ6N1JReHRxaHBYMmlvZnRoR0k2MkhYYkM2UXNqU1FpWGhGbW56SVpDa3R4TWVBPQ&file=The.Kardashians.S06E08.1080p.WEB.h264-GRACE",
+        "guid": "https://abnzb.com/details/22d6f6368cd72790eb32c75bde24bfd7",
+        "tvdbId": "0",
+        "tvRageId": "0",
+        "imdbId": "tt15791630",
+        "protocol": "1",
+        "customFormatScore": "10",
+        "seriesMatchType": "Title",
+        "releaseSource": "Rss",
+        "indexerFlags": "0",
+        "releaseType": "SingleEpisode"
+      },
+      "episode": {
+        "seriesId": 1376,
+        "tvdbId": 10948150,
+        "episodeFileId": 1505117,
+        "seasonNumber": 6,
+        "episodeNumber": 8,
+        "title": "She Is So Elle Woods",
+        "airDate": "2025-03-27",
+        "airDateUtc": "2025-03-27T04:00:00Z",
+        "runtime": 45,
+        "overview": "Khloé wakes up sick on the morning of her first podcast while Kim shares her passion with Kendall and Scott at a prison fire camp. Kris gathers all her grandkids together for a trip to the farm.",
+        "hasFile": true,
+        "monitored": true,
+        "unverifiedSceneNumbering": false,
+        "id": 162831
+      },
+      "series": {
+        "title": "The Kardashians",
+        "sortTitle": "kardashians",
+        "status": "continuing",
+        "ended": false,
+        "overview": "The family you know and love is here with a brand new series, giving an all-access pass into their lives. Kris, Kourtney, Kim, Khloé, Kendall, and Kylie bring the cameras back to reveal the truth behind the headlines. From the intense pressures of running billion-dollar businesses to the hilarious joys of playtime and school drop-offs, this series brings viewers into the fold with a rivetingly honest story of love & life in the spotlight.",
+        "network": "Hulu",
+        "airTime": "00:00",
+        "images": [
+          {
+            "coverType": "banner",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/414093/banners/6290baf20b069.jpg"
+          },
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/414093/posters/665630593e41b.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/414093/backgrounds/6515b1ec83c33.jpg"
+          },
+          {
+            "coverType": "clearlogo",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/414093/clearlogo/6290c0d0ec2e8.png"
+          }
+        ],
+        "originalLanguage": {
+          "id": 1,
+          "name": "English"
+        },
+        "seasons": [
+          {
+            "seasonNumber": 0,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 1,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 2,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 3,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 4,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 5,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 6,
+            "monitored": true
+          }
+        ],
+        "year": 2022,
+        "path": "/tv/Tv Shows/The Kardashians",
+        "qualityProfileId": 1,
+        "seasonFolder": true,
+        "monitored": true,
+        "monitorNewItems": "all",
+        "useSceneNumbering": false,
+        "runtime": 47,
+        "tvdbId": 414093,
+        "tvRageId": 0,
+        "tvMazeId": 59888,
+        "tmdbId": 154521,
+        "firstAired": "2022-04-14T00:00:00Z",
+        "lastAired": "2025-04-09T00:00:00Z",
+        "seriesType": "standard",
+        "cleanTitle": "thekardashians",
+        "imdbId": "tt15791630",
+        "titleSlug": "the-kardashians",
+        "certification": "TV-14",
+        "genres": [
+          "Reality"
+        ],
+        "tags": [],
+        "added": "2022-04-15T00:24:37Z",
+        "ratings": {
+          "votes": 5597,
+          "value": 4.5
+        },
+        "languageProfileId": 1,
+        "id": 1376
+      },
+      "id": 356789
+    },
+    {
+      "episodeId": 164128,
+      "seriesId": 666,
+      "sourceTitle": "Great.British.Menu.S20E27.720p.HEVC.x265-MeGusta",
+      "languages": [
+        {
+          "id": 1,
+          "name": "English"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 4,
+          "name": "HDTV-720p",
+          "source": "television",
+          "resolution": 720
+        },
+        "revision": {
+          "version": 1,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "customFormats": [
+        {
+          "id": 3,
+          "name": "english"
+        },
+        {
+          "id": 1,
+          "name": "english 265"
+        }
+      ],
+      "customFormatScore": 30,
+      "qualityCutoffNotMet": false,
+      "date": "2025-03-27T04:14:36Z",
+      "downloadId": "SABnzbd_nzo_y3iehahw",
+      "eventType": "grabbed",
+      "data": {
+        "indexer": "altHUB (Prowlarr)",
+        "nzbInfoUrl": "https://api.althub.co.za/details/b758f83988dba39d9d0ba66084daaf63",
+        "releaseGroup": "MeGusta",
+        "age": "0",
+        "ageHours": "0.0766475905",
+        "ageMinutes": "4.598855465",
+        "publishedDate": "2025-03-27T04:10:01Z",
+        "downloadClient": "SABnzbd",
+        "downloadClientName": "sab",
+        "size": "452017757",
+        "downloadUrl": "http://prowlarr:9696/1/download?apikey=5f771c1869f94fec821832369384a70c&link=azVLMUdXRHhSTWFIem41b01LNk92M0MybC9VSEltSmYySnJtQkd3dWE5OGRQUVd1SHpSejUzdmM0YTJwQWhUN3YvUHB1U0VWYnEwWWtxaVhGcm5KekJ2MzNQNFVKOGN3TTlIYmNJS1lCSCtoUnNSaFhxS0UrdXUxVXhZQ3pKR3BEdEpZSmo5a2xwN2VGTzFjb3RhYmNuRERZQ0ZYZzNFSFFYUU1SWVRlR2QwPQ&file=Great.British.Menu.S20E27.720p.HEVC.x265-MeGusta",
+        "guid": "https://api.althub.co.za/details/b758f83988dba39d9d0ba66084daaf63",
+        "tvdbId": "0",
+        "tvRageId": "0",
+        "imdbId": "tt0977628",
+        "protocol": "1",
+        "customFormatScore": "30",
+        "seriesMatchType": "Title",
+        "releaseSource": "Rss",
+        "indexerFlags": "0",
+        "releaseType": "SingleEpisode"
+      },
+      "episode": {
+        "seriesId": 666,
+        "tvdbId": 11028549,
+        "episodeFileId": 1505116,
+        "seasonNumber": 20,
+        "episodeNumber": 27,
+        "title": "The Finals: Main Course",
+        "airDate": "2025-03-26",
+        "airDateUtc": "2025-03-26T20:00:00Z",
+        "runtime": 59,
+        "overview": "Eight regional champions cook their main courses in a bid to secure a place at a banquet celebrating great Britons of the past and Great British Menu’s 20th year. Chef Clare Smyth is guest judge.",
+        "hasFile": true,
+        "monitored": true,
+        "unverifiedSceneNumbering": false,
+        "id": 164128
+      },
+      "series": {
+        "title": "Great British Menu",
+        "sortTitle": "great british menu",
+        "status": "continuing",
+        "ended": false,
+        "overview": "Britain's top chefs compete for the chance to cook at a celebratory four-course banquet.",
+        "network": "BBC Two",
+        "airTime": "20:00",
+        "images": [
+          {
+            "coverType": "banner",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/graphical/81561-g2.jpg"
+          },
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/posters/81561-1.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/fanart/original/81561-2.jpg"
+          }
+        ],
+        "originalLanguage": {
+          "id": 1,
+          "name": "English"
+        },
+        "seasons": [
+          {
+            "seasonNumber": 0,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 1,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 2,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 3,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 4,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 5,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 6,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 7,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 8,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 9,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 10,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 11,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 12,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 13,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 14,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 15,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 16,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 17,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 18,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 19,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 20,
+            "monitored": true
+          }
+        ],
+        "year": 2006,
+        "path": "/tv/Documentaires/tv shows/Great British Menu",
+        "qualityProfileId": 3,
+        "seasonFolder": true,
+        "monitored": true,
+        "monitorNewItems": "all",
+        "useSceneNumbering": false,
+        "runtime": 36,
+        "tvdbId": 81561,
+        "tvRageId": 10272,
+        "tvMazeId": 6155,
+        "tmdbId": 3431,
+        "firstAired": "2006-04-10T00:00:00Z",
+        "lastAired": "2025-03-28T00:00:00Z",
+        "seriesType": "standard",
+        "cleanTitle": "greatbritishmenu",
+        "imdbId": "tt0977628",
+        "titleSlug": "great-british-menu",
+        "genres": [
+          "Food",
+          "Reality"
+        ],
+        "tags": [],
+        "added": "2020-02-09T08:55:08Z",
+        "ratings": {
+          "votes": 489,
+          "value": 7.5
+        },
+        "languageProfileId": 1,
+        "id": 666
+      },
+      "id": 356788
+    },
+    {
+      "episodeId": 163139,
+      "seriesId": 1614,
+      "sourceTitle": "Chicago.Fire.S13E16.720p.HDTV.x264-SYNCOPY",
+      "languages": [
+        {
+          "id": 1,
+          "name": "English"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 4,
+          "name": "HDTV-720p",
+          "source": "television",
+          "resolution": 720
+        },
+        "revision": {
+          "version": 1,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "customFormats": [
+        {
+          "id": 3,
+          "name": "english"
+        }
+      ],
+      "customFormatScore": 10,
+      "qualityCutoffNotMet": false,
+      "date": "2025-03-27T03:27:00Z",
+      "downloadId": "SABnzbd_nzo_tps1t6vc",
+      "eventType": "downloadFolderImported",
+      "data": {
+        "fileId": "1505115",
+        "droppedPath": "/downloads/Chicago.Fire.S13E16.720p.HDTV.x264-SYNCOPY/Chicago.Fire.S13E16.720p.HDTV.x264-SYNCOPY.mkv",
+        "importedPath": "/tv/Tv Shows/Chicago Fire/Season 13/Chicago.Fire.S13E16.In.the.Rubble.mkv",
+        "downloadClient": "SABnzbd",
+        "downloadClientName": "sab",
+        "releaseGroup": "SYNCOPY",
+        "customFormatScore": "10",
+        "size": "919143664",
+        "indexerFlags": "0",
+        "releaseType": "SingleEpisode"
+      },
+      "episode": {
+        "seriesId": 1614,
+        "tvdbId": 10973476,
+        "episodeFileId": 1505115,
+        "seasonNumber": 13,
+        "episodeNumber": 16,
+        "title": "In the Rubble",
+        "airDate": "2025-03-26",
+        "airDateUtc": "2025-03-27T01:00:00Z",
+        "runtime": 43,
+        "overview": "In the face of adversity, Pascal searches for justice. Violet struggles to write a letter to Carver. Damon returns to the floater pool hoping to secure a permanent spot at 51.",
+        "hasFile": true,
+        "monitored": true,
+        "unverifiedSceneNumbering": false,
+        "id": 163139
+      },
+      "series": {
+        "title": "Chicago Fire",
+        "sortTitle": "chicago fire",
+        "status": "continuing",
+        "ended": false,
+        "overview": "The lives of firefighters and paramedics working for the City of Chicago Fire Department at Fire Station 51, made up of Truck 81, Squadron 3, Ambulance 61, and Battalion 25.",
+        "network": "NBC",
+        "airTime": "21:00",
+        "images": [
+          {
+            "coverType": "banner",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/graphical/258541-g3.jpg"
+          },
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/posters/258541-6.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/fanart/original/614fa26298309.jpg"
+          },
+          {
+            "coverType": "clearlogo",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/258541/clearlogo/611b68451dd1d.png"
+          }
+        ],
+        "originalLanguage": {
+          "id": 1,
+          "name": "English"
+        },
+        "seasons": [
+          {
+            "seasonNumber": 0,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 1,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 2,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 3,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 4,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 5,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 6,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 7,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 8,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 9,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 10,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 11,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 12,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 13,
+            "monitored": true
+          }
+        ],
+        "year": 2012,
+        "path": "/tv/Tv Shows/Chicago Fire",
+        "qualityProfileId": 3,
+        "seasonFolder": true,
+        "monitored": true,
+        "monitorNewItems": "all",
+        "useSceneNumbering": false,
+        "runtime": 42,
+        "tvdbId": 258541,
+        "tvRageId": 30748,
+        "tvMazeId": 59,
+        "tmdbId": 44006,
+        "firstAired": "2012-10-10T00:00:00Z",
+        "lastAired": "2025-04-16T00:00:00Z",
+        "seriesType": "standard",
+        "cleanTitle": "chicagofire",
+        "imdbId": "tt2261391",
+        "titleSlug": "chicago-fire",
+        "certification": "TV-14",
+        "genres": [
+          "Action",
+          "Drama"
+        ],
+        "tags": [],
+        "added": "2024-04-06T16:32:10Z",
+        "ratings": {
+          "votes": 68335,
+          "value": 8.0
+        },
+        "languageProfileId": 1,
+        "id": 1614
+      },
+      "id": 356787
+    },
+    {
+      "episodeId": 163139,
+      "seriesId": 1614,
+      "sourceTitle": "Chicago.Fire.S13E16.720p.HDTV.x264-SYNCOPY",
+      "languages": [
+        {
+          "id": 1,
+          "name": "English"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 4,
+          "name": "HDTV-720p",
+          "source": "television",
+          "resolution": 720
+        },
+        "revision": {
+          "version": 1,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "customFormats": [
+        {
+          "id": 3,
+          "name": "english"
+        }
+      ],
+      "customFormatScore": 10,
+      "qualityCutoffNotMet": false,
+      "date": "2025-03-27T03:25:59Z",
+      "downloadId": "SABnzbd_nzo_tps1t6vc",
+      "eventType": "grabbed",
+      "data": {
+        "indexer": "altHUB (Prowlarr)",
+        "nzbInfoUrl": "https://api.althub.co.za/details/69335bde9aeeecc4e51e1d8b4aa34117",
+        "releaseGroup": "SYNCOPY",
+        "age": "0",
+        "ageHours": "0.07496157394444444",
+        "ageMinutes": "4.49769447",
+        "publishedDate": "2025-03-27T03:21:30Z",
+        "downloadClient": "SABnzbd",
+        "downloadClientName": "sab",
+        "size": "1019458802",
+        "downloadUrl": "http://prowlarr:9696/1/download?apikey=5f771c1869f94fec821832369384a70c&link=bWE3OG1wcUdwUUtRZTlnT3pTUmxsSzBvY1lxZ1g3VVV5dytSbnJqOE14elV5ZlozMWRjS1YzKzFsOVFWZ0RBMXhMdHl6YjhIZlZtRE5QZVZ2bTVxN3hibW9jcVZMTFY0N3g3WmlpbG4zcVIyOXBJQXhScVN0WERwM3hYeGVkSHBEMDFTemp4VUVtTVRLRXA2emFMbEthcldUQURENFkvdE5Na1NiNDVTMDhNPQ&file=Chicago.Fire.S13E16.720p.HDTV.x264-SYNCOPY",
+        "guid": "https://api.althub.co.za/details/69335bde9aeeecc4e51e1d8b4aa34117",
+        "tvdbId": "0",
+        "tvRageId": "0",
+        "imdbId": "tt2261391",
+        "protocol": "1",
+        "customFormatScore": "10",
+        "seriesMatchType": "Title",
+        "releaseSource": "Rss",
+        "indexerFlags": "0",
+        "releaseType": "SingleEpisode"
+      },
+      "episode": {
+        "seriesId": 1614,
+        "tvdbId": 10973476,
+        "episodeFileId": 1505115,
+        "seasonNumber": 13,
+        "episodeNumber": 16,
+        "title": "In the Rubble",
+        "airDate": "2025-03-26",
+        "airDateUtc": "2025-03-27T01:00:00Z",
+        "runtime": 43,
+        "overview": "In the face of adversity, Pascal searches for justice. Violet struggles to write a letter to Carver. Damon returns to the floater pool hoping to secure a permanent spot at 51.",
+        "hasFile": true,
+        "monitored": true,
+        "unverifiedSceneNumbering": false,
+        "id": 163139
+      },
+      "series": {
+        "title": "Chicago Fire",
+        "sortTitle": "chicago fire",
+        "status": "continuing",
+        "ended": false,
+        "overview": "The lives of firefighters and paramedics working for the City of Chicago Fire Department at Fire Station 51, made up of Truck 81, Squadron 3, Ambulance 61, and Battalion 25.",
+        "network": "NBC",
+        "airTime": "21:00",
+        "images": [
+          {
+            "coverType": "banner",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/graphical/258541-g3.jpg"
+          },
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/posters/258541-6.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/fanart/original/614fa26298309.jpg"
+          },
+          {
+            "coverType": "clearlogo",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/258541/clearlogo/611b68451dd1d.png"
+          }
+        ],
+        "originalLanguage": {
+          "id": 1,
+          "name": "English"
+        },
+        "seasons": [
+          {
+            "seasonNumber": 0,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 1,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 2,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 3,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 4,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 5,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 6,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 7,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 8,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 9,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 10,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 11,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 12,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 13,
+            "monitored": true
+          }
+        ],
+        "year": 2012,
+        "path": "/tv/Tv Shows/Chicago Fire",
+        "qualityProfileId": 3,
+        "seasonFolder": true,
+        "monitored": true,
+        "monitorNewItems": "all",
+        "useSceneNumbering": false,
+        "runtime": 42,
+        "tvdbId": 258541,
+        "tvRageId": 30748,
+        "tvMazeId": 59,
+        "tmdbId": 44006,
+        "firstAired": "2012-10-10T00:00:00Z",
+        "lastAired": "2025-04-16T00:00:00Z",
+        "seriesType": "standard",
+        "cleanTitle": "chicagofire",
+        "imdbId": "tt2261391",
+        "titleSlug": "chicago-fire",
+        "certification": "TV-14",
+        "genres": [
+          "Action",
+          "Drama"
+        ],
+        "tags": [],
+        "added": "2024-04-06T16:32:10Z",
+        "ratings": {
+          "votes": 68335,
+          "value": 8.0
+        },
+        "languageProfileId": 1,
+        "id": 1614
+      },
+      "id": 356786
+    },
+    {
+      "episodeId": 163117,
+      "seriesId": 1824,
+      "sourceTitle": "Good.Cop.Bad.Cop.2025.S01E06.1080p.WEB.H264-LAZYCUNTS",
+      "languages": [
+        {
+          "id": 1,
+          "name": "English"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 3,
+          "name": "WEBDL-1080p",
+          "source": "web",
+          "resolution": 1080
+        },
+        "revision": {
+          "version": 1,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "customFormats": [
+        {
+          "id": 3,
+          "name": "english"
+        }
+      ],
+      "customFormatScore": 10,
+      "qualityCutoffNotMet": false,
+      "date": "2025-03-27T01:23:01Z",
+      "downloadId": "SABnzbd_nzo_9kwo415e",
+      "eventType": "downloadFolderImported",
+      "data": {
+        "fileId": "1505114",
+        "droppedPath": "/downloads/Good.Cop.Bad.Cop.2025.S01E06.1080p.WEB.H264-LAZYCUNTS/good.cop.bad.cop.2025.s01e06.1080p.web.h264-lazycunts.mkv",
+        "importedPath": "/tv/Tv Shows/Good Cop+Bad Cop/Season 1/Good.Cop+Bad.Cop.S01E06.Explosions.mkv",
+        "downloadClient": "SABnzbd",
+        "downloadClientName": "sab",
+        "releaseGroup": "LAZYCUNTS",
+        "customFormatScore": "10",
+        "size": "1381473174",
+        "indexerFlags": "0",
+        "releaseType": "SingleEpisode"
+      },
+      "episode": {
+        "seriesId": 1824,
+        "tvdbId": 10914889,
+        "episodeFileId": 1505114,
+        "seasonNumber": 1,
+        "episodeNumber": 6,
+        "title": "Explosions",
+        "airDate": "2025-03-26",
+        "airDateUtc": "2025-03-27T01:00:00Z",
+        "runtime": 0,
+        "overview": "Eden Vale becomes the target of a sabotage attack, forcing the Hickmans to put aside their differences and work together to protect their town.",
+        "hasFile": true,
+        "monitored": true,
+        "unverifiedSceneNumbering": false,
+        "id": 163117
+      },
+      "series": {
+        "title": "Good Cop/Bad Cop",
+        "sortTitle": "good copbad cop",
+        "status": "continuing",
+        "ended": false,
+        "overview": "Siblings working as detectives in a small town navigate quirky locals, limited resources, their strained relationship, and their father, who's the police chief, in this comedic crime procedural.",
+        "network": "The CW",
+        "airTime": "21:00",
+        "images": [
+          {
+            "coverType": "banner",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/452359/banners/679ff4c787f05.jpg"
+          },
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/452359/posters/67c8bea8d03b9.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/452359/backgrounds/67ba1929c4d40.jpg"
+          }
+        ],
+        "originalLanguage": {
+          "id": 1,
+          "name": "English"
+        },
+        "seasons": [
+          {
+            "seasonNumber": 1,
+            "monitored": true
+          }
+        ],
+        "year": 2025,
+        "path": "/tv/Tv Shows/Good Cop+Bad Cop",
+        "qualityProfileId": 1,
+        "seasonFolder": true,
+        "monitored": true,
+        "monitorNewItems": "all",
+        "useSceneNumbering": false,
+        "runtime": 42,
+        "tvdbId": 452359,
+        "tvRageId": 0,
+        "tvMazeId": 75300,
+        "tmdbId": 248752,
+        "firstAired": "2025-02-19T00:00:00Z",
+        "lastAired": "2025-04-09T00:00:00Z",
+        "seriesType": "standard",
+        "cleanTitle": "goodcopbadcop",
+        "imdbId": "tt31691565",
+        "titleSlug": "good-copbad-cop",
+        "genres": [
+          "Comedy",
+          "Drama"
+        ],
+        "tags": [],
+        "added": "2025-02-19T23:42:47Z",
+        "ratings": {
+          "votes": 689,
+          "value": 6.6
+        },
+        "languageProfileId": 1,
+        "id": 1824
+      },
+      "id": 356785
+    },
+    {
+      "episodeId": 163117,
+      "seriesId": 1824,
+      "sourceTitle": "Good.Cop.Bad.Cop.2025.S01E06.1080p.WEB.H264-LAZYCUNTS",
+      "languages": [
+        {
+          "id": 1,
+          "name": "English"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 3,
+          "name": "WEBDL-1080p",
+          "source": "web",
+          "resolution": 1080
+        },
+        "revision": {
+          "version": 1,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "customFormats": [
+        {
+          "id": 3,
+          "name": "english"
+        }
+      ],
+      "customFormatScore": 10,
+      "qualityCutoffNotMet": false,
+      "date": "2025-03-27T01:22:04Z",
+      "downloadId": "SABnzbd_nzo_9kwo415e",
+      "eventType": "grabbed",
+      "data": {
+        "indexer": "altHUB (Prowlarr)",
+        "nzbInfoUrl": "https://api.althub.co.za/details/81335fce7be8dffb15eab65cd601de57",
+        "releaseGroup": "LAZYCUNTS",
+        "age": "0",
+        "ageHours": "0.08042381527777778",
+        "ageMinutes": "4.825428948333333",
+        "publishedDate": "2025-03-27T01:17:15Z",
+        "downloadClient": "SABnzbd",
+        "downloadClientName": "sab",
+        "size": "1525570844",
+        "downloadUrl": "http://prowlarr:9696/1/download?apikey=5f771c1869f94fec821832369384a70c&link=THlCRDd1elpiQnNTaS9VWWt0UGlNbDJUTDJHYy9lZ2IwS0taaHE1Mk1SbXpQSUN6L2psTkt4aC9XS0REZWVlQkRDRXJHT0w3WkNscEl1VmZ5QkdwRWd5bzFsZ0NYN2lZdUlKQTR6VSsybE5wTit1cThXTkE1Z1hqZWczY0FoSUtiQ3VVVXVPb1ZBWnY2OGMwUlNtSmMvWjhFNGNDUUxVemhZL3E1WkFkOTRnPQ&file=Good.Cop.Bad.Cop.2025.S01E06.1080p.WEB.H264-LAZYCUNTS",
+        "guid": "https://api.althub.co.za/details/81335fce7be8dffb15eab65cd601de57",
+        "tvdbId": "0",
+        "tvRageId": "0",
+        "imdbId": null,
+        "protocol": "1",
+        "customFormatScore": "10",
+        "seriesMatchType": "Alias",
+        "releaseSource": "Rss",
+        "indexerFlags": "0",
+        "releaseType": "SingleEpisode"
+      },
+      "episode": {
+        "seriesId": 1824,
+        "tvdbId": 10914889,
+        "episodeFileId": 1505114,
+        "seasonNumber": 1,
+        "episodeNumber": 6,
+        "title": "Explosions",
+        "airDate": "2025-03-26",
+        "airDateUtc": "2025-03-27T01:00:00Z",
+        "runtime": 0,
+        "overview": "Eden Vale becomes the target of a sabotage attack, forcing the Hickmans to put aside their differences and work together to protect their town.",
+        "hasFile": true,
+        "monitored": true,
+        "unverifiedSceneNumbering": false,
+        "id": 163117
+      },
+      "series": {
+        "title": "Good Cop/Bad Cop",
+        "sortTitle": "good copbad cop",
+        "status": "continuing",
+        "ended": false,
+        "overview": "Siblings working as detectives in a small town navigate quirky locals, limited resources, their strained relationship, and their father, who's the police chief, in this comedic crime procedural.",
+        "network": "The CW",
+        "airTime": "21:00",
+        "images": [
+          {
+            "coverType": "banner",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/452359/banners/679ff4c787f05.jpg"
+          },
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/452359/posters/67c8bea8d03b9.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/452359/backgrounds/67ba1929c4d40.jpg"
+          }
+        ],
+        "originalLanguage": {
+          "id": 1,
+          "name": "English"
+        },
+        "seasons": [
+          {
+            "seasonNumber": 1,
+            "monitored": true
+          }
+        ],
+        "year": 2025,
+        "path": "/tv/Tv Shows/Good Cop+Bad Cop",
+        "qualityProfileId": 1,
+        "seasonFolder": true,
+        "monitored": true,
+        "monitorNewItems": "all",
+        "useSceneNumbering": false,
+        "runtime": 42,
+        "tvdbId": 452359,
+        "tvRageId": 0,
+        "tvMazeId": 75300,
+        "tmdbId": 248752,
+        "firstAired": "2025-02-19T00:00:00Z",
+        "lastAired": "2025-04-09T00:00:00Z",
+        "seriesType": "standard",
+        "cleanTitle": "goodcopbadcop",
+        "imdbId": "tt31691565",
+        "titleSlug": "good-copbad-cop",
+        "genres": [
+          "Comedy",
+          "Drama"
+        ],
+        "tags": [],
+        "added": "2025-02-19T23:42:47Z",
+        "ratings": {
+          "votes": 689,
+          "value": 6.6
+        },
+        "languageProfileId": 1,
+        "id": 1824
+      },
+      "id": 356784
+    },
+    {
+      "episodeId": 164199,
+      "seriesId": 1749,
+      "sourceTitle": "Blacktalon.S02E02.VOSTFR.1080p.WEB.H264-FW",
+      "languages": [
+        {
+          "id": 1,
+          "name": "English"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 3,
+          "name": "WEBDL-1080p",
+          "source": "web",
+          "resolution": 1080
+        },
+        "revision": {
+          "version": 1,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "customFormats": [
+        {
+          "id": 3,
+          "name": "english"
+        }
+      ],
+      "customFormatScore": 10,
+      "qualityCutoffNotMet": false,
+      "date": "2025-03-26T22:17:01Z",
+      "downloadId": "SABnzbd_nzo_w4spqlg1",
+      "eventType": "downloadFolderImported",
+      "data": {
+        "fileId": "1505113",
+        "droppedPath": "/downloads/Blacktalon.S02E02.VOSTFR.1080p.WEB.H264-FW/Blacktalon.S02E02.VOSTFR.1080p.WEB.H264-FW.mkv",
+        "importedPath": "/tv/Cartoons/Blacktalon/Season 2/Blacktalon.S02E02.Eternal.mkv",
+        "downloadClient": "SABnzbd",
+        "downloadClientName": "sab",
+        "releaseGroup": "FW",
+        "customFormatScore": "10",
+        "size": "921850917",
+        "indexerFlags": "0",
+        "releaseType": "SingleEpisode"
+      },
+      "episode": {
+        "seriesId": 1749,
+        "tvdbId": 11036818,
+        "episodeFileId": 1505113,
+        "seasonNumber": 2,
+        "episodeNumber": 2,
+        "title": "Eternal",
+        "airDate": "2025-03-19",
+        "airDateUtc": "2025-03-19T04:00:00Z",
+        "lastSearchTime": "2025-03-20T05:57:49Z",
+        "runtime": 21,
+        "overview": "Neave and her warriors lament the events of their journey so far, and dark forces strike a blow at the heart of the Blacktalons. Can these brave soldiers of Sigmar succeed in their mission, or will the Dark Gods’ followers triumph?",
+        "hasFile": true,
+        "monitored": true,
+        "unverifiedSceneNumbering": false,
+        "id": 164199
+      },
+      "series": {
+        "title": "Blacktalon",
+        "sortTitle": "blacktalon",
+        "status": "continuing",
+        "ended": false,
+        "overview": "This action-packed series follows Neave Blacktalon and her elite unit – also named the Blacktalons – as they hammer out the God-King’s will across the realms. The Maggotkin of Nurgle are the first to feel the bite of her axes, but they won’t be the last.",
+        "network": "Warhammer TV",
+        "airTime": "00:00",
+        "images": [
+          {
+            "coverType": "banner",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/433619/banners/663bb18c1cce5.jpg"
+          },
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/433619/posters/6436b0fc8a731.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/433619/backgrounds/6436b11e7f59e.jpg"
+          }
+        ],
+        "originalLanguage": {
+          "id": 1,
+          "name": "English"
+        },
+        "seasons": [
+          {
+            "seasonNumber": 1,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 2,
+            "monitored": true
+          }
+        ],
+        "year": 2023,
+        "path": "/tv/Cartoons/Blacktalon",
+        "qualityProfileId": 1,
+        "seasonFolder": true,
+        "monitored": true,
+        "monitorNewItems": "all",
+        "useSceneNumbering": false,
+        "runtime": 21,
+        "tvdbId": 433619,
+        "tvRageId": 0,
+        "tvMazeId": 55645,
+        "tmdbId": 224997,
+        "firstAired": "2023-04-12T00:00:00Z",
+        "lastAired": "2025-03-19T00:00:00Z",
+        "seriesType": "standard",
+        "cleanTitle": "blacktalon",
+        "imdbId": "tt27498107",
+        "titleSlug": "blacktalon",
+        "certification": "TV-14",
+        "genres": [
+          "Action",
+          "Animation",
+          "Fantasy",
+          "Mini-Series"
+        ],
+        "tags": [],
+        "added": "2024-10-18T09:03:27Z",
+        "ratings": {
+          "votes": 108,
+          "value": 7.3
+        },
+        "languageProfileId": 1,
+        "id": 1749
+      },
+      "id": 356783
+    },
+    {
+      "episodeId": 164089,
+      "seriesId": 660,
+      "sourceTitle": "Grand.Designs.S26E01.Worthing.1080p.ALL4.WEB-DL.AAC2.0.H.264-BTN",
+      "languages": [
+        {
+          "id": 1,
+          "name": "English"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 3,
+          "name": "WEBDL-1080p",
+          "source": "web",
+          "resolution": 1080
+        },
+        "revision": {
+          "version": 1,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "customFormats": [
+        {
+          "id": 3,
+          "name": "english"
+        }
+      ],
+      "customFormatScore": 10,
+      "qualityCutoffNotMet": false,
+      "date": "2025-03-26T22:16:03Z",
+      "downloadId": "SABnzbd_nzo_lx9n_5lm",
+      "eventType": "downloadFolderImported",
+      "data": {
+        "fileId": "1505112",
+        "droppedPath": "/downloads/Grand.Designs.S26E01.Worthing.1080p.ALL4.WEB-DL.AAC2.0.H.264-BTN/6e18b5d014324f22b2a674dacf25c67a.mkv",
+        "importedPath": "/tv/Documentaires/tv shows/Grand Designs/Season 26/Grand.Designs.S26E01.Worthing.2025.mkv",
+        "downloadClient": "SABnzbd",
+        "downloadClientName": "sab",
+        "releaseGroup": "BTN",
+        "customFormatScore": "10",
+        "size": "1800693844",
+        "indexerFlags": "0",
+        "releaseType": "SingleEpisode"
+      },
+      "episode": {
+        "seriesId": 660,
+        "tvdbId": 11022731,
+        "episodeFileId": 1505112,
+        "seasonNumber": 26,
+        "episodeNumber": 1,
+        "title": "Worthing 2025",
+        "airDate": "2025-03-26",
+        "airDateUtc": "2025-03-26T21:00:00Z",
+        "runtime": 47,
+        "overview": "Howard and Sarah build a radical metallic floating home designed to look like a boat, nestled within an idiosyncratic houseboat community on a tidal estuary near Worthing. But will it sink or swim?",
+        "hasFile": true,
+        "monitored": true,
+        "unverifiedSceneNumbering": false,
+        "id": 164089
+      },
+      "series": {
+        "title": "Grand Designs",
+        "sortTitle": "grand designs",
+        "status": "continuing",
+        "ended": false,
+        "overview": "Presenter Kevin McCloud follows some of Britain's most ambitious self-building projects, as intrepid individuals attempt to design and construct the home of their dreams.",
+        "network": "Channel 4",
+        "airTime": "21:00",
+        "images": [
+          {
+            "coverType": "banner",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/graphical/79264-g.jpg"
+          },
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/posters/79264-1.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/fanart/original/79264-3.jpg"
+          },
+          {
+            "coverType": "clearlogo",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/79264/clearlogo/611b8981a09d3.png"
+          }
+        ],
+        "originalLanguage": {
+          "id": 1,
+          "name": "English"
+        },
+        "seasons": [
+          {
+            "seasonNumber": 0,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 1,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 2,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 3,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 4,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 5,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 6,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 7,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 8,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 9,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 10,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 11,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 12,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 13,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 14,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 15,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 16,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 17,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 18,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 19,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 20,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 21,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 22,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 23,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 24,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 25,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 26,
+            "monitored": true
+          }
+        ],
+        "year": 1999,
+        "path": "/tv/Documentaires/tv shows/Grand Designs",
+        "qualityProfileId": 1,
+        "seasonFolder": true,
+        "monitored": true,
+        "monitorNewItems": "all",
+        "useSceneNumbering": false,
+        "runtime": 48,
+        "tvdbId": 79264,
+        "tvRageId": 11187,
+        "tvMazeId": 3251,
+        "tmdbId": 1831,
+        "firstAired": "1999-04-29T00:00:00Z",
+        "lastAired": "2025-04-09T00:00:00Z",
+        "seriesType": "standard",
+        "cleanTitle": "granddesigns",
+        "imdbId": "tt0421099",
+        "titleSlug": "grand-designs",
+        "certification": "TV-PG",
+        "genres": [
+          "Documentary",
+          "Home and Garden",
+          "Reality"
+        ],
+        "tags": [],
+        "added": "2020-02-09T08:54:39Z",
+        "ratings": {
+          "votes": 3671,
+          "value": 8.5
+        },
+        "languageProfileId": 1,
+        "id": 660
+      },
+      "id": 356782
+    },
+    {
+      "episodeId": 164149,
+      "seriesId": 1029,
+      "sourceTitle": "The.Repair.Shop.S14E11.720p.WEBRip.x264-skorpion",
+      "languages": [
+        {
+          "id": 1,
+          "name": "English"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 14,
+          "name": "WEBRip-720p",
+          "source": "webRip",
+          "resolution": 720
+        },
+        "revision": {
+          "version": 1,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "customFormats": [
+        {
+          "id": 3,
+          "name": "english"
+        }
+      ],
+      "customFormatScore": 10,
+      "qualityCutoffNotMet": false,
+      "date": "2025-03-26T22:16:02Z",
+      "downloadId": "SABnzbd_nzo_f4lhx4na",
+      "eventType": "downloadFolderImported",
+      "data": {
+        "fileId": "1505111",
+        "droppedPath": "/downloads/The.Repair.Shop.S14E11.720p.WEBRip.x264-skorpion/qOocfNGsujSK80yEx8zOHdfAyIw3myL0.mp4",
+        "importedPath": "/tv/Documentaires/tv shows/The Repair Shop/Season 14/The.Repair.Shop.S14E11.Episode.11.mp4",
+        "downloadClient": "SABnzbd",
+        "downloadClientName": "sab",
+        "releaseGroup": "skorpion",
+        "customFormatScore": "10",
+        "size": "2262629651",
+        "indexerFlags": "0",
+        "releaseType": "SingleEpisode"
+      },
+      "episode": {
+        "seriesId": 1029,
+        "tvdbId": 11032010,
+        "episodeFileId": 1505452,
+        "seasonNumber": 14,
+        "episodeNumber": 11,
+        "title": "Episode 11",
+        "airDate": "2025-03-26",
+        "airDateUtc": "2025-03-26T20:00:00Z",
+        "runtime": 57,
+        "overview": "No stone is left unturned in restoring an Onyx ring back to its former glory, and a vintage mechanical doll, seemingly beyond repair, is brought back from the brink.",
+        "hasFile": true,
+        "monitored": true,
+        "unverifiedSceneNumbering": false,
+        "id": 164149
+      },
+      "series": {
+        "title": "The Repair Shop",
+        "sortTitle": "repair shop",
+        "status": "continuing",
+        "ended": false,
+        "overview": "An antidote to throwaway culture, The Repair Shop shines a light on the wonderful treasures to be found in homes across the country.",
+        "network": "BBC One",
+        "airTime": "20:00",
+        "images": [
+          {
+            "coverType": "banner",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/326124/banners/660592b8f2a8d.jpg"
+          },
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/posters/326124-2.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/fanart/original/326124-2.jpg"
+          },
+          {
+            "coverType": "clearlogo",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/326124/clearlogo/611ce8b144cdc.png"
+          }
+        ],
+        "originalLanguage": {
+          "id": 1,
+          "name": "English"
+        },
+        "seasons": [
+          {
+            "seasonNumber": 0,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 1,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 2,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 3,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 4,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 5,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 6,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 7,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 8,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 9,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 10,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 11,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 12,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 13,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 14,
+            "monitored": true
+          }
+        ],
+        "year": 2017,
+        "path": "/tv/Documentaires/tv shows/The Repair Shop",
+        "qualityProfileId": 3,
+        "seasonFolder": true,
+        "monitored": true,
+        "monitorNewItems": "all",
+        "useSceneNumbering": false,
+        "runtime": 48,
+        "tvdbId": 326124,
+        "tvRageId": 0,
+        "tvMazeId": 25960,
+        "tmdbId": 78075,
+        "firstAired": "2017-03-27T00:00:00Z",
+        "lastAired": "2025-03-26T00:00:00Z",
+        "seriesType": "standard",
+        "cleanTitle": "therepairshop",
+        "imdbId": "tt6685272",
+        "titleSlug": "the-repair-shop",
+        "genres": [
+          "Family",
+          "Home and Garden"
+        ],
+        "tags": [],
+        "added": "2020-02-09T10:46:09Z",
+        "ratings": {
+          "votes": 2172,
+          "value": 8.7
+        },
+        "languageProfileId": 1,
+        "id": 1029
+      },
+      "id": 356781
+    },
+    {
+      "episodeId": 164199,
+      "seriesId": 1749,
+      "sourceTitle": "Blacktalon.S02E02.VOSTFR.1080p.WEB.H264-FW",
+      "languages": [
+        {
+          "id": 1,
+          "name": "English"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 3,
+          "name": "WEBDL-1080p",
+          "source": "web",
+          "resolution": 1080
+        },
+        "revision": {
+          "version": 1,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "customFormats": [
+        {
+          "id": 3,
+          "name": "english"
+        }
+      ],
+      "customFormatScore": 10,
+      "qualityCutoffNotMet": false,
+      "date": "2025-03-26T22:14:33Z",
+      "downloadId": "SABnzbd_nzo_w4spqlg1",
+      "eventType": "grabbed",
+      "data": {
+        "indexer": "abNZB (Prowlarr)",
+        "nzbInfoUrl": "https://abnzb.com/details/1bf5a25bccf1da2fb5cfe6a27a3b8a13",
+        "releaseGroup": "FW",
+        "age": "0",
+        "ageHours": "0.04171726055555556",
+        "ageMinutes": "2.503035666666667",
+        "publishedDate": "2025-03-26T22:12:03Z",
+        "downloadClient": "SABnzbd",
+        "downloadClientName": "sab",
+        "size": "1000553826",
+        "downloadUrl": "http://prowlarr:9696/29/download?apikey=5f771c1869f94fec821832369384a70c&link=N2ovc0tUVmlhbFdBNUZPb1JiVFAwYzFPemM5S0FvRW5nbmh3Z1NHTThMVTEzRWxoU0ZjQ3V6WkZCbUlXTnNuNlVURnNrRWJDb3c4TFJ5eFBjMVZnSnhQa1dCTWkzWURKdGFyamw0Uzg2OVkyaVdheGtWbzdvU0YyKzZVYzRtYnB0UWl0NVFtbVpNd2tlRlZjUzQxUHdJQnIvOEFhMUV6RVFJSi9lL0U3ajRNPQ&file=Blacktalon.S02E02.VOSTFR.1080p.WEB.H264-FW",
+        "guid": "https://abnzb.com/details/1bf5a25bccf1da2fb5cfe6a27a3b8a13",
+        "tvdbId": "0",
+        "tvRageId": "0",
+        "imdbId": null,
+        "protocol": "1",
+        "customFormatScore": "10",
+        "seriesMatchType": "Title",
+        "releaseSource": "Rss",
+        "indexerFlags": "0",
+        "releaseType": "SingleEpisode"
+      },
+      "episode": {
+        "seriesId": 1749,
+        "tvdbId": 11036818,
+        "episodeFileId": 1505113,
+        "seasonNumber": 2,
+        "episodeNumber": 2,
+        "title": "Eternal",
+        "airDate": "2025-03-19",
+        "airDateUtc": "2025-03-19T04:00:00Z",
+        "lastSearchTime": "2025-03-20T05:57:49Z",
+        "runtime": 21,
+        "overview": "Neave and her warriors lament the events of their journey so far, and dark forces strike a blow at the heart of the Blacktalons. Can these brave soldiers of Sigmar succeed in their mission, or will the Dark Gods’ followers triumph?",
+        "hasFile": true,
+        "monitored": true,
+        "unverifiedSceneNumbering": false,
+        "id": 164199
+      },
+      "series": {
+        "title": "Blacktalon",
+        "sortTitle": "blacktalon",
+        "status": "continuing",
+        "ended": false,
+        "overview": "This action-packed series follows Neave Blacktalon and her elite unit – also named the Blacktalons – as they hammer out the God-King’s will across the realms. The Maggotkin of Nurgle are the first to feel the bite of her axes, but they won’t be the last.",
+        "network": "Warhammer TV",
+        "airTime": "00:00",
+        "images": [
+          {
+            "coverType": "banner",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/433619/banners/663bb18c1cce5.jpg"
+          },
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/433619/posters/6436b0fc8a731.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/433619/backgrounds/6436b11e7f59e.jpg"
+          }
+        ],
+        "originalLanguage": {
+          "id": 1,
+          "name": "English"
+        },
+        "seasons": [
+          {
+            "seasonNumber": 1,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 2,
+            "monitored": true
+          }
+        ],
+        "year": 2023,
+        "path": "/tv/Cartoons/Blacktalon",
+        "qualityProfileId": 1,
+        "seasonFolder": true,
+        "monitored": true,
+        "monitorNewItems": "all",
+        "useSceneNumbering": false,
+        "runtime": 21,
+        "tvdbId": 433619,
+        "tvRageId": 0,
+        "tvMazeId": 55645,
+        "tmdbId": 224997,
+        "firstAired": "2023-04-12T00:00:00Z",
+        "lastAired": "2025-03-19T00:00:00Z",
+        "seriesType": "standard",
+        "cleanTitle": "blacktalon",
+        "imdbId": "tt27498107",
+        "titleSlug": "blacktalon",
+        "certification": "TV-14",
+        "genres": [
+          "Action",
+          "Animation",
+          "Fantasy",
+          "Mini-Series"
+        ],
+        "tags": [],
+        "added": "2024-10-18T09:03:27Z",
+        "ratings": {
+          "votes": 108,
+          "value": 7.3
+        },
+        "languageProfileId": 1,
+        "id": 1749
+      },
+      "id": 356780
+    },
+    {
+      "episodeId": 164089,
+      "seriesId": 660,
+      "sourceTitle": "Grand.Designs.S26E01.Worthing.1080p.ALL4.WEB-DL.AAC2.0.H.264-BTN",
+      "languages": [
+        {
+          "id": 1,
+          "name": "English"
+        }
+      ],
+      "quality": {
+        "quality": {
+          "id": 3,
+          "name": "WEBDL-1080p",
+          "source": "web",
+          "resolution": 1080
+        },
+        "revision": {
+          "version": 1,
+          "real": 0,
+          "isRepack": false
+        }
+      },
+      "customFormats": [
+        {
+          "id": 3,
+          "name": "english"
+        }
+      ],
+      "customFormatScore": 10,
+      "qualityCutoffNotMet": false,
+      "date": "2025-03-26T22:14:31Z",
+      "downloadId": "SABnzbd_nzo_lx9n_5lm",
+      "eventType": "grabbed",
+      "data": {
+        "indexer": "NzbPlanet (Prowlarr)",
+        "nzbInfoUrl": "https://nzbplanet.org/details/64a96d1fe57b718c82914ef4ea164b33",
+        "releaseGroup": "BTN",
+        "age": "0",
+        "ageHours": "0.07565169419444444",
+        "ageMinutes": "4.539101696666667",
+        "publishedDate": "2025-03-26T22:09:59Z",
+        "downloadClient": "SABnzbd",
+        "downloadClientName": "sab",
+        "size": "1982877139",
+        "downloadUrl": "http://prowlarr:9696/7/download?apikey=5f771c1869f94fec821832369384a70c&link=clhzNUdDek5SK1VJd3p2c2xDUHU0ZEVWd1NzM0dLb3MzSWtacVNOVm0yeHNZY2tVdGdhNnJRMFZPaW9GV21HZGxxdmN4RUhiWnI3TnNka0FyZjByVUZIeWMzYk4ybzNOdSt6dFlCN1c2cjlvSzFpbWExemRMODJLWkgyQ2xhcEN6Y1Azc2kzT3ZKY0YvOWxhR0VZQmVXRUxzcFEraGxKZTNzQjkxUGtzc2JnPQ&file=Grand.Designs.S26E01.Worthing.1080p.ALL4.WEB-DL.AAC2.0.H.264-BTN",
+        "guid": "https://nzbplanet.org/details/64a96d1fe57b718c82914ef4ea164b33",
+        "tvdbId": "0",
+        "tvRageId": "0",
+        "imdbId": null,
+        "protocol": "1",
+        "customFormatScore": "10",
+        "seriesMatchType": "Title",
+        "releaseSource": "Rss",
+        "indexerFlags": "0",
+        "releaseType": "SingleEpisode"
+      },
+      "episode": {
+        "seriesId": 660,
+        "tvdbId": 11022731,
+        "episodeFileId": 1505112,
+        "seasonNumber": 26,
+        "episodeNumber": 1,
+        "title": "Worthing 2025",
+        "airDate": "2025-03-26",
+        "airDateUtc": "2025-03-26T21:00:00Z",
+        "runtime": 47,
+        "overview": "Howard and Sarah build a radical metallic floating home designed to look like a boat, nestled within an idiosyncratic houseboat community on a tidal estuary near Worthing. But will it sink or swim?",
+        "hasFile": true,
+        "monitored": true,
+        "unverifiedSceneNumbering": false,
+        "id": 164089
+      },
+      "series": {
+        "title": "Grand Designs",
+        "sortTitle": "grand designs",
+        "status": "continuing",
+        "ended": false,
+        "overview": "Presenter Kevin McCloud follows some of Britain's most ambitious self-building projects, as intrepid individuals attempt to design and construct the home of their dreams.",
+        "network": "Channel 4",
+        "airTime": "21:00",
+        "images": [
+          {
+            "coverType": "banner",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/graphical/79264-g.jpg"
+          },
+          {
+            "coverType": "poster",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/posters/79264-1.jpg"
+          },
+          {
+            "coverType": "fanart",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/fanart/original/79264-3.jpg"
+          },
+          {
+            "coverType": "clearlogo",
+            "remoteUrl": "https://artworks.thetvdb.com/banners/v4/series/79264/clearlogo/611b8981a09d3.png"
+          }
+        ],
+        "originalLanguage": {
+          "id": 1,
+          "name": "English"
+        },
+        "seasons": [
+          {
+            "seasonNumber": 0,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 1,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 2,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 3,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 4,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 5,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 6,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 7,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 8,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 9,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 10,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 11,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 12,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 13,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 14,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 15,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 16,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 17,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 18,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 19,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 20,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 21,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 22,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 23,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 24,
+            "monitored": false
+          },
+          {
+            "seasonNumber": 25,
+            "monitored": true
+          },
+          {
+            "seasonNumber": 26,
+            "monitored": true
+          }
+        ],
+        "year": 1999,
+        "path": "/tv/Documentaires/tv shows/Grand Designs",
+        "qualityProfileId": 1,
+        "seasonFolder": true,
+        "monitored": true,
+        "monitorNewItems": "all",
+        "useSceneNumbering": false,
+        "runtime": 48,
+        "tvdbId": 79264,
+        "tvRageId": 11187,
+        "tvMazeId": 3251,
+        "tmdbId": 1831,
+        "firstAired": "1999-04-29T00:00:00Z",
+        "lastAired": "2025-04-09T00:00:00Z",
+        "seriesType": "standard",
+        "cleanTitle": "granddesigns",
+        "imdbId": "tt0421099",
+        "titleSlug": "grand-designs",
+        "certification": "TV-PG",
+        "genres": [
+          "Documentary",
+          "Home and Garden",
+          "Reality"
+        ],
+        "tags": [],
+        "added": "2020-02-09T08:54:39Z",
+        "ratings": {
+          "votes": 3671,
+          "value": 8.5
+        },
+        "languageProfileId": 1,
+        "id": 660
+      },
+      "id": 356779
+    }
+  ]
+}
