@@ -1,0 +1,956 @@
+{
+    "page": 1,
+    "pageSize": 15,
+    "sortKey": "date",
+    "sortDirection": "descending",
+    "totalRecords": 6,
+    "records": [
+        {
+            "bookId": 426,
+            "authorId": 2,
+            "sourceTitle": "Brandon Sanderson - [Legion 01] - Legion (retail) (epub)",
+            "quality": {
+                "quality": {
+                    "id": 3,
+                    "name": "EPUB"
+                },
+                "revision": {
+                    "version": 1,
+                    "real": 0,
+                    "isRepack": false
+                }
+            },
+            "customFormats": [],
+            "customFormatScore": 0,
+            "qualityCutoffNotMet": false,
+            "date": "2025-03-28T13:02:31Z",
+            "downloadId": "SABnzbd_nzo_dnjnmotz",
+            "eventType": "bookFileImported",
+            "data": {
+                "fileId": "63",
+                "droppedPath": "/downloads/Brandon Sanderson - [Legion 01] - Legion (retail) (epub)/Brandon Sanderson - [Legion 01] - Legion (retail) (epub).epub",
+                "importedPath": "/media/Brandon Sanderson/Brandon Sanderson - [Legion 01] - Legion (retail) (epub).epub",
+                "downloadClient": "SABnzbd",
+                "downloadClientName": "sab",
+                "releaseGroup": null,
+                "size": "376566",
+                "indexerFlags": "0"
+            },
+            "book": {
+                "title": "Legion",
+                "authorTitle": "sanderson, brandon Legion",
+                "seriesTitle": "Legion #1",
+                "disambiguation": "",
+                "authorId": 2,
+                "foreignBookId": "18978261",
+                "foreignEditionId": "16002459",
+                "titleSlug": "18978261",
+                "monitored": true,
+                "anyEditionOk": true,
+                "ratings": {
+                    "votes": 215,
+                    "value": 4.13,
+                    "popularity": 887.9499999999999
+                },
+                "releaseDate": "2012-08-30T16:00:00Z",
+                "pageCount": 88,
+                "genres": [
+                    "fantasy",
+                    "science-fiction",
+                    "fiction",
+                    "mystery",
+                    "urban-fantasy",
+                    "audiobook",
+                    "novella",
+                    "short-stories",
+                    "thriller",
+                    "adult"
+                ],
+                "images": [
+                    {
+                        "url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1347359306i/16002459.jpg",
+                        "coverType": "cover",
+                        "extension": ".jpg"
+                    }
+                ],
+                "links": [
+                    {
+                        "url": "https://www.goodreads.com/work/editions/18978261",
+                        "name": "Goodreads Editions"
+                    },
+                    {
+                        "url": "https://www.goodreads.com/book/show/16002459-legion",
+                        "name": "Goodreads Book"
+                    }
+                ],
+                "added": "2025-03-05T12:25:23Z",
+                "grabbed": false,
+                "id": 426
+            },
+            "author": {
+                "authorMetadataId": 2,
+                "status": "continuing",
+                "ended": false,
+                "authorName": "Brandon Sanderson",
+                "authorNameLastFirst": "Sanderson, Brandon",
+                "foreignAuthorId": "38550",
+                "titleSlug": "38550",
+                "overview": "I’m Brandon Sanderson, and I write stories of the fantastic: fantasy, science fiction, and thrillers.\r\n\r\nDefiant, the fourth and final volume of the series that started with Skyward in 2018, comes out in November 2023, capping an already book-filled year that will see the releases of all four Secret Projects: Tress of the Emerald Sea, The Frugal Wizard’s Handbook for Surviving Medieval England, Yumi and the Nightmare Painter, and Secret Project Four (with its official title reveal coming October 2023). These four books were all initially offered to backers of the #1 Kickstarter campaign of all time.\r\n\r\nNovember 2022 saw the release of The Lost Metal, the seventh volume in the Mistborn saga, and the final volume of the Mistborn Era Two featuring Wax & Wayne. The third era of Mistborn is slated to be written after the first arc of the Stormlight Archive wraps up.\r\n\r\nIn November 2020 we saw the release of Rhythm of War—the fourth massive book in the New York Times #1 bestselling Stormlight Archive series that began with The Way of Kings—and Dawnshard (book 3.5), a novella set in the same world that bridges the gaps between the main releases. This series is my love letter to the epic fantasy genre, and it’s the type of story I always dreamed epic fantasy could be. The fifth volume, Wind and Truth, is set for release in fall 2024.\r\n\r\nMost readers have noticed that my adult fantasy novels are in a connected universe called the Cosmere. This includes The Stormlight Archive, both Mistborn series, Elantris, Warbreaker, and various novellas available on Amazon, including The Emperor’s Soul, which won a Hugo Award in 2013. In November 2016 all of the existing Cosmere short fiction was released in one volume called Arcanum Unbounded. If you’ve read all of my adult fantasy novels and want to see some behind-the-scenes information, that collection is a must-read.\r\n\r\nI also have three YA series: The Rithmatist (currently at one book), The Reckoners (a trilogy beginning with Steelheart), and Skyward. For young readers I also have my humorous series Alcatraz vs. the Evil Librarians, which had its final book, Bastille vs. the Evil Librarians, come out in 2022. Many of my adult readers enjoy all of those books as well, and many of my YA readers enjoy my adult books, usually starting with Mistborn.\r\n\r\nAdditionally, I have a few other novellas that are more on the thriller/sci-fi side. These include the Legion series, as well as Perfect State and Snapshot. There’s a lot of material to go around!\r\n\r\nGood starting places are Mistborn (a.k.a. The Final Empire), Skyward, Steelheart,The Emperor’s Soul, and Alcatraz vs. the Evil Librarians. If you’re already a fan of big fat fantasies, you can jump right into The Way of Kings.\r\n\r\nI was also honored to be able to complete the final three volumes of The Wheel of Time, beginning with The Gathering Storm, using Robert Jordan’s notes.\r\n\r\nSample chapters from all of my books are available at brandonsanderson.com—and check out the rest of my site for chapter-by-chapter annotations, deleted scenes, and more.",
+                "links": [
+                    {
+                        "url": "http://www.goodreads.com/author/show/38550.Brandon_Sanderson",
+                        "name": "Goodreads"
+                    }
+                ],
+                "images": [
+                    {
+                        "url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/authors/1394044556i/38550.jpg",
+                        "coverType": "poster",
+                        "extension": ".jpg"
+                    }
+                ],
+                "path": "/media/Brandon Sanderson",
+                "qualityProfileId": 1,
+                "metadataProfileId": 1,
+                "monitored": true,
+                "monitorNewItems": "all",
+                "genres": [],
+                "cleanName": "brandonsanderson",
+                "sortName": "brandon sanderson",
+                "sortNameLastFirst": "sanderson, brandon",
+                "tags": [],
+                "added": "2025-03-05T12:25:17Z",
+                "ratings": {
+                    "votes": 5998442,
+                    "value": 4.41,
+                    "popularity": 26453129.220000003
+                },
+                "statistics": {
+                    "bookFileCount": 0,
+                    "bookCount": 0,
+                    "availableBookCount": 0,
+                    "totalBookCount": 0,
+                    "sizeOnDisk": 0,
+                    "percentOfBooks": 0
+                },
+                "id": 2
+            },
+            "id": 6
+        },
+        {
+            "bookId": 426,
+            "authorId": 2,
+            "sourceTitle": "Brandon Sanderson - [Legion 01] - Legion (retail) (epub)",
+            "quality": {
+                "quality": {
+                    "id": 3,
+                    "name": "EPUB"
+                },
+                "revision": {
+                    "version": 1,
+                    "real": 0,
+                    "isRepack": false
+                }
+            },
+            "customFormats": [],
+            "customFormatScore": 0,
+            "qualityCutoffNotMet": false,
+            "date": "2025-03-28T13:02:31Z",
+            "downloadId": "SABnzbd_nzo_dnjnmotz",
+            "eventType": "bookFileDeleted",
+            "data": {
+                "fileId": "63",
+                "droppedPath": "/downloads/Brandon Sanderson - [Legion 01] - Legion (retail) (epub)/Brandon Sanderson - [Legion 01] - Legion (retail) (epub).epub",
+                "importedPath": "/media/Brandon Sanderson/Brandon Sanderson - [Legion 01] - Legion (retail) (epub).epub",
+                "downloadClient": "SABnzbd",
+                "downloadClientName": "sab",
+                "releaseGroup": null,
+                "size": "376566",
+                "indexerFlags": "0"
+            },
+            "book": {
+                "title": "Legion",
+                "authorTitle": "sanderson, brandon Legion",
+                "seriesTitle": "Legion #1",
+                "disambiguation": "",
+                "authorId": 2,
+                "foreignBookId": "18978261",
+                "foreignEditionId": "16002459",
+                "titleSlug": "18978261",
+                "monitored": true,
+                "anyEditionOk": true,
+                "ratings": {
+                    "votes": 215,
+                    "value": 4.13,
+                    "popularity": 887.9499999999999
+                },
+                "releaseDate": "2012-08-30T16:00:00Z",
+                "pageCount": 88,
+                "genres": [
+                    "fantasy",
+                    "science-fiction",
+                    "fiction",
+                    "mystery",
+                    "urban-fantasy",
+                    "audiobook",
+                    "novella",
+                    "short-stories",
+                    "thriller",
+                    "adult"
+                ],
+                "images": [
+                    {
+                        "url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1347359306i/16002459.jpg",
+                        "coverType": "cover",
+                        "extension": ".jpg"
+                    }
+                ],
+                "links": [
+                    {
+                        "url": "https://www.goodreads.com/work/editions/18978261",
+                        "name": "Goodreads Editions"
+                    },
+                    {
+                        "url": "https://www.goodreads.com/book/show/16002459-legion",
+                        "name": "Goodreads Book"
+                    }
+                ],
+                "added": "2025-03-05T12:25:23Z",
+                "grabbed": false,
+                "id": 426
+            },
+            "author": {
+                "authorMetadataId": 2,
+                "status": "continuing",
+                "ended": false,
+                "authorName": "Brandon Sanderson",
+                "authorNameLastFirst": "Sanderson, Brandon",
+                "foreignAuthorId": "38550",
+                "titleSlug": "38550",
+                "overview": "I’m Brandon Sanderson, and I write stories of the fantastic: fantasy, science fiction, and thrillers.\r\n\r\nDefiant, the fourth and final volume of the series that started with Skyward in 2018, comes out in November 2023, capping an already book-filled year that will see the releases of all four Secret Projects: Tress of the Emerald Sea, The Frugal Wizard’s Handbook for Surviving Medieval England, Yumi and the Nightmare Painter, and Secret Project Four (with its official title reveal coming October 2023). These four books were all initially offered to backers of the #1 Kickstarter campaign of all time.\r\n\r\nNovember 2022 saw the release of The Lost Metal, the seventh volume in the Mistborn saga, and the final volume of the Mistborn Era Two featuring Wax & Wayne. The third era of Mistborn is slated to be written after the first arc of the Stormlight Archive wraps up.\r\n\r\nIn November 2020 we saw the release of Rhythm of War—the fourth massive book in the New York Times #1 bestselling Stormlight Archive series that began with The Way of Kings—and Dawnshard (book 3.5), a novella set in the same world that bridges the gaps between the main releases. This series is my love letter to the epic fantasy genre, and it’s the type of story I always dreamed epic fantasy could be. The fifth volume, Wind and Truth, is set for release in fall 2024.\r\n\r\nMost readers have noticed that my adult fantasy novels are in a connected universe called the Cosmere. This includes The Stormlight Archive, both Mistborn series, Elantris, Warbreaker, and various novellas available on Amazon, including The Emperor’s Soul, which won a Hugo Award in 2013. In November 2016 all of the existing Cosmere short fiction was released in one volume called Arcanum Unbounded. If you’ve read all of my adult fantasy novels and want to see some behind-the-scenes information, that collection is a must-read.\r\n\r\nI also have three YA series: The Rithmatist (currently at one book), The Reckoners (a trilogy beginning with Steelheart), and Skyward. For young readers I also have my humorous series Alcatraz vs. the Evil Librarians, which had its final book, Bastille vs. the Evil Librarians, come out in 2022. Many of my adult readers enjoy all of those books as well, and many of my YA readers enjoy my adult books, usually starting with Mistborn.\r\n\r\nAdditionally, I have a few other novellas that are more on the thriller/sci-fi side. These include the Legion series, as well as Perfect State and Snapshot. There’s a lot of material to go around!\r\n\r\nGood starting places are Mistborn (a.k.a. The Final Empire), Skyward, Steelheart,The Emperor’s Soul, and Alcatraz vs. the Evil Librarians. If you’re already a fan of big fat fantasies, you can jump right into The Way of Kings.\r\n\r\nI was also honored to be able to complete the final three volumes of The Wheel of Time, beginning with The Gathering Storm, using Robert Jordan’s notes.\r\n\r\nSample chapters from all of my books are available at brandonsanderson.com—and check out the rest of my site for chapter-by-chapter annotations, deleted scenes, and more.",
+                "links": [
+                    {
+                        "url": "http://www.goodreads.com/author/show/38550.Brandon_Sanderson",
+                        "name": "Goodreads"
+                    }
+                ],
+                "images": [
+                    {
+                        "url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/authors/1394044556i/38550.jpg",
+                        "coverType": "poster",
+                        "extension": ".jpg"
+                    }
+                ],
+                "path": "/media/Brandon Sanderson",
+                "qualityProfileId": 1,
+                "metadataProfileId": 1,
+                "monitored": true,
+                "monitorNewItems": "all",
+                "genres": [],
+                "cleanName": "brandonsanderson",
+                "sortName": "brandon sanderson",
+                "sortNameLastFirst": "sanderson, brandon",
+                "tags": [],
+                "added": "2025-03-05T12:25:17Z",
+                "ratings": {
+                    "votes": 5998442,
+                    "value": 4.41,
+                    "popularity": 26453129.220000003
+                },
+                "statistics": {
+                    "bookFileCount": 0,
+                    "bookCount": 0,
+                    "availableBookCount": 0,
+                    "totalBookCount": 0,
+                    "sizeOnDisk": 0,
+                    "percentOfBooks": 0
+                },
+                "id": 2
+            },
+            "id": 6
+        },
+        {
+            "bookId": 426,
+            "authorId": 2,
+            "sourceTitle": "Brandon Sanderson - [Legion 01] - Legion (retail) (epub)",
+            "quality": {
+                "quality": {
+                    "id": 3,
+                    "name": "EPUB"
+                },
+                "revision": {
+                    "version": 1,
+                    "real": 0,
+                    "isRepack": false
+                }
+            },
+            "customFormats": [],
+            "customFormatScore": 0,
+            "qualityCutoffNotMet": false,
+            "date": "2025-03-28T13:01:10Z",
+            "downloadId": "SABnzbd_nzo_dnjnmotz",
+            "eventType": "grabbed",
+            "data": {
+                "indexer": "NzbPlanet (Prowlarr)",
+                "nzbInfoUrl": "https://nzbplanet.org/details/9011480e533bcbe25a27bdd1705d87fb",
+                "releaseGroup": null,
+                "age": "0",
+                "ageHours": "0.29799425069444446",
+                "ageMinutes": "17.879655123333333",
+                "publishedDate": "2025-03-28T12:43:18Z",
+                "downloadClient": "SABnzbd",
+                "downloadClientName": "sab",
+                "size": "390785",
+                "downloadUrl": "http://prowlarr:9696/7/download?apikey=5f771c1869f94fec821832369384a70c&link=bnc1ckVWNGgzR2tlTGkzZnJFN1ljM05iR1hvVHNici9wOVlQd2poZHRLbnpRcDJvalBMVWt3RnVienFRV3phTVVpTXNvcFlzdlBEQ0FXb1ovOUM4S3dmVXBzMTJURDE3M0JGR0hUd2JrNFErYjBIVkFXOHBNTUw4MGNHcGV5VE11aDBXVXFpaEY0WlBMMXNyVExLZlRqbGpzYndGMDVTdCtJR0RTNXJLTDNrPQ&file=Brandon+Sanderson+-+%5BLegion+01%5D+-+Legion+(retail)+(epub)",
+                "guid": "https://nzbplanet.org/details/9011480e533bcbe25a27bdd1705d87fb",
+                "protocol": "1",
+                "downloadForced": "False",
+                "customFormatScore": "0",
+                "releaseSource": "Rss",
+                "indexerFlags": "0"
+            },
+            "book": {
+                "title": "Legion",
+                "authorTitle": "sanderson, brandon Legion",
+                "seriesTitle": "Legion #1",
+                "disambiguation": "",
+                "authorId": 2,
+                "foreignBookId": "18978261",
+                "foreignEditionId": "16002459",
+                "titleSlug": "18978261",
+                "monitored": true,
+                "anyEditionOk": true,
+                "ratings": {
+                    "votes": 215,
+                    "value": 4.13,
+                    "popularity": 887.9499999999999
+                },
+                "releaseDate": "2012-08-30T16:00:00Z",
+                "pageCount": 88,
+                "genres": [
+                    "fantasy",
+                    "science-fiction",
+                    "fiction",
+                    "mystery",
+                    "urban-fantasy",
+                    "audiobook",
+                    "novella",
+                    "short-stories",
+                    "thriller",
+                    "adult"
+                ],
+                "images": [
+                    {
+                        "url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1347359306i/16002459.jpg",
+                        "coverType": "cover",
+                        "extension": ".jpg"
+                    }
+                ],
+                "links": [
+                    {
+                        "url": "https://www.goodreads.com/work/editions/18978261",
+                        "name": "Goodreads Editions"
+                    },
+                    {
+                        "url": "https://www.goodreads.com/book/show/16002459-legion",
+                        "name": "Goodreads Book"
+                    }
+                ],
+                "added": "2025-03-05T12:25:23Z",
+                "grabbed": false,
+                "id": 426
+            },
+            "author": {
+                "authorMetadataId": 2,
+                "status": "continuing",
+                "ended": false,
+                "authorName": "Brandon Sanderson",
+                "authorNameLastFirst": "Sanderson, Brandon",
+                "foreignAuthorId": "38550",
+                "titleSlug": "38550",
+                "overview": "I’m Brandon Sanderson, and I write stories of the fantastic: fantasy, science fiction, and thrillers.\r\n\r\nDefiant, the fourth and final volume of the series that started with Skyward in 2018, comes out in November 2023, capping an already book-filled year that will see the releases of all four Secret Projects: Tress of the Emerald Sea, The Frugal Wizard’s Handbook for Surviving Medieval England, Yumi and the Nightmare Painter, and Secret Project Four (with its official title reveal coming October 2023). These four books were all initially offered to backers of the #1 Kickstarter campaign of all time.\r\n\r\nNovember 2022 saw the release of The Lost Metal, the seventh volume in the Mistborn saga, and the final volume of the Mistborn Era Two featuring Wax & Wayne. The third era of Mistborn is slated to be written after the first arc of the Stormlight Archive wraps up.\r\n\r\nIn November 2020 we saw the release of Rhythm of War—the fourth massive book in the New York Times #1 bestselling Stormlight Archive series that began with The Way of Kings—and Dawnshard (book 3.5), a novella set in the same world that bridges the gaps between the main releases. This series is my love letter to the epic fantasy genre, and it’s the type of story I always dreamed epic fantasy could be. The fifth volume, Wind and Truth, is set for release in fall 2024.\r\n\r\nMost readers have noticed that my adult fantasy novels are in a connected universe called the Cosmere. This includes The Stormlight Archive, both Mistborn series, Elantris, Warbreaker, and various novellas available on Amazon, including The Emperor’s Soul, which won a Hugo Award in 2013. In November 2016 all of the existing Cosmere short fiction was released in one volume called Arcanum Unbounded. If you’ve read all of my adult fantasy novels and want to see some behind-the-scenes information, that collection is a must-read.\r\n\r\nI also have three YA series: The Rithmatist (currently at one book), The Reckoners (a trilogy beginning with Steelheart), and Skyward. For young readers I also have my humorous series Alcatraz vs. the Evil Librarians, which had its final book, Bastille vs. the Evil Librarians, come out in 2022. Many of my adult readers enjoy all of those books as well, and many of my YA readers enjoy my adult books, usually starting with Mistborn.\r\n\r\nAdditionally, I have a few other novellas that are more on the thriller/sci-fi side. These include the Legion series, as well as Perfect State and Snapshot. There’s a lot of material to go around!\r\n\r\nGood starting places are Mistborn (a.k.a. The Final Empire), Skyward, Steelheart,The Emperor’s Soul, and Alcatraz vs. the Evil Librarians. If you’re already a fan of big fat fantasies, you can jump right into The Way of Kings.\r\n\r\nI was also honored to be able to complete the final three volumes of The Wheel of Time, beginning with The Gathering Storm, using Robert Jordan’s notes.\r\n\r\nSample chapters from all of my books are available at brandonsanderson.com—and check out the rest of my site for chapter-by-chapter annotations, deleted scenes, and more.",
+                "links": [
+                    {
+                        "url": "http://www.goodreads.com/author/show/38550.Brandon_Sanderson",
+                        "name": "Goodreads"
+                    }
+                ],
+                "images": [
+                    {
+                        "url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/authors/1394044556i/38550.jpg",
+                        "coverType": "poster",
+                        "extension": ".jpg"
+                    }
+                ],
+                "path": "/media/Brandon Sanderson",
+                "qualityProfileId": 1,
+                "metadataProfileId": 1,
+                "monitored": true,
+                "monitorNewItems": "all",
+                "genres": [],
+                "cleanName": "brandonsanderson",
+                "sortName": "brandon sanderson",
+                "sortNameLastFirst": "sanderson, brandon",
+                "tags": [],
+                "added": "2025-03-05T12:25:17Z",
+                "ratings": {
+                    "votes": 5998442,
+                    "value": 4.41,
+                    "popularity": 26453129.220000003
+                },
+                "statistics": {
+                    "bookFileCount": 0,
+                    "bookCount": 0,
+                    "availableBookCount": 0,
+                    "totalBookCount": 0,
+                    "sizeOnDisk": 0,
+                    "percentOfBooks": 0
+                },
+                "id": 2
+            },
+            "id": 5
+        },
+        {
+            "bookId": 439,
+            "authorId": 2,
+            "sourceTitle": "Brandon Sanderson - Cosmere - Tress of the Emerald Sea (retail) (epub)",
+            "quality": {
+                "quality": {
+                    "id": 3,
+                    "name": "EPUB"
+                },
+                "revision": {
+                    "version": 1,
+                    "real": 0,
+                    "isRepack": false
+                }
+            },
+            "customFormats": [],
+            "customFormatScore": 0,
+            "qualityCutoffNotMet": false,
+            "date": "2025-03-26T19:24:12Z",
+            "downloadId": "SABnzbd_nzo_hawh8a4u",
+            "eventType": "bookFileImported",
+            "data": {
+                "fileId": "62",
+                "droppedPath": "/downloads/Brandon Sanderson - Cosmere - Tress of the Emerald Sea (retail) (epub)/Brandon Sanderson - Cosmere - Tress of the Emerald Sea (retail) (epub).epub",
+                "importedPath": "/media/Brandon Sanderson/Brandon Sanderson - Cosmere - Tress of the Emerald Sea (retail) (epub).epub",
+                "downloadClient": "SABnzbd",
+                "downloadClientName": "sab",
+                "releaseGroup": null,
+                "size": "10427834",
+                "indexerFlags": "0"
+            },
+            "book": {
+                "title": "Tress of the Emerald Sea",
+                "authorTitle": "sanderson, brandon Tress of the Emerald Sea",
+                "seriesTitle": "The Cosmere #28; Secret Projects #1",
+                "disambiguation": "",
+                "authorId": 2,
+                "foreignBookId": "95396305",
+                "foreignEditionId": "60543254",
+                "titleSlug": "95396305",
+                "monitored": true,
+                "anyEditionOk": true,
+                "ratings": {
+                    "votes": 922,
+                    "value": 4.47,
+                    "popularity": 4121.34
+                },
+                "releaseDate": "2023-01-09T16:00:00Z",
+                "pageCount": 443,
+                "genres": [
+                    "fantasy",
+                    "fiction",
+                    "romance",
+                    "adventure",
+                    "young-adult",
+                    "high-fantasy",
+                    "adult",
+                    "audiobook",
+                    "pirates",
+                    "science-fiction-fantasy"
+                ],
+                "images": [
+                    {
+                        "url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1672573040i/60543254.jpg",
+                        "coverType": "cover",
+                        "extension": ".jpg"
+                    }
+                ],
+                "links": [
+                    {
+                        "url": "https://www.goodreads.com/work/editions/95396305",
+                        "name": "Goodreads Editions"
+                    },
+                    {
+                        "url": "https://www.goodreads.com/book/show/60543254-tress-of-the-emerald-sea",
+                        "name": "Goodreads Book"
+                    }
+                ],
+                "added": "2025-03-05T12:25:23Z",
+                "grabbed": false,
+                "id": 439
+            },
+            "author": {
+                "authorMetadataId": 2,
+                "status": "continuing",
+                "ended": false,
+                "authorName": "Brandon Sanderson",
+                "authorNameLastFirst": "Sanderson, Brandon",
+                "foreignAuthorId": "38550",
+                "titleSlug": "38550",
+                "overview": "I’m Brandon Sanderson, and I write stories of the fantastic: fantasy, science fiction, and thrillers.\r\n\r\nDefiant, the fourth and final volume of the series that started with Skyward in 2018, comes out in November 2023, capping an already book-filled year that will see the releases of all four Secret Projects: Tress of the Emerald Sea, The Frugal Wizard’s Handbook for Surviving Medieval England, Yumi and the Nightmare Painter, and Secret Project Four (with its official title reveal coming October 2023). These four books were all initially offered to backers of the #1 Kickstarter campaign of all time.\r\n\r\nNovember 2022 saw the release of The Lost Metal, the seventh volume in the Mistborn saga, and the final volume of the Mistborn Era Two featuring Wax & Wayne. The third era of Mistborn is slated to be written after the first arc of the Stormlight Archive wraps up.\r\n\r\nIn November 2020 we saw the release of Rhythm of War—the fourth massive book in the New York Times #1 bestselling Stormlight Archive series that began with The Way of Kings—and Dawnshard (book 3.5), a novella set in the same world that bridges the gaps between the main releases. This series is my love letter to the epic fantasy genre, and it’s the type of story I always dreamed epic fantasy could be. The fifth volume, Wind and Truth, is set for release in fall 2024.\r\n\r\nMost readers have noticed that my adult fantasy novels are in a connected universe called the Cosmere. This includes The Stormlight Archive, both Mistborn series, Elantris, Warbreaker, and various novellas available on Amazon, including The Emperor’s Soul, which won a Hugo Award in 2013. In November 2016 all of the existing Cosmere short fiction was released in one volume called Arcanum Unbounded. If you’ve read all of my adult fantasy novels and want to see some behind-the-scenes information, that collection is a must-read.\r\n\r\nI also have three YA series: The Rithmatist (currently at one book), The Reckoners (a trilogy beginning with Steelheart), and Skyward. For young readers I also have my humorous series Alcatraz vs. the Evil Librarians, which had its final book, Bastille vs. the Evil Librarians, come out in 2022. Many of my adult readers enjoy all of those books as well, and many of my YA readers enjoy my adult books, usually starting with Mistborn.\r\n\r\nAdditionally, I have a few other novellas that are more on the thriller/sci-fi side. These include the Legion series, as well as Perfect State and Snapshot. There’s a lot of material to go around!\r\n\r\nGood starting places are Mistborn (a.k.a. The Final Empire), Skyward, Steelheart,The Emperor’s Soul, and Alcatraz vs. the Evil Librarians. If you’re already a fan of big fat fantasies, you can jump right into The Way of Kings.\r\n\r\nI was also honored to be able to complete the final three volumes of The Wheel of Time, beginning with The Gathering Storm, using Robert Jordan’s notes.\r\n\r\nSample chapters from all of my books are available at brandonsanderson.com—and check out the rest of my site for chapter-by-chapter annotations, deleted scenes, and more.",
+                "links": [
+                    {
+                        "url": "http://www.goodreads.com/author/show/38550.Brandon_Sanderson",
+                        "name": "Goodreads"
+                    }
+                ],
+                "images": [
+                    {
+                        "url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/authors/1394044556i/38550.jpg",
+                        "coverType": "poster",
+                        "extension": ".jpg"
+                    }
+                ],
+                "path": "/media/Brandon Sanderson",
+                "qualityProfileId": 1,
+                "metadataProfileId": 1,
+                "monitored": true,
+                "monitorNewItems": "all",
+                "genres": [],
+                "cleanName": "brandonsanderson",
+                "sortName": "brandon sanderson",
+                "sortNameLastFirst": "sanderson, brandon",
+                "tags": [],
+                "added": "2025-03-05T12:25:17Z",
+                "ratings": {
+                    "votes": 5998442,
+                    "value": 4.41,
+                    "popularity": 26453129.220000003
+                },
+                "statistics": {
+                    "bookFileCount": 0,
+                    "bookCount": 0,
+                    "availableBookCount": 0,
+                    "totalBookCount": 0,
+                    "sizeOnDisk": 0,
+                    "percentOfBooks": 0
+                },
+                "id": 2
+            },
+            "id": 4
+        },
+        {
+            "bookId": 439,
+            "authorId": 2,
+            "sourceTitle": "Brandon Sanderson - Cosmere - Tress of the Emerald Sea (retail) (epub)",
+            "quality": {
+                "quality": {
+                    "id": 3,
+                    "name": "EPUB"
+                },
+                "revision": {
+                    "version": 1,
+                    "real": 0,
+                    "isRepack": false
+                }
+            },
+            "customFormats": [],
+            "customFormatScore": 0,
+            "qualityCutoffNotMet": false,
+            "date": "2025-03-26T19:22:53Z",
+            "downloadId": "SABnzbd_nzo_hawh8a4u",
+            "eventType": "grabbed",
+            "data": {
+                "indexer": "NzbPlanet (Prowlarr)",
+                "nzbInfoUrl": "https://nzbplanet.org/details/59b090f7e11773e3f5098acf39f19cd6",
+                "releaseGroup": null,
+                "age": "0",
+                "ageHours": "0.28289569005555554",
+                "ageMinutes": "16.97374155",
+                "publishedDate": "2025-03-26T19:05:55Z",
+                "downloadClient": "SABnzbd",
+                "downloadClientName": "sab",
+                "size": "10821523",
+                "downloadUrl": "http://prowlarr:9696/7/download?apikey=5f771c1869f94fec821832369384a70c&link=RUozQzM0dVpzbTYxSUlkOFQ3blBCS0UwUHFHOGNTc0RKMjJwYVpnYjBFd2JlWm5xVXZ2U2I2TWxvemFWdHBXaWhEdkIxRVgwNmppdVJMaXRhVUllQ0R3eU5iQlJubUVqZTBhb2dDUHVJZlZKOUdDWUtFMGpiMC8yajY4Qm1ISVFWWStjYnBDTVVBN3l5Vmh2M0tsR1F5ODk4QkZsNFRaZUF2N1NkSGhMRURFPQ&file=Brandon+Sanderson+-+Cosmere+-+Tress+of+the+Emerald+Sea+(retail)+(epub)",
+                "guid": "https://nzbplanet.org/details/59b090f7e11773e3f5098acf39f19cd6",
+                "protocol": "1",
+                "downloadForced": "False",
+                "customFormatScore": "0",
+                "releaseSource": "Rss",
+                "indexerFlags": "0"
+            },
+            "book": {
+                "title": "Tress of the Emerald Sea",
+                "authorTitle": "sanderson, brandon Tress of the Emerald Sea",
+                "seriesTitle": "The Cosmere #28; Secret Projects #1",
+                "disambiguation": "",
+                "authorId": 2,
+                "foreignBookId": "95396305",
+                "foreignEditionId": "60543254",
+                "titleSlug": "95396305",
+                "monitored": true,
+                "anyEditionOk": true,
+                "ratings": {
+                    "votes": 922,
+                    "value": 4.47,
+                    "popularity": 4121.34
+                },
+                "releaseDate": "2023-01-09T16:00:00Z",
+                "pageCount": 443,
+                "genres": [
+                    "fantasy",
+                    "fiction",
+                    "romance",
+                    "adventure",
+                    "young-adult",
+                    "high-fantasy",
+                    "adult",
+                    "audiobook",
+                    "pirates",
+                    "science-fiction-fantasy"
+                ],
+                "images": [
+                    {
+                        "url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1672573040i/60543254.jpg",
+                        "coverType": "cover",
+                        "extension": ".jpg"
+                    }
+                ],
+                "links": [
+                    {
+                        "url": "https://www.goodreads.com/work/editions/95396305",
+                        "name": "Goodreads Editions"
+                    },
+                    {
+                        "url": "https://www.goodreads.com/book/show/60543254-tress-of-the-emerald-sea",
+                        "name": "Goodreads Book"
+                    }
+                ],
+                "added": "2025-03-05T12:25:23Z",
+                "grabbed": false,
+                "id": 439
+            },
+            "author": {
+                "authorMetadataId": 2,
+                "status": "continuing",
+                "ended": false,
+                "authorName": "Brandon Sanderson",
+                "authorNameLastFirst": "Sanderson, Brandon",
+                "foreignAuthorId": "38550",
+                "titleSlug": "38550",
+                "overview": "I’m Brandon Sanderson, and I write stories of the fantastic: fantasy, science fiction, and thrillers.\r\n\r\nDefiant, the fourth and final volume of the series that started with Skyward in 2018, comes out in November 2023, capping an already book-filled year that will see the releases of all four Secret Projects: Tress of the Emerald Sea, The Frugal Wizard’s Handbook for Surviving Medieval England, Yumi and the Nightmare Painter, and Secret Project Four (with its official title reveal coming October 2023). These four books were all initially offered to backers of the #1 Kickstarter campaign of all time.\r\n\r\nNovember 2022 saw the release of The Lost Metal, the seventh volume in the Mistborn saga, and the final volume of the Mistborn Era Two featuring Wax & Wayne. The third era of Mistborn is slated to be written after the first arc of the Stormlight Archive wraps up.\r\n\r\nIn November 2020 we saw the release of Rhythm of War—the fourth massive book in the New York Times #1 bestselling Stormlight Archive series that began with The Way of Kings—and Dawnshard (book 3.5), a novella set in the same world that bridges the gaps between the main releases. This series is my love letter to the epic fantasy genre, and it’s the type of story I always dreamed epic fantasy could be. The fifth volume, Wind and Truth, is set for release in fall 2024.\r\n\r\nMost readers have noticed that my adult fantasy novels are in a connected universe called the Cosmere. This includes The Stormlight Archive, both Mistborn series, Elantris, Warbreaker, and various novellas available on Amazon, including The Emperor’s Soul, which won a Hugo Award in 2013. In November 2016 all of the existing Cosmere short fiction was released in one volume called Arcanum Unbounded. If you’ve read all of my adult fantasy novels and want to see some behind-the-scenes information, that collection is a must-read.\r\n\r\nI also have three YA series: The Rithmatist (currently at one book), The Reckoners (a trilogy beginning with Steelheart), and Skyward. For young readers I also have my humorous series Alcatraz vs. the Evil Librarians, which had its final book, Bastille vs. the Evil Librarians, come out in 2022. Many of my adult readers enjoy all of those books as well, and many of my YA readers enjoy my adult books, usually starting with Mistborn.\r\n\r\nAdditionally, I have a few other novellas that are more on the thriller/sci-fi side. These include the Legion series, as well as Perfect State and Snapshot. There’s a lot of material to go around!\r\n\r\nGood starting places are Mistborn (a.k.a. The Final Empire), Skyward, Steelheart,The Emperor’s Soul, and Alcatraz vs. the Evil Librarians. If you’re already a fan of big fat fantasies, you can jump right into The Way of Kings.\r\n\r\nI was also honored to be able to complete the final three volumes of The Wheel of Time, beginning with The Gathering Storm, using Robert Jordan’s notes.\r\n\r\nSample chapters from all of my books are available at brandonsanderson.com—and check out the rest of my site for chapter-by-chapter annotations, deleted scenes, and more.",
+                "links": [
+                    {
+                        "url": "http://www.goodreads.com/author/show/38550.Brandon_Sanderson",
+                        "name": "Goodreads"
+                    }
+                ],
+                "images": [
+                    {
+                        "url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/authors/1394044556i/38550.jpg",
+                        "coverType": "poster",
+                        "extension": ".jpg"
+                    }
+                ],
+                "path": "/media/Brandon Sanderson",
+                "qualityProfileId": 1,
+                "metadataProfileId": 1,
+                "monitored": true,
+                "monitorNewItems": "all",
+                "genres": [],
+                "cleanName": "brandonsanderson",
+                "sortName": "brandon sanderson",
+                "sortNameLastFirst": "sanderson, brandon",
+                "tags": [],
+                "added": "2025-03-05T12:25:17Z",
+                "ratings": {
+                    "votes": 5998442,
+                    "value": 4.41,
+                    "popularity": 26453129.220000003
+                },
+                "statistics": {
+                    "bookFileCount": 0,
+                    "bookCount": 0,
+                    "availableBookCount": 0,
+                    "totalBookCount": 0,
+                    "sizeOnDisk": 0,
+                    "percentOfBooks": 0
+                },
+                "id": 2
+            },
+            "id": 3
+        },
+        {
+            "bookId": 412,
+            "authorId": 2,
+            "sourceTitle": "Brandon Sanderson - [Stormlight Archive 05] - Wind and Truth (retail) (epub)",
+            "quality": {
+                "quality": {
+                    "id": 3,
+                    "name": "EPUB"
+                },
+                "revision": {
+                    "version": 1,
+                    "real": 0,
+                    "isRepack": false
+                }
+            },
+            "customFormats": [],
+            "customFormatScore": 0,
+            "qualityCutoffNotMet": false,
+            "date": "2025-03-07T11:04:16Z",
+            "downloadId": "SABnzbd_nzo_1y7eb7tu",
+            "eventType": "bookFileImported",
+            "data": {
+                "fileId": "61",
+                "droppedPath": "/downloads/Brandon Sanderson - [Stormlight Archive 05] - Wind and Truth (retail) (epub)/Brandon Sanderson - [Stormlight Archive 05] - Wind and Truth (retail) (epub).epub",
+                "importedPath": "/media/Brandon Sanderson/Brandon Sanderson - [Stormlight Archive 05] - Wind and Truth (retail) (epub).epub",
+                "downloadClient": "SABnzbd",
+                "downloadClientName": "sab",
+                "releaseGroup": null,
+                "size": "58224843",
+                "indexerFlags": "0"
+            },
+            "book": {
+                "title": "Wind and Truth",
+                "authorTitle": "sanderson, brandon Wind and Truth",
+                "seriesTitle": "The Stormlight Archive #5",
+                "disambiguation": "",
+                "authorId": 2,
+                "foreignBookId": "23840276",
+                "foreignEditionId": "203608754",
+                "titleSlug": "23840276",
+                "monitored": true,
+                "anyEditionOk": true,
+                "ratings": {
+                    "votes": 0,
+                    "value": 4.65,
+                    "popularity": 0
+                },
+                "releaseDate": "2024-12-05T16:00:00Z",
+                "pageCount": 1248,
+                "genres": [
+                    "fantasy",
+                    "fiction",
+                    "epic-fantasy",
+                    "adult",
+                    "high-fantasy",
+                    "magic",
+                    "science-fiction-fantasy",
+                    "speculative-fiction"
+                ],
+                "images": [
+                    {
+                        "url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1702996128i/203608754.jpg",
+                        "coverType": "cover",
+                        "extension": ".jpg"
+                    }
+                ],
+                "links": [
+                    {
+                        "url": "https://www.goodreads.com/work/editions/23840276",
+                        "name": "Goodreads Editions"
+                    },
+                    {
+                        "url": "https://www.goodreads.com/book/show/203608754-wind-and-truth",
+                        "name": "Goodreads Book"
+                    }
+                ],
+                "added": "2025-03-05T12:25:23Z",
+                "grabbed": false,
+                "id": 412
+            },
+            "author": {
+                "authorMetadataId": 2,
+                "status": "continuing",
+                "ended": false,
+                "authorName": "Brandon Sanderson",
+                "authorNameLastFirst": "Sanderson, Brandon",
+                "foreignAuthorId": "38550",
+                "titleSlug": "38550",
+                "overview": "I’m Brandon Sanderson, and I write stories of the fantastic: fantasy, science fiction, and thrillers.\r\n\r\nDefiant, the fourth and final volume of the series that started with Skyward in 2018, comes out in November 2023, capping an already book-filled year that will see the releases of all four Secret Projects: Tress of the Emerald Sea, The Frugal Wizard’s Handbook for Surviving Medieval England, Yumi and the Nightmare Painter, and Secret Project Four (with its official title reveal coming October 2023). These four books were all initially offered to backers of the #1 Kickstarter campaign of all time.\r\n\r\nNovember 2022 saw the release of The Lost Metal, the seventh volume in the Mistborn saga, and the final volume of the Mistborn Era Two featuring Wax & Wayne. The third era of Mistborn is slated to be written after the first arc of the Stormlight Archive wraps up.\r\n\r\nIn November 2020 we saw the release of Rhythm of War—the fourth massive book in the New York Times #1 bestselling Stormlight Archive series that began with The Way of Kings—and Dawnshard (book 3.5), a novella set in the same world that bridges the gaps between the main releases. This series is my love letter to the epic fantasy genre, and it’s the type of story I always dreamed epic fantasy could be. The fifth volume, Wind and Truth, is set for release in fall 2024.\r\n\r\nMost readers have noticed that my adult fantasy novels are in a connected universe called the Cosmere. This includes The Stormlight Archive, both Mistborn series, Elantris, Warbreaker, and various novellas available on Amazon, including The Emperor’s Soul, which won a Hugo Award in 2013. In November 2016 all of the existing Cosmere short fiction was released in one volume called Arcanum Unbounded. If you’ve read all of my adult fantasy novels and want to see some behind-the-scenes information, that collection is a must-read.\r\n\r\nI also have three YA series: The Rithmatist (currently at one book), The Reckoners (a trilogy beginning with Steelheart), and Skyward. For young readers I also have my humorous series Alcatraz vs. the Evil Librarians, which had its final book, Bastille vs. the Evil Librarians, come out in 2022. Many of my adult readers enjoy all of those books as well, and many of my YA readers enjoy my adult books, usually starting with Mistborn.\r\n\r\nAdditionally, I have a few other novellas that are more on the thriller/sci-fi side. These include the Legion series, as well as Perfect State and Snapshot. There’s a lot of material to go around!\r\n\r\nGood starting places are Mistborn (a.k.a. The Final Empire), Skyward, Steelheart,The Emperor’s Soul, and Alcatraz vs. the Evil Librarians. If you’re already a fan of big fat fantasies, you can jump right into The Way of Kings.\r\n\r\nI was also honored to be able to complete the final three volumes of The Wheel of Time, beginning with The Gathering Storm, using Robert Jordan’s notes.\r\n\r\nSample chapters from all of my books are available at brandonsanderson.com—and check out the rest of my site for chapter-by-chapter annotations, deleted scenes, and more.",
+                "links": [
+                    {
+                        "url": "http://www.goodreads.com/author/show/38550.Brandon_Sanderson",
+                        "name": "Goodreads"
+                    }
+                ],
+                "images": [
+                    {
+                        "url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/authors/1394044556i/38550.jpg",
+                        "coverType": "poster",
+                        "extension": ".jpg"
+                    }
+                ],
+                "path": "/media/Brandon Sanderson",
+                "qualityProfileId": 1,
+                "metadataProfileId": 1,
+                "monitored": true,
+                "monitorNewItems": "all",
+                "genres": [],
+                "cleanName": "brandonsanderson",
+                "sortName": "brandon sanderson",
+                "sortNameLastFirst": "sanderson, brandon",
+                "tags": [],
+                "added": "2025-03-05T12:25:17Z",
+                "ratings": {
+                    "votes": 5998442,
+                    "value": 4.41,
+                    "popularity": 26453129.220000003
+                },
+                "statistics": {
+                    "bookFileCount": 0,
+                    "bookCount": 0,
+                    "availableBookCount": 0,
+                    "totalBookCount": 0,
+                    "sizeOnDisk": 0,
+                    "percentOfBooks": 0
+                },
+                "id": 2
+            },
+            "id": 2
+        },
+        {
+            "bookId": 412,
+            "authorId": 2,
+            "sourceTitle": "Brandon Sanderson - [Stormlight Archive 05] - Wind and Truth (retail) (epub)",
+            "quality": {
+                "quality": {
+                    "id": 3,
+                    "name": "EPUB"
+                },
+                "revision": {
+                    "version": 1,
+                    "real": 0,
+                    "isRepack": false
+                }
+            },
+            "customFormats": [],
+            "customFormatScore": 0,
+            "qualityCutoffNotMet": false,
+            "date": "2025-03-07T11:02:55Z",
+            "downloadId": "SABnzbd_nzo_1y7eb7tu",
+            "eventType": "grabbed",
+            "data": {
+                "indexer": "NzbPlanet (Prowlarr)",
+                "nzbInfoUrl": "https://nzbplanet.org/details/126c21a78582e48d5db13067fed96ff9",
+                "releaseGroup": null,
+                "age": "0",
+                "ageHours": "0.21397351227777778",
+                "ageMinutes": "12.838410835",
+                "publishedDate": "2025-03-07T10:50:05Z",
+                "downloadClient": "SABnzbd",
+                "downloadClientName": "sab",
+                "size": "60428421",
+                "downloadUrl": "http://prowlarr:9696/7/download?apikey=5f771c1869f94fec821832369384a70c&link=eVlXZUJVVlk2aEJ6VlJTK2pnWEE5bk5CaThpQTN0V3hlaVBBckVWNnJRcUlLR3BDVkZ6Zko5OHYzSDhJaHA2VDMyYk1iNlNKWTZxY3RNS2J2K0U0Ryt6NEUrdnRJdUpyc2FBNWxzQjI1U0NQczZWUEdDOVZtUXVHcWsydThDQ0VPVE1teEo1UzRMWnhQMmd0S2F0WU5zUFg1ZjVxbm1QQk1mdGZxamNSdHdrPQ&file=Brandon+Sanderson+-+%5BStormlight+Archive+05%5D+-+Wind+and+Truth+(retail)+(epub)",
+                "guid": "https://nzbplanet.org/details/126c21a78582e48d5db13067fed96ff9",
+                "protocol": "1",
+                "downloadForced": "False",
+                "customFormatScore": "0",
+                "releaseSource": "Rss",
+                "indexerFlags": "0"
+            },
+            "book": {
+                "title": "Wind and Truth",
+                "authorTitle": "sanderson, brandon Wind and Truth",
+                "seriesTitle": "The Stormlight Archive #5",
+                "disambiguation": "",
+                "authorId": 2,
+                "foreignBookId": "23840276",
+                "foreignEditionId": "203608754",
+                "titleSlug": "23840276",
+                "monitored": true,
+                "anyEditionOk": true,
+                "ratings": {
+                    "votes": 0,
+                    "value": 4.65,
+                    "popularity": 0
+                },
+                "releaseDate": "2024-12-05T16:00:00Z",
+                "pageCount": 1248,
+                "genres": [
+                    "fantasy",
+                    "fiction",
+                    "epic-fantasy",
+                    "adult",
+                    "high-fantasy",
+                    "magic",
+                    "science-fiction-fantasy",
+                    "speculative-fiction"
+                ],
+                "images": [
+                    {
+                        "url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1702996128i/203608754.jpg",
+                        "coverType": "cover",
+                        "extension": ".jpg"
+                    }
+                ],
+                "links": [
+                    {
+                        "url": "https://www.goodreads.com/work/editions/23840276",
+                        "name": "Goodreads Editions"
+                    },
+                    {
+                        "url": "https://www.goodreads.com/book/show/203608754-wind-and-truth",
+                        "name": "Goodreads Book"
+                    }
+                ],
+                "added": "2025-03-05T12:25:23Z",
+                "grabbed": false,
+                "id": 412
+            },
+            "author": {
+                "authorMetadataId": 2,
+                "status": "continuing",
+                "ended": false,
+                "authorName": "Brandon Sanderson",
+                "authorNameLastFirst": "Sanderson, Brandon",
+                "foreignAuthorId": "38550",
+                "titleSlug": "38550",
+                "overview": "I’m Brandon Sanderson, and I write stories of the fantastic: fantasy, science fiction, and thrillers.\r\n\r\nDefiant, the fourth and final volume of the series that started with Skyward in 2018, comes out in November 2023, capping an already book-filled year that will see the releases of all four Secret Projects: Tress of the Emerald Sea, The Frugal Wizard’s Handbook for Surviving Medieval England, Yumi and the Nightmare Painter, and Secret Project Four (with its official title reveal coming October 2023). These four books were all initially offered to backers of the #1 Kickstarter campaign of all time.\r\n\r\nNovember 2022 saw the release of The Lost Metal, the seventh volume in the Mistborn saga, and the final volume of the Mistborn Era Two featuring Wax & Wayne. The third era of Mistborn is slated to be written after the first arc of the Stormlight Archive wraps up.\r\n\r\nIn November 2020 we saw the release of Rhythm of War—the fourth massive book in the New York Times #1 bestselling Stormlight Archive series that began with The Way of Kings—and Dawnshard (book 3.5), a novella set in the same world that bridges the gaps between the main releases. This series is my love letter to the epic fantasy genre, and it’s the type of story I always dreamed epic fantasy could be. The fifth volume, Wind and Truth, is set for release in fall 2024.\r\n\r\nMost readers have noticed that my adult fantasy novels are in a connected universe called the Cosmere. This includes The Stormlight Archive, both Mistborn series, Elantris, Warbreaker, and various novellas available on Amazon, including The Emperor’s Soul, which won a Hugo Award in 2013. In November 2016 all of the existing Cosmere short fiction was released in one volume called Arcanum Unbounded. If you’ve read all of my adult fantasy novels and want to see some behind-the-scenes information, that collection is a must-read.\r\n\r\nI also have three YA series: The Rithmatist (currently at one book), The Reckoners (a trilogy beginning with Steelheart), and Skyward. For young readers I also have my humorous series Alcatraz vs. the Evil Librarians, which had its final book, Bastille vs. the Evil Librarians, come out in 2022. Many of my adult readers enjoy all of those books as well, and many of my YA readers enjoy my adult books, usually starting with Mistborn.\r\n\r\nAdditionally, I have a few other novellas that are more on the thriller/sci-fi side. These include the Legion series, as well as Perfect State and Snapshot. There’s a lot of material to go around!\r\n\r\nGood starting places are Mistborn (a.k.a. The Final Empire), Skyward, Steelheart,The Emperor’s Soul, and Alcatraz vs. the Evil Librarians. If you’re already a fan of big fat fantasies, you can jump right into The Way of Kings.\r\n\r\nI was also honored to be able to complete the final three volumes of The Wheel of Time, beginning with The Gathering Storm, using Robert Jordan’s notes.\r\n\r\nSample chapters from all of my books are available at brandonsanderson.com—and check out the rest of my site for chapter-by-chapter annotations, deleted scenes, and more.",
+                "links": [
+                    {
+                        "url": "http://www.goodreads.com/author/show/38550.Brandon_Sanderson",
+                        "name": "Goodreads"
+                    }
+                ],
+                "images": [
+                    {
+                        "url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/authors/1394044556i/38550.jpg",
+                        "coverType": "poster",
+                        "extension": ".jpg"
+                    }
+                ],
+                "path": "/media/Brandon Sanderson",
+                "qualityProfileId": 1,
+                "metadataProfileId": 1,
+                "monitored": true,
+                "monitorNewItems": "all",
+                "genres": [],
+                "cleanName": "brandonsanderson",
+                "sortName": "brandon sanderson",
+                "sortNameLastFirst": "sanderson, brandon",
+                "tags": [],
+                "added": "2025-03-05T12:25:17Z",
+                "ratings": {
+                    "votes": 5998442,
+                    "value": 4.41,
+                    "popularity": 26453129.220000003
+                },
+                "statistics": {
+                    "bookFileCount": 0,
+                    "bookCount": 0,
+                    "availableBookCount": 0,
+                    "totalBookCount": 0,
+                    "sizeOnDisk": 0,
+                    "percentOfBooks": 0
+                },
+                "id": 2
+            },
+            "id": 1
+        }
+    ]
+}
