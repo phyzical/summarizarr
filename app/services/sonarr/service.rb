@@ -16,8 +16,8 @@ module Sonarr
       Item.from_json(json:)
     end
 
-    def get_vars # rubocop:disable Naming/AccessorMethodName
-      { date: from_date, includeEpisode: true, includeSeries: true }
+    def get_vars(page: 1)
+      super.merge({ includeEpisode: true, includeSeries: true })
     end
 
     def app_name

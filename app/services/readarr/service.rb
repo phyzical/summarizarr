@@ -21,8 +21,8 @@ module Readarr
       Item.from_json(json:)
     end
 
-    def get_vars # rubocop:disable Naming/AccessorMethodName
-      { date: from_date, includeBook: true, includeAuthor: true }
+    def get_vars(page: 1)
+      super.merge({ includeBook: true, includeAuthor: true })
     end
 
     def app_name

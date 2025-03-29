@@ -16,8 +16,8 @@ module Radarr
       Item.from_json(json:)
     end
 
-    def get_vars # rubocop:disable Naming/AccessorMethodName
-      { date: from_date, includeMovie: true }
+    def get_vars(page: 1)
+      super.merge({ includeMovie: true })
     end
 
     def app_name
