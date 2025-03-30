@@ -1,8 +1,8 @@
 module.exports = {
+  username: 'renovate',
   onboarding: false,
   requireConfig: 'optional',
-  // the housekeeping workflow handles this
-  automerge: false,
+  automerge: true,
   ignoreTests: false,
   platform: 'github',
   forkProcessing: 'enabled',
