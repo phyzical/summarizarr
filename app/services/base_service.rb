@@ -55,8 +55,8 @@ class BaseService
   end
   # :nocov:
 
-  def filter(*)
-    true
+  def filter(item:)
+    self.class.module_parent::Item::EVENT_TYPES.value?(item.event_type)
   end
 
   def config
