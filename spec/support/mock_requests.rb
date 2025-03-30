@@ -48,12 +48,19 @@ module MockRequests
     stub_endpoint("#{base_url}#{Bazarr::Service.status_endpoint}")
   end
 
+  def stub_mylar3
+    base_url = load_config.mylar3.base_url
+    stub_endpoint("#{base_url}#{Mylar3::Service.api_prefix}?cmd=#{Mylar3::Service.status_cmd}")
+    stub_endpoint("#{base_url}#{Mylar3::Service.api_prefix}?cmd=#{Mylar3::Service.history_cmd}")
+  end
+
   def stub_all
     stub_readarr
     stub_lidarr
     stub_bazarr
     stub_sonarr
     stub_radarr
+    stub_mylar3
     stub_fakeserver
   end
 
