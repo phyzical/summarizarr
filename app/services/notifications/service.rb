@@ -1,19 +1,18 @@
 # frozen_string_literal: true
 
 module Notifications
-  module Service
-    class << self
-      def notify(contents:)
-        discord.enabled? ? Discord.notify(contents:) : Generic.notify(contents:)
-      end
+  class Service
+    def notify(contents:)
+      @notify ||= discord.enabled? ? Discord.new : Generic.new
+      @notify.notify(contents:)
+    end
 
-      private
+    private
 
-      delegate :discord, to: :config
+    delegate :discord, to: :config
 
-      def config
-        @config ||= Config.get
-      end
+    def config
+      @config ||= Config.get
     end
   end
 end

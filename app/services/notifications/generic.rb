@@ -2,10 +2,8 @@
 
 module Notifications
   module Generic
-    class << self
-      def notify(contents:)
-        pp contents
-      end
+    def notify(contents:)
+      pp contents
     end
   end
 end
