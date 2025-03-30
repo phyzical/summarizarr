@@ -9,50 +9,26 @@ module Mylar3
 
       let(:full_json) do
         JSON.parse(
-          File.read("spec/support/requests/mylar3#{Service.history_endpoint}", encoding: 'bom|utf-8'),
+          File.read(
+            "spec/support/requests/mylar3#{Service.api_prefix}?cmd=#{Service.history_cmd}.json",
+            encoding: 'bom|utf-8'
+          ),
           symbolize_names: true
         )[
-          :records
+          :data
         ]
       end
 
       context 'when item is downloadImported' do
-        let(:json) { full_json.find { |x| x[:eventType] == described_class::EVENT_TYPES[:track_file_imported] } }
+        let(:json) { full_json.find { |x| x[:Status] == described_class::EVENT_TYPES[:post_processed] } }
 
         it 'runs' do
           expect(from_json.to_h).to match(
             {
-              event_type: described_class::EVENT_TYPES[:track_file_imported],
-              album: 'Fantasy Remixes',
-              artist: 'M83',
-              date: Date.parse('28/03/2025'),
-              title: 'Fantasy',
-              image:
-                'http://assets.fanart.tv/fanart/music/6d7b7cd4-254b-4c25-83f6-dd20f98ceacd/artistbackground/m83-505e6f72ddbe3.jpg',
-              deletion?: false,
-              quality: 'MP3-320',
-              old_quality: nil
-            }
-          )
-        end
-      end
-
-      context 'when item is trackFileDeleted' do
-        let(:json) { full_json.find { |x| x[:eventType] == described_class::EVENT_TYPES[:track_file_deleted] } }
-
-        it 'runs' do
-          expect(from_json.to_h).to eq(
-            {
-              event_type: described_class::EVENT_TYPES[:track_file_deleted],
-              album: 'Fantasy Remixes',
-              artist: 'M83',
-              date: Date.parse('28/03/2025'),
-              title: 'Fantasy',
-              image:
-                'http://assets.fanart.tv/fanart/music/6d7b7cd4-254b-4c25-83f6-dd20f98ceacd/artistbackground/m83-505e6f72ddbe3.jpg',
-              deletion?: true,
-              quality: 'MP3-320',
-              old_quality: nil
+              event_type: described_class::EVENT_TYPES[:post_processed],
+              date: Date.parse('25/03/2025'),
+              title: 'The Walking Dead Deluxe 109',
+              deletion?: false
             }
           )
         end
@@ -62,20 +38,10 @@ module Mylar3
     describe '#summary' do
       subject(:summary) { item.summary }
 
-      let(:item) { build(:lidarr_item, old_quality:) }
-
-      let(:old_quality) { nil }
+      let(:item) { build(:mylar3_item) }
 
       it 'when no old_quality' do
-        expect(summary).to eq("#{item.title} has downloaded at #{item.quality}")
-      end
-
-      context 'when old_quality is present' do
-        let(:old_quality) { 'MP3-280' }
-
-        it 'runs' do
-          expect(summary).to eq("#{item.title} has upgraded from #{item.old_quality} to #{item.quality}")
-        end
+        expect(summary).to eq("#{item.title} has downloaded")
       end
     end
   end
