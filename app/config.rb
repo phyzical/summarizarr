@@ -14,6 +14,10 @@ module Config
         @from_date ||= ENV.fetch('SUMMARY_DAYS', '7').to_i.days.ago.to_date
       end
 
+      def rerun_date
+        @rerun_date ||= ENV.fetch('RERUN_INTERVAL_DAYS', '7').to_i.days.to_date
+      end
+
       def sonarr
         @sonarr ||=
           AppConfig.new(

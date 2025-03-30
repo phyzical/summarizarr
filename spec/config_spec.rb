@@ -67,4 +67,12 @@ RSpec.describe Config do
       expect(from_date).to match(7.days.ago.to_date)
     end
   end
+
+  describe '#rerun_date' do
+    subject(:rerun_date) { config.rerun_date }
+
+    it 'has a default config' do
+      expect(rerun_date).to match(7.days.to_date)
+    end
+  end
 end
