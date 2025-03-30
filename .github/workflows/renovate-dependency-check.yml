@@ -19,11 +19,7 @@ on:
 jobs:
   renovate:
     permissions:
-      id-token: write
-      contents: write
-      statuses: write
-      issues: write
-      pull-requests: write
+      contents: read
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
