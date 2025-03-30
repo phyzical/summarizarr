@@ -6,6 +6,7 @@ module Config
   end
 
   AppConfig = Struct.new(:base_url, :api_key)
+  NotificationConfig = Struct.new(:webhook_url, :enabled?)
 
   Thing =
     Struct.new do
@@ -59,6 +60,12 @@ module Config
             base_url: ENV.fetch('BAZARR_URL', 'http://bazarr:6767'),
             api_key: ENV.fetch('BAZARR_API_KEY', '12345')
           )
+      end
+
+      def discord
+        return @discord if @discord
+        webhook_url = ENV.fetch('DISCORD_WEBHOOK_URL', nil)
+        @discord = NotificationConfig.new(webhook_url:, enabled?: webhook_url.present?)
       end
     end
 end

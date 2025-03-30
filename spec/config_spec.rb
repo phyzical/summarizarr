@@ -52,6 +52,14 @@ RSpec.describe Config do
     end
   end
 
+  describe '#discord' do
+    subject(:discord) { config.discord }
+
+    it 'has a default config' do
+      expect(discord.to_h).to eq(webhook_url: nil, enabled?: false)
+    end
+  end
+
   describe '#from_date' do
     subject(:from_date) { config.from_date }
 
