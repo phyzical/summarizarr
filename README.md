@@ -3,16 +3,16 @@
 <img src="./badges/badge-branches.svg" alt="Alt text" >
 <img src="./badges/badge-lines.svg" alt="Alt text"  >
 
-* supports sonarr
-* supports radarr
-* supports bazarr
-* supports lidarr
-* supports readarr
+* supports [sonarr](https://github.com/Sonarr/Sonarr)
+* supports [radarr](https://github.com/Radarr/Radarr)
+* supports [bazarr](https://github.com/morpheus65535/bazarr)
+* supports [lidarr](https://github.com/Lidarr/Lidarr)
+* supports [readarr](https://github.com/Radarr/Radarr)
+* supports [mylar3](https://github.com/mylar3/mylar3)
 
 TODO:
 
-* support mymar
-* support tdarr
+* support [tdarr](https://github.com/HaveAGitGat/Tdarr)
 * improve the notification contents
 
 ## Envs
@@ -42,6 +42,10 @@ NOTE: if you using the env file you need to quote your variables, if your provid
 | READARR_URL     | only if you want readarr summaries | '<http://readarr:8787>' | Url to your readarr instance      |
 |                 |                                    |                         |                                   |
 | READARR_API_KEY | only if you want readarr summaries | '12345'                 | api key for your readarr instance |
+|                 |                                    |                         |                                   |
+| MYLAR3_URL      | only if you want mylar3 summaries  | '<http://mylar3:8090>'  | Url to your mylar3 instance       |
+|                 |                                    |                         |                                   |
+| MYLAR3_API_KEY  | only if you want mylar3 summaries  | '12345'                 | api key for your mylar3 instance  |
 |                 |                                    |                         |                                   |
 | SUMMARY_DAYS    | no                                 | '7'                     | The amount of days to summarise   |
 |                 |                                    |                         |                                   |

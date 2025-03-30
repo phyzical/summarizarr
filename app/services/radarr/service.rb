@@ -8,10 +8,6 @@ module Radarr
 
     private
 
-    def filter(item:)
-      Item::EVENT_TYPES.value?(item.event_type)
-    end
-
     def map(json:)
       Item.from_json(json:)
     end

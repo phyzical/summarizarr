@@ -8,6 +8,7 @@ FactoryBot.define do
     artist { Faker::Music.band }
     image { Faker::Internet.url }
     deletion? { Faker::Boolean.boolean }
+    date { Faker::Date.between(from: 2.days.ago, to: Date.today) }
     quality { Faker::Quality.music }
   end
 end

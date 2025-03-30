@@ -1,0 +1,10 @@
+{
+    "success": true,
+    "data": {
+        "git_path": null,
+        "install_type": "docker",
+        "current_version": "1a8c6581c8fd9b8873b7bdd920e9b7d8f59a8f42",
+        "latest_version": "1a8c6581c8fd9b8873b7bdd920e9b7d8f59a8f42",
+        "commits_behind": null
+    }
+}

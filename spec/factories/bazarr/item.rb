@@ -8,6 +8,6 @@ FactoryBot.define do
     episode_number { Faker::Number.decimal(l_digits: 2) }
     score { "#{Faker::Number.decimal(l_digits: 2)}%" }
     description { "downloaded from xyz with a score of #{score}." }
-    date { Faker::Date.between(from: 2.days.ago, to: Date.today).strftime('%d/%m/%Y') }
+    date { Faker::Date.between(from: 2.days.ago, to: Date.today) }
   end
 end

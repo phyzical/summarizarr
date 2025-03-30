@@ -40,6 +40,10 @@ module Bazarr
       Item.from_json(json:)
     end
 
+    def filter(*)
+      true
+    end
+
     def get_vars # rubocop:disable Naming/AccessorMethodName
       { length: ITEM_MAX, page: 0 }
     end

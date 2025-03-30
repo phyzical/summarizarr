@@ -30,12 +30,6 @@ class GenericArrService < BaseService
   end
 
   # :nocov:
-  def filter(*)
-    raise 'Please implement in subclass'
-  end
-  # :nocov:
-
-  # :nocov:
   def map(*)
     raise 'Please implement in subclass'
   end
