@@ -1,4 +1,4 @@
-# summarizarr
+# summarizarr <img src="icon.png" width="30" >
 
 <img src="./badges/badge-branches.svg" alt="Alt text" >
 <img src="./badges/badge-lines.svg" alt="Alt text"  >

@@ -6,7 +6,7 @@ module Config
   end
 
   AppConfig = Struct.new(:base_url, :api_key)
-  NotificationConfig = Struct.new(:webhook_url, :enabled?)
+  NotificationConfig = Struct.new(:webhook_url, :enabled?, :username, :avatar_url)
 
   Thing =
     Struct.new do
@@ -65,7 +65,13 @@ module Config
       def discord
         return @discord if @discord
         webhook_url = ENV.fetch('DISCORD_WEBHOOK_URL', nil)
-        @discord = NotificationConfig.new(webhook_url:, enabled?: webhook_url.present?)
+        @discord =
+          NotificationConfig.new(
+            webhook_url:,
+            enabled?: webhook_url.present?,
+            username: ENV.fetch('DISCORD_USERNAME', 'Summarizarr Bot'),
+            avatar_url: ENV.fetch('DISCORD_AVATAR_URL', 'https://github.com/phyzical/summarizarr/blob/main/icon.png')
+          )
       end
     end
 end
