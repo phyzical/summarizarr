@@ -5,21 +5,21 @@ class Main
     last_run_time = nil
     loop do
       if last_run_time
-        sleep_time = last_run_time + rerun_date - Time.now
+        sleep_time = rerun_datetime.to_f - DateTime.now.to_f
         if sleep_time.positive?
           puts "Sleeping for #{sleep_time} seconds"
           sleep(sleep_time)
         end
       end
-      contents = Summary::Service.new.generate
-      Notifications::Service.new.notify(contents:)
-      last_run_time = Time.now
+      #  TODO: add a test to make sure the date changes for each loop
+      Notifications::Service.notify(contents: Summary::Service.generate)
+      last_run_time = DateTime.now
     end
   end
 
   private
 
-  delegate :rerun_date, to: :config
+  delegate :rerun_datetime, to: :config
 
   def config
     @config ||= Config.get

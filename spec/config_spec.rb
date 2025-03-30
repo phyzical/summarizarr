@@ -56,7 +56,12 @@ RSpec.describe Config do
     subject(:discord) { config.discord }
 
     it 'has a default config' do
-      expect(discord.to_h).to eq(webhook_url: nil, enabled?: false)
+      expect(discord.to_h).to eq(
+        webhook_url: nil,
+        enabled?: false,
+        username: 'Summarizarr Bot',
+        avatar_url: 'https://github.com/phyzical/summarizarr/blob/main/icon.png'
+      )
     end
   end
 
@@ -68,11 +73,11 @@ RSpec.describe Config do
     end
   end
 
-  describe '#rerun_date' do
-    subject(:rerun_date) { config.rerun_date }
+  describe '#rerun_datetime' do
+    subject(:rerun_datetime) { config.rerun_datetime }
 
     it 'has a default config' do
-      expect(rerun_date).to match(7.days.to_date)
+      expect(rerun_datetime).to match(DateTime.now + 7.days)
     end
   end
 end
