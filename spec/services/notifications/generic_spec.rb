@@ -4,11 +4,13 @@ require 'spec_helper'
 
 module Notifications
   RSpec.describe Generic do
+    subject(:service) { described_class }
     let(:contents) { { message: 'Test message' } }
 
     describe '.notify' do
+      subject(:notify) { service.notify(contents:) }
       it 'prints the contents' do
-        expect { described_class.notify(contents:) }.to output(/Test message/).to_stdout
+        expect { notify }.to output(/Test message/).to_stdout
       end
     end
   end
