@@ -2,14 +2,8 @@
 
 Dir[File.join(__dir__, 'app', '**', '**', '*.rb')].each { |file| require_relative file }
 
-module Main
-  def self.run
-    Notifications::Service.notify(contents: Summary::Service.generate)
-  end
-end
-
 # :nocov:
-Main.run if __FILE__ == $PROGRAM_NAME
+Main.new.run if __FILE__ == $PROGRAM_NAME
 # :nocov:
 
 #  TODOS
