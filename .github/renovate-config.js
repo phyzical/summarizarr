@@ -1,5 +1,4 @@
 module.exports = {
-  username: 'renovate',
   onboarding: false,
   requireConfig: 'optional',
   automerge: true,
