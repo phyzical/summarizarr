@@ -8,5 +8,6 @@ FactoryBot.define do
     image { Faker::Internet.url }
     deletion? { Faker::Boolean.boolean }
     quality { Faker::Quality.tv }
+    date { Faker::Date.between(from: 2.days.ago, to: Date.today) }
   end
 end
