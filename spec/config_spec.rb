@@ -44,6 +44,14 @@ RSpec.describe Config do
     end
   end
 
+  describe '#mylar3' do
+    subject(:mylar3) { config.mylar3 }
+
+    it 'has a default config' do
+      expect(mylar3.to_h).to eq(base_url: 'http://mylar3:8090', api_key: '12345')
+    end
+  end
+
   describe '#from_date' do
     subject(:from_date) { config.from_date }
 

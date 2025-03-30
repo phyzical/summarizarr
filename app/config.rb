@@ -45,6 +45,14 @@ module Config
           )
       end
 
+      def mylar3
+        @mylar3 ||=
+          AppConfig.new(
+            base_url: ENV.fetch('MYLAR3_URL', 'http://mylar3:8090'),
+            api_key: ENV.fetch('MYLAR3_API_KEY', '12345')
+          )
+      end
+
       def bazarr
         @bazarr ||=
           AppConfig.new(
