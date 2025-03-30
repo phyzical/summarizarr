@@ -48,6 +48,7 @@ NOTE: if you using the env file you need to quote your variables, if your provid
 | MYLAR3_API_KEY      | only if you want mylar3 summaries  | '12345'                 | api key for your mylar3 instance        |
 |                     |                                    |                         |                                         |
 | DISCORD_WEBHOOK_URL | If not provided stdout is used     | ''                      | webhook url to send the notification to |
+|                     |                                    |                         | Note: this should work for any webhook  |
 |                     |                                    |                         |                                         |
 | SUMMARY_DAYS        | no                                 | '7'                     | The amount of days to summarise         |
 |                     |                                    |                         |                                         |
