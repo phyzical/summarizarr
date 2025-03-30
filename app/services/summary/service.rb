@@ -1,9 +1,16 @@
 # frozen_string_literal: true
 
 module Summary
-  class Service
-    SERVICES = [Radarr::Service, Sonarr::Service, Bazarr::Service].freeze
-    def generate
+  module Service
+    SERVICES = [
+      Radarr::Service,
+      Sonarr::Service,
+      Bazarr::Service,
+      Lidarr::Service,
+      Mylar3::Service,
+      Readarr::Service
+    ].freeze
+    def self.generate
       SERVICES.map { |x| x.new.summary }.join("\n")
     end
   end
