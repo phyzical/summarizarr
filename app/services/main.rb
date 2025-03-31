@@ -9,7 +9,6 @@ class Main
         puts "Sleeping for #{sleep_time} seconds"
         sleep(sleep_time)
       end
-      #  TODO: add a test to make sure the date changes for each loop
       Notifications::Service.notify(contents: Summary::Service.generate)
       last_run_time = DateTime.now
     end
