@@ -9,10 +9,10 @@
 * supports [lidarr](https://github.com/Lidarr/Lidarr)
 * supports [readarr](https://github.com/Radarr/Radarr)
 * supports [mylar3](https://github.com/mylar3/mylar3)
+* supports [tdarr](https://github.com/HaveAGitGat/Tdarr)
 
 TODO:
 
-* support [tdarr](https://github.com/HaveAGitGat/Tdarr)
 * improve the notification contents
 
 ## Envs
@@ -46,6 +46,8 @@ NOTE: if you using the env file you need to quote your variables, if your provid
 | MYLAR3_URL          | Only if you want mylar3 summaries  | '<http://mylar3:8090>'                                         | Url to your mylar3 instance               |
 |                     |                                    |                                                                |                                           |
 | MYLAR3_API_KEY      | Only if you want mylar3 summaries  | '12345'                                                        | Api key for your mylar3 instance          |
+|                     |                                    |                                                                |                                           |
+| TDARR_URL           | Only if you want tdarr summaries   | '<http://tdarr:8266>'                                          | Url to your tdarr instance                |
 |                     |                                    |                                                                |                                           |
 | DISCORD_WEBHOOK_URL | If not provided stdout is used     | ''                                                             | Webhook url to send the notification to   |
 |                     |                                    |                                                                | Note: this should work for any webhook    |

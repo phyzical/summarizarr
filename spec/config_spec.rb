@@ -52,6 +52,14 @@ RSpec.describe Config do
     end
   end
 
+  describe '#tdarr' do
+    subject(:tdarr) { config.tdarr }
+
+    it 'has a default config' do
+      expect(tdarr.to_h).to eq(base_url: 'http://tdarr:8266', api_key: '')
+    end
+  end
+
   describe '#discord' do
     subject(:discord) { config.discord }
 
