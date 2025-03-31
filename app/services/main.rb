@@ -6,10 +6,8 @@ class Main
     loop do
       if last_run_time
         sleep_time = rerun_datetime.to_f - DateTime.now.to_f
-        if sleep_time.positive?
-          puts "Sleeping for #{sleep_time} seconds"
-          sleep(sleep_time)
-        end
+        puts "Sleeping for #{sleep_time} seconds"
+        sleep(sleep_time)
       end
       #  TODO: add a test to make sure the date changes for each loop
       Notifications::Service.notify(contents: Summary::Service.generate)

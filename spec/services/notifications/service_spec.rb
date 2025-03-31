@@ -10,11 +10,10 @@ module Notifications
       allow(Generic).to receive(:notify).and_return(true)
     end
 
-    let(:service) { described_class }
     let(:config) { { webhook_url: Faker::Internet.url, enabled?: true } }
 
     describe '.notify' do
-      subject(:notify) { service.notify(contents:) }
+      subject(:notify) { described_class.notify(contents:) }
 
       let(:contents) { 'test' }
 
@@ -29,6 +28,7 @@ module Notifications
         let(:config) { { webhook_url: nil, enabled?: false } }
 
         it 'calls Generic::Notification.notify' do
+          notify
           expect(Generic).to have_received(:notify).with(contents:)
         end
       end

@@ -4,8 +4,7 @@ module Notifications
   module Service
     class << self
       def notify(contents:)
-        @notify ||= discord.enabled? ? Discord : Generic
-        @notify.notify(contents:)
+        (discord.enabled? ? Discord : Generic).notify(contents:)
       end
 
       private

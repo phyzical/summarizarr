@@ -10,7 +10,9 @@ module Request
       def perform
         puts "Requesting #{http_request.uri}"
         response = http.request(http_request)
-        return JSON.parse(response.body.force_encoding('UTF-8'), symbolize_names: true) if response.code == '200'
+        if response.code == '200' && response.body != ''
+          return JSON.parse(response.body.force_encoding('UTF-8'), symbolize_names: true)
+        end
         {}
       end
 
@@ -19,11 +21,11 @@ module Request
       def http_request
         return @http_request if @http_request
         uris = URI.encode_www_form(**get_vars) if get_vars.any?
-        pp url
+        # pp url
         @http_request = net_type.new(URI("#{url}#{uris ? "?#{uris}" : ''}"), **headers)
         @http_request['Content-Type'] = 'application/json'
         @http_request['Accept'] = 'application/json'
-        @http_request.body = body.to_json if body != {}
+        @http_request.body = body if body != {}
         @http_request
       end
 
@@ -34,12 +36,8 @@ module Request
       end
 
       def net_type
-        case type
-        when :get
-          Net::HTTP::Get
-        when :post
-          Net::HTTP::Post
-        end
+        return Net::HTTP::Post if type == :post
+        Net::HTTP::Get
       end
     end
 end
