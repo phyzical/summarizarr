@@ -84,7 +84,6 @@ module MockRequests
   private
 
   def count_pages(url:)
-    pp "spec/support/requests/#{url}*"
     Dir.glob("spec/support/requests/#{url}*").count
   end
 
