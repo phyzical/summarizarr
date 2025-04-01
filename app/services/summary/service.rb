@@ -8,7 +8,8 @@ module Summary
       Bazarr::Service,
       Lidarr::Service,
       Mylar3::Service,
-      Readarr::Service
+      Readarr::Service,
+      Tdarr::Service
     ].freeze
     def self.generate
       SERVICES.map { |x| x.new.summary }.join("\n")
