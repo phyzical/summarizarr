@@ -66,6 +66,10 @@ module Config
           )
       end
 
+      def tdarr
+        @tdarr ||= AppConfig.new(base_url: ENV.fetch('TDARR_URL', 'http://tdarr:8266'), api_key: '')
+      end
+
       def discord
         return @discord if @discord
         webhook_url = ENV.fetch('DISCORD_WEBHOOK_URL', nil)

@@ -16,6 +16,7 @@ RSpec.describe Summary::Service do
       allow(Mylar3::Service).to receive(:new).and_call_original
       allow(Readarr::Service).to receive(:new).and_call_original
       allow(Bazarr::Service).to receive(:new).and_call_original
+      allow(Tdarr::Service).to receive(:new).and_call_original
     end
 
     it 'returns a string' do
@@ -26,6 +27,7 @@ RSpec.describe Summary::Service do
       expect(Mylar3::Service).to have_received(:new)
       expect(Readarr::Service).to have_received(:new)
       expect(Bazarr::Service).to have_received(:new)
+      expect(Tdarr::Service).to have_received(:new)
     end
   end
 end

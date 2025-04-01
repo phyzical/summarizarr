@@ -3,6 +3,7 @@
 module Summary
   module Service
     SERVICES = [
+      Tdarr::Service,
       Radarr::Service,
       Sonarr::Service,
       Bazarr::Service,

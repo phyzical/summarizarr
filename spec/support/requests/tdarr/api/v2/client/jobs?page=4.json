@@ -1,0 +1,28 @@
+{
+    "array": [
+        {
+            "_id": "zl279G5Al",
+            "start": 1643389788310,
+            "end": 1643390412714,
+            "duration": 624404,
+            "job": {
+                "version": "2.35.02",
+                "footprintId": "e1vS2BBDOq",
+                "jobId": "zl279G5Al",
+                "start": 1643389788310,
+                "type": "transcode",
+                "fileId": "e1vS2BBDOq()2.35.02()transcode()zl279G5Al()1743389788310.txt"
+            },
+            "file": "/mnt/media/Documentaires/tv shows/World's Most Evil Killers/Season 9/World's.Most.Evil.Killers.S09E07.Emanuel.Lovell.Webb.mkv",
+            "DB": "tfx-MHOPZ",
+            "nodeID": "UN6_tzuO9",
+            "workerGenus": "flow",
+            "fileSizeStartGB": 2.5338396932929754,
+            "fileSizeEndGB": 1.5931796012446284,
+            "fileSizeDiffGB": 0.940660092048347,
+            "fileSizeRatio": 62.88,
+            "status": "Transcode success"
+        }
+    ],
+    "totalCount": 1750
+}
