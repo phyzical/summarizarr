@@ -8,7 +8,7 @@ module Request
   Thing =
     Struct.new(:type, :url, :headers, :get_vars, :body) do
       def perform
-        puts "Requesting #{http_request.uri}"
+        # puts "Requesting #{http_request.uri}"
         response = http.request(http_request)
         if response.code == '200' && response.body != ''
           return JSON.parse(response.body.force_encoding('UTF-8'), symbolize_names: true)
@@ -21,7 +21,6 @@ module Request
       def http_request
         return @http_request if @http_request
         uris = URI.encode_www_form(**get_vars) if get_vars.any?
-        # pp url
         @http_request = net_type.new(URI("#{url}#{uris ? "?#{uris}" : ''}"), **headers)
         @http_request['Content-Type'] = 'application/json'
         @http_request['Accept'] = 'application/json'

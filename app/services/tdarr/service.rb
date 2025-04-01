@@ -21,9 +21,8 @@ module Tdarr
       end
     end
 
-    def pull(page: 0)
+    def pull(page: 1)
       page -= 1
-      page = 0 if page.negative?
       Request.perform(
         type: :post,
         url: "#{base_url}#{self.class.jobs_endpoint}",
@@ -73,11 +72,7 @@ module Tdarr
     end
 
     def pull_app_name
-      if Request.perform(url: "#{base_url}#{self.class.status_endpoint}", headers:)&.dig(:status).present?
-        app_name
-      else
-        'N/A'
-      end
+      Request.perform(url: "#{base_url}#{self.class.status_endpoint}", headers:)[:status].present? ? app_name : 'N/A'
     end
   end
 end
