@@ -2,6 +2,14 @@
 
 module Tdarr
   class Service < BaseService
+    def app_name
+      'Tdarr'
+    end
+
+    def app_colour
+      0x00FF00 # green
+    end
+
     private
 
     class << self
@@ -61,10 +69,6 @@ module Tdarr
 
     def headers
       { 'Content-Type' => 'application/json' }
-    end
-
-    def app_name
-      'Tdarr'
     end
 
     def app_config
