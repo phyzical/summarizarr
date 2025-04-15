@@ -6,6 +6,14 @@ module Radarr
     # curl -X 'GET' 'http://radarr:7878/api/v3/history?page=1&pageSize=15&includeMovie=true&apikey=asd'   -H 'accept: application/json' # rubocop:disable Layout/LineLength
     # curl -X 'GET' 'http://radarr:7878/api/v3/system/status?apikey=asd'   -H 'accept: application/json'
 
+    def app_name
+      'Radarr'
+    end
+
+    def app_colour
+      0x800080 # purple
+    end
+
     private
 
     def map(json:)
@@ -14,10 +22,6 @@ module Radarr
 
     def get_vars(page: 1)
       super.merge({ includeMovie: true })
-    end
-
-    def app_name
-      'Radarr'
     end
 
     def app_config

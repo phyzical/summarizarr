@@ -5,6 +5,14 @@ module Bazarr
     # TODO: We set this as pagination breaks the ordering
     ITEM_MAX = 5000
 
+    def app_name
+      'Bazarr'
+    end
+
+    def app_colour
+      0x808080 # grey
+    end
+
     private
 
     class << self
@@ -50,10 +58,6 @@ module Bazarr
 
     def headers
       { 'X-API-KEY' => api_key }
-    end
-
-    def app_name
-      'Bazarr'
     end
 
     def app_config
