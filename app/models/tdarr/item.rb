@@ -17,6 +17,9 @@ module Tdarr
     def self.from_json(json:)
       json[:deletion?] = false
       json[:date] = Time.at(json[:start] / 1000.0).to_date
+      json[:fileSizeStartGB] = json[:fileSizeStartGB].to_f.round(3)
+      json[:fileSizeEndGB] = json[:fileSizeEndGB].to_f.round(3)
+      json[:fileSizeRatio] = "#{json[:fileSizeRatio]}%"
       Thing.new(**json.slice(*ATTRIBUTES.keys).transform_keys { |k| ATTRIBUTES[k] })
     end
 
