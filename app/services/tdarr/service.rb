@@ -2,6 +2,25 @@
 
 module Tdarr
   class Service < BaseService
+    def app_name
+      'Tdarr'
+    end
+
+    def app_colour
+      0x00FF00 # green
+    end
+
+    def summary
+      size_before = items.reduce(0) { |sum, item| sum + item.size_before }.round(3)
+      size_after = items.reduce(0) { |sum, item| sum + item.size_after }.round(3)
+      size_difference = (size_before - size_after).round(3)
+      "* Processed #{items.count} items\n" \
+        "* Starting size: #{size_before} GB\n" \
+        "* Ending size: #{size_after} GB\n" \
+        "* Total Savings: #{size_difference} GB\n" \
+        "* Average Savings: #{(size_difference / items.count).round(3)} GB\n"
+    end
+
     private
 
     class << self
@@ -61,10 +80,6 @@ module Tdarr
 
     def headers
       { 'Content-Type' => 'application/json' }
-    end
-
-    def app_name
-      'Tdarr'
     end
 
     def app_config

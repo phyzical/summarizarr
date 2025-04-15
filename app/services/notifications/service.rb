@@ -3,8 +3,9 @@
 module Notifications
   module Service
     class << self
-      def notify(contents:)
-        (discord.enabled? ? Discord : Generic).notify(contents:)
+      def notify(services: Summary::Service::SERVICES)
+        notifier = (discord.enabled? ? Discord : Generic)
+        services.each { |service| notifier.notify(service: service.new) }
       end
 
       private

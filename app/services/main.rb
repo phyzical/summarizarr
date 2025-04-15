@@ -9,7 +9,7 @@ class Main
         puts "Sleeping for #{sleep_time} seconds"
         sleep(sleep_time)
       end
-      Notifications::Service.notify(contents: Summary::Service.generate)
+      Notifications::Service.notify
       last_run_time = DateTime.now
     end
   end

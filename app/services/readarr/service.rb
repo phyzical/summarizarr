@@ -5,6 +5,14 @@ module Readarr
     # curl -X 'GET' 'http://readarr:8787/api/v1/history?page=1&pageSize=15&includeBook=true&includeAuthor=true&apikey=asd'   -H 'accept: application/json' # rubocop:disable Layout/LineLength
     # curl -X 'GET' 'http://readarr:8787/api/v1/system/status?apikey=asd'   -H 'accept: application/json'
 
+    def app_name
+      'Readarr'
+    end
+
+    def app_colour
+      0x0000FF # blue
+    end
+
     private
 
     class << self
@@ -19,10 +27,6 @@ module Readarr
 
     def get_vars(page: 1)
       super.merge({ includeBook: true, includeAuthor: true })
-    end
-
-    def app_name
-      'Readarr'
     end
 
     def app_config

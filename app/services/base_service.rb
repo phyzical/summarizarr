@@ -26,6 +26,24 @@ class BaseService
     @items ||= process
   end
 
+  # :nocov:
+  def app_name
+    raise 'Please implement!'
+  end
+  # :nocov:
+
+  # :nocov:
+  def app_colour
+    raise 'Please implement!'
+  end
+  # :nocov:
+
+  # :nocov:
+  def summary
+    raise 'Please implement!'
+  end
+  # :nocov:
+
   private
 
   def process
@@ -62,12 +80,6 @@ class BaseService
   def config
     @config ||= Config.get
   end
-
-  # :nocov:
-  def app_name
-    raise 'Please implement!'
-  end
-  # :nocov:
 
   # :nocov:
   def app_config
