@@ -16,6 +16,8 @@ module Tdarr
         ]
       end
 
+      before { allow(Config.get).to receive(:removal_regex).and_return(Regexp.new('/mnt/media/Tv Shows/')) }
+
       context 'when item' do
         let(:json) { full_json.first }
 
@@ -25,9 +27,9 @@ module Tdarr
               event_type: described_class::EVENT_TYPES[:transcode_success],
               date: Date.parse('31/03/2025'),
               title: '/mnt/media/Tv Shows/The Vicar of Dibley/Season 3/The.Vicar.of.Dibley.S03E04.Summer.mkv',
-              size_after: 0.31388126127421856,
-              size_before: 0.46448865719139576,
-              size_ratio: 67.58,
+              size_after: 0.314,
+              size_before: 0.464,
+              size_ratio: '67.58%',
               deletion?: false
             }
           )
