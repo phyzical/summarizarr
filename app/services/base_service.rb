@@ -38,6 +38,12 @@ class BaseService
   end
   # :nocov:
 
+  # :nocov:
+  def summary
+    raise 'Please implement!'
+  end
+  # :nocov:
+
   private
 
   def process
