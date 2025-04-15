@@ -88,4 +88,12 @@ RSpec.describe Config do
       expect(rerun_datetime).to match(DateTime.now + 7.days)
     end
   end
+
+  describe '#removal_regex' do
+    subject(:removal_regex) { config.removal_regex }
+
+    it 'has a default config' do
+      expect(removal_regex).to match(//i)
+    end
+  end
 end
