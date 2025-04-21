@@ -16,8 +16,6 @@ module Tdarr
         ]
       end
 
-      before { allow(Config.get).to receive(:removal_regex).and_return(Regexp.new('/mnt/media/Tv Shows/')) }
-
       context 'when item' do
         let(:json) { full_json.first }
 

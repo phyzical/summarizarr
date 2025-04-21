@@ -10,10 +10,6 @@ module Config
 
   Thing =
     Struct.new do
-      def removal_regex
-        @removal_regex ||= Regexp.new(ENV.fetch('REMOVAL_REGEX', '').tr('"', ''), Regexp::IGNORECASE)
-      end
-
       def from_date
         @from_date ||= ENV.fetch('SUMMARY_DAYS', '7').to_i.days.ago.to_date
       end
