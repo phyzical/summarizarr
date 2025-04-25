@@ -12,11 +12,17 @@ class BaseService
     items
   end
 
-  SEPARATOR = "\n----------------------------------------------------------------------------------------------------\n"
-  DOT_POINT = "\n   * "
+  PRIMARY_GROUP_CONTEXT = :series
+  SECONDARY_GROUP_CONTEXT = :season
+  FALLBACK_GROUP_CONTEXT = :date
 
-  def summary
-    "#{SEPARATOR}                #{app_name} Summary:#{DOT_POINT}#{items.map(&:summary).join(DOT_POINT)}#{SEPARATOR}"
+  def grouped_items
+    @grouped_items ||=
+      sort_and_group(items, PRIMARY_GROUP_CONTEXT).transform_values do |primary_groups|
+        sort_and_group(primary_groups, SECONDARY_GROUP_CONTEXT).transform_values do |secondary_groups|
+          sort_and_group(secondary_groups, FALLBACK_GROUP_CONTEXT)
+        end
+      end
   end
 
   delegate :from_date, to: :config
@@ -98,5 +104,9 @@ class BaseService
     found_app_name = pull_app_name
     return if found_app_name == app_name
     raise "Error this is not an instance of #{app_name} found (#{found_app_name}) Skipping"
+  end
+
+  def sort_and_group(items, context)
+    items.sort_by { |item| item[context] || '' }.group_by { |item| item[context] }
   end
 end
