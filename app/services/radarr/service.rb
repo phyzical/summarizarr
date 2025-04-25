@@ -7,6 +7,8 @@ module Radarr
 
     APP_NAME = 'Radarr'
     APP_COLOUR = 0x800080 # purple
+    PRIMARY_GROUP_CONTEXT = nil
+    SECONDARY_GROUP_CONTEXT = nil
 
     private
 
