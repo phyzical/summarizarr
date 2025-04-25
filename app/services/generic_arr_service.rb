@@ -29,12 +29,6 @@ class GenericArrService < BaseService
     Request.perform(url: "#{base_url}#{self.class.history_endpoint}", headers:, get_vars: get_vars(page:))[:records]
   end
 
-  # :nocov:
-  def map(*)
-    raise 'Please implement in subclass'
-  end
-  # :nocov:
-
   def combine(combinable:)
     combinable
       .group_by(&:title)

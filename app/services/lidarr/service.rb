@@ -7,6 +7,8 @@ module Lidarr
 
     APP_NAME = 'Lidarr'
     APP_COLOUR = 0xFFA500 # orange
+    PRIMARY_GROUP_CONTEXT = :artist
+    SECONDARY_GROUP_CONTEXT = :album
 
     private
 
