@@ -55,5 +55,21 @@ module Tdarr
         )
       end
     end
+
+    describe '#grouped_items' do
+      subject(:grouped_items) { service.grouped_items }
+
+      let(:expected_series) { ['Great British Menu', 'The Vicar of Dibley', "World's Most Evil Killers"] }
+
+      it 'groups by series or nil for movies, then season, then date and all are sorted' do
+        expect(grouped_items.keys).to match(expected_series)
+
+        # shows group by series
+        expect(grouped_items[expected_series.second].keys).to match([1, 2, 3])
+        #  groups by date
+        expect(grouped_items[expected_series.second][1].keys).to match(['Mon, 31 Mar 2025'].map(&:to_date))
+        expect(grouped_items[expected_series.second][1]['Mon, 31 Mar 2025'.to_date].length).to be(24)
+      end
+    end
   end
 end
