@@ -7,6 +7,7 @@ module Bazarr
     include MockRequests
 
     let(:service) { described_class.new }
+    let(:total) { 232 }
 
     before { stub_bazarr }
 
@@ -14,7 +15,7 @@ module Bazarr
       subject(:items) { service.items }
 
       it 'returns history only containing expected types and groups by title' do
-        expect(items.count).to be(232)
+        expect(items.count).to be(total)
         expect(items).to all(be_a(Item::Thing))
       end
 
@@ -41,6 +42,14 @@ module Bazarr
           it 'alerts and skips' do
             expect { items }.to output(/Error this is not an instance of Bazarr/).to_stdout
           end
+        end
+      end
+
+      describe 'summary' do
+        subject(:summary) { service.summary }
+
+        it 'summaries correctly' do
+          expect(summary).to eq("* Processed #{total} subtitles\n")
         end
       end
 

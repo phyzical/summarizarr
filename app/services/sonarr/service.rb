@@ -8,6 +8,10 @@ module Sonarr
     APP_NAME = 'Sonarr'
     APP_COLOUR = 0xFF0000 # red
 
+    def summary
+      "* Processed #{items.count} episodes from #{grouped_items.keys.count} series\n"
+    end
+
     private
 
     def get_vars(page: 1)

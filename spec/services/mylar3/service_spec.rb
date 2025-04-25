@@ -7,6 +7,7 @@ module Mylar3
     include MockRequests
 
     let(:service) { described_class.new }
+    let(:total) { 2 }
 
     before { stub_mylar3 }
 
@@ -14,7 +15,7 @@ module Mylar3
       subject(:items) { service.items }
 
       it 'returns history only containing expected types and groups by title' do
-        expect(items.count).to be(2)
+        expect(items.count).to be(total)
         expect(items).to all(be_a(Item::Thing))
       end
 
@@ -42,6 +43,14 @@ module Mylar3
             expect { items }.to output(/Error this is not an instance of Mylar3/).to_stdout
           end
         end
+      end
+    end
+
+    describe 'summary' do
+      subject(:summary) { service.summary }
+
+      it 'summaries correctly' do
+        expect(summary).to eq("* Processed #{total} issues from 1 comics\n")
       end
     end
 

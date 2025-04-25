@@ -7,6 +7,7 @@ module Radarr
     include MockRequests
 
     let(:service) { described_class.new }
+    let(:total) { 11 }
 
     before { stub_radarr }
 
@@ -14,7 +15,7 @@ module Radarr
       subject(:items) { service.items }
 
       it 'returns history only containing expected types and groups by title' do
-        expect(items.count).to be(11)
+        expect(items.count).to be(total)
         expect(items).to all(be_a(Item::Thing))
       end
 
@@ -42,6 +43,14 @@ module Radarr
             expect { items }.to output(/Error this is not an instance of Radarr/).to_stdout
           end
         end
+      end
+    end
+
+    describe 'summary' do
+      subject(:summary) { service.summary }
+
+      it 'summaries correctly' do
+        expect(summary).to eq("* Processed #{total} movies\n")
       end
     end
 

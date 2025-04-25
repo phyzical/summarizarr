@@ -10,6 +10,10 @@ module Radarr
     PRIMARY_GROUP_CONTEXT = nil
     SECONDARY_GROUP_CONTEXT = nil
 
+    def summary
+      "* Processed #{items.count} movies\n"
+    end
+
     private
 
     def get_vars(page: 1)

@@ -11,6 +11,10 @@ module Mylar3
     PRIMARY_GROUP_CONTEXT = :comic
     SECONDARY_GROUP_CONTEXT = nil
 
+    def summary
+      "* Processed #{items.count} issues from #{grouped_items.keys.count} comics\n"
+    end
+
     private
 
     class << self

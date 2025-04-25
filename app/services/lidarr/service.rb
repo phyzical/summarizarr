@@ -10,6 +10,10 @@ module Lidarr
     PRIMARY_GROUP_CONTEXT = :artist
     SECONDARY_GROUP_CONTEXT = :album
 
+    def summary
+      "* Processed #{items.count} songs from #{grouped_items.keys.count} artists\n"
+    end
+
     private
 
     class << self

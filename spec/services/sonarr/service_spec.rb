@@ -7,6 +7,7 @@ module Sonarr
     include MockRequests
 
     let(:service) { described_class.new }
+    let(:total) { 24 }
 
     before { stub_sonarr }
 
@@ -14,7 +15,7 @@ module Sonarr
       subject(:items) { service.items }
 
       it 'returns history only containing expected types and groups by title' do
-        expect(items.count).to be(24)
+        expect(items.count).to be(total)
         expect(items).to all(be_a(Item::Thing))
       end
 
@@ -42,6 +43,14 @@ module Sonarr
             expect { items }.to output(/Error this is not an instance of Sonarr/).to_stdout
           end
         end
+      end
+    end
+
+    describe 'summary' do
+      subject(:summary) { service.summary }
+
+      it 'summaries correctly' do
+        expect(summary).to eq("* Processed #{total} episodes from 6 series\n")
       end
     end
 

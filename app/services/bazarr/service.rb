@@ -8,6 +8,10 @@ module Bazarr
     APP_NAME = 'Bazarr'
     APP_COLOUR = 0x808080 # grey
 
+    def summary
+      "* Processed #{items.count} subtitles\n"
+    end
+
     private
 
     class << self
