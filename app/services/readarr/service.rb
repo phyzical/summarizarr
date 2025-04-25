@@ -8,9 +8,8 @@ module Readarr
     APP_NAME = 'Readarr'
     APP_COLOUR = 0x0000FF # blue
 
-    def app_colour
-      0x0000FF # blue
-    end
+    PRIMARY_GROUP_CONTEXT = :author
+    SECONDARY_GROUP_CONTEXT = nil
 
     private
 

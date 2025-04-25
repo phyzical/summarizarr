@@ -44,5 +44,25 @@ module Readarr
         end
       end
     end
+
+    describe '#grouped_items' do
+      subject(:grouped_items) { service.grouped_items }
+
+      let(:expected_authors) { ['Brandon Sanderson'] }
+
+      it 'groups by comic , then nothing, then date and all are sorted' do
+        expect(grouped_items.keys).to match(expected_authors)
+        expect(grouped_items[expected_authors.first].keys).to match([described_class::SECONDARY_GROUP_CONTEXT])
+        #  groups by date
+        expect(grouped_items[expected_authors.first][described_class::SECONDARY_GROUP_CONTEXT].keys).to match(
+          ['Wed, 26 Mar 2025', 'Fri, 28 Mar 2025'].map(&:to_date)
+        )
+        expect(
+          grouped_items[expected_authors.first][described_class::SECONDARY_GROUP_CONTEXT][
+            'Wed, 26 Mar 2025'.to_date
+          ].length
+        ).to be(1)
+      end
+    end
   end
 end
