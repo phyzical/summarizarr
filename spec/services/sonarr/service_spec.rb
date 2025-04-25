@@ -44,5 +44,29 @@ module Sonarr
         end
       end
     end
+
+    describe '#grouped_items' do
+      subject(:grouped_items) { service.grouped_items }
+
+      let(:expected_series) do
+        [
+          'Dateline: Secrets Uncovered',
+          'Gogglebox',
+          'Great British Menu',
+          'Penn & Teller: Fool Us',
+          "RuPaul's Drag Race",
+          'Younger'
+        ]
+      end
+
+      it 'groups by series, then season, then date and all are sorted' do
+        expect(grouped_items.keys).to match(expected_series)
+        # shows group by series
+        expect(grouped_items[expected_series.first].keys).to match([14])
+        #  groups by date
+        expect(grouped_items[expected_series.first][14].keys).to match(['Fri, 28 Mar 2025'].map(&:to_date))
+        expect(grouped_items[expected_series.first][14]['Fri, 28 Mar 2025'.to_date].length).to be(1)
+      end
+    end
   end
 end
