@@ -5,9 +5,8 @@ module Readarr
     # curl -X 'GET' 'http://readarr:8787/api/v1/history?page=1&pageSize=15&includeBook=true&includeAuthor=true&apikey=asd'   -H 'accept: application/json' # rubocop:disable Layout/LineLength
     # curl -X 'GET' 'http://readarr:8787/api/v1/system/status?apikey=asd'   -H 'accept: application/json'
 
-    def app_name
-      'Readarr'
-    end
+    APP_NAME = 'Readarr'
+    APP_COLOUR = 0x0000FF # blue
 
     def app_colour
       0x0000FF # blue

@@ -5,9 +5,8 @@ module Mylar3
     # curl -X 'GET' 'http://mylar3:8090/api?cmd=getHistory&apikey=asd'   -H 'accept: application/json'
     # curl -X 'GET' 'http://mylar3:8090/api?cmd=getVersion&apikey=asd'   -H 'accept: application/json'
 
-    def app_name
-      'Mylar3'
-    end
+    APP_NAME = 'Mylar3'
+    APP_COLOUR = 0xFFFF00 # yellow
 
     def app_colour
       0xFFFF00 # yellow

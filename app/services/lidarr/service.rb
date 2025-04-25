@@ -5,13 +5,8 @@ module Lidarr
     # curl -X 'GET' 'http://lidarr:8686/api/v1/history?page=1&pageSize=15&includeTrack=true&includeAlbum=true&includeArtist=true&apikey=asd'   -H 'accept: application/json' # rubocop:disable Layout/LineLength
     # curl -X 'GET' 'http://lidarr:8686/api/v1/system/status?apikey=asd'   -H 'accept: application/json'
 
-    def app_name
-      'Lidarr'
-    end
-
-    def app_colour
-      0xFFA500 # orange
-    end
+    APP_NAME = 'Lidarr'
+    APP_COLOUR = 0xFFA500 # orange
 
     private
 

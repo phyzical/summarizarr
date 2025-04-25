@@ -5,13 +5,8 @@ module Bazarr
     # TODO: We set this as pagination breaks the ordering
     ITEM_MAX = 5000
 
-    def app_name
-      'Bazarr'
-    end
-
-    def app_colour
-      0x808080 # grey
-    end
+    APP_NAME = 'Bazarr'
+    APP_COLOUR = 0x808080 # grey
 
     private
 
@@ -68,7 +63,7 @@ module Bazarr
       if Request.perform(url: "#{base_url}#{self.class.status_endpoint}", headers:)[:data]&.dig(
            :bazarr_version
          ).present?
-        app_name
+        APP_NAME
       else
         'N/A'
       end

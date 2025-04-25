@@ -2,17 +2,11 @@
 
 module Radarr
   class Service < GenericArrService
-    API_VERSION = 'v3'
     # curl -X 'GET' 'http://radarr:7878/api/v3/history?page=1&pageSize=15&includeMovie=true&apikey=asd'   -H 'accept: application/json' # rubocop:disable Layout/LineLength
     # curl -X 'GET' 'http://radarr:7878/api/v3/system/status?apikey=asd'   -H 'accept: application/json'
 
-    def app_name
-      'Radarr'
-    end
-
-    def app_colour
-      0x800080 # purple
-    end
+    APP_NAME = 'Radarr'
+    APP_COLOUR = 0x800080 # purple
 
     private
 

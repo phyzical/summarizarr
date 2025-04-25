@@ -2,17 +2,11 @@
 
 module Sonarr
   class Service < GenericArrService
-    API_VERSION = 'v3'
     # curl -X 'GET' 'http://sonarr:8989/api/v3/history?page=1&pageSize=15&includeEpisode=true&includeSeries=true&apikey=asd'   -H 'accept: application/json' # rubocop:disable Layout/LineLength
     # curl -X 'GET' 'http://sonarr:8989/api/v3/system/status?apikey=asd'   -H 'accept: application/json'
 
-    def app_name
-      'Sonarr'
-    end
-
-    def app_colour
-      0xFF0000 # red
-    end
+    APP_NAME = 'Sonarr'
+    APP_COLOUR = 0xFF0000 # red
 
     private
 

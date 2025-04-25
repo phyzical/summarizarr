@@ -2,13 +2,8 @@
 
 module Tdarr
   class Service < BaseService
-    def app_name
-      'Tdarr'
-    end
-
-    def app_colour
-      0x00FF00 # green
-    end
+    APP_NAME = 'Tdarr'
+    APP_COLOUR = 0x00FF00 # green
 
     def summary
       size_before = items.reduce(0) { |sum, item| sum + item.size_before }.round(3)
@@ -87,7 +82,7 @@ module Tdarr
     end
 
     def pull_app_name
-      Request.perform(url: "#{base_url}#{self.class.status_endpoint}", headers:)[:status].present? ? app_name : 'N/A'
+      Request.perform(url: "#{base_url}#{self.class.status_endpoint}", headers:)[:status].present? ? APP_NAME : 'N/A'
     end
   end
 end
