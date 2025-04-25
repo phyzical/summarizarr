@@ -8,9 +8,8 @@ module Mylar3
     APP_NAME = 'Mylar3'
     APP_COLOUR = 0xFFFF00 # yellow
 
-    def app_colour
-      0xFFFF00 # yellow
-    end
+    PRIMARY_GROUP_CONTEXT = :comic
+    SECONDARY_GROUP_CONTEXT = nil
 
     private
 

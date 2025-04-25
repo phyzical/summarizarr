@@ -112,20 +112,20 @@ module Bazarr
         it 'groups by series or nil for movies, then season, then date and all are sorted' do
           expect(grouped_items.keys).to match(expected_series)
           # movies don't have season
-          expect(grouped_items[nil].keys).to match([nil])
+          expect(grouped_items[expected_series.first].keys).to match([nil])
           #  groups by date
-          expect(grouped_items[nil][nil].keys).to match(
+          expect(grouped_items[expected_series.first][nil].keys).to match(
             ['Sun, 23 Mar 2025', 'Mon, 24 Mar 2025', 'Tue, 25 Mar 2025', 'Fri, 28 Mar 2025', 'Sat, 29 Mar 2025'].map(
               &:to_date
             )
           )
-          expect(grouped_items[nil][nil]['Mon, 24 Mar 2025'.to_date].length).to be(6)
+          expect(grouped_items[expected_series.first][nil]['Mon, 24 Mar 2025'.to_date].length).to be(6)
 
           # shows group by series
-          expect(grouped_items['1923'].keys).to match([2])
+          expect(grouped_items[expected_series.second].keys).to match([2])
           #  groups by date
-          expect(grouped_items['1923'][2].keys).to match(['Sun, 23 Mar 2025'].map(&:to_date))
-          expect(grouped_items['1923'][2]['Sun, 23 Mar 2025'.to_date].length).to be(1)
+          expect(grouped_items[expected_series.second][2].keys).to match(['Sun, 23 Mar 2025'].map(&:to_date))
+          expect(grouped_items[expected_series.second][2]['Sun, 23 Mar 2025'.to_date].length).to be(1)
         end
       end
     end
