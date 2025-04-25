@@ -25,7 +25,8 @@ module Bazarr
               series: 'Penn & Teller: Fool Us',
               date: Date.parse('29/03/2025'),
               language: 'English',
-              episode_number: '11x10',
+              episode: 10,
+              season: 11,
               title: 'Gotcha!',
               description: 'English subtitles downloaded from whisperai with a score of 66.94%.',
               score: '66.94%'
@@ -49,7 +50,8 @@ module Bazarr
             {
               series: nil,
               language: 'English',
-              episode_number: nil,
+              episode: nil,
+              season: nil,
               date: Date.parse('29/03/2025'),
               title: 'Back in Action',
               description: 'English HI subtitles downloaded from opensubtitlescom with a score of 85.0%.',
@@ -63,12 +65,18 @@ module Bazarr
     describe '#summary' do
       subject(:summary) { item.summary }
 
-      let(:item) { build(:bazarr_item, title:, description:) }
-      let(:title) { 'test title' }
-      let(:description) { 'test description' }
+      let(:item) { build(:bazarr_item) }
 
       it 'runs' do
-        expect(summary).to eq("#{title}: #{description}")
+        expect(summary).to eq("Ep: #{item.episode} - #{item.title}: #{item.description}")
+      end
+
+      context 'when episode is nil' do
+        let(:item) { build(:bazarr_item, episode: nil) }
+
+        it 'runs' do
+          expect(summary).to eq("#{item.title}: #{item.description}")
+        end
       end
     end
   end
