@@ -18,9 +18,9 @@ class BaseService
 
   def grouped_items
     @grouped_items ||=
-      sort_and_group(items, PRIMARY_GROUP_CONTEXT).transform_values do |primary_groups|
-        sort_and_group(primary_groups, SECONDARY_GROUP_CONTEXT).transform_values do |secondary_groups|
-          sort_and_group(secondary_groups, FALLBACK_GROUP_CONTEXT)
+      sort_and_group(items, self.class::PRIMARY_GROUP_CONTEXT).transform_values do |primary_groups|
+        sort_and_group(primary_groups, self.class::SECONDARY_GROUP_CONTEXT).transform_values do |secondary_groups|
+          sort_and_group(secondary_groups, self.class::FALLBACK_GROUP_CONTEXT)
         end
       end
   end
@@ -31,18 +31,6 @@ class BaseService
   def items
     @items ||= process
   end
-
-  # :nocov:
-  def app_name
-    raise 'Please implement!'
-  end
-  # :nocov:
-
-  # :nocov:
-  def app_colour
-    raise 'Please implement!'
-  end
-  # :nocov:
 
   # :nocov:
   def summary
@@ -98,13 +86,14 @@ class BaseService
   # :nocov:
 
   def verify
-    raise "#{app_name} URL is not set, will be skipped" if base_url.blank?
+    raise "#{self.class::APP_NAME} URL is not set, will be skipped" if base_url.blank?
     found_app_name = pull_app_name
-    return if found_app_name == app_name
-    raise "Error this is not an instance of #{app_name} found (#{found_app_name}) Skipping"
+    return if found_app_name == self.class::APP_NAME
+    raise "Error this is not an instance of #{self.class::APP_NAME} found (#{found_app_name}) Skipping"
   end
 
   def sort_and_group(items, context)
+    return { nil => items } if context.nil?
     items.sort_by { |item| item[context] || '' }.group_by { |item| item[context] }
   end
 end
