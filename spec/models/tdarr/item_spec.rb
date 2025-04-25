@@ -24,7 +24,9 @@ module Tdarr
             {
               event_type: described_class::EVENT_TYPES[:transcode_success],
               date: Date.parse('31/03/2025'),
-              title: '/mnt/media/Tv Shows/The Vicar of Dibley/Season 3/The.Vicar.of.Dibley.S03E04.Summer.mkv',
+              file: '/mnt/media/Tv Shows/The Vicar of Dibley/Season 3/The.Vicar.of.Dibley.S03E04.Summer.mkv',
+              season: 3,
+              series: 'The Vicar of Dibley',
               size_after: 0.314,
               size_before: 0.464,
               size_ratio: '67.58%',
