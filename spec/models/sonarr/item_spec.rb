@@ -26,6 +26,8 @@ module Sonarr
               languages: 'English',
               date: Date.parse('29/03/2025'),
               series: 'Penn & Teller: Fool Us',
+              season: 11,
+              episode: 10,
               title: 'Gotcha!',
               overview:
                 'Magicians Vitaly Beckman, AnnaRose Einarsen, Goncalo Gil, and Ren X ' \
@@ -49,6 +51,8 @@ module Sonarr
             series: 'Dateline: Secrets Uncovered',
             date: Date.parse('28/03/2025'),
             title: 'The Road Trip',
+            season: 14,
+            episode: 20,
             overview:
               'When Dr. Teresa Sievers is found murdered in her kitchen, detectives struggle to find any ' \
                 'leads until an unexpected tip changes everything; the woman who helped investigators speaks out.',
@@ -69,14 +73,16 @@ module Sonarr
       let(:old_quality) { nil }
 
       it 'when no old_quality' do
-        expect(summary).to eq("#{item.title} has downloaded at #{item.quality}")
+        expect(summary).to eq("Ep: #{item.episode} - #{item.title} has downloaded at #{item.quality}")
       end
 
       context 'when old_quality is present' do
         let(:old_quality) { 'DVD' }
 
         it 'runs' do
-          expect(summary).to eq("#{item.title} has upgraded from #{item.old_quality} to #{item.quality}")
+          expect(summary).to eq(
+            "Ep: #{item.episode} - #{item.title} has upgraded from #{item.old_quality} to #{item.quality}"
+          )
         end
       end
     end
