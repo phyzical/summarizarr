@@ -10,10 +10,6 @@ module Sonarr
 
     private
 
-    def map(json:)
-      Item.from_json(json:)
-    end
-
     def get_vars(page: 1)
       super.merge({ includeEpisode: true, includeSeries: true })
     end

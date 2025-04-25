@@ -10,10 +10,6 @@ module Radarr
 
     private
 
-    def map(json:)
-      Item.from_json(json:)
-    end
-
     def get_vars(page: 1)
       super.merge({ includeMovie: true })
     end

@@ -39,10 +39,6 @@ module Bazarr
       )
     end
 
-    def map(json:)
-      Item.from_json(json:)
-    end
-
     def filter(*)
       true
     end

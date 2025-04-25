@@ -34,10 +34,6 @@ module Mylar3
       ]
     end
 
-    def map(json:)
-      Item.from_json(json:)
-    end
-
     def app_config
       config.mylar3
     end
@@ -50,7 +46,7 @@ module Mylar3
       if Request.perform(url: "#{base_url}#{self.class.api_prefix}", get_vars: get_vars(cmd: self.class.status_cmd))[
            :data
          ]&.dig(:install_type).present?
-        app_name
+        APP_NAME
       else
         'N/A'
       end

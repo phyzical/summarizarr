@@ -73,11 +73,9 @@ class BaseService
   end
   # :nocov:
 
-  # :nocov:
-  def map
-    raise 'Please implement!'
+  def map(json:)
+    self.class.module_parent::Item.from_json(json:)
   end
-  # :nocov:
 
   def filter(item:)
     self.class.module_parent::Item::EVENT_TYPES.value?(item.event_type)

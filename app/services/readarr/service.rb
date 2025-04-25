@@ -20,10 +20,6 @@ module Readarr
       end
     end
 
-    def map(json:)
-      Item.from_json(json:)
-    end
-
     def get_vars(page: 1)
       super.merge({ includeBook: true, includeAuthor: true })
     end

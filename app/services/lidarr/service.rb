@@ -16,10 +16,6 @@ module Lidarr
       end
     end
 
-    def map(json:)
-      Item.from_json(json:)
-    end
-
     def get_vars(page: 1)
       super.merge({ includeAlbum: true, includeArtist: true, includeTrack: true })
     end
