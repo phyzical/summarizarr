@@ -15,3 +15,5 @@ if ENV.fetch('RAILS_ENV', 'production') == 'development'
   require 'rubocop-performance'
 end
 # :nocov:
+
+Time.zone = Time.find_zone!(Time.now.zone) || 'UTC'
