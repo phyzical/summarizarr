@@ -16,6 +16,7 @@ class BaseService
   SECONDARY_GROUP_CONTEXT = :season
   FALLBACK_GROUP_CONTEXT = :date
   ITEM_SORT_CONTEXT = :title
+  PAGE_SIZE = 50
 
   def grouped_items
     @grouped_items ||=

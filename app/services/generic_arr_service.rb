@@ -43,7 +43,7 @@ class GenericArrService < BaseService
   end
 
   def get_vars(page: 1)
-    { page:, pageSize: 15, sortDirection: 'descending', sortKey: 'date' }
+    { page:, pageSize: PAGE_SIZE, sortDirection: 'descending', sortKey: 'date' }
   end
 
   def headers

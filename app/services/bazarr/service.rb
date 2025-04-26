@@ -47,8 +47,7 @@ module Bazarr
     end
 
     def get_vars(page: 1)
-      length = 15
-      { length:, start: page * length }
+      { length: PAGE_SIZE, start: page * PAGE_SIZE }
     end
 
     def headers
