@@ -1,1 +1,617 @@
-{"data": [{"action": 1, "title": "Amaran", "timestamp": "last month", "description": "English subtitles downloaded from supersubtitles with a score of 83.33%.", "radarrId": 2728, "monitored": true, "path": null, "language": {"name": "English", "code2": "en", "code3": "eng", "forced": false, "hi": false}, "tags": [], "score": "83.33%", "subs_id": "1733477676", "provider": "supersubtitles", "subtitles_path": "/movies/Movies/Amaran (2024)/Amaran (2024) WEBRip-1080p.en.srt", "upgradable": false, "parsed_timestamp": "03/13/25 16:58:10", "blacklisted": false, "matches": ["streaming_service", "resolution", "edition", "year", "title", "imdb_id", "source", "hearing_impaired"], "dont_matches": ["video_codec", "release_group", "audio_codec", "hash"]}, {"action": 1, "title": "Let the Right One In", "timestamp": "last month", "description": "English HI subtitles downloaded from opensubtitlescom with a score of 80.0%.", "radarrId": 2068, "monitored": true, "path": null, "language": {"name": "English", "code2": "en", "code3": "eng", "forced": false, "hi": true}, "tags": [], "score": "80.0%", "subs_id": "5049927", "provider": "opensubtitlescom", "subtitles_path": "/movies/Movies/Let the Right One In (2008)/Let the Right One In (2008) WEBDL-1080p.en.srt", "upgradable": false, "parsed_timestamp": "03/11/25 15:59:24", "blacklisted": false, "matches": ["resolution", "edition", "year", "title", "audio_codec", "other", "imdb_id", "hearing_impaired"], "dont_matches": ["release_group", "streaming_service", "video_codec", "source", "hash"]}, {"action": 1, "title": "The Spectacular Now", "timestamp": "last month", "description": "English HI subtitles downloaded from opensubtitlescom with a score of 84.17%.", "radarrId": 2726, "monitored": true, "path": null, "language": {"name": "English", "code2": "en", "code3": "eng", "forced": false, "hi": true}, "tags": ["english"], "score": "84.17%", "subs_id": "3785589", "provider": "opensubtitlescom", "subtitles_path": "/movies/Documentaires/movies/The Spectacular Now (2013)/The Spectacular Now (2013) Remux-1080p.en.srt", "upgradable": false, "parsed_timestamp": "03/11/25 09:11:33", "blacklisted": false, "matches": ["streaming_service", "resolution", "edition", "year", "title", "video_codec", "imdb_id", "source"], "dont_matches": ["release_group", "audio_codec", "hash", "hearing_impaired"]}, {"action": 1, "title": "Suncoast", "timestamp": "last month", "description": "English HI subtitles downloaded from opensubtitlescom with a score of 87.5%.", "radarrId": 2725, "monitored": true, "path": null, "language": {"name": "English", "code2": "en", "code3": "eng", "forced": false, "hi": true}, "tags": ["english"], "score": "87.5%", "subs_id": "8534858", "provider": "opensubtitlescom", "subtitles_path": "/movies/Documentaires/movies/Suncoast (2024)/Suncoast (2024) WEBDL-1080p.en.srt", "upgradable": false, "parsed_timestamp": "03/11/25 09:02:11", "blacklisted": false, "matches": ["resolution", "edition", "year", "title", "video_codec", "audio_codec", "other", "imdb_id", "source", "hearing_impaired"], "dont_matches": ["streaming_service", "release_group", "hash"]}, {"action": 1, "title": "The Fallout", "timestamp": "last month", "description": "English HI subtitles downloaded from supersubtitles with a score of 95.83%.", "radarrId": 2724, "monitored": true, "path": null, "language": {"name": "English", "code2": "en", "code3": "eng", "forced": false, "hi": true}, "tags": ["english"], "score": "95.83%", "subs_id": "1643284556", "provider": "supersubtitles", "subtitles_path": "/movies/Documentaires/movies/The Fallout (2021)/The Fallout (2021) WEBDL-1080p.en.srt", "upgradable": false, "parsed_timestamp": "03/11/25 08:59:14", "blacklisted": false, "matches": ["release_group", "resolution", "edition", "year", "title", "other", "imdb_id", "source", "hearing_impaired"], "dont_matches": ["video_codec", "streaming_service", "audio_codec", "hash"]}, {"action": 1, "title": "Warm Bodies", "timestamp": "last month", "description": "English subtitles downloaded from supersubtitles with a score of 83.33%.", "radarrId": 1318, "monitored": true, "path": null, "language": {"name": "English", "code2": "en", "code3": "eng", "forced": false, "hi": false}, "tags": [], "score": "83.33%", "subs_id": "1369406630", "provider": "supersubtitles", "subtitles_path": "/movies/Movies/Warm Bodies 2013/Warm Bodies (2013) WEBDL-1080p.en.srt", "upgradable": false, "parsed_timestamp": "03/11/25 00:43:47", "blacklisted": false, "matches": ["resolution", "edition", "year", "title", "other", "imdb_id", "source", "hearing_impaired"], "dont_matches": ["release_group", "streaming_service", "video_codec", "audio_codec", "hash"]}, {"action": 1, "title": "The Lord of the Rings", "timestamp": "last month", "description": "English subtitles downloaded from opensubtitlescom with a score of 77.5%.", "radarrId": 2097, "monitored": true, "path": null, "language": {"name": "English", "code2": "en", "code3": "eng", "forced": false, "hi": false}, "tags": [], "score": "77.5%", "subs_id": "5245160", "provider": "opensubtitlescom", "subtitles_path": "/movies/Movies/The Lord of the Rings (1978)/The Lord of the Rings (1978) WEBDL-1080p.en.srt", "upgradable": false, "parsed_timestamp": "03/08/25 12:28:49", "blacklisted": false, "matches": ["hearing_impaired", "year", "resolution", "edition", "imdb_id", "other", "streaming_service", "title"], "dont_matches": ["source", "video_codec", "release_group", "audio_codec", "hash"]}, {"action": 1, "title": "The Return of the King", "timestamp": "last month", "description": "English subtitles downloaded from opensubtitlescom with a score of 75.83%.", "radarrId": 2379, "monitored": true, "path": null, "language": {"name": "English", "code2": "en", "code3": "eng", "forced": false, "hi": false}, "tags": [], "score": "75.83%", "subs_id": "10786958", "provider": "opensubtitlescom", "subtitles_path": "/movies/Movies/The Return of the King (1980)/The Return of the King (1980) WEBDL-1080p.en.srt", "upgradable": false, "parsed_timestamp": "03/08/25 12:24:41", "blacklisted": false, "matches": ["imdb_id", "edition", "year", "hearing_impaired", "streaming_service", "title"], "dont_matches": ["source", "video_codec", "release_group", "resolution", "audio_codec", "hash"]}, {"action": 1, "title": "Anora", "timestamp": "last month", "description": "English HI subtitles downloaded from supersubtitles with a score of 83.33%.", "radarrId": 2720, "monitored": true, "path": null, "language": {"name": "English", "code2": "en", "code3": "eng", "forced": false, "hi": true}, "tags": [], "score": "83.33%", "subs_id": "1734437662", "provider": "supersubtitles", "subtitles_path": "/movies/Movies/Anora (2024)/Anora (2024) WEBRip-1080p.en.srt", "upgradable": false, "parsed_timestamp": "03/06/25 10:26:24", "blacklisted": false, "matches": ["year", "source", "resolution", "edition", "imdb_id", "hearing_impaired", "streaming_service", "title"], "dont_matches": ["release_group", "video_codec", "audio_codec", "hash"]}, {"action": 1, "title": "A Real Pain", "timestamp": "last month", "description": "English subtitles downloaded from supersubtitles with a score of 95.83%.", "radarrId": 2722, "monitored": true, "path": null, "language": {"name": "English", "code2": "en", "code3": "eng", "forced": false, "hi": false}, "tags": [], "score": "95.83%", "subs_id": "1735649519", "provider": "supersubtitles", "subtitles_path": "/movies/Movies/A Real Pain (2024)/A Real Pain (2024) WEBDL-1080p Proper.en.srt", "upgradable": false, "parsed_timestamp": "03/06/25 10:16:19", "blacklisted": false, "matches": ["hearing_impaired", "year", "source", "release_group", "resolution", "edition", "imdb_id", "other", "streaming_service", "title"], "dont_matches": ["audio_codec", "video_codec", "hash"]}, {"action": 1, "title": "Rumours", "timestamp": "last month", "description": "English subtitles downloaded from supersubtitles with a score of 83.33%.", "radarrId": 2723, "monitored": true, "path": null, "language": {"name": "English", "code2": "en", "code3": "eng", "forced": false, "hi": false}, "tags": [], "score": "83.33%", "subs_id": "1731413602", "provider": "supersubtitles", "subtitles_path": "/movies/Movies/Rumours (2024)/Rumours (2024) WEBRip-1080p.en.srt", "upgradable": false, "parsed_timestamp": "03/06/25 10:16:07", "blacklisted": false, "matches": ["year", "source", "resolution", "edition", "imdb_id", "hearing_impaired", "streaming_service", "title"], "dont_matches": ["release_group", "video_codec", "audio_codec", "hash"]}, {"action": 1, "title": "The Brutalist", "timestamp": "last month", "description": "English subtitles downloaded from supersubtitles with a score of 83.33%.", "radarrId": 2721, "monitored": true, "path": null, "language": {"name": "English", "code2": "en", "code3": "eng", "forced": false, "hi": false}, "tags": [], "score": "83.33%", "subs_id": "1739884217", "provider": "supersubtitles", "subtitles_path": "/movies/Movies/The Brutalist (2024)/The Brutalist (2024) WEBRip-1080p.en.srt", "upgradable": false, "parsed_timestamp": "03/06/25 10:14:37", "blacklisted": false, "matches": ["year", "source", "resolution", "edition", "imdb_id", "hearing_impaired", "streaming_service", "title"], "dont_matches": ["release_group", "video_codec", "audio_codec", "hash"]}, {"action": 1, "title": "Conclave", "timestamp": "last month", "description": "English subtitles downloaded from supersubtitles with a score of 83.33%.", "radarrId": 2719, "monitored": true, "path": null, "language": {"name": "English", "code2": "en", "code3": "eng", "forced": false, "hi": false}, "tags": [], "score": "83.33%", "subs_id": "1732798267", "provider": "supersubtitles", "subtitles_path": "/movies/Movies/Conclave (2024)/Conclave (2024) WEBDL-1080p.en.srt", "upgradable": false, "parsed_timestamp": "03/04/25 19:57:28", "blacklisted": false, "matches": ["imdb_id", "resolution", "edition", "year", "hearing_impaired", "source", "title"], "dont_matches": ["video_codec", "release_group", "audio_codec", "streaming_service", "hash"]}, {"action": 1, "title": "Kronk's New Groove", "timestamp": "last month", "description": "English subtitles downloaded from supersubtitles with a score of 75.83%.", "radarrId": 373, "monitored": true, "path": null, "language": {"name": "English", "code2": "en", "code3": "eng", "forced": false, "hi": false}, "tags": [], "score": "75.83%", "subs_id": "1135009632", "provider": "supersubtitles", "subtitles_path": "/movies/Movies/Kronk's New Groove  (2005)/Kronk's New Groove (2005) WEBDL-1080p.en.srt", "upgradable": false, "parsed_timestamp": "03/04/25 18:49:17", "blacklisted": false, "matches": ["imdb_id", "edition", "year", "hearing_impaired", "streaming_service", "title"], "dont_matches": ["source", "video_codec", "release_group", "resolution", "audio_codec", "hash"]}, {"action": 1, "title": "Fantasia 2000", "timestamp": "last month", "description": "English subtitles downloaded from supersubtitles with a score of 77.5%.", "radarrId": 504, "monitored": true, "path": null, "language": {"name": "English", "code2": "en", "code3": "eng", "forced": false, "hi": false}, "tags": [], "score": "77.5%", "subs_id": "1648737974", "provider": "supersubtitles", "subtitles_path": "/movies/Movies/Fantasia 2000 (2000)/Fantasia 2000 (2000) WEBDL-1080p.en.srt", "upgradable": false, "parsed_timestamp": "03/04/25 18:48:19", "blacklisted": false, "matches": ["imdb_id", "resolution", "edition", "year", "hearing_impaired", "streaming_service", "title"], "dont_matches": ["source", "video_codec", "release_group", "audio_codec", "hash"]}], "total": 2029}
+{
+    "data": [
+        {
+            "action": 1,
+            "title": "Amaran",
+            "timestamp": "last month",
+            "description": "English subtitles downloaded from supersubtitles with a score of 83.33%.",
+            "radarrId": 2728,
+            "monitored": true,
+            "path": null,
+            "language": {
+                "name": "English",
+                "code2": "en",
+                "code3": "eng",
+                "forced": false,
+                "hi": false
+            },
+            "tags": [],
+            "score": "83.33%",
+            "subs_id": "1733477676",
+            "provider": "supersubtitles",
+            "subtitles_path": "/movies/Movies/Amaran (2024)/Amaran (2024) WEBRip-1080p.en.srt",
+            "upgradable": false,
+            "parsed_timestamp": "03/13/25 16:58:10",
+            "blacklisted": false,
+            "matches": [
+                "streaming_service",
+                "resolution",
+                "edition",
+                "year",
+                "title",
+                "imdb_id",
+                "source",
+                "hearing_impaired"
+            ],
+            "dont_matches": [
+                "video_codec",
+                "release_group",
+                "audio_codec",
+                "hash"
+            ]
+        },
+        {
+            "action": 1,
+            "title": "Let the Right One In",
+            "timestamp": "last month",
+            "description": "English HI subtitles downloaded from opensubtitlescom with a score of 80.0%.",
+            "radarrId": 2068,
+            "monitored": true,
+            "path": null,
+            "language": {
+                "name": "English",
+                "code2": "en",
+                "code3": "eng",
+                "forced": false,
+                "hi": true
+            },
+            "tags": [],
+            "score": "80.0%",
+            "subs_id": "5049927",
+            "provider": "opensubtitlescom",
+            "subtitles_path": "/movies/Movies/Let the Right One In (2008)/Let the Right One In (2008) WEBDL-1080p.en.srt",
+            "upgradable": false,
+            "parsed_timestamp": "03/11/25 15:59:24",
+            "blacklisted": false,
+            "matches": [
+                "resolution",
+                "edition",
+                "year",
+                "title",
+                "audio_codec",
+                "other",
+                "imdb_id",
+                "hearing_impaired"
+            ],
+            "dont_matches": [
+                "release_group",
+                "streaming_service",
+                "video_codec",
+                "source",
+                "hash"
+            ]
+        },
+        {
+            "action": 1,
+            "title": "The Spectacular Now",
+            "timestamp": "last month",
+            "description": "English HI subtitles downloaded from opensubtitlescom with a score of 84.17%.",
+            "radarrId": 2726,
+            "monitored": true,
+            "path": null,
+            "language": {
+                "name": "English",
+                "code2": "en",
+                "code3": "eng",
+                "forced": false,
+                "hi": true
+            },
+            "tags": [
+                "english"
+            ],
+            "score": "84.17%",
+            "subs_id": "3785589",
+            "provider": "opensubtitlescom",
+            "subtitles_path": "/movies/Documentaires/movies/The Spectacular Now (2013)/The Spectacular Now (2013) Remux-1080p.en.srt",
+            "upgradable": false,
+            "parsed_timestamp": "03/11/25 09:11:33",
+            "blacklisted": false,
+            "matches": [
+                "streaming_service",
+                "resolution",
+                "edition",
+                "year",
+                "title",
+                "video_codec",
+                "imdb_id",
+                "source"
+            ],
+            "dont_matches": [
+                "release_group",
+                "audio_codec",
+                "hash",
+                "hearing_impaired"
+            ]
+        },
+        {
+            "action": 1,
+            "title": "Suncoast",
+            "timestamp": "last month",
+            "description": "English HI subtitles downloaded from opensubtitlescom with a score of 87.5%.",
+            "radarrId": 2725,
+            "monitored": true,
+            "path": null,
+            "language": {
+                "name": "English",
+                "code2": "en",
+                "code3": "eng",
+                "forced": false,
+                "hi": true
+            },
+            "tags": [
+                "english"
+            ],
+            "score": "87.5%",
+            "subs_id": "8534858",
+            "provider": "opensubtitlescom",
+            "subtitles_path": "/movies/Documentaires/movies/Suncoast (2024)/Suncoast (2024) WEBDL-1080p.en.srt",
+            "upgradable": false,
+            "parsed_timestamp": "03/11/25 09:02:11",
+            "blacklisted": false,
+            "matches": [
+                "resolution",
+                "edition",
+                "year",
+                "title",
+                "video_codec",
+                "audio_codec",
+                "other",
+                "imdb_id",
+                "source",
+                "hearing_impaired"
+            ],
+            "dont_matches": [
+                "streaming_service",
+                "release_group",
+                "hash"
+            ]
+        },
+        {
+            "action": 1,
+            "title": "The Fallout",
+            "timestamp": "last month",
+            "description": "English HI subtitles downloaded from supersubtitles with a score of 95.83%.",
+            "radarrId": 2724,
+            "monitored": true,
+            "path": null,
+            "language": {
+                "name": "English",
+                "code2": "en",
+                "code3": "eng",
+                "forced": false,
+                "hi": true
+            },
+            "tags": [
+                "english"
+            ],
+            "score": "95.83%",
+            "subs_id": "1643284556",
+            "provider": "supersubtitles",
+            "subtitles_path": "/movies/Documentaires/movies/The Fallout (2021)/The Fallout (2021) WEBDL-1080p.en.srt",
+            "upgradable": false,
+            "parsed_timestamp": "03/11/25 08:59:14",
+            "blacklisted": false,
+            "matches": [
+                "release_group",
+                "resolution",
+                "edition",
+                "year",
+                "title",
+                "other",
+                "imdb_id",
+                "source",
+                "hearing_impaired"
+            ],
+            "dont_matches": [
+                "video_codec",
+                "streaming_service",
+                "audio_codec",
+                "hash"
+            ]
+        },
+        {
+            "action": 1,
+            "title": "Warm Bodies",
+            "timestamp": "last month",
+            "description": "English subtitles downloaded from supersubtitles with a score of 83.33%.",
+            "radarrId": 1318,
+            "monitored": true,
+            "path": null,
+            "language": {
+                "name": "English",
+                "code2": "en",
+                "code3": "eng",
+                "forced": false,
+                "hi": false
+            },
+            "tags": [],
+            "score": "83.33%",
+            "subs_id": "1369406630",
+            "provider": "supersubtitles",
+            "subtitles_path": "/movies/Movies/Warm Bodies 2013/Warm Bodies (2013) WEBDL-1080p.en.srt",
+            "upgradable": false,
+            "parsed_timestamp": "03/11/25 00:43:47",
+            "blacklisted": false,
+            "matches": [
+                "resolution",
+                "edition",
+                "year",
+                "title",
+                "other",
+                "imdb_id",
+                "source",
+                "hearing_impaired"
+            ],
+            "dont_matches": [
+                "release_group",
+                "streaming_service",
+                "video_codec",
+                "audio_codec",
+                "hash"
+            ]
+        },
+        {
+            "action": 1,
+            "title": "The Lord of the Rings",
+            "timestamp": "last month",
+            "description": "English subtitles downloaded from opensubtitlescom with a score of 77.5%.",
+            "radarrId": 2097,
+            "monitored": true,
+            "path": null,
+            "language": {
+                "name": "English",
+                "code2": "en",
+                "code3": "eng",
+                "forced": false,
+                "hi": false
+            },
+            "tags": [],
+            "score": "77.5%",
+            "subs_id": "5245160",
+            "provider": "opensubtitlescom",
+            "subtitles_path": "/movies/Movies/The Lord of the Rings (1978)/The Lord of the Rings (1978) WEBDL-1080p.en.srt",
+            "upgradable": false,
+            "parsed_timestamp": "03/08/25 12:28:49",
+            "blacklisted": false,
+            "matches": [
+                "hearing_impaired",
+                "year",
+                "resolution",
+                "edition",
+                "imdb_id",
+                "other",
+                "streaming_service",
+                "title"
+            ],
+            "dont_matches": [
+                "source",
+                "video_codec",
+                "release_group",
+                "audio_codec",
+                "hash"
+            ]
+        },
+        {
+            "action": 1,
+            "title": "The Return of the King",
+            "timestamp": "last month",
+            "description": "English subtitles downloaded from opensubtitlescom with a score of 75.83%.",
+            "radarrId": 2379,
+            "monitored": true,
+            "path": null,
+            "language": {
+                "name": "English",
+                "code2": "en",
+                "code3": "eng",
+                "forced": false,
+                "hi": false
+            },
+            "tags": [],
+            "score": "75.83%",
+            "subs_id": "10786958",
+            "provider": "opensubtitlescom",
+            "subtitles_path": "/movies/Movies/The Return of the King (1980)/The Return of the King (1980) WEBDL-1080p.en.srt",
+            "upgradable": false,
+            "parsed_timestamp": "03/08/25 12:24:41",
+            "blacklisted": false,
+            "matches": [
+                "imdb_id",
+                "edition",
+                "year",
+                "hearing_impaired",
+                "streaming_service",
+                "title"
+            ],
+            "dont_matches": [
+                "source",
+                "video_codec",
+                "release_group",
+                "resolution",
+                "audio_codec",
+                "hash"
+            ]
+        },
+        {
+            "action": 1,
+            "title": "Anora",
+            "timestamp": "last month",
+            "description": "English HI subtitles downloaded from supersubtitles with a score of 83.33%.",
+            "radarrId": 2720,
+            "monitored": true,
+            "path": null,
+            "language": {
+                "name": "English",
+                "code2": "en",
+                "code3": "eng",
+                "forced": false,
+                "hi": true
+            },
+            "tags": [],
+            "score": "83.33%",
+            "subs_id": "1734437662",
+            "provider": "supersubtitles",
+            "subtitles_path": "/movies/Movies/Anora (2024)/Anora (2024) WEBRip-1080p.en.srt",
+            "upgradable": false,
+            "parsed_timestamp": "03/06/25 10:26:24",
+            "blacklisted": false,
+            "matches": [
+                "year",
+                "source",
+                "resolution",
+                "edition",
+                "imdb_id",
+                "hearing_impaired",
+                "streaming_service",
+                "title"
+            ],
+            "dont_matches": [
+                "release_group",
+                "video_codec",
+                "audio_codec",
+                "hash"
+            ]
+        },
+        {
+            "action": 1,
+            "title": "A Real Pain",
+            "timestamp": "last month",
+            "description": "English subtitles downloaded from supersubtitles with a score of 95.83%.",
+            "radarrId": 2722,
+            "monitored": true,
+            "path": null,
+            "language": {
+                "name": "English",
+                "code2": "en",
+                "code3": "eng",
+                "forced": false,
+                "hi": false
+            },
+            "tags": [],
+            "score": "95.83%",
+            "subs_id": "1735649519",
+            "provider": "supersubtitles",
+            "subtitles_path": "/movies/Movies/A Real Pain (2024)/A Real Pain (2024) WEBDL-1080p Proper.en.srt",
+            "upgradable": false,
+            "parsed_timestamp": "03/06/25 10:16:19",
+            "blacklisted": false,
+            "matches": [
+                "hearing_impaired",
+                "year",
+                "source",
+                "release_group",
+                "resolution",
+                "edition",
+                "imdb_id",
+                "other",
+                "streaming_service",
+                "title"
+            ],
+            "dont_matches": [
+                "audio_codec",
+                "video_codec",
+                "hash"
+            ]
+        },
+        {
+            "action": 1,
+            "title": "Rumours",
+            "timestamp": "last month",
+            "description": "English subtitles downloaded from supersubtitles with a score of 83.33%.",
+            "radarrId": 2723,
+            "monitored": true,
+            "path": null,
+            "language": {
+                "name": "English",
+                "code2": "en",
+                "code3": "eng",
+                "forced": false,
+                "hi": false
+            },
+            "tags": [],
+            "score": "83.33%",
+            "subs_id": "1731413602",
+            "provider": "supersubtitles",
+            "subtitles_path": "/movies/Movies/Rumours (2024)/Rumours (2024) WEBRip-1080p.en.srt",
+            "upgradable": false,
+            "parsed_timestamp": "03/06/25 10:16:07",
+            "blacklisted": false,
+            "matches": [
+                "year",
+                "source",
+                "resolution",
+                "edition",
+                "imdb_id",
+                "hearing_impaired",
+                "streaming_service",
+                "title"
+            ],
+            "dont_matches": [
+                "release_group",
+                "video_codec",
+                "audio_codec",
+                "hash"
+            ]
+        },
+        {
+            "action": 1,
+            "title": "The Brutalist",
+            "timestamp": "last month",
+            "description": "English subtitles downloaded from supersubtitles with a score of 83.33%.",
+            "radarrId": 2721,
+            "monitored": true,
+            "path": null,
+            "language": {
+                "name": "English",
+                "code2": "en",
+                "code3": "eng",
+                "forced": false,
+                "hi": false
+            },
+            "tags": [],
+            "score": "83.33%",
+            "subs_id": "1739884217",
+            "provider": "supersubtitles",
+            "subtitles_path": "/movies/Movies/The Brutalist (2024)/The Brutalist (2024) WEBRip-1080p.en.srt",
+            "upgradable": false,
+            "parsed_timestamp": "03/06/25 10:14:37",
+            "blacklisted": false,
+            "matches": [
+                "year",
+                "source",
+                "resolution",
+                "edition",
+                "imdb_id",
+                "hearing_impaired",
+                "streaming_service",
+                "title"
+            ],
+            "dont_matches": [
+                "release_group",
+                "video_codec",
+                "audio_codec",
+                "hash"
+            ]
+        },
+        {
+            "action": 1,
+            "title": "Conclave",
+            "timestamp": "last month",
+            "description": "English subtitles downloaded from supersubtitles with a score of 83.33%.",
+            "radarrId": 2719,
+            "monitored": true,
+            "path": null,
+            "language": {
+                "name": "English",
+                "code2": "en",
+                "code3": "eng",
+                "forced": false,
+                "hi": false
+            },
+            "tags": [],
+            "score": "83.33%",
+            "subs_id": "1732798267",
+            "provider": "supersubtitles",
+            "subtitles_path": "/movies/Movies/Conclave (2024)/Conclave (2024) WEBDL-1080p.en.srt",
+            "upgradable": false,
+            "parsed_timestamp": "03/04/25 19:57:28",
+            "blacklisted": false,
+            "matches": [
+                "imdb_id",
+                "resolution",
+                "edition",
+                "year",
+                "hearing_impaired",
+                "source",
+                "title"
+            ],
+            "dont_matches": [
+                "video_codec",
+                "release_group",
+                "audio_codec",
+                "streaming_service",
+                "hash"
+            ]
+        },
+        {
+            "action": 1,
+            "title": "Kronk's New Groove",
+            "timestamp": "last month",
+            "description": "English subtitles downloaded from supersubtitles with a score of 75.83%.",
+            "radarrId": 373,
+            "monitored": true,
+            "path": null,
+            "language": {
+                "name": "English",
+                "code2": "en",
+                "code3": "eng",
+                "forced": false,
+                "hi": false
+            },
+            "tags": [],
+            "score": "75.83%",
+            "subs_id": "1135009632",
+            "provider": "supersubtitles",
+            "subtitles_path": "/movies/Movies/Kronk's New Groove  (2005)/Kronk's New Groove (2005) WEBDL-1080p.en.srt",
+            "upgradable": false,
+            "parsed_timestamp": "03/04/25 18:49:17",
+            "blacklisted": false,
+            "matches": [
+                "imdb_id",
+                "edition",
+                "year",
+                "hearing_impaired",
+                "streaming_service",
+                "title"
+            ],
+            "dont_matches": [
+                "source",
+                "video_codec",
+                "release_group",
+                "resolution",
+                "audio_codec",
+                "hash"
+            ]
+        },
+        {
+            "action": 1,
+            "title": "Fantasia 2000",
+            "timestamp": "last month",
+            "description": "English subtitles downloaded from supersubtitles with a score of 77.5%.",
+            "radarrId": 504,
+            "monitored": true,
+            "path": null,
+            "language": {
+                "name": "English",
+                "code2": "en",
+                "code3": "eng",
+                "forced": false,
+                "hi": false
+            },
+            "tags": [],
+            "score": "77.5%",
+            "subs_id": "1648737974",
+            "provider": "supersubtitles",
+            "subtitles_path": "/movies/Movies/Fantasia 2000 (2000)/Fantasia 2000 (2000) WEBDL-1080p.en.srt",
+            "upgradable": false,
+            "parsed_timestamp": "03/04/25 18:48:19",
+            "blacklisted": false,
+            "matches": [
+                "imdb_id",
+                "resolution",
+                "edition",
+                "year",
+                "hearing_impaired",
+                "streaming_service",
+                "title"
+            ],
+            "dont_matches": [
+                "source",
+                "video_codec",
+                "release_group",
+                "audio_codec",
+                "hash"
+            ]
+        }
+    ],
+    "total": 2029
+}
