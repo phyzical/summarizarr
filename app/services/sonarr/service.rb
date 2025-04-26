@@ -7,6 +7,7 @@ module Sonarr
 
     APP_NAME = 'Sonarr'
     APP_COLOUR = 0xFF0000 # red
+    ITEM_SORT_CONTEXT = :episode
 
     def summary
       "* Processed #{items.count} episodes from #{grouped_items.keys.count} series\n"

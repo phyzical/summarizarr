@@ -7,6 +7,7 @@ module Bazarr
 
     APP_NAME = 'Bazarr'
     APP_COLOUR = 0x808080 # grey
+    ITEM_SORT_CONTEXT = :episode
 
     def summary
       "* Processed #{items.count} subtitles\n"

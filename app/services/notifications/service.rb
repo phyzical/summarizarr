@@ -5,7 +5,7 @@ module Notifications
     class << self
       def notify(services: Summary::Service::SERVICES)
         notifier = (discord.enabled? ? Discord : Generic)
-        services.each { |service| notifier.notify(service: service.new) }
+        services.map(&:new).each { |service| notifier.notify(service:) }
       end
 
       private
