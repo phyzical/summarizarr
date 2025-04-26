@@ -82,14 +82,16 @@ module Tdarr
         # movies don't have season
         expect(grouped_items[expected_series.first].keys).to match([nil])
         #  groups by date
-        expect(grouped_items[expected_series.first][nil].keys).to match(['Sat, 26 Apr 2025'].map(&:to_date))
-        expect(grouped_items[expected_series.first][nil]['Sat, 26 Apr 2025'.to_date].length).to be(2)
+        expect(grouped_items[expected_series.first][nil].keys).to match(['Fri, 25 Apr 2025'].map(&:to_date))
+        expect(grouped_items[expected_series.first][nil]['Fri, 25 Apr 2025'.to_date].length).to be(2)
 
         # shows group by series
         expect(grouped_items[expected_series.second].keys).to match([14])
         #  groups by date
-        expect(grouped_items[expected_series.second][14].keys).to match(['Fri, 25 Apr 2025'].map(&:to_date))
-        expect(grouped_items[expected_series.second][14]['Fri, 25 Apr 2025'.to_date].length).to be(21)
+        expect(grouped_items[expected_series.second][14].keys).to match(
+          ['Thu, 24 Apr 2025', 'Fri, 25 Apr 2025'].map(&:to_date)
+        )
+        expect(grouped_items[expected_series.second][14]['Thu, 24 Apr 2025'.to_date].length).to be(7)
       end
     end
   end

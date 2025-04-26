@@ -23,7 +23,7 @@ module Tdarr
           expect(from_json.to_h).to match(
             {
               event_type: described_class::EVENT_TYPES[:transcode_success],
-              date: 'Sat, 26 Apr 2025'.to_date,
+              date: 'Fri, 25 Apr 2025'.to_date,
               file: '/mnt/media/Tv Shows/The Pitt/Season 1/The.Pitt.S01E14.8-00.P.M.mkv',
               season: 1,
               title: 'The.Pitt.S01E14.8-00.P.M.mkv',
