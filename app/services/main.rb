@@ -5,6 +5,7 @@ class Main
     last_run_time = nil
     loop do
       if last_run_time
+        return if rerun_datetime.nil?
         sleep_time = rerun_datetime.to_f - DateTime.now.to_f
         puts "Sleeping for #{sleep_time} seconds"
         sleep(sleep_time)
