@@ -98,34 +98,6 @@
         },
         {
             "action": 1,
-            "title": "Peter Pan's Neverland Nightmare",
-            "timestamp": "4 weeks ago",
-            "description": "English subtitles downloaded from whisperai with a score of 50.83%.",
-            "radarrId": 2624,
-            "monitored": true,
-            "path": null,
-            "language": {
-                "name": "English",
-                "code2": "en",
-                "code3": "eng",
-                "forced": false,
-                "hi": false
-            },
-            "tags": [
-                "english"
-            ],
-            "score": "50.83%",
-            "subs_id": "Peter Pan's Neverland Nightmare (2025) WEBRip-1080p.mp4_transcribe_en",
-            "provider": "whisperai",
-            "subtitles_path": "/movies/Movies/Peter Pan's Neverland Nightmare (2025)/Peter Pan's Neverland Nightmare (2025) WEBRip-1080p.en.srt",
-            "upgradable": false,
-            "parsed_timestamp": "03/28/25 06:21:37",
-            "blacklisted": false,
-            "matches": [],
-            "dont_matches": []
-        },
-        {
-            "action": 1,
             "title": "The Monkey",
             "timestamp": "last month",
             "description": "English subtitles downloaded from whisperai with a score of 50.83%.",

@@ -7,7 +7,7 @@ module Bazarr
     include MockRequests
 
     let(:service) { described_class.new }
-    let(:total) { 116 }
+    let(:total) { 115 }
 
     before { stub_bazarr }
 
