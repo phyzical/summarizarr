@@ -85,8 +85,10 @@ mkdir -p "${root}/api/v2/client"
 times=5
 for i in $(seq 0 $times); do
     file="/api/v2/client/jobs?page=$i"
-    curl -X 'POST' "${TDARR_URL}${file}" \
-        -d '{"data":{"start":'"$i"',"pageSize":15,"filters":[{"id":"job.type", "value":"transcode"}, {"id": "status", "value":"Transcode success"}],"sorts":[],"opts":{}}}' \
+    pageSize=15
+    count=$((i * pageSize))
+    curl -v -X 'POST' "${TDARR_URL}${file}" \
+        -d '{"data":{"start":'"$count"',"pageSize":'$pageSize',"filters":[{"id":"job.type", "value":"transcode"}, {"id": "status", "value":"Transcode success"}],"sorts":[],"opts":{}}}' \
         -H 'accept: application/json' -H 'Content-Type: application/json' >"${root}${file}.json"
 done
 file="/api/v2/status"
