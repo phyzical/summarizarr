@@ -2,9 +2,6 @@
 
 module Bazarr
   class Service < BaseService
-    # TODO: We set this as pagination breaks the ordering
-    ITEM_MAX = 5000
-
     APP_NAME = 'Bazarr'
     APP_COLOUR = 0x808080 # grey
     ITEM_SORT_CONTEXT = :episode
@@ -20,12 +17,11 @@ module Bazarr
         '/api'
       end
 
-      # TODO: we cant use pagination as it breaks the ordering
-      # curl -X 'GET' 'https://bazarr/api/episodes/history?length=5000' -H 'accept: application/json' -H 'X-API-KEY: 12345' # rubocop:disable Layout/LineLength
+      # curl -X 'GET' 'https://bazarr/api/episodes/?start=0&length=15' -H 'accept: application/json' -H 'X-API-KEY: 12345' # rubocop:disable Layout/LineLength
       def episode_history_endpoint
         "#{api_prefix}/episodes/history"
       end
-      # curl -X 'GET' 'https://bazarr/api/movies/history?length=5000' -H 'accept: application/json' -H 'X-API-KEY: 12345' # rubocop:disable Layout/LineLength
+      # curl -X 'GET' 'https://bazarr/api/movies/history?start=0&length=15' -H 'accept: application/json' -H 'X-API-KEY: 12345' # rubocop:disable Layout/LineLength
 
       def movie_history_endpoint
         "#{api_prefix}/movies/history"
@@ -37,19 +33,22 @@ module Bazarr
       end
     end
 
-    def pull(*)
-      (
-        Request.perform(url: "#{base_url}#{self.class.episode_history_endpoint}", get_vars:, headers:)[:data] +
-          Request.perform(url: "#{base_url}#{self.class.movie_history_endpoint}", get_vars:, headers:)[:data]
-      )
+    def pulls(page: 1)
+      page -= 1
+      get_vars = get_vars(page:)
+      [
+        Request.perform(url: "#{base_url}#{self.class.episode_history_endpoint}", get_vars:, headers:)[:data],
+        Request.perform(url: "#{base_url}#{self.class.movie_history_endpoint}", get_vars:, headers:)[:data]
+      ]
     end
 
     def filter(*)
       true
     end
 
-    def get_vars # rubocop:disable Naming/AccessorMethodName
-      { length: ITEM_MAX, page: 0 }
+    def get_vars(page: 1)
+      length = 15
+      { length:, start: page * length }
     end
 
     def headers

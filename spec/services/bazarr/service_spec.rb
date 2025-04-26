@@ -7,7 +7,7 @@ module Bazarr
     include MockRequests
 
     let(:service) { described_class.new }
-    let(:total) { 232 }
+    let(:total) { 116 }
 
     before { stub_bazarr }
 
@@ -59,62 +59,13 @@ module Bazarr
         let(:expected_series) do
           [
             nil,
-            '1923',
-            '9-1-1',
-            "A Young Doctor's Notebook",
-            'American Dad!',
-            'Blacktalon',
-            'Chicago Fire',
-            'Daredevil: Born Again',
-            'Dateline: Secrets Uncovered',
-            "David Attenborough's Natural Curiosities",
-            'Doctor Odyssey',
-            'Drunk History',
-            'Family Guy',
-            'Gardening Australia',
+            'CSI: Crime Scene Investigation',
+            'Fire Country',
             'Gogglebox',
-            'Gogglebox Australia',
-            'Good Cop/Bad Cop',
-            'Gotham',
-            'Grand Designs',
-            'Great British Menu',
-            "Grey's Anatomy",
-            'Kitchen Nightmares (US)',
-            'Mom',
-            'My Wife and Kids',
-            'Mythic Quest',
-            'NCIS',
-            'Naruto',
-            'Penn & Teller: Fool Us',
-            'Playgrounds of the Rich and Famous',
-            'Power Book III: Raising Kanan',
-            'QI',
-            'Reacher',
-            'Resurrection',
-            "RuPaul's Drag Race",
-            'Scandal (2012)',
-            'Sons of Anarchy',
-            'Space Invaders',
-            'SpongeBob SquarePants',
-            'St. Denis Medical',
-            'Stillwater',
-            'Taskmaster (AU)',
-            'Teen Mom: The Next Chapter',
-            'The Catch',
-            'The Equalizer (2021)',
-            'The Kardashians',
-            'The Lazarus Project',
-            'The Man in the High Castle',
-            'The Neighborhood',
-            'The Repair Shop',
-            'The Rookie',
-            'The Wheel of Time',
-            'The White Lotus',
-            'Tracker (2024)',
-            'Undone',
-            'Watson',
-            'Yellowjackets',
-            'Younger'
+            'Keeping Up with the Kardashians',
+            'The IT Crowd',
+            'The Pitt',
+            "You're the Worst"
           ]
         end
 
@@ -124,17 +75,30 @@ module Bazarr
           expect(grouped_items[expected_series.first].keys).to match([nil])
           #  groups by date
           expect(grouped_items[expected_series.first][nil].keys).to match(
-            ['Sun, 23 Mar 2025', 'Mon, 24 Mar 2025', 'Tue, 25 Mar 2025', 'Fri, 28 Mar 2025', 'Sat, 29 Mar 2025'].map(
-              &:to_date
-            )
+            [
+              'Sun, 23 Mar 2025',
+              'Mon, 24 Mar 2025',
+              'Tue, 25 Mar 2025',
+              'Fri, 28 Mar 2025',
+              'Sat, 29 Mar 2025',
+              'Fri, 04 Apr 2025',
+              'Sun, 06 Apr 2025',
+              'Tue, 08 Apr 2025',
+              'Wed, 09 Apr 2025',
+              'Fri, 11 Apr 2025',
+              'Tue, 15 Apr 2025',
+              'Sat, 19 Apr 2025',
+              'Tue, 22 Apr 2025',
+              'Fri, 25 Apr 2025'
+            ].map(&:to_date)
           )
           expect(grouped_items[expected_series.first][nil]['Mon, 24 Mar 2025'.to_date].length).to be(6)
 
           # shows group by series
-          expect(grouped_items[expected_series.second].keys).to match([2])
+          expect(grouped_items[expected_series.second].keys).to match([15])
           #  groups by date
-          expect(grouped_items[expected_series.second][2].keys).to match(['Sun, 23 Mar 2025'].map(&:to_date))
-          expect(grouped_items[expected_series.second][2]['Sun, 23 Mar 2025'.to_date].length).to be(1)
+          expect(grouped_items[expected_series.second][15].keys).to match(['Sat, 26 Apr 2025'].map(&:to_date))
+          expect(grouped_items[expected_series.second][15]['Sat, 26 Apr 2025'.to_date].length).to be(17)
         end
       end
     end
