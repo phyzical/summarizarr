@@ -35,16 +35,18 @@ module Tdarr
       end
     end
 
-    def pull(page: 1)
+    def pulls(page: 1)
       page -= 1
-      Request.perform(
-        type: :post,
-        url: "#{base_url}#{self.class.jobs_endpoint}",
-        get_vars: get_vars(page:),
-        headers:,
-        body: body(page:)
-      )[
-        :array
+      [
+        Request.perform(
+          type: :post,
+          url: "#{base_url}#{self.class.jobs_endpoint}",
+          get_vars: get_vars(page:),
+          headers:,
+          body: body(page:)
+        )[
+          :array
+        ]
       ]
     end
 

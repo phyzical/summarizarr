@@ -10,6 +10,7 @@ module Mylar3
 
     PRIMARY_GROUP_CONTEXT = :comic
     SECONDARY_GROUP_CONTEXT = nil
+    ITEM_SORT_CONTEXT = :issue
 
     def summary
       "* Processed #{items.count} issues from #{grouped_items.keys.count} comics\n"
@@ -31,9 +32,11 @@ module Mylar3
       end
     end
 
-    def pull(*)
-      Request.perform(url: "#{base_url}#{self.class.api_prefix}", get_vars: get_vars(cmd: self.class.history_cmd))[
-        :data
+    def pulls(*)
+      [
+        Request.perform(url: "#{base_url}#{self.class.api_prefix}", get_vars: get_vars(cmd: self.class.history_cmd))[
+          :data
+        ]
       ]
     end
 

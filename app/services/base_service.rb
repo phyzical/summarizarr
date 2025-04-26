@@ -43,23 +43,24 @@ class BaseService
 
   private
 
-  def process
+  def process # rubocop:disable Metrics/CyclomaticComplexity,Metrics/PerceivedComplexity
     page = 1
     items = []
     loop do
-      pull = pull(page:)
+      pulls = pulls(page:)
       # :nocov:
-      break if pull.empty?
+      break if pulls.all?(&:empty?)
       # :nocov:
-      items += pull.map { |json| map(json:) }
+      pulls = pulls.map { |pull| pull.map { |json| map(json:) } }
+      items += pulls.flatten
       page += 1
-      break if items.any? { |item| item.date < from_date }
+      break if pulls.all? { |pull| pull.any? { |item| item.date < from_date } }
     end
     items.filter { |item| item.date >= from_date && filter(item:) }
   end
 
   # :nocov:
-  def pull(page: 1) # rubocop:disable Lint/UnusedMethodArgument
+  def pulls(page: 1) # rubocop:disable Lint/UnusedMethodArgument
     raise 'Please implement!'
   end
   # :nocov:
