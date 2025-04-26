@@ -14,7 +14,7 @@ module Request
         response = http.request(request)
         if response.code == '200' && response.body != ''
           return JSON.parse(response.body.force_encoding('UTF-8'), symbolize_names: true)
-        elsif response.code == '400'
+        elsif response.code != '404'
           raise "Error: #{response.code} - #{response.message}"
         end
         {}
