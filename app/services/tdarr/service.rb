@@ -49,10 +49,12 @@ module Tdarr
     end
 
     def body(page: 0)
+      pageSize = 15 # rubocop:disable Naming/VariableName
+      start = page * pageSize # rubocop:disable Naming/VariableName
       {
         data: {
-          start: page,
-          pageSize: 15,
+          start:,
+          pageSize:, # rubocop:disable Naming/VariableName
           filters: [{ id: 'job.type', value: 'transcode' }, { id: 'status', value: 'Transcode success' }],
           sorts: [],
           opts: {
