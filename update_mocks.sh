@@ -60,36 +60,21 @@ curl -X 'GET' "${READARR_URL}${file}&pageSize=15&includeEpisode=true&includeSeri
 echo "updating bazarr"
 root="./spec/support/requests/bazarr"
 mkdir -p "${root}"
-file="/api/episodes/history"
-curl -X 'GET' "${BAZARR_URL}${file}?length=5000" \
-    -H "X-API-KEY: ${BAZARR_API_KEY}" -H 'accept: application/json' >"${root}${file}.json"
-file="/api/movies/history"
-curl -X 'GET' "${BAZARR_URL}${file}?length=5000" \
-    -H "X-API-KEY: ${BAZARR_API_KEY}" -H 'accept: application/json' >"${root}${file}.json"
-file="/api/system/status"
-curl -X 'GET' "${BAZARR_URL}${file}?length=5000" \
-    -H "X-API-KEY: ${BAZARR_API_KEY}" -H 'accept: application/json' >"${root}${file}.json"
-
-echo "updating mylar3"
-root="./spec/support/requests/mylar3"
-mkdir -p "${root}"
-file="/api?cmd=getHistory"
-curl -X 'GET' "${MYLAR3_URL}${file}&apikey=${MYLAR3_API_KEY}" \
-    -H 'accept: application/json' >"${root}${file}.json"
-file="/api?cmd=getVersion"
-curl -X 'GET' "${MYLAR3_URL}${file}&apikey=${MYLAR3_API_KEY}" \
-    -H 'accept: application/json' >"${root}${file}.json"
-echo "updating tdarr"
-root="./spec/support/requests/tdarr"
-mkdir -p "${root}/api/v2/client"
 times=5
 for i in $(seq 0 $times); do
-    file="/api/v2/client/jobs?page=$i"
     pageSize=15
     count=$((i * pageSize))
-    curl -v -X 'POST' "${TDARR_URL}${file}" \
-        -d '{"data":{"start":'"$count"',"pageSize":'$pageSize',"filters":[{"id":"job.type", "value":"transcode"}, {"id": "status", "value":"Transcode success"}],"sorts":[],"opts":{}}}' \
-        -H 'accept: application/json' -H 'Content-Type: application/json' >"${root}${file}.json"
+    file="/api/episodes/history?length=$pageSize&start=$count"
+    curl -X 'GET' "${BAZARR_URL}${file}" \
+        -H "X-API-KEY: ${BAZARR_API_KEY}" -H 'accept: application/json' >"${root}${file}.json"
+done
+times=5
+for i in $(seq 0 $times); do
+    pageSize=15
+    count=$((i * pageSize))
+    file="/api/movies/history?length=$pageSize&start=$count"
+    curl -X 'GET' "${BAZARR_URL}${file}" \
+        -H "X-API-KEY: ${BAZARR_API_KEY}" -H 'accept: application/json' >"${root}${file}.json"
 done
 file="/api/v2/status"
 curl -X 'GET' "${TDARR_URL}${file}" \
