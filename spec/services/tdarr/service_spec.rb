@@ -7,6 +7,7 @@ module Tdarr
     include MockRequests
 
     let(:service) { described_class.new }
+    let(:total) { 74 }
 
     before { stub_tdarr }
 
@@ -14,7 +15,7 @@ module Tdarr
       subject(:items) { service.items }
 
       it 'returns history only containing expected types and groups by title' do
-        expect(items.count).to be(60)
+        expect(items.count).to be(total)
         expect(items).to all(be_a(Item::Thing))
       end
 
@@ -50,8 +51,8 @@ module Tdarr
 
       it 'summaries correctly' do
         expect(summary).to eq(
-          "* Processed 60 items\n* Starting size: 55.017 GB\n* Ending size: 35.317 GB\n" \
-            "* Total Savings: 19.7 GB\n* Average Savings: 0.328 GB\n"
+          "* Processed #{total} items\n* Starting size: 195.13 GB\n* Ending size: 131.331 GB\n" \
+            "* Total Savings: 63.799 GB\n* Average Savings: 0.862 GB\n"
         )
       end
     end
@@ -59,16 +60,36 @@ module Tdarr
     describe '#grouped_items' do
       subject(:grouped_items) { service.grouped_items }
 
-      let(:expected_series) { ['Great British Menu', 'The Vicar of Dibley', "World's Most Evil Killers"] }
+      let(:expected_series) do
+        [
+          nil,
+          'CSI Crime Scene Investigation',
+          'Elsbeth',
+          'Gardening Australia',
+          "Georgie & Mandy's First Marriage",
+          'Ghosts (US)',
+          'Gogglebox Australia',
+          'Hacks (2021)',
+          'Taskmaster (AU)',
+          'The IT Crowd',
+          'The Pitt',
+          'keeping up with the kardashians'
+        ]
+      end
 
       it 'groups by series or nil for movies, then season, then date and all are sorted' do
         expect(grouped_items.keys).to match(expected_series)
+        # movies don't have season
+        expect(grouped_items[expected_series.first].keys).to match([nil])
+        #  groups by date
+        expect(grouped_items[expected_series.first][nil].keys).to match(['Sat, 26 Apr 2025'].map(&:to_date))
+        expect(grouped_items[expected_series.first][nil]['Sat, 26 Apr 2025'.to_date].length).to be(2)
 
         # shows group by series
-        expect(grouped_items[expected_series.second].keys).to match([1, 2, 3])
+        expect(grouped_items[expected_series.second].keys).to match([14])
         #  groups by date
-        expect(grouped_items[expected_series.second][1].keys).to match(['Mon, 31 Mar 2025'].map(&:to_date))
-        expect(grouped_items[expected_series.second][1]['Mon, 31 Mar 2025'.to_date].length).to be(24)
+        expect(grouped_items[expected_series.second][14].keys).to match(['Fri, 25 Apr 2025'].map(&:to_date))
+        expect(grouped_items[expected_series.second][14]['Fri, 25 Apr 2025'.to_date].length).to be(21)
       end
     end
   end

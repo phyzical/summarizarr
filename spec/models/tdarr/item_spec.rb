@@ -23,13 +23,14 @@ module Tdarr
           expect(from_json.to_h).to match(
             {
               event_type: described_class::EVENT_TYPES[:transcode_success],
-              date: Date.parse('31/03/2025'),
-              file: '/mnt/media/Tv Shows/The Vicar of Dibley/Season 3/The.Vicar.of.Dibley.S03E04.Summer.mkv',
-              season: 3,
-              series: 'The Vicar of Dibley',
-              size_after: 0.314,
-              size_before: 0.464,
-              size_ratio: '67.58%',
+              date: 'Sat, 26 Apr 2025'.to_date,
+              file: '/mnt/media/Tv Shows/The Pitt/Season 1/The.Pitt.S01E14.8-00.P.M.mkv',
+              season: 1,
+              title: 'The.Pitt.S01E14.8-00.P.M.mkv',
+              series: 'The Pitt',
+              size_after: 0.93,
+              size_before: 1.222,
+              size_ratio: '76.16%',
               deletion?: false
             }
           )

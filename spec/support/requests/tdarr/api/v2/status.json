@@ -1,1 +1,7 @@
-{"status":"good","isProduction":true,"os":"linux","version":"2.35.02","uptime":132403}
+{
+    "status": "good",
+    "isProduction": true,
+    "os": "linux",
+    "version": "2.35.02",
+    "uptime": 619361
+}
