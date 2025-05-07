@@ -2,22 +2,22 @@
 
 module Radarr
   class Service < GenericArrService
-    API_VERSION = 'v3'
     # curl -X 'GET' 'http://radarr:7878/api/v3/history?page=1&pageSize=15&includeMovie=true&apikey=asd'   -H 'accept: application/json' # rubocop:disable Layout/LineLength
     # curl -X 'GET' 'http://radarr:7878/api/v3/system/status?apikey=asd'   -H 'accept: application/json'
 
-    private
+    APP_NAME = 'Radarr'
+    APP_COLOUR = 0x800080 # purple
+    PRIMARY_GROUP_CONTEXT = nil
+    SECONDARY_GROUP_CONTEXT = nil
 
-    def map(json:)
-      Item.from_json(json:)
+    def summary
+      "* Processed #{items.count} movies\n"
     end
+
+    private
 
     def get_vars(page: 1)
       super.merge({ includeMovie: true })
-    end
-
-    def app_name
-      'Radarr'
     end
 
     def app_config
