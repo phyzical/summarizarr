@@ -27,7 +27,8 @@ module Mylar3
             {
               event_type: described_class::EVENT_TYPES[:post_processed],
               date: Date.parse('25/03/2025'),
-              title: 'The Walking Dead Deluxe 109',
+              comic: 'The Walking Dead Deluxe',
+              issue: 109,
               deletion?: false
             }
           )
@@ -41,7 +42,7 @@ module Mylar3
       let(:item) { build(:mylar3_item) }
 
       it 'when no old_quality' do
-        expect(summary).to eq("#{item.title} has downloaded")
+        expect(summary).to eq("issue: #{item.issue} has downloaded")
       end
     end
   end

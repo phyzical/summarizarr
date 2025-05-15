@@ -15,7 +15,9 @@ module Config
       end
 
       def rerun_datetime
-        @rerun_datetime ||= DateTime.now + ENV.fetch('RERUN_INTERVAL_DAYS', '7').to_i.days
+        interval = ENV.fetch('RERUN_INTERVAL_DAYS', '')
+        return nil if interval.empty?
+        @rerun_datetime ||= DateTime.now + interval.to_i.days
       end
 
       def sonarr

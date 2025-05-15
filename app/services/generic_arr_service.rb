@@ -25,15 +25,9 @@ class GenericArrService < BaseService
     end
   end
 
-  def pull(page: 1)
-    Request.perform(url: "#{base_url}#{self.class.history_endpoint}", headers:, get_vars: get_vars(page:))[:records]
+  def pulls(page: 1)
+    [Request.perform(url: "#{base_url}#{self.class.history_endpoint}", headers:, get_vars: get_vars(page:))[:records]]
   end
-
-  # :nocov:
-  def map(*)
-    raise 'Please implement in subclass'
-  end
-  # :nocov:
 
   def combine(combinable:)
     combinable
