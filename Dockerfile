@@ -1,4 +1,4 @@
-FROM ruby:3.4.3 AS base
+FROM ruby:3.4.4 AS base
 
 RUN mkdir /app
 WORKDIR /app
