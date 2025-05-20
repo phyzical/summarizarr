@@ -6,12 +6,13 @@ run:
 	ruby main.rb
 
 IMAGE_NAME=summarizarr
+RUBY_VERSION := $(shell cat .ruby-version)
 
 build:
-	docker build --target production -t ${IMAGE_NAME}:production .
+	docker build --build-arg RUBY_VERSION=${RUBY_VERSION} --target production -t ${IMAGE_NAME}:production .
 
 build-test:
-	docker build --target test -t ${IMAGE_NAME}:test .
+	docker build --build-arg RUBY_VERSION=${RUBY_VERSION} --target test -t ${IMAGE_NAME}:test .
 
 COMMON=--env-file=.env \
 	-v ${PWD}/app:/app/app \
