@@ -52,10 +52,14 @@ module MockRequests
   def stub_bazarr
     base_url = load_config.bazarr.base_url
     count_pages(url: "bazarr#{Bazarr::Service.episode_history_endpoint}").times.each do |i|
-      stub_endpoint(url: "#{"#{base_url}#{Bazarr::Service.episode_history_endpoint}"}?start=#{i * 15}")
+      stub_endpoint(
+        url: "#{"#{base_url}#{Bazarr::Service.episode_history_endpoint}"}?start=#{i * Bazarr::Service::PAGE_SIZE}"
+      )
     end
     count_pages(url: "bazarr#{Bazarr::Service.movie_history_endpoint}").times.each do |i|
-      stub_endpoint(url: "#{"#{base_url}#{Bazarr::Service.movie_history_endpoint}"}?start=#{i * 15}")
+      stub_endpoint(
+        url: "#{"#{base_url}#{Bazarr::Service.movie_history_endpoint}"}?start=#{i * Bazarr::Service::PAGE_SIZE}"
+      )
     end
     stub_endpoint(url: "#{base_url}#{Bazarr::Service.status_endpoint}")
   end

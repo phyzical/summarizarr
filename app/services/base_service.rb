@@ -92,7 +92,10 @@ class BaseService
 
   def verify
     raise "#{self.class::APP_NAME} URL is not set, will be skipped" if base_url.blank?
-    found_app_name = pull_app_name
+    begin
+      found_app_name = pull_app_name
+    rescue StandardError => _e # rubocop:disable Lint/SuppressedException
+    end
     return if found_app_name == self.class::APP_NAME
     raise "Error this is not an instance of #{self.class::APP_NAME} found (#{found_app_name}) Skipping"
   end

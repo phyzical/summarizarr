@@ -60,17 +60,17 @@ curl -X 'GET' "${READARR_URL}${file}&pageSize=15&includeEpisode=true&includeSeri
 echo "updating bazarr"
 root="./spec/support/requests/bazarr"
 mkdir -p "${root}"
-times=5
+times=2
 for i in $(seq 0 $times); do
-    pageSize=15
+    pageSize=50
     count=$((i * pageSize))
     file="/api/episodes/history?start=$count"
     curl -X 'GET' "${BAZARR_URL}${file}&length=$pageSize" \
         -H "X-API-KEY: ${BAZARR_API_KEY}" -H 'accept: application/json' >"${root}${file}.json"
 done
-times=5
+times=2
 for i in $(seq 0 $times); do
-    pageSize=15
+    pageSize=50
     count=$((i * pageSize))
     file="/api/movies/history?start=$count"
     curl -X 'GET' "${BAZARR_URL}${file}&length=$pageSize" \
@@ -93,10 +93,10 @@ curl -X 'GET' "${MYLAR3_URL}${file}&apikey=${MYLAR3_API_KEY}" \
 echo "updating tdarr"
 root="./spec/support/requests/tdarr"
 mkdir -p "${root}/api/v2/client"
-times=5
+times=2
 for i in $(seq 0 $times); do
     file="/api/v2/client/jobs?page=$i"
-    pageSize=15
+    pageSize=50
     count=$((i * pageSize))
     curl -v -X 'POST' "${TDARR_URL}${file}" \
         -d '{"data":{"start":'"$count"',"pageSize":'$pageSize',"filters":[{"id":"job.type", "value":"transcode"}, {"id": "status", "value":"Transcode success"}],"sorts":[],"opts":{}}}' \
