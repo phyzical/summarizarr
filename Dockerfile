@@ -7,7 +7,7 @@ COPY Gemfile Gemfile.lock ./
 
 FROM base AS dependencies
 
-RUN bundle install --without test
+RUN bundle install
 
 FROM dependencies AS test
 
