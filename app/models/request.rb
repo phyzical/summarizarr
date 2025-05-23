@@ -5,13 +5,19 @@ module Request
     Thing.new(type:, url:, body:, headers:, get_vars:).perform
   end
 
+  OKAY_RESPONSES = %w[200 204].freeze
+
   Thing =
     Struct.new(:type, :url, :headers, :get_vars, :body) do
       def perform
-        puts "Requesting #{http_request.uri}"
-        response = http.request(http_request)
-        if response.code == '200' && response.body != ''
-          return JSON.parse(response.body.force_encoding('UTF-8'), symbolize_names: true)
+        request = http_request
+        puts "Requesting #{request.uri}"
+        pp body if request.body
+        response = http.request(request)
+        if OKAY_RESPONSES.include?(response.code)
+          return JSON.parse(response.body.force_encoding('UTF-8'), symbolize_names: true) if response.body.present?
+        elsif response.code != '404'
+          raise "Error: #{response.code} - #{response.message} - #{response.body}"
         end
         {}
       end
@@ -24,13 +30,13 @@ module Request
         @http_request = net_type.new(URI("#{url}#{uris ? "?#{uris}" : ''}"), **headers)
         @http_request['Content-Type'] = 'application/json'
         @http_request['Accept'] = 'application/json'
-        @http_request.body = body if body != {}
+        @http_request.body = body.to_json if body != {}
         @http_request
       end
 
       def http
         https = Net::HTTP.new(http_request.uri.host, http_request.uri.port)
-        https.use_ssl = http_request.uri.host.include?('https')
+        https.use_ssl = http_request.uri.scheme == 'https'
         https
       end
 
