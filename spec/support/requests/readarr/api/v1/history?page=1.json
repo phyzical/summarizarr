@@ -441,48 +441,6 @@
                 "size": "10427834",
                 "indexerFlags": "0"
             },
-            "id": 4
-        },
-        {
-            "bookId": 439,
-            "authorId": 2,
-            "sourceTitle": "Brandon Sanderson - Cosmere - Tress of the Emerald Sea (retail) (epub)",
-            "quality": {
-                "quality": {
-                    "id": 3,
-                    "name": "EPUB"
-                },
-                "revision": {
-                    "version": 1,
-                    "real": 0,
-                    "isRepack": false
-                }
-            },
-            "customFormats": [],
-            "customFormatScore": 0,
-            "qualityCutoffNotMet": false,
-            "date": "2025-03-26T19:22:53Z",
-            "downloadId": "SABnzbd_nzo_hawh8a4u",
-            "eventType": "grabbed",
-            "data": {
-                "indexer": "NzbPlanet (Prowlarr)",
-                "nzbInfoUrl": "https://nzbplanet.org/details/59b090f7e11773e3f5098acf39f19cd6",
-                "releaseGroup": null,
-                "age": "0",
-                "ageHours": "0.28289569005555554",
-                "ageMinutes": "16.97374155",
-                "publishedDate": "2025-03-26T19:05:55Z",
-                "downloadClient": "SABnzbd",
-                "downloadClientName": "sab",
-                "size": "10821523",
-                "downloadUrl": "http://prowlarr:9696/7/download?apikey=5f771c1869f94fec821832369384a70c&link=RUozQzM0dVpzbTYxSUlkOFQ3blBCS0UwUHFHOGNTc0RKMjJwYVpnYjBFd2JlWm5xVXZ2U2I2TWxvemFWdHBXaWhEdkIxRVgwNmppdVJMaXRhVUllQ0R3eU5iQlJubUVqZTBhb2dDUHVJZlZKOUdDWUtFMGpiMC8yajY4Qm1ISVFWWStjYnBDTVVBN3l5Vmh2M0tsR1F5ODk4QkZsNFRaZUF2N1NkSGhMRURFPQ&file=Brandon+Sanderson+-+Cosmere+-+Tress+of+the+Emerald+Sea+(retail)+(epub)",
-                "guid": "https://nzbplanet.org/details/59b090f7e11773e3f5098acf39f19cd6",
-                "protocol": "1",
-                "downloadForced": "False",
-                "customFormatScore": "0",
-                "releaseSource": "Rss",
-                "indexerFlags": "0"
-            },
             "book": {
                 "title": "Tress of the Emerald Sea",
                 "authorTitle": "sanderson, brandon Tress of the Emerald Sea",
@@ -581,6 +539,48 @@
                     "percentOfBooks": 0
                 },
                 "id": 2
+            },
+            "id": 4
+        },
+        {
+            "bookId": 439,
+            "authorId": 2,
+            "sourceTitle": "Brandon Sanderson - Cosmere - Tress of the Emerald Sea (retail) (epub)",
+            "quality": {
+                "quality": {
+                    "id": 3,
+                    "name": "EPUB"
+                },
+                "revision": {
+                    "version": 1,
+                    "real": 0,
+                    "isRepack": false
+                }
+            },
+            "customFormats": [],
+            "customFormatScore": 0,
+            "qualityCutoffNotMet": false,
+            "date": "2025-03-26T19:22:53Z",
+            "downloadId": "SABnzbd_nzo_hawh8a4u",
+            "eventType": "grabbed",
+            "data": {
+                "indexer": "NzbPlanet (Prowlarr)",
+                "nzbInfoUrl": "https://nzbplanet.org/details/59b090f7e11773e3f5098acf39f19cd6",
+                "releaseGroup": null,
+                "age": "0",
+                "ageHours": "0.28289569005555554",
+                "ageMinutes": "16.97374155",
+                "publishedDate": "2025-03-26T19:05:55Z",
+                "downloadClient": "SABnzbd",
+                "downloadClientName": "sab",
+                "size": "10821523",
+                "downloadUrl": "http://prowlarr:9696/7/download?apikey=5f771c1869f94fec821832369384a70c&link=RUozQzM0dVpzbTYxSUlkOFQ3blBCS0UwUHFHOGNTc0RKMjJwYVpnYjBFd2JlWm5xVXZ2U2I2TWxvemFWdHBXaWhEdkIxRVgwNmppdVJMaXRhVUllQ0R3eU5iQlJubUVqZTBhb2dDUHVJZlZKOUdDWUtFMGpiMC8yajY4Qm1ISVFWWStjYnBDTVVBN3l5Vmh2M0tsR1F5ODk4QkZsNFRaZUF2N1NkSGhMRURFPQ&file=Brandon+Sanderson+-+Cosmere+-+Tress+of+the+Emerald+Sea+(retail)+(epub)",
+                "guid": "https://nzbplanet.org/details/59b090f7e11773e3f5098acf39f19cd6",
+                "protocol": "1",
+                "downloadForced": "False",
+                "customFormatScore": "0",
+                "releaseSource": "Rss",
+                "indexerFlags": "0"
             },
             "id": 3
         },

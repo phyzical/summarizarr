@@ -18,6 +18,7 @@ RSpec.configure do |config|
   config.include FactoryBot::Syntax::Methods
   config.before(:suite) do
     FactoryBot.find_definitions
+    Time.zone = 'UTC'
     Timecop.freeze(Date.new(2025, 3, 29))
   end
   config.expect_with :rspec do |expectations|
