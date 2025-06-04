@@ -5,40 +5,93 @@ require 'spec_helper'
 module Tdarr
   RSpec.describe Service do
     include MockRequests
-    subject(:items) { service.items }
 
     let(:service) { described_class.new }
+    let(:total) { 74 }
 
     before { stub_tdarr }
 
-    it 'returns history only containing expected types and groups by title' do
-      expect(items.count).to be(60)
-      expect(items).to all(be_a(Item::Thing))
-    end
+    describe 'items' do
+      subject(:items) { service.items }
 
-    context 'when apps required config is missing' do
-      before { allow(Config.get).to receive(:tdarr).and_return(Config::AppConfig.new(**config)) }
-
-      let(:config) { { api_key:, base_url: } }
-      let(:base_url) { Faker::Internet.url }
-      let(:api_key) { Faker::Internet.password }
-
-      context 'when base_url missing' do
-        let(:base_url) { '' }
-
-        it 'alerts and skips' do
-          expect { items }.to output(/Tdarr URL is not set, will be skipped/).to_stdout
-        end
+      it 'returns history only containing expected types and groups by title' do
+        expect(items.count).to be(total)
+        expect(items).to all(be_a(Item::Thing))
       end
 
-      context 'when the wrong / invalid app is found given config' do
-        before { stub_fakeserver }
+      context 'when apps required config is missing' do
+        before { allow(Config.get).to receive(:tdarr).and_return(Config::AppConfig.new(**config)) }
 
-        let(:base_url) { 'http://fakeserver' }
+        let(:config) { { api_key:, base_url: } }
+        let(:base_url) { Faker::Internet.url }
+        let(:api_key) { Faker::Internet.password }
 
-        it 'alerts and skips' do
-          expect { items }.to output(/Error this is not an instance of Tdarr/).to_stdout
+        context 'when base_url missing' do
+          let(:base_url) { '' }
+
+          it 'alerts and skips' do
+            expect { items }.to output(/Tdarr URL is not set, will be skipped/).to_stdout
+          end
         end
+
+        context 'when the wrong / invalid app is found given config' do
+          before { stub_fakeserver }
+
+          let(:base_url) { 'http://fakeserver' }
+
+          it 'alerts and skips' do
+            expect { items }.to output(/Error this is not an instance of Tdarr/).to_stdout
+          end
+        end
+      end
+    end
+
+    describe 'summary' do
+      subject(:summary) { service.summary }
+
+      it 'summaries correctly' do
+        expect(summary).to eq(
+          "* Processed #{total} items\n* Starting size: 195.13 GB\n* Ending size: 131.331 GB\n" \
+            "* Total Savings: 63.799 GB\n* Average Savings: 0.862 GB\n"
+        )
+      end
+    end
+
+    describe '#grouped_items' do
+      subject(:grouped_items) { service.grouped_items }
+
+      let(:expected_series) do
+        [
+          nil,
+          'CSI Crime Scene Investigation',
+          'Elsbeth',
+          'Gardening Australia',
+          "Georgie & Mandy's First Marriage",
+          'Ghosts (US)',
+          'Gogglebox Australia',
+          'Hacks (2021)',
+          'Taskmaster (AU)',
+          'The IT Crowd',
+          'The Pitt',
+          'keeping up with the kardashians'
+        ]
+      end
+
+      it 'groups by series or nil for movies, then season, then date and all are sorted' do
+        expect(grouped_items.keys).to match(expected_series)
+        # movies don't have season
+        expect(grouped_items[expected_series.first].keys).to match([nil])
+        #  groups by date
+        expect(grouped_items[expected_series.first][nil].keys).to match(['Fri, 25 Apr 2025'].map(&:to_date))
+        expect(grouped_items[expected_series.first][nil]['Fri, 25 Apr 2025'.to_date].length).to be(2)
+
+        # shows group by series
+        expect(grouped_items[expected_series.second].keys).to match([14])
+        #  groups by date
+        expect(grouped_items[expected_series.second][14].keys).to match(
+          ['Thu, 24 Apr 2025', 'Fri, 25 Apr 2025'].map(&:to_date)
+        )
+        expect(grouped_items[expected_series.second][14]['Thu, 24 Apr 2025'.to_date].length).to be(7)
       end
     end
   end

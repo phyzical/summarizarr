@@ -11,8 +11,5 @@ module Summary
       Mylar3::Service,
       Readarr::Service
     ].freeze
-    def self.generate
-      SERVICES.map { |x| x.new.summary }.join("\n")
-    end
   end
 end

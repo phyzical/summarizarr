@@ -9,14 +9,28 @@ module Tdarr
       fileSizeStartGB: :size_before,
       fileSizeEndGB: :size_after,
       fileSizeRatio: :size_ratio,
-      file: :title,
+      file: :file,
+      title: :title,
+      series: :series,
+      season: :season,
       deletion?: :deletion?,
       date: :date
     }.freeze
 
-    def self.from_json(json:)
+    def self.from_json(json:) # rubocop:disable Metrics/AbcSize
       json[:deletion?] = false
-      json[:date] = Time.at(json[:start] / 1000.0).to_date
+      json[:date] = Time.zone.at(json[:start] / 1000.0).to_date
+      json[:fileSizeStartGB] = json[:fileSizeStartGB].to_f.round(3)
+      json[:fileSizeEndGB] = json[:fileSizeEndGB].to_f.round(3)
+      json[:fileSizeRatio] = "#{json[:fileSizeRatio]}%"
+      json[:title] = json[:file].split('/').last
+
+      if json[:file].include?('Season')
+        splits = json[:file].split(%r{/season }i)
+        json[:series] = splits.first.split('/').last
+        json[:season] = splits.last.split('/').first.to_i
+      end
+
       Thing.new(**json.slice(*ATTRIBUTES.keys).transform_keys { |k| ATTRIBUTES[k] })
     end
 
