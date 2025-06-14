@@ -12,7 +12,10 @@ module Bazarr
       context 'when item is episode' do
         let(:json) do
           JSON.parse(
-            File.read("spec/support/requests/bazarr#{Service.episode_history_endpoint}.json", encoding: 'bom|utf-8'),
+            File.read(
+              "spec/support/requests/bazarr#{Service.episode_history_endpoint}?start=0.json",
+              encoding: 'bom|utf-8'
+            ),
             symbolize_names: true
           )[
             :data
@@ -22,12 +25,13 @@ module Bazarr
         it 'runs' do
           expect(from_json.to_h).to match(
             {
-              series: 'Penn & Teller: Fool Us',
-              date: Date.parse('29/03/2025'),
+              series: 'Keeping Up with the Kardashians',
+              date: 'Sat, 26 Apr 2025'.to_date,
               language: 'English',
-              episode_number: '11x10',
-              title: 'Gotcha!',
-              description: 'English subtitles downloaded from whisperai with a score of 66.94%.',
+              episode: 18,
+              season: 8,
+              title: 'All Signs Point to North',
+              description: 'English HI subtitles downloaded from whisperai with a score of 66.94%.',
               score: '66.94%'
             }
           )
@@ -37,7 +41,10 @@ module Bazarr
       context 'when item is movie' do
         let(:json) do
           JSON.parse(
-            File.read("spec/support/requests/bazarr#{Service.movie_history_endpoint}.json", encoding: 'bom|utf-8'),
+            File.read(
+              "spec/support/requests/bazarr#{Service.movie_history_endpoint}?start=0.json",
+              encoding: 'bom|utf-8'
+            ),
             symbolize_names: true
           )[
             :data
@@ -49,11 +56,12 @@ module Bazarr
             {
               series: nil,
               language: 'English',
-              episode_number: nil,
-              date: Date.parse('29/03/2025'),
-              title: 'Back in Action',
-              description: 'English HI subtitles downloaded from opensubtitlescom with a score of 85.0%.',
-              score: '85.0%'
+              episode: nil,
+              season: nil,
+              date: 'Fri, 25 Apr 2025'.to_date,
+              title: 'Companion',
+              description: 'English subtitles downloaded from opensubtitlescom with a score of 85.83%.',
+              score: '85.83%'
             }
           )
         end
@@ -63,12 +71,18 @@ module Bazarr
     describe '#summary' do
       subject(:summary) { item.summary }
 
-      let(:item) { build(:bazarr_item, title:, description:) }
-      let(:title) { 'test title' }
-      let(:description) { 'test description' }
+      let(:item) { build(:bazarr_item) }
 
       it 'runs' do
-        expect(summary).to eq("#{title}: #{description}")
+        expect(summary).to eq("Ep: #{item.episode} - #{item.title}: #{item.description}")
+      end
+
+      context 'when episode is nil' do
+        let(:item) { build(:bazarr_item, episode: nil) }
+
+        it 'runs' do
+          expect(summary).to eq("#{item.title}: #{item.description}")
+        end
       end
     end
   end

@@ -85,7 +85,15 @@ RSpec.describe Config do
     subject(:rerun_datetime) { config.rerun_datetime }
 
     it 'has a default config' do
-      expect(rerun_datetime).to match(DateTime.now + 7.days)
+      expect(rerun_datetime).to be_nil
+    end
+
+    context 'when ENV["RERUN_INTERVAL_DAYS"] is set' do
+      before { allow(ENV).to receive(:fetch).with('RERUN_INTERVAL_DAYS', '').and_return('7') }
+
+      it 'has a date' do
+        expect(rerun_datetime).to match(DateTime.now + 7.days)
+      end
     end
   end
 end

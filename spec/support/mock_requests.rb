@@ -13,8 +13,8 @@ module MockRequests
     )
   end
 
-  def stub_fakeserver
-    stub_request(:get, /fakeserver/).to_return(status: 500)
+  def stub_fakeserver(status: 404)
+    stub_request(:get, /fakeserver/).to_return(status:)
   end
 
   def stub_sonarr
@@ -51,8 +51,16 @@ module MockRequests
 
   def stub_bazarr
     base_url = load_config.bazarr.base_url
-    stub_endpoint(url: "#{base_url}#{Bazarr::Service.episode_history_endpoint}")
-    stub_endpoint(url: "#{base_url}#{Bazarr::Service.movie_history_endpoint}")
+    count_pages(url: "bazarr#{Bazarr::Service.episode_history_endpoint}").times.each do |i|
+      stub_endpoint(
+        url: "#{"#{base_url}#{Bazarr::Service.episode_history_endpoint}"}?start=#{i * Bazarr::Service::PAGE_SIZE}"
+      )
+    end
+    count_pages(url: "bazarr#{Bazarr::Service.movie_history_endpoint}").times.each do |i|
+      stub_endpoint(
+        url: "#{"#{base_url}#{Bazarr::Service.movie_history_endpoint}"}?start=#{i * Bazarr::Service::PAGE_SIZE}"
+      )
+    end
     stub_endpoint(url: "#{base_url}#{Bazarr::Service.status_endpoint}")
   end
 

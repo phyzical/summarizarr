@@ -5,9 +5,10 @@ module Bazarr
     ATTRIBUTES = {
       language: :language,
       seriesTitle: :series,
-      episode_number: :episode_number,
+      episode: :episode,
+      season: :season,
       description: :description,
-      date: :date,
+      parsed_timestamp: :date,
       score: :score,
       title: :title
     }.freeze
@@ -15,14 +16,21 @@ module Bazarr
     def self.from_json(json:)
       json[:language] = json[:language][:name]
       json[:title] = json[:episodeTitle] || json[:title]
-      json[:date] = DateTime.strptime(json[:parsed_timestamp], '%m/%d/%y %H:%M:%S').to_date
+      if json[:episode_number].present?
+        splits = json[:episode_number].split('x')
+        json[:episode] = splits.last.to_i
+        json[:season] = splits.first.to_i
+      end
+      json[:parsed_timestamp] = DateTime.strptime(json[:parsed_timestamp], '%m/%d/%y %H:%M:%S').to_date
       Thing.new(**json.slice(*ATTRIBUTES.keys).transform_keys { |k| ATTRIBUTES[k] })
     end
 
     Thing =
       Struct.new(*ATTRIBUTES.values) do
         def summary
-          "#{title}: #{description}"
+          text = ''
+          text = "Ep: #{episode} - " if episode.present?
+          "#{text}#{title}: #{description}"
         end
       end
   end

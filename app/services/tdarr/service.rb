@@ -2,6 +2,20 @@
 
 module Tdarr
   class Service < BaseService
+    APP_NAME = 'Tdarr'
+    APP_COLOUR = 0x00FF00 # green
+
+    def summary
+      size_before = items.reduce(0) { |sum, item| sum + item.size_before }.round(3)
+      size_after = items.reduce(0) { |sum, item| sum + item.size_after }.round(3)
+      size_difference = (size_before - size_after).round(3)
+      "* Processed #{items.count} items\n" \
+        "* Starting size: #{size_before} GB\n" \
+        "* Ending size: #{size_after} GB\n" \
+        "* Total Savings: #{size_difference} GB\n" \
+        "* Average Savings: #{(size_difference / items.count).round(3)} GB\n"
+    end
+
     private
 
     class << self
@@ -21,34 +35,33 @@ module Tdarr
       end
     end
 
-    def pull(page: 1)
+    def pulls(page: 1)
       page -= 1
-      Request.perform(
-        type: :post,
-        url: "#{base_url}#{self.class.jobs_endpoint}",
-        get_vars: get_vars(page:),
-        headers:,
-        body: body(page:)
-      )[
-        :array
+      [
+        Request.perform(
+          type: :post,
+          url: "#{base_url}#{self.class.jobs_endpoint}",
+          get_vars: get_vars(page:),
+          headers:,
+          body: body(page:)
+        )[
+          :array
+        ]
       ]
     end
 
     def body(page: 0)
+      start = page * PAGE_SIZE
       {
         data: {
-          start: page,
-          pageSize: 15,
+          start:,
+          pageSize: PAGE_SIZE,
           filters: [{ id: 'job.type', value: 'transcode' }, { id: 'status', value: 'Transcode success' }],
           sorts: [],
           opts: {
           }
         }
       }
-    end
-
-    def map(json:)
-      Item.from_json(json:)
     end
 
     def filter(*)
@@ -63,16 +76,12 @@ module Tdarr
       { 'Content-Type' => 'application/json' }
     end
 
-    def app_name
-      'Tdarr'
-    end
-
     def app_config
       config.tdarr
     end
 
     def pull_app_name
-      Request.perform(url: "#{base_url}#{self.class.status_endpoint}", headers:)[:status].present? ? app_name : 'N/A'
+      Request.perform(url: "#{base_url}#{self.class.status_endpoint}", headers:)[:status].present? ? APP_NAME : 'N/A'
     end
   end
 end

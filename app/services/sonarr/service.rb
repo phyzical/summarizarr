@@ -2,22 +2,21 @@
 
 module Sonarr
   class Service < GenericArrService
-    API_VERSION = 'v3'
     # curl -X 'GET' 'http://sonarr:8989/api/v3/history?page=1&pageSize=15&includeEpisode=true&includeSeries=true&apikey=asd'   -H 'accept: application/json' # rubocop:disable Layout/LineLength
     # curl -X 'GET' 'http://sonarr:8989/api/v3/system/status?apikey=asd'   -H 'accept: application/json'
 
-    private
+    APP_NAME = 'Sonarr'
+    APP_COLOUR = 0xFF0000 # red
+    ITEM_SORT_CONTEXT = :episode
 
-    def map(json:)
-      Item.from_json(json:)
+    def summary
+      "* Processed #{items.count} episodes from #{grouped_items.keys.count} series\n"
     end
+
+    private
 
     def get_vars(page: 1)
       super.merge({ includeEpisode: true, includeSeries: true })
-    end
-
-    def app_name
-      'Sonarr'
     end
 
     def app_config
