@@ -64,7 +64,7 @@ module Tdarr
       }
     end
 
-    def filter(*)
+    def filter(*) # rubocop:disable Naming/PredicateMethod
       true
     end
 

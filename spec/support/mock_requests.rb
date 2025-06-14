@@ -7,7 +7,7 @@ module MockRequests
       status: 200,
       body:
         File.read(
-          "spec/support/requests/#{url.host}#{url.path}#{url.query ? "?#{url.query}" : ''}.json",
+          "spec/support/requests/#{url.host}#{url.path}#{"?#{url.query}" if url.query}.json",
           encoding: 'bom|utf-8'
         )
     )

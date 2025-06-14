@@ -42,7 +42,7 @@ module Bazarr
       ]
     end
 
-    def filter(*)
+    def filter(*) # rubocop:disable Naming/PredicateMethod
       true
     end
 
