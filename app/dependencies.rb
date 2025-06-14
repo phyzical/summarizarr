@@ -16,7 +16,12 @@ if ENV.fetch('RAILS_ENV', 'production') == 'development'
   require 'rubocop-performance'
 end
 
-Time.zone = 'UTC' if !Time.now.zone || ENV.fetch('RAILS_ENV', 'production') == 'test'
+Time.zone =
+  if ENV.fetch('RAILS_ENV', 'production') == 'test'
+    'UTC'
+  else
+    ActiveSupport::TimeZone[Time.now.gmt_offset].tzinfo.name
+  end
 # :nocov:
 
 # Load all services except summary service
