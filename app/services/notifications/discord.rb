@@ -12,6 +12,7 @@ module Notifications
           primary_title = primary_group.present? ? "#{service.class::PRIMARY_GROUP_CONTEXT}: #{primary_group}" : ''
           primary_group_items.each do |secondary_group, secondary_group_items|
             #  TODO: can we combine each secondary group?
+            #  i.e have multiple days (fallbacks) in a single secondary group notification
             secondary_group_items.each do |fallback_group, fallback_group_items|
               secondary_title = [
                 secondary_group.present? ? "#{service.class::SECONDARY_GROUP_CONTEXT}: #{secondary_group}" : nil,
