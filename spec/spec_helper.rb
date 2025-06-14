@@ -3,7 +3,7 @@
 ENV['RAILS_ENV'] = 'test'
 
 require 'simplecov' if ENV['COVERAGE']
-require_relative '../main'
+require_relative '../app/dependencies'
 require 'rspec'
 require 'factory_bot'
 require 'faker'
