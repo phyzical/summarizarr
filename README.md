@@ -11,10 +11,6 @@
 * supports [mylar3](https://github.com/mylar3/mylar3)
 * supports [tdarr](https://github.com/HaveAGitGat/Tdarr)
 
-TODO:
-
-* improve the notification contents
-
 ## Envs
 
 copy the `.env.dist` to `.env` and fill out
