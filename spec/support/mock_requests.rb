@@ -13,8 +13,8 @@ module MockRequests
     )
   end
 
-  def stub_fakeserver
-    stub_request(:get, /fakeserver/).to_return(status: 500)
+  def stub_fakeserver(status: 404)
+    stub_request(:get, /fakeserver/).to_return(status:)
   end
 
   def stub_sonarr

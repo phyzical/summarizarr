@@ -42,6 +42,14 @@ module Bazarr
           it 'alerts and skips' do
             expect { items }.to output(/Error this is not an instance of Bazarr/).to_stdout
           end
+
+          context 'when 500' do
+            before { stub_fakeserver(status: 500) }
+
+            it 'alerts and skips' do
+              expect { items }.to output(/Error this is not an instance of Bazarr/).to_stdout
+            end
+          end
         end
       end
 

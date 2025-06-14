@@ -15,9 +15,9 @@ if ENV.fetch('RAILS_ENV', 'production') == 'development'
   require 'rubocop-rake'
   require 'rubocop-performance'
 end
-# :nocov:
 
 Time.zone = 'UTC' if !Time.now.zone || ENV.fetch('RAILS_ENV', 'production') == 'test'
+# :nocov:
 
 # Load all services except summary service
 Dir[File.join(__dir__, '**', '**', '*.rb')].each do |file|
