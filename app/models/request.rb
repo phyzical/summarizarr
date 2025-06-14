@@ -27,7 +27,7 @@ module Request
       def http_request
         return @http_request if @http_request
         uris = URI.encode_www_form(**get_vars) if get_vars.any?
-        @http_request = net_type.new(URI("#{url}#{uris ? "?#{uris}" : ''}"), **headers)
+        @http_request = net_type.new(URI("#{url}#{"?#{uris}" if uris}"), **headers)
         @http_request['Content-Type'] = 'application/json'
         @http_request['Accept'] = 'application/json'
         @http_request.body = body.to_json if body != {}
