@@ -14,7 +14,6 @@ class BaseService
 
   PRIMARY_GROUP_CONTEXT = :series
   SECONDARY_GROUP_CONTEXT = :season
-  FALLBACK_GROUP_CONTEXT = :date
   ITEM_SORT_CONTEXT = :title
   PAGE_SIZE = 50
 
@@ -22,15 +21,13 @@ class BaseService
     @grouped_items ||=
       sort_and_group(items, self.class::PRIMARY_GROUP_CONTEXT).transform_values do |primary_groups|
         sort_and_group(primary_groups, self.class::SECONDARY_GROUP_CONTEXT).transform_values do |secondary_groups|
-          sort_and_group(secondary_groups, self.class::FALLBACK_GROUP_CONTEXT).transform_values do |fallback_groups|
-            fallback_groups.sort_by { |item| item[self.class::ITEM_SORT_CONTEXT] || '' }
-          end
+          secondary_groups.sort_by { |item| item[self.class::ITEM_SORT_CONTEXT] || '' }
         end
       end
   end
 
   delegate :from_date, to: :config
-  delegate :base_url, :api_key, to: :app_config
+  delegate :base_url, :api_key, :extra_info?, to: :app_config
 
   def items
     @items ||= process

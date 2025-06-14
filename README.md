@@ -23,27 +23,41 @@ NOTE: if you using the env file you need to quote your variables, if your provid
 |                     |                                    |                                                                |                                                                    |
 | RADARR_API_KEY      | Only if you want radarr summaries  | '12345'                                                        | Api key for your radarr instance                                   |
 |                     |                                    |                                                                |                                                                    |
+| RADARR_EXTRA_INFO   | no                                 | 'false'                                                        | enables per item summaries                                         |
+|                     |                                    |                                                                |                                                                    |
 | SONARR_URL          | Only if you want sonarr summaries  | '<http://sonarr:8989>'                                         | Url to your sonarr instance                                        |
 |                     |                                    |                                                                |                                                                    |
 | SONARR_API_KEY      | Only if you want sonarr summaries  | '12345'                                                        | Api key for your sonarr instance                                   |
+|                     |                                    |                                                                |                                                                    |
+| SONARR_EXTRA_INFO   | no                                 | 'false'                                                        | enables per item summaries                                         |
 |                     |                                    |                                                                |                                                                    |
 | BAZARR_URL          | Only if you want bazarr summaries  | '<http://bazarr:8989>'                                         | Url to your bazarr instance                                        |
 |                     |                                    |                                                                |                                                                    |
 | BAZARR_API_KEY      | Only if you want bazarr summaries  | '12345'                                                        | Api key for your bazarr instance                                   |
 |                     |                                    |                                                                |                                                                    |
+| BAZARR_EXTRA_INFO   | no                                 | 'false'                                                        | enables per item summaries                                         |
+|                     |                                    |                                                                |                                                                    |
 | LIDARR_URL          | Only if you want lidarr summaries  | '<http://lidarr:8686>'                                         | Url to your lidarr instance                                        |
 |                     |                                    |                                                                |                                                                    |
 | LIDARR_API_KEY      | Only if you want lidarr summaries  | '12345'                                                        | Api key for your lidarr instance                                   |
+|                     |                                    |                                                                |                                                                    |
+| LIDARR_EXTRA_INFO   | no                                 | 'false'                                                        | enables per item summaries                                         |
 |                     |                                    |                                                                |                                                                    |
 | READARR_URL         | Only if you want readarr summaries | '<http://readarr:8787>'                                        | Url to your readarr instance                                       |
 |                     |                                    |                                                                |                                                                    |
 | READARR_API_KEY     | Only if you want readarr summaries | '12345'                                                        | Api key for your readarr instance                                  |
 |                     |                                    |                                                                |                                                                    |
+| READARR_EXTRA_INFO  | no                                 | 'false'                                                        | enables per item summaries                                         |
+|                     |                                    |                                                                |                                                                    |
 | MYLAR3_URL          | Only if you want mylar3 summaries  | '<http://mylar3:8090>'                                         | Url to your mylar3 instance                                        |
 |                     |                                    |                                                                |                                                                    |
 | MYLAR3_API_KEY      | Only if you want mylar3 summaries  | '12345'                                                        | Api key for your mylar3 instance                                   |
 |                     |                                    |                                                                |                                                                    |
+| MYLAR3_EXTRA_INFO   | no                                 | 'false'                                                        | enables per item summaries                                         |
+|                     |                                    |                                                                |                                                                    |
 | TDARR_URL           | Only if you want tdarr summaries   | '<http://tdarr:8266>'                                          | Url to your tdarr instance                                         |
+|                     |                                    |                                                                |                                                                    |
+| TDARR_EXTRA_INFO    | no                                 | 'false'                                                        | enables per item summaries                                         |
 |                     |                                    |                                                                |                                                                    |
 | DISCORD_WEBHOOK_URL | If not provided stdout is used     | ''                                                             | Webhook url to send the notification to                            |
 |                     |                                    |                                                                | Note: this should work for any webhook                             |
@@ -55,6 +69,8 @@ NOTE: if you using the env file you need to quote your variables, if your provid
 | SUMMARY_DAYS        | no                                 | '7'                                                            | The amount of days to summarise                                    |
 |                     |                                    |                                                                |                                                                    |
 | RERUN_INTERVAL_DAYS | no                                 | ''                                                             | The amount of days to rerun the summarise, if unset will not rerun |
+|                     |                                    |                                                                |                                                                    |
+| DEBUG               | no                                 | 'false'                                                        | Enables a bunch of verbose logging of requests                     |
 |                     |                                    |                                                                |                                                                    |
 
 ## Running

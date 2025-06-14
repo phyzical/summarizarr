@@ -8,24 +8,19 @@ module Notifications
       def notify(service:)
         service_notification(service:)
         sleep(0.3)
+        return unless service.extra_info?
         service.grouped_items.each do |primary_group, primary_group_items|
           primary_title = primary_group.present? ? "#{service.class::PRIMARY_GROUP_CONTEXT}: #{primary_group}" : ''
           primary_group_items.each do |secondary_group, secondary_group_items|
-            #  TODO: can we combine each secondary group?
-            #  i.e have multiple days (fallbacks) in a single secondary group notification
-            secondary_group_items.each do |fallback_group, fallback_group_items|
-              secondary_title = [
-                secondary_group.present? ? "#{service.class::SECONDARY_GROUP_CONTEXT}: #{secondary_group}" : nil,
-                "#{service.class::FALLBACK_GROUP_CONTEXT}: #{fallback_group}"
-              ].compact.join("\n")
-              items_notification(
-                primary_title:,
-                items: fallback_group_items.map { |item| "* #{item.summary}" },
-                secondary_title:,
-                service:
-              )
-              sleep(0.3)
-            end
+            secondary_title =
+              secondary_group.present? ? "#{service.class::SECONDARY_GROUP_CONTEXT}: #{secondary_group}" : nil
+            items_notification(
+              primary_title:,
+              items: secondary_group_items.map { |item| "* #{item.summary}" },
+              secondary_title:,
+              service:
+            )
+            sleep(0.3)
           end
         end
       end
@@ -69,32 +64,17 @@ module Notifications
       end
 
       def items_notification(primary_title:, secondary_title:, items:, service:)
-        send(
-          color: service.class::APP_COLOUR,
-          primary_title:,
-          secondary_title:,
-          fields: items.map { |value| { name: '', value:, inline: false } }
-        )
+        # max out at 20 items per notification to avoid max size issue
+        loop do
+          break if items.empty?
+          send(
+            color: service.class::APP_COLOUR,
+            primary_title:,
+            secondary_title:,
+            fields: items.shift(20).map { |value| { name: '', value:, inline: false } }
+          )
+        end
       end
-
-      # def summary_chunks(grouped_items:)
-      #   grouped_items.each do |date, date_items|
-      #     grouped_items[date] = date_items
-      #       .reduce('') { |acc, item| acc + "* #{item.summary}\n" }
-      #       .split("\n")
-      #       .each_with_object([+'']) do |line, slices|
-      #         if (slices.last.length + line.length + 1) <= 1000
-      #           slices.last << "\n" unless slices.last.empty?
-      #           slices.last << line
-      #         else
-      #           slices << line
-      #         end
-      #       end
-      #       .each_slice(6)
-      #       .to_a
-      #   end
-      #   grouped_items
-      # end
 
       delegate :discord, :from_date, to: :config
       delegate :webhook_url, :username, :avatar_url, to: :discord

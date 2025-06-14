@@ -9,20 +9,46 @@ module Request
 
   Thing =
     Struct.new(:type, :url, :headers, :get_vars, :body) do
-      def perform
+      def perform(retry_count: 0)
         request = http_request
-        puts "Requesting #{request.uri}"
-        pp body if request.body
+        log_request(request:)
         response = http.request(request)
         if OKAY_RESPONSES.include?(response.code)
           return JSON.parse(response.body.force_encoding('UTF-8'), symbolize_names: true) if response.body.present?
+        elsif response.code == '429'
+          handle_rate_limit(retry_count:, response:)
         elsif response.code != '404'
           raise "Error: #{response.code} - #{response.message} - #{response.body}"
         end
         {}
       end
 
+      delegate :debug?, to: :config
+
       private
+
+      def config
+        @config ||= Config.get
+      end
+
+      def log_request(request:)
+        return unless debug?
+        puts "Requesting #{request.uri}"
+        pp body if request.body
+      end
+
+      def handle_rate_limit(retry_count:, response:)
+        if retry_count >= 5
+          raise "Rate limit exceeded after #{retry_count} retries. " \
+                  "Last response: #{response.code} - #{response.message}"
+        end
+        retry_count += 1
+        response_payload = JSON.parse(response.body.force_encoding('UTF-8'), symbolize_names: true)
+        sleep_time = response_payload[:retry_after] + 0.1
+        puts "Rate limit exceeded, sleeping for #{sleep_time} seconds"
+        sleep(sleep_time)
+        perform(retry_count:)
+      end
 
       def http_request
         return @http_request if @http_request
