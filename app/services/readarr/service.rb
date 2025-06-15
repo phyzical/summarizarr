@@ -12,7 +12,10 @@ module Readarr
     SECONDARY_GROUP_CONTEXT = nil
 
     def summary
-      "* Processed #{items.count} books from #{grouped_items.keys.count} authors\n"
+      [
+        "* Processed #{items.count} books from #{grouped_items.keys.count} authors",
+        "* Total Upgrades: #{items.count(&:upgrade?)}"
+      ].join("\n")
     end
 
     private

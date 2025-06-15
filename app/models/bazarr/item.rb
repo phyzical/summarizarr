@@ -32,6 +32,10 @@ module Bazarr
           text = "Ep: #{episode} - " if episode.present?
           "#{text}#{title}: #{description}"
         end
+
+        def upgrade?
+          false
+        end
       end
   end
 end

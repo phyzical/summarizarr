@@ -39,6 +39,10 @@ module Tdarr
         def summary
           "#{title} has transcoded -> #{size_before} GB to #{size_after} GB (#{size_ratio})"
         end
+
+        def upgrade?
+          false
+        end
       end
   end
 end

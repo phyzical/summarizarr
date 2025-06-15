@@ -30,11 +30,11 @@ module Lidarr
     Thing =
       Struct.new(*ATTRIBUTES.values) do
         def summary
-          if old_quality.present?
-            "#{title} has upgraded from #{old_quality} to #{quality}"
-          else
-            "#{title} has downloaded at #{quality}"
-          end
+          upgrade? ? "#{title} has upgraded from #{old_quality} to #{quality}" : "#{title} has downloaded at #{quality}"
+        end
+
+        def upgrade?
+          old_quality.present?
         end
       end
   end

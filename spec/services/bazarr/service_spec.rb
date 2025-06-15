@@ -82,31 +82,12 @@ module Bazarr
           # movies don't have season
           expect(grouped_items[expected_series.first].keys).to match([nil])
           #  groups by date
-          expect(grouped_items[expected_series.first][nil].keys).to match(
-            [
-              'Sun, 23 Mar 2025',
-              'Mon, 24 Mar 2025',
-              'Tue, 25 Mar 2025',
-              'Fri, 28 Mar 2025',
-              'Sat, 29 Mar 2025',
-              'Fri, 04 Apr 2025',
-              'Sun, 06 Apr 2025',
-              'Tue, 08 Apr 2025',
-              'Wed, 09 Apr 2025',
-              'Fri, 11 Apr 2025',
-              'Tue, 15 Apr 2025',
-              'Sat, 19 Apr 2025',
-              'Tue, 22 Apr 2025',
-              'Fri, 25 Apr 2025'
-            ].map(&:to_date)
-          )
-          expect(grouped_items[expected_series.first][nil]['Mon, 24 Mar 2025'.to_date].length).to be(6)
+          expect(grouped_items[expected_series.first][nil].length).to be(26)
 
           # shows group by series
           expect(grouped_items[expected_series.second].keys).to match([15])
           #  groups by date
-          expect(grouped_items[expected_series.second][15].keys).to match(['Sat, 26 Apr 2025'].map(&:to_date))
-          expect(grouped_items[expected_series.second][15]['Sat, 26 Apr 2025'.to_date].length).to be(17)
+          expect(grouped_items[expected_series.second][15].length).to be(17)
         end
       end
     end

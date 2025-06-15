@@ -6,6 +6,7 @@ module Tdarr
     APP_COLOUR = 0x00FF00 # green
 
     def summary
+      return 'No items processed' if items.empty?
       size_before = items.reduce(0) { |sum, item| sum + item.size_before }.round(3)
       size_after = items.reduce(0) { |sum, item| sum + item.size_after }.round(3)
       size_difference = (size_before - size_after).round(3)

@@ -73,8 +73,7 @@ module Sonarr
         # shows group by series
         expect(grouped_items[expected_series.first].keys).to match([14])
         #  groups by date
-        expect(grouped_items[expected_series.first][14].keys).to match(['Fri, 28 Mar 2025'].map(&:to_date))
-        expect(grouped_items[expected_series.first][14]['Fri, 28 Mar 2025'.to_date].length).to be(1)
+        expect(grouped_items[expected_series.first][14].length).to be(1)
       end
     end
   end

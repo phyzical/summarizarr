@@ -24,6 +24,10 @@ module Mylar3
         def summary
           "issue: #{issue} has downloaded"
         end
+
+        def upgrade?
+          false
+        end
       end
   end
 end

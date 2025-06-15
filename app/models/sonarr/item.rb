@@ -40,11 +40,11 @@ module Sonarr
       Struct.new(*ATTRIBUTES.values) do
         def summary
           text = "Ep: #{episode} - #{title}"
-          if old_quality.present?
-            "#{text} has upgraded from #{old_quality} to #{quality}"
-          else
-            "#{text} has downloaded at #{quality}"
-          end
+          upgrade? ? "#{text} has upgraded from #{old_quality} to #{quality}" : "#{text} has downloaded at #{quality}"
+        end
+
+        def upgrade?
+          old_quality.present?
         end
       end
   end

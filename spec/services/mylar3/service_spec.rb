@@ -63,14 +63,7 @@ module Mylar3
         expect(grouped_items.keys).to match(expected_comics)
         expect(grouped_items[expected_comics.first].keys).to match([described_class::SECONDARY_GROUP_CONTEXT])
         #  groups by date
-        expect(grouped_items[expected_comics.first][described_class::SECONDARY_GROUP_CONTEXT].keys).to match(
-          ['Mon, 24 Mar 2025', 'Tue, 25 Mar 2025'].map(&:to_date)
-        )
-        expect(
-          grouped_items[expected_comics.first][described_class::SECONDARY_GROUP_CONTEXT][
-            'Mon, 24 Mar 2025'.to_date
-          ].length
-        ).to be(1)
+        expect(grouped_items[expected_comics.first][described_class::SECONDARY_GROUP_CONTEXT].length).to be(2)
       end
     end
   end
