@@ -8,7 +8,19 @@ RSpec.describe Config do
     subject(:sonarr) { config.sonarr }
 
     it 'has a default config' do
-      expect(sonarr.to_h).to eq(base_url: 'http://sonarr:8989', api_key: '12345')
+      expect(sonarr.to_h).to eq(base_url: 'http://sonarr:8989', api_key: '12345', extra_info: 'false')
+      expect(sonarr.extra_info?).to be false
+    end
+
+    context 'when we provide true for extra_info' do
+      before do
+        allow(ENV).to receive(:fetch).with(anything, anything).and_call_original
+        allow(ENV).to receive(:fetch).with('SONARR_EXTRA_INFO', 'false').and_return('true')
+      end
+
+      it 'has extra_info? set to true' do
+        expect(sonarr.extra_info?).to be true
+      end
     end
   end
 
@@ -16,7 +28,7 @@ RSpec.describe Config do
     subject(:radarr) { config.radarr }
 
     it 'has a default config' do
-      expect(radarr.to_h).to eq(base_url: 'http://radarr:7878', api_key: '12345')
+      expect(radarr.to_h).to eq(base_url: 'http://radarr:7878', api_key: '12345', extra_info: 'false')
     end
   end
 
@@ -24,7 +36,7 @@ RSpec.describe Config do
     subject(:bazarr) { config.bazarr }
 
     it 'has a default config' do
-      expect(bazarr.to_h).to eq(base_url: 'http://bazarr:6767', api_key: '12345')
+      expect(bazarr.to_h).to eq(base_url: 'http://bazarr:6767', api_key: '12345', extra_info: 'false')
     end
   end
 
@@ -32,7 +44,7 @@ RSpec.describe Config do
     subject(:lidarr) { config.lidarr }
 
     it 'has a default config' do
-      expect(lidarr.to_h).to eq(base_url: 'http://lidarr:8686', api_key: '12345')
+      expect(lidarr.to_h).to eq(base_url: 'http://lidarr:8686', api_key: '12345', extra_info: 'false')
     end
   end
 
@@ -40,7 +52,7 @@ RSpec.describe Config do
     subject(:readarr) { config.readarr }
 
     it 'has a default config' do
-      expect(readarr.to_h).to eq(base_url: 'http://readarr:8787', api_key: '12345')
+      expect(readarr.to_h).to eq(base_url: 'http://readarr:8787', api_key: '12345', extra_info: 'false')
     end
   end
 
@@ -48,7 +60,7 @@ RSpec.describe Config do
     subject(:mylar3) { config.mylar3 }
 
     it 'has a default config' do
-      expect(mylar3.to_h).to eq(base_url: 'http://mylar3:8090', api_key: '12345')
+      expect(mylar3.to_h).to eq(base_url: 'http://mylar3:8090', api_key: '12345', extra_info: 'false')
     end
   end
 
@@ -56,7 +68,7 @@ RSpec.describe Config do
     subject(:tdarr) { config.tdarr }
 
     it 'has a default config' do
-      expect(tdarr.to_h).to eq(base_url: 'http://tdarr:8266', api_key: '')
+      expect(tdarr.to_h).to eq(base_url: 'http://tdarr:8266', api_key: '', extra_info: 'false')
     end
   end
 
@@ -78,6 +90,38 @@ RSpec.describe Config do
 
     it 'has a default config' do
       expect(from_date).to match(7.days.ago.to_date)
+    end
+  end
+
+  describe '#debug?' do
+    subject(:debug) { config.debug? }
+
+    it 'is false by default' do
+      expect(debug).to be false
+    end
+
+    context 'when ENV["DEBUG"] is set' do
+      before { allow(ENV).to receive(:fetch).with('DEBUG', 'false').and_return('true') }
+
+      it 'is true' do
+        expect(debug).to be true
+      end
+    end
+  end
+
+  describe '#notify_upgraded_items?' do
+    subject(:notify_upgraded_items) { config.notify_upgraded_items? }
+
+    it 'is true by default' do
+      expect(notify_upgraded_items).to be true
+    end
+
+    context 'when ENV["ENABLE_UPGRADED_ITEMS"] is set to false' do
+      before { allow(ENV).to receive(:fetch).with('ENABLE_UPGRADED_ITEMS', 'true').and_return('false') }
+
+      it 'is false' do
+        expect(notify_upgraded_items).to be false
+      end
     end
   end
 
