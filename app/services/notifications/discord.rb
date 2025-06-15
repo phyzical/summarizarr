@@ -10,10 +10,10 @@ module Notifications
         sleep(0.3)
         return unless service.extra_info?
         service.grouped_items.each do |primary_group, primary_group_items|
-          primary_title = primary_group.present? ? "#{service.class::PRIMARY_GROUP_CONTEXT}: #{primary_group}" : ''
+          primary_title = primary_group.to_s if primary_group.present?
           primary_group_items.each do |secondary_group, secondary_group_items|
             secondary_title =
-              secondary_group.present? ? "#{service.class::SECONDARY_GROUP_CONTEXT}: #{secondary_group}" : nil
+              "#{service.class::SECONDARY_GROUP_CONTEXT}: #{secondary_group}" if secondary_group.present?
             items_notification(
               primary_title:,
               items: secondary_group_items.map { |item| "* #{item.summary}" },
