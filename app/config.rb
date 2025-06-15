@@ -92,6 +92,10 @@ module Config
           )
       end
 
+      def notify_upgraded_items?
+        @notify_upgraded_items ||= (ENV.fetch('ENABLE_UPGRADED_ITEMS', 'true') == 'true')
+      end
+
       def discord
         return @discord if @discord
         webhook_url = ENV.fetch('DISCORD_WEBHOOK_URL', nil)
