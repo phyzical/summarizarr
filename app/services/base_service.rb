@@ -46,18 +46,18 @@ class BaseService
 
   def process
     page = 1
-    items = []
+    processed_items = []
     loop do
-      pulls = pulls(page:).map { |pull| pull.map { |json| map(json:) } }
-      items += pulls.flatten
+      pulled_items = pulls(page:).map { |pull| pull.map { |json| map(json:) } }
+      processed_items += pulled_items.flatten
       page += 1
-      break if last_page?(pulls:)
+      break if last_page?(pulled_items:)
     end
-    items.filter { |item| item.date >= from_date && filter(item:) }
+    processed_items.filter { |item| item.date >= from_date && filter(item:) }
   end
 
-  def last_page?(pulls:)
-    pulls.any? { |pull| pull.any? { |item| item.date < from_date } }
+  def last_page?(pulled_items:)
+    pulled_items.all? { |pull| pull.any? { |item| item.date < from_date } }
   end
 
   def notification_filter(items:)
@@ -80,7 +80,7 @@ class BaseService
   end
 
   def config
-    @config ||= Config.get
+    Config.get
   end
 
   # :nocov:
