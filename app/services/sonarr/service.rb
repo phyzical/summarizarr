@@ -10,7 +10,10 @@ module Sonarr
     ITEM_SORT_CONTEXT = :episode
 
     def summary
-      "* Processed #{items.count} episodes from #{grouped_items.keys.count} series\n"
+      [
+        "* Processed #{items.count} episodes from #{grouped_items.keys.count} series",
+        "* Total Upgrades: #{items.count(&:upgrade?)}"
+      ].join("\n")
     end
 
     private
