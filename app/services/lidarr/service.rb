@@ -11,7 +11,10 @@ module Lidarr
     SECONDARY_GROUP_CONTEXT = :album
 
     def summary
-      "* Processed #{items.count} songs from #{grouped_items.keys.count} artists\n"
+      [
+        "* Processed #{items.count} songs from #{grouped_items.keys.count} artists",
+        "* Total Upgrades: #{items.count(&:upgrade?)}"
+      ].join("\n")
     end
 
     private

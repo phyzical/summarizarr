@@ -11,7 +11,7 @@ module Radarr
     SECONDARY_GROUP_CONTEXT = nil
 
     def summary
-      "* Processed #{items.count} movies\n"
+      ["* Processed #{items.count} movies", "* Total Upgrades: #{items.count(&:upgrade?)}"].join("\n")
     end
 
     private

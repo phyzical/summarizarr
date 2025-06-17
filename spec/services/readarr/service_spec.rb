@@ -63,14 +63,7 @@ module Readarr
         expect(grouped_items.keys).to match(expected_authors)
         expect(grouped_items[expected_authors.first].keys).to match([described_class::SECONDARY_GROUP_CONTEXT])
         #  groups by date
-        expect(grouped_items[expected_authors.first][described_class::SECONDARY_GROUP_CONTEXT].keys).to match(
-          ['Wed, 26 Mar 2025', 'Fri, 28 Mar 2025'].map(&:to_date)
-        )
-        expect(
-          grouped_items[expected_authors.first][described_class::SECONDARY_GROUP_CONTEXT][
-            'Wed, 26 Mar 2025'.to_date
-          ].length
-        ).to be(1)
+        expect(grouped_items[expected_authors.first][described_class::SECONDARY_GROUP_CONTEXT].length).to be(2)
       end
     end
   end

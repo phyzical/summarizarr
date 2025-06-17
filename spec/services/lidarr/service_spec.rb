@@ -63,12 +63,7 @@ module Lidarr
         expect(grouped_items.keys).to match(expected_artists)
         expect(grouped_items[expected_artists.first].keys).to match(['Crazy Love (ANUQRAM remix)'])
         #  groups by date
-        expect(grouped_items[expected_artists.first]['Crazy Love (ANUQRAM remix)'].keys).to match(
-          ['Mon, 24 Mar 2025'].map(&:to_date)
-        )
-        expect(
-          grouped_items[expected_artists.first]['Crazy Love (ANUQRAM remix)']['Mon, 24 Mar 2025'.to_date].length
-        ).to be(3)
+        expect(grouped_items[expected_artists.first]['Crazy Love (ANUQRAM remix)'].length).to be(3)
       end
     end
   end

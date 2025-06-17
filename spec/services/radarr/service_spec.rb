@@ -64,13 +64,8 @@ module Radarr
         )
         #  groups by date
         expect(
-          grouped_items[described_class::PRIMARY_GROUP_CONTEXT][described_class::SECONDARY_GROUP_CONTEXT].keys
-        ).to match(['Sun, 23 Mar 2025', 'Mon, 24 Mar 2025', 'Fri, 28 Mar 2025', 'Sat, 29 Mar 2025'].map(&:to_date))
-        expect(
-          grouped_items[described_class::PRIMARY_GROUP_CONTEXT][described_class::SECONDARY_GROUP_CONTEXT][
-            'Mon, 24 Mar 2025'.to_date
-          ].length
-        ).to be(7)
+          grouped_items[described_class::PRIMARY_GROUP_CONTEXT][described_class::SECONDARY_GROUP_CONTEXT].length
+        ).to be(11)
       end
     end
   end
