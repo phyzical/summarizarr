@@ -8,6 +8,7 @@ module Sonarr
 
     let(:service) { described_class.new }
     let(:total) { 24 }
+    let(:total_upgrades) { 19 }
 
     before { stub_sonarr }
 
@@ -50,7 +51,7 @@ module Sonarr
       subject(:summary) { service.summary }
 
       it 'summaries correctly' do
-        expect(summary).to eq("* Processed #{total} episodes from 6 series\n")
+        expect(summary).to eq("* Processed #{total} episodes from 6 series\n* Total Upgrades: #{total_upgrades}")
       end
     end
 

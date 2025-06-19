@@ -32,7 +32,10 @@ RSpec.describe Main do
     it 'doesn\'t duplicate' do
       output = capture_stdout { run }.split("\n")
       duplicated_lines =
-        output.group_by(&:itself).select { |line, occurrences| line.start_with?('*') && occurrences.size > 1 }.keys
+        output
+          .group_by(&:itself)
+          .select { |line, occurrences| !line.include?('Upgrades: 0') && line.start_with?('*') && occurrences.size > 1 }
+          .keys
       expect(output).not_to be_empty
       expect(duplicated_lines).to be_empty, "Duplicated lines found: \n#{duplicated_lines.join("\n")}"
     end

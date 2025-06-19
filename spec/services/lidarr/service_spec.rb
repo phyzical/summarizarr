@@ -8,6 +8,7 @@ module Lidarr
 
     let(:service) { described_class.new }
     let(:total) { 35 }
+    let(:total_upgrades) { 1 }
 
     before { stub_lidarr }
 
@@ -50,7 +51,7 @@ module Lidarr
       subject(:summary) { service.summary }
 
       it 'summaries correctly' do
-        expect(summary).to eq("* Processed #{total} songs from 3 artists\n")
+        expect(summary).to eq("* Processed #{total} songs from 3 artists\n* Total Upgrades: #{total_upgrades}")
       end
     end
 

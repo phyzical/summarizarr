@@ -69,6 +69,8 @@ GEM
     racc (1.8.1)
     rainbow (3.1.1)
     rake (13.3.0)
+    rbs (3.9.4)
+      logger
     rdoc (6.12.0)
       psych (>= 4.0.0)
     regexp_parser (2.10.0)
@@ -115,6 +117,13 @@ GEM
     rubocop-rspec (3.6.0)
       lint_roller (~> 1.1)
       rubocop (~> 1.72, >= 1.72.1)
+    ruby-lsp (0.24.1)
+      language_server-protocol (~> 3.17.0)
+      prism (>= 1.2, < 2.0)
+      rbs (>= 3, < 5)
+      sorbet-runtime (>= 0.5.10782)
+    ruby-lsp-rspec (0.1.25)
+      ruby-lsp (~> 0.24.0)
     ruby-progressbar (1.13.0)
     securerandom (0.4.1)
     simplecov (0.22.0)
@@ -128,6 +137,7 @@ GEM
     simplecov-html (0.13.1)
     simplecov-lcov (0.8.0)
     simplecov_json_formatter (0.1.4)
+    sorbet-runtime (0.5.12194)
     stringio (3.1.5)
     syntax_tree (6.2.0)
       prettier_print (>= 1.2.0)
@@ -168,6 +178,8 @@ DEPENDENCIES
   rubocop-performance
   rubocop-rake
   rubocop-rspec
+  ruby-lsp
+  ruby-lsp-rspec
   simplecov
   simplecov-console
   simplecov-html

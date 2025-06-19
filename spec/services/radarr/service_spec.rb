@@ -8,6 +8,7 @@ module Radarr
 
     let(:service) { described_class.new }
     let(:total) { 11 }
+    let(:total_upgrades) { 4 }
 
     before { stub_radarr }
 
@@ -50,7 +51,7 @@ module Radarr
       subject(:summary) { service.summary }
 
       it 'summaries correctly' do
-        expect(summary).to eq("* Processed #{total} movies\n")
+        expect(summary).to eq("* Processed #{total} movies\n* Total Upgrades: #{total_upgrades}")
       end
     end
 

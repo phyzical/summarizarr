@@ -8,6 +8,7 @@ module Readarr
 
     let(:service) { described_class.new }
     let(:total) { 2 }
+    let(:total_upgrades) { 0 }
 
     before { stub_readarr }
 
@@ -50,7 +51,7 @@ module Readarr
       subject(:summary) { service.summary }
 
       it 'summaries correctly' do
-        expect(summary).to eq("* Processed #{total} books from 1 authors\n")
+        expect(summary).to eq("* Processed #{total} books from 1 authors\n* Total Upgrades: #{total_upgrades}")
       end
     end
 
